@@ -1,0 +1,23 @@
+PC Format,80
+GamePro,80
+IGN,79
+PC Gameworld,75
+PC Gamer,75
+GameZone,72
+Play Magazine,65
+eToychest,65
+GamingTrend,61
+G4 TV,60
+Worth Playing,60
+PC Zone UK,59
+GamingExcellence,59
+Yahoo!,50
+Just Adventure,50
+GameSpot,47
+Digital Entertainment News,41
+1UP,40
+GamesRadar+,40
+GameSpy,40
+Computer Games Magazine,30
+Detroit Free Press,25
+PC Gamer UK,24

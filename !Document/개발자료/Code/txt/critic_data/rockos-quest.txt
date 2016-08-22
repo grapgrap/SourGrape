@@ -1,0 +1,4 @@
+GameZone,59
+Game Chronicles,45
+Gamezilla!,40
+PC Gamer,30

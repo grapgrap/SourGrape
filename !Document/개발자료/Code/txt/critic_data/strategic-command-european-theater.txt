@@ -1,0 +1,8 @@
+PC Gamer,90
+GameSpy,88
+GameSpot,72
+Yahoo!,70
+Gamers' Temple,68
+GameZone,60
+Computer Gaming World,50
+Media and Games Online Network,35

@@ -1,0 +1,8 @@
+GameZone,80
+ActionTrip,69
+Game Over Online,67
+GameSpy,65
+Happy Puppy,60
+GameSpot,52
+PC Gamer,47
+Yahoo!,40

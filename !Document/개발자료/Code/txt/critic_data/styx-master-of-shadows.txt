@@ -1,0 +1,31 @@
+Hardcore Gamer,90
+GamingTrend,85
+Hooked Gamers,85
+Pelit (Finland),81
+GRYOnline.pl,80
+SpazioGames,80
+CalmDownTom,80
+Kill Screen,78
+Game World Navigator Magazine,78
+PC Gamer,78
+Power Unlimited,77
+Ragequit.gr,75
+GamesBeat,75
+JeuxActu,75
+GameStar,75
+IGN,72
+MMORPG.com,72
+CD-Action,70
+Games.cz,70
+Gameblog.fr,70
+VideoGamer,70
+Softpedia,70
+PC Games (Germany),70
+3DJuegos,70
+Meristation,70
+Gamer.nl,65
+Riot Pixels,58
+GameWatcher,55
+COGconnected,50
+IncGamers,50
+GameSpot,50

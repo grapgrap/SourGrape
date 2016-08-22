@@ -1,0 +1,11 @@
+Game Over Online,80
+GameZone,79
+GameSpy,75
+IGN,72
+GameSpot,61
+Computer Gaming World,60
+PC Gamer,60
+Computer Games Magazine,60
+IncGamers,60
+TotalGames.net,60
+GamerFeed,50

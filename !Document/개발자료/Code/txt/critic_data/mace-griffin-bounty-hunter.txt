@@ -1,0 +1,3 @@
+GameSpot,66
+IGN,63
+Eurogamer,40

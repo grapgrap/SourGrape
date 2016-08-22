@@ -1,0 +1,21 @@
+Electric Playground,85
+FiringSquad,81
+Gamer's Pulse,75
+Armchair Empire,72
+Computer Games Magazine,70
+GameSpy,69
+Antagonist,68
+IGN,68
+GamerWeb PC,60
+CheckOut,60
+Game Over Online,55
+ActionTrip,55
+Games Radar,50
+Daily Radar,50
+Game Revolution,42
+All Game Guide,40
+CNET Gamecenter,40
+Yahoo!,40
+GameSpot,40
+PC Gamer,37
+Eurogamer,30

@@ -1,0 +1,29 @@
+LEVEL (Czech Republic),100
+PC PowerPlay,100
+Eurogamer Portugal,100
+Cheat Code Central,100
+GRYOnline.pl,95
+Games Master UK,95
+JeuxActu,95
+Pelit (Finland),94
+GamingTrend,93
+IGN,92
+PC Gamer,92
+PC Games (Germany),91
+Multiplayer.it,91
+PC Master (Greece),90
+Gamer.no,90
+Games.cz,90
+Everyeye.it,90
+SpazioGames,90
+Gameplanet,90
+AtomicGamer,90
+GameSpot,90
+GameSpy,90
+Edge Magazine,90
+Game Informer,88
+ActionTrip,85
+NZGamer,85
+GameStar,84
+Hardcore Gamer,80
+Absolute Games,75

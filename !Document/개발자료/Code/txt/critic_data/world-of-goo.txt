@@ -1,0 +1,26 @@
+GameSpy,100
+Hardcore Gamer,100
+GameShark,100
+DarkZero,100
+GamerNode,95
+GameFocus,94
+3DJuegos,94
+Vandal Online,94
+PC Gamer UK,93
+PC Format,93
+MEGamers,91
+Gamers.at,91
+Eurogamer,90
+IGN,90
+GameSpot,90
+PC Zone UK,90
+Meristation,90
+Jolt Online Gaming UK,90
+PC Games (Germany),90
+GamingXP,90
+Play.tm,90
+Play (Poland),90
+Edge Magazine,80
+LEVEL (Czech Republic),80
+Total PC Gaming,80
+GameZone,80

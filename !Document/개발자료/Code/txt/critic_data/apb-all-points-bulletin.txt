@@ -1,0 +1,42 @@
+GamingXP,87
+Worth Playing,80
+IGN,77
+Edge Magazine,70
+Cheat Code Central,70
+Gamervision,70
+Vandal Online,70
+AtomicGamer,70
+GamingTrend,69
+Gaming Target,66
+GameSpot,65
+GameZone,65
+SpazioGames,65
+Multiplayer.it,65
+Cynamite,65
+GameTrailers,64
+PC Zone UK,63
+PC Gamer,62
+games(TM),60
+Eurogamer,60
+Meristation,60
+Level7.nu,60
+GameWatcher,60
+GameStar,59
+Games Master UK,57
+PC Gamer UK,55
+PC Format,51
+LEVEL (Czech Republic),50
+Metro GameCentral,50
+Everyeye.it,50
+GamesRadar+,50
+VideoGamer,50
+Gamereactor Sweden,50
+Armchair Empire,45
+Play.tm,45
+The A.V. Club,42
+Joystiq,40
+Gamer.nl,40
+GamerNode,40
+Destructoid,35
+InsideGamer.nl,35
+1UP,25

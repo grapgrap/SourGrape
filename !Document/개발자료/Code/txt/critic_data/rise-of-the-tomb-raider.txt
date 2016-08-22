@@ -1,0 +1,46 @@
+DarkStation,100
+New York Daily News,100
+Worth Playing,96
+CD-Action,95
+ZTGD,95
+The Games Machine,93
+IGN Spain,93
+Impulsegamer,92
+Vandal Online,91
+Hobby Consolas,91
+GameSpew,90
+PC PowerPlay,90
+Softpedia,90
+Ragequit.gr,90
+Brash Games,90
+GamingTrend,90
+Post Arcade (National Post),90
+Hardcore Gamer,90
+3DJuegos,90
+DarkZero,90
+Multiplayer.it,90
+PCGamesN,90
+Meristation,90
+Eurogamer Italy,90
+GameWatcher,90
+VideoGamer,90
+Hooked Gamers,87
+GRYOnline.pl,85
+JeuxActu,85
+SpazioGames,85
+Everyeye.it,85
+Merlin'in Kazan©¥ (Turkey),84
+PC Gamer,83
+4Players.de,82
+IGN Denmark,80
+LEVEL (Czech Republic),80
+Game Debate,80
+We Got This Covered,80
+Metro GameCentral,80
+PC Invasion,80
+Gameblog.fr,80
+Riot Pixels,75
+CGMagazine,75
+GameGrin,75
+Quarter to Three,60
+Rock, Paper, Shotgun,

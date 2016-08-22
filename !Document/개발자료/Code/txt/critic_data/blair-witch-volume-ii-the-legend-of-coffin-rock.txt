@@ -1,0 +1,21 @@
+GameZone,80
+Antagonist,72
+Computer Games Magazine,70
+Happy Puppy,70
+GamePro,70
+FiringSquad,70
+GameSpy,70
+IGN,67
+Gaming Age,67
+GameSpot,67
+Armchair Empire,65
+Eurogamer,60
+Spank!,60
+Game Over Online,60
+CheckOut,60
+Daily Radar,50
+PC Gamer,48
+Gamer's Pulse,48
+ActionTrip,33
+Game Revolution,25
+CNET Gamecenter,10

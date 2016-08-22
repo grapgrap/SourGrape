@@ -1,0 +1,21 @@
+Adventure Gamers,100
+Armchair Empire,100
+Joystiq,100
+GameSpy,100
+DarkStation,100
+NZGamer,95
+ZTGD,95
+Destructoid,95
+IGN,95
+Vandal Online,92
+Multiplayer.it,90
+GamesBeat,90
+GameWatcher,90
+Eurogamer Germany,90
+RPG Fan,90
+4Players.de,88
+GameStar,82
+Eurogamer Italy,80
+Riot Pixels,78
+GameSpot,75
+Metro GameCentral,70

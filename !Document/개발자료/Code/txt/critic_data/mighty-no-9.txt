@@ -1,0 +1,17 @@
+GameWatcher,80
+GameStar,69
+Ragequit.gr,67
+DarkStation,60
+GamingTrend,55
+ActionTrip,55
+PC Gamer,54
+Games.cz,50
+GameGrin,50
+DarkZero,50
+Hardcore Gamer,50
+Meristation,50
+Eurogamer Poland,40
+The Jimquisition,40
+GameCrate,28
+GameCritics,15
+Rock, Paper, Shotgun,

@@ -1,0 +1,7 @@
+IGN,50
+GameZone,45
+GameSpot,28
+Computer Games Magazine,20
+Computer Gaming World,20
+PC Gamer,17
+Computer and Video Games,11

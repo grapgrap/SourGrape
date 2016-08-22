@@ -1,0 +1,4 @@
+IGN,83
+Hot Games,80
+Adrenaline Vault,70
+GameSpot,61

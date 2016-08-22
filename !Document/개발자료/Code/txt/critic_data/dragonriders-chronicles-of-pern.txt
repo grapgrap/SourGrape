@@ -1,0 +1,7 @@
+Quandary,70
+Yahoo!,70
+GameSpot,49
+PC Gamer,44
+IGN,38
+GameSpy,33
+Computer Games Magazine,30

@@ -1,0 +1,39 @@
+Cynamite,100
+Game Chronicles,98
+GameShark,91
+LEVEL (Czech Republic),90
+Cheat Code Central,88
+GameStar,87
+3DJuegos,85
+Computer Games Online RO,85
+PC Gamer UK,84
+Gamers.at,84
+Pelit (Finland),82
+Worth Playing,81
+Vandal Online,80
+GameSpot,80
+Play Magazine,80
+Total Video Games,80
+GameZone,80
+PC Zone UK,80
+Total PC Gaming,80
+Gameplanet,80
+SpazioGames,80
+Thunderbolt,80
+AceGamez,80
+Gamers' Temple,80
+IGN,77
+1UP,75
+InsideGamer.nl,75
+Game Revolution,75
+GamingExcellence,73
+VideoGamer,70
+Gamer.nl,70
+Gameplayer Sweden,70
+RealGamer,70
+PC PowerPlay,70
+DarkZero,70
+Absolute Games,68
+PC Format,66
+Giant Bomb,60
+Destructoid,20

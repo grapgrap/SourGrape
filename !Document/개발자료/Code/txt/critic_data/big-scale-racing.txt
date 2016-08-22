@@ -1,0 +1,7 @@
+PC Gamer,75
+IGN,65
+GameSpy,65
+GameSpot,61
+Computer Games Magazine,50
+GameZone,50
+Cheat Code Central,40

@@ -1,0 +1,7 @@
+SpazioGames,65
+Multiplayer.it,60
+Games.cz,50
+IGN,50
+PC Gamer,40
+GameSpy,40
+PC PowerPlay,30

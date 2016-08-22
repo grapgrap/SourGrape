@@ -1,0 +1,29 @@
+GamingTrend,93
+eToychest,85
+IGN,83
+Warcry,82
+Game Over Online,81
+Times Online,80
+Computer Gaming World,80
+IC-Games,79
+Computer Games Online RO,76
+1UP,75
+Just Adventure,75
+GameSpot,73
+Gamer's Hell,71
+Play.tm,71
+Adventure Gamers,70
+Quandary,70
+GameSpy,70
+Computer Games Magazine,70
+Game Chronicles,70
+Xequted,68
+RealGamer,66
+Worth Playing,65
+Gamers Europe,65
+Four Fat Chicks,60
+Boomtown,60
+PC Format,46
+PC Gamer UK,41
+AceGamez,40
+PC Gamer,24

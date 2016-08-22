@@ -1,0 +1,2 @@
+GameSpew,80
+Gamer.nl,65

@@ -1,0 +1,32 @@
+Just Adventure,100
+eToychest,100
+PC Gameworld,97
+Gamer's Hell,93
+Game Chronicles,92
+Edge Magazine,90
+Gamers Europe,90
+GMR Magazine,90
+GameSpy,90
+Next Level Gaming,90
+Worth Playing,88
+Games Radar,87
+IGN,84
+GameZone,84
+Play Magazine,83
+GameSpot,81
+Computer Gaming World,80
+GamerFeed,80
+Quandary,80
+Adventure Gamers,80
+Four Fat Chicks,80
+Gamer's Pulse,80
+Gamezilla!,78
+Xequted,78
+RealGamer,76
+netjak,75
+Armchair Empire,72
+PC Gamer,72
+Game Over Online,71
+Computer Games Magazine,70
+Yahoo!,70
+games(TM),50

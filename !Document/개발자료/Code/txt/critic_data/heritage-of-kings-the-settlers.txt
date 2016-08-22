@@ -1,0 +1,29 @@
+GamingTrend,84
+Times Online,80
+IC-Games,75
+Game Chronicles,75
+Gamer's Hell,72
+Computer and Video Games,65
+IGN,65
+3DAvenue,65
+GameZone,65
+1UP,65
+Worth Playing,65
+Armchair Empire,65
+GameSpot,64
+Computer Games Online RO,63
+Jolt Online Gaming UK,63
+WHAM! Gaming,61
+Gamer.tv,60
+PC Format,60
+Sydney Morning Herald,60
+PC Gamer,52
+Edge Magazine,50
+Eurogamer,50
+Yahoo!,50
+Detroit Free Press,50
+GameSpy,40
+Pelaaja (Finland),40
+G4 TV,40
+Computer Games Magazine,40
+Computer Gaming World,30

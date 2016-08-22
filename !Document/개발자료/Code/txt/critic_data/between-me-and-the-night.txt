@@ -1,0 +1,9 @@
+Kill Screen,72
+GameSpew,70
+GameGrin,70
+Brash Games,70
+Hardcore Gamer,60
+Vandal Online,60
+Gamer.nl,55
+Hooked Gamers,52
+Adventure Gamers,50

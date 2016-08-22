@@ -1,0 +1,10 @@
+Deeko,85
+GameZone,84
+Gamer's Pulse,80
+PC Gamer,78
+Computer Games Magazine,70
+GameSpot,70
+Computer Gaming World,70
+IGN,70
+Armchair Empire,68
+GameSpy,65

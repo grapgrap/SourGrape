@@ -1,0 +1,16 @@
+TotalGames.net,93
+Games Radar,88
+GameSpy,88
+ActionTrip,87
+IGN,81
+GameZone,80
+Adrenaline Vault,80
+Game Over Online,78
+Computer Games Magazine,70
+All Game Guide,70
+Gaming Age,67
+Game Revolution,67
+PC Gamer,62
+Gamers' Temple,60
+GameSpot,56
+CNET Gamecenter,40

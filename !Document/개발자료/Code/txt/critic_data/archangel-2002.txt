@@ -1,0 +1,6 @@
+GameZone,70
+PC Gameworld,68
+Yahoo!,50
+Gamers' Temple,48
+Computer Gaming World,40
+Computer Games Magazine,30

@@ -1,0 +1,12 @@
+IGN,95
+Stuff,95
+WHAM! Gaming,93
+3DAvenue,92
+1UP,90
+GameSpot,88
+PC Gamer,84
+Computer and Video Games,84
+Inside Gamer Online,82
+Computer Gaming World,80
+PC Format,79
+Computer Games Magazine,60

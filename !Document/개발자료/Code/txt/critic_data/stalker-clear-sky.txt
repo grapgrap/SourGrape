@@ -1,0 +1,47 @@
+games(TM),90
+PC PowerPlay,90
+Total PC Gaming,90
+PC Zone UK,88
+Games Master UK,88
+Gamers.at,85
+GamingXP,85
+HellBored,85
+Worth Playing,83
+Pelit (Finland),80
+Gameplanet,80
+PTGamers,80
+Play (Poland),80
+Game Over Online,80
+Gaming Target,80
+3DJuegos,79
+Game Informer,78
+PC Gamer,78
+GamingExcellence,78
+Play.tm,77
+GameStar,77
+1UP,75
+Gameplayer,75
+GameZone,75
+PC Games (Germany),74
+IGN,73
+Jolt Online Gaming UK,72
+ActionTrip,71
+Edge Magazine,70
+Eurogamer,70
+IGN UK,70
+PC Format,70
+LEVEL (Czech Republic),70
+Boomtown,70
+VideoGamer,70
+Gamer.nl,70
+GameSpot,70
+Cheat Code Central,70
+AceGamez,70
+Level7.nu,70
+GameFocus,70
+GameTrailers,69
+PC Gamer UK,68
+G4 TV,60
+PALGN,55
+DarkZero,50
+GameCritics,40

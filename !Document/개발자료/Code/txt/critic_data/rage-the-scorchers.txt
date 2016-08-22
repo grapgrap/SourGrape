@@ -1,0 +1,2 @@
+GRYOnline.pl,80
+Games.cz,60

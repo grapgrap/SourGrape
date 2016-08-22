@@ -1,0 +1,7 @@
+GameStar,51
+GameSpot,50
+Thunderbolt,50
+IGN,48
+Absolute Games,40
+PC Zone UK,25
+PC PowerPlay,20

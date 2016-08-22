@@ -1,0 +1,7 @@
+ActionTrip,70
+GamerNode,64
+Gamer 2.0,62
+GamingExcellence,62
+1UP,60
+GameSpot,54
+PC Gamer,40

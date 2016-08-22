@@ -1,0 +1,5 @@
+PGNx Media,80
+VideoGamer,80
+GameZone,70
+PC Gamer,70
+Cheat Code Central,60

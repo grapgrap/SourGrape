@@ -1,0 +1,5 @@
+Adrenaline Vault,70
+GameZone,68
+PC Gamer,58
+Worth Playing,40
+GameSpot,30

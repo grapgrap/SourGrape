@@ -1,0 +1,9 @@
+CGMagazine,60
+DarkStation,50
+Hardcore Gamer,40
+GamingTrend,35
+COGconnected,35
+Worth Playing,30
+Multiplayer.it,20
+Gamers' Temple,10
+Game Revolution,10

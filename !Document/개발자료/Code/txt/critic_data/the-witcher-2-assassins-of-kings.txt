@@ -1,0 +1,76 @@
+Game Chronicles,100
+1UP,100
+Eurogamer Sweden,100
+Gaming Age,100
+GameOver.gr,100
+GamePro,100
+Gameblog.fr,100
+GamesRadar+,100
+Everyeye.it,96
+Impulsegamer,95
+RPG Fan,95
+Meristation,95
+Bit-Gamer,95
+GRYOnline.pl,95
+Games Master UK,94
+CPUGamer,94
+GameTrailers,94
+3DJuegos,94
+Pelit (Finland),93
+XGN,93
+Game Informer,93
+GamingTrend,92
+Vandal Online,92
+MEGamers,92
+Computer Games Online RO,92
+Ten Ton Hammer,92
+IncGamers,92
+Multiplayer.it,92
+PC Format,92
+GameShark,91
+The A.V. Club,91
+SpazioGames,91
+GamingXP,90
+PC PowerPlay,90
+Thunderbolt,90
+LEVEL (Czech Republic),90
+Gamer.no,90
+AusGamers,90
+Eurogamer Portugal,90
+Worth Playing,90
+PALGN,90
+Gamer.nl,90
+IGN,90
+GameSpot,90
+GameSpy,90
+GameWatcher,90
+VideoGamer,90
+Eurogamer,90
+Cheat Code Central,90
+Eurogamer Italy,90
+Cynamite,90
+Gamereactor Sweden,90
+PC Gamer,89
+PC Games (Germany),88
+GameStar,87
+NZGamer,86
+Machinima,85
+Gameplanet,85
+Game Revolution,83
+Gaming Nexus,83
+Absolute Games,81
+games(TM),80
+PC Games (Russia),80
+Level7.nu,80
+Joystiq,80
+Wired,80
+Game Over Online,80
+Gamekult,80
+Guardian,80
+BigPond GameArena,75
+The Escapist,70
+ActionTrip,70
+Edge Magazine,60
+Metro GameCentral,60
+Destructoid,60
+GameCritics,55

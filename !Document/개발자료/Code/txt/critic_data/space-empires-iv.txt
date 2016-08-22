@@ -1,0 +1,13 @@
+Yahoo!,100
+IGN,90
+Computer Games Magazine,90
+Electric Playground,85
+GameSpot,81
+PC Gamer,80
+Gamers' Temple,80
+Armchair Empire,80
+CNET Gamecenter,70
+ActionTrip,70
+GameZone,65
+Media and Games Online Network,64
+Game Over Online,57

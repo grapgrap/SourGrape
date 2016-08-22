@@ -1,0 +1,10 @@
+GameCritics,90
+Brash Games,90
+Softpedia,85
+Worth Playing,80
+High-Def Digest,80
+COGconnected,80
+GamingTrend,80
+Hardcore Gamer,80
+GameSpew,70
+GameGrin,40

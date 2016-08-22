@@ -1,0 +1,38 @@
+GamingTrend,90
+Hardcore Gamer,90
+Gaming Age,83
+IncGamers,80
+Destructoid,80
+Shacknews,80
+GameTrailers,79
+Vandal Online,78
+COGconnected,77
+Digital Chumps,76
+GameCritics,75
+CD-Action,75
+Impulsegamer,72
+Hyper Magazine,70
+Gaming Nexus,70
+Everyeye.it,70
+XGN,70
+4Players.de,70
+ZTGD,70
+IGN Italia,70
+GameOver.gr,70
+The Escapist,70
+Slant Magazine,70
+Eurogamer Germany,70
+Game Informer,70
+Game World Navigator Magazine,68
+IGN,68
+SpazioGames,65
+Riot Pixels,62
+DarkStation,60
+Gameblog.fr,60
+Meristation,60
+GameSpot,60
+Eurogamer,60
+Game Revolution,50
+RPGamer,50
+GameWatcher,50
+Metro GameCentral,50

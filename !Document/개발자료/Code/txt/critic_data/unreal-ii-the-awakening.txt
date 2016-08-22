@@ -1,0 +1,30 @@
+GamePro,100
+Game Informer,95
+Cincinnati Enquirer,88
+Armchair Empire,87
+Games Radar,83
+PC Gameworld,82
+IGN,82
+AtomicGamer,82
+Maxim Online,80
+Computer Gaming World,80
+GMR Magazine,80
+Game Over Online,78
+Electric Playground,76
+GameSpy,76
+Four Fat Chicks,75
+ActionTrip,75
+GameSpot,73
+PC Gamer,72
+Gamezilla!,72
+PC Format,71
+Total Video Games,70
+Eurogamer,70
+Cheat Code Central,70
+My Gamer,70
+Entertainment Weekly,67
+G4 TV,60
+Computer Games Magazine,60
+Yahoo!,60
+GameNow,58
+FiringSquad,51

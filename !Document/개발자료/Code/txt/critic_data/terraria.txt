@@ -1,0 +1,29 @@
+GamePro,100
+LEVEL (Czech Republic),90
+PC PowerPlay,90
+Games.cz,90
+The Escapist,90
+IGN,90
+Multiplayer.it,88
+Absolute Games,86
+Pelit (Finland),85
+GameTrailers,85
+GameSpot,85
+Gamers.at,84
+GamingXP,83
+4Players.de,83
+GameCritics,80
+Eurogamer,80
+Gamer.nl,80
+Everyeye.it,80
+GameStar,80
+Gamereactor Sweden,80
+Gameblog.fr,80
+PC Gamer UK,79
+GamingTrend,78
+Ten Ton Hammer,78
+The A.V. Club,75
+IncGamers,70
+Gamer.no,70
+PC Gamer,70
+Gamekult,70

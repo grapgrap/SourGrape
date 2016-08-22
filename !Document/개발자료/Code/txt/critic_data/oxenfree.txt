@@ -1,0 +1,52 @@
+Quarter to Three,100
+CGMagazine,100
+GamesBeat,95
+GameCrate,93
+Gamer.no,90
+NZGamer,90
+Gameplanet,90
+Twinfinite,90
+Brash Games,90
+IGN Italia,90
+Digital Chumps,90
+Destructoid,90
+Shacknews,90
+Merlin'in Kazan©¥ (Turkey),85
+Everyeye.it,85
+Forbes,85
+RPG Fan,83
+PC Gamer,83
+IGN,82
+LEVEL (Czech Republic),80
+GameOver.gr,80
+Games.cz,80
+PLAY! Zine,80
+ZTGD,80
+Eurogamer Italy,80
+Gameblog.fr,80
+SpazioGames,80
+IGN Spain,80
+GameTrailers,80
+Washington Post,80
+The Escapist,80
+Telegraph,80
+ActionTrip,80
+GameSpot,80
+Time,80
+GameStar,78
+Kill Screen,78
+Game Informer,78
+CD-Action,75
+Gamer.nl,75
+EGM,75
+PC Games (Germany),74
+Eurogamer Poland,70
+Yahoo!,70
+Polygon,70
+Riot Pixels,63
+games(TM),60
+Game Rant,50
+Mashable,
+Rock, Paper, Shotgun,
+The A.V. Club,
+Wired,

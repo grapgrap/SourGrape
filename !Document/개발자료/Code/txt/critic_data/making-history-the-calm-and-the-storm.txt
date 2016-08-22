@@ -1,0 +1,19 @@
+PC Gameworld,85
+GameZone,80
+GamesRadar+,80
+Worth Playing,80
+GamingExcellence,77
+GamerNode,76
+Game Chronicles,75
+PC Gamer,74
+GameWatcher,70
+Gamers' Temple,70
+Gamer's Hell,70
+IGN,70
+GameSpot,68
+Armchair Empire,65
+PC Zone UK,61
+1UP,60
+Pelit (Finland),60
+Boomtown,60
+GameDaily,50

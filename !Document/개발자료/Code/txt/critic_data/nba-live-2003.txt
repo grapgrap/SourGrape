@@ -1,0 +1,7 @@
+Play Magazine,100
+ActionTrip,90
+GameSpot,87
+IGN,85
+Armchair Empire,70
+PC Gamer,63
+Computer Games Magazine,50

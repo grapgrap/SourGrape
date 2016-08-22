@@ -1,0 +1,17 @@
+GameZone,75
+IGN,70
+Adventure Gamers,70
+BonusStage,70
+Quandary,70
+Digital Entertainment News,68
+Just Adventure,67
+PC Gamer,61
+The New York Times,60
+Worth Playing,60
+Game Chronicles,57
+GameSpot,51
+Computer Gaming World,50
+3DAvenue,50
+PALGN,45
+PC Gameworld,40
+Computer Games Online RO,34

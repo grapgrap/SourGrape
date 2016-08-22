@@ -1,0 +1,12 @@
+GameZone,92
+GamePen,90
+GamePro,90
+GameSpy,88
+PC Gamer,81
+IGN,79
+GameSpot,76
+Gamezilla!,72
+Yahoo!,70
+Electric Playground,65
+Computer Games Magazine,40
+Computer Gaming World,40

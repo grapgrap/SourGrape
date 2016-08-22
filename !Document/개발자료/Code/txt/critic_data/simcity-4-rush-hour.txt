@@ -1,0 +1,17 @@
+GameZone,86
+PC Gamer,85
+GameSpot,83
+Gamers' Temple,82
+Gamer's Hell,81
+ActionTrip,81
+Cheat Code Central,80
+IGN,80
+G4 TV,80
+Computer Gaming World,80
+Armchair Empire,79
+GameSpy,75
+Game Informer,75
+Eurogamer,70
+Computer Games Magazine,70
+Yahoo!,70
+PC Gameworld,70

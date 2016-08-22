@@ -1,0 +1,7 @@
+GameSpot,84
+GameSpy,80
+PC Gamer,80
+Computer Gaming World,80
+PC Format,74
+Computer and Video Games,68
+games(TM),60

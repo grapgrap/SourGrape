@@ -1,0 +1,12 @@
+GameZone,80
+My Gamer,80
+GameSpot,77
+IGN,75
+Computer Gaming World,70
+Computer Games Magazine,70
+VideoGamer,70
+PC Gamer,68
+PC Zone UK,68
+Worth Playing,62
+AceGamez,60
+GamerFeed,60

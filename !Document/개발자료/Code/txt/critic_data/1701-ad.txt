@@ -1,0 +1,30 @@
+PC Gameworld,92
+Boomtown,90
+Thunderbolt,90
+GameWatcher,88
+Worth Playing,88
+PC Gamer,87
+Computer Games Online RO,86
+GameZone,85
+IGN,82
+Play.tm,81
+GamesRadar+,80
+GameSpy,80
+Play Magazine,80
+Gamer's Hell,80
+AceGamez,80
+Yahoo!,80
+Gamers' Temple,80
+G4 TV,80
+1UP,80
+PC Format,78
+Game Chronicles,78
+Gaming Nexus,78
+GameSpot,76
+PALGN,75
+PC Gamer UK,74
+PC Zone UK,73
+Eurogamer,70
+GameDaily,70
+Sydney Morning Herald,70
+Computer Games Magazine,60

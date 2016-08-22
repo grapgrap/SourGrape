@@ -1,0 +1,4 @@
+3DJuegos,80
+Riot Pixels,75
+Kill Screen,60
+Game Rant,50

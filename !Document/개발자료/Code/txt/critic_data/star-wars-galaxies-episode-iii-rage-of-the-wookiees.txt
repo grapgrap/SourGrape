@@ -1,0 +1,10 @@
+GameZone,85
+GamePro,80
+Cheat Code Central,80
+IGN,76
+GameSpot,73
+GameSpy,70
+PC Gamer,68
+Computer Games Magazine,60
+Computer and Video Games,57
+PC Format,41

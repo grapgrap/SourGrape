@@ -1,0 +1,4 @@
+Kill Screen,50
+DarkStation,40
+Gamer.nl,40
+We Got This Covered,40

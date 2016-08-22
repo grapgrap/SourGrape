@@ -1,0 +1,32 @@
+Hot Games,100
+G4 TV,100
+Games Radar,100
+FHM,100
+GameZone,95
+Armchair Empire,93
+Gamer's Pulse,93
+Gamers' Temple,92
+GameSpot,92
+PC Gamer,91
+Gamezilla!,90
+GamePen,90
+IGN,90
+CPUGamer,90
+GamePro,90
+Adrenaline Vault,90
+Total Video Games,90
+Electric Playground,89
+Game Informer,88
+Media and Games Online Network,87
+Game Over Online,86
+ActionTrip,85
+Gaming Age,83
+GameSpy,83
+Computer Games Magazine,80
+Yahoo!,80
+Cincinnati Enquirer,80
+All Game Guide,80
+Voodoo Extreme,76
+Game Revolution,75
+Just RPG,75
+Computer Gaming World,70

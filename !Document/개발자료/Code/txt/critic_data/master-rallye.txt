@@ -1,0 +1,5 @@
+Yahoo!,80
+GameSpot,79
+netjak,75
+PC Gamer,67
+ActionTrip,52

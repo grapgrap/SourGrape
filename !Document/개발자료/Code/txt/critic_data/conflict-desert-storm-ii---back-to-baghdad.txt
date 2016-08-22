@@ -1,0 +1,10 @@
+Gamer's Hell,81
+IGN,79
+PC Gamer,72
+Edge Magazine,70
+games(TM),70
+TotalGames.net,70
+GameSpot,63
+Eurogamer,60
+Computer Gaming World,50
+Computer Games Magazine,30

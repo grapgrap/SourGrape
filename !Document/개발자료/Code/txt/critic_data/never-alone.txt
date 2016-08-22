@@ -1,0 +1,30 @@
+Joystiq,90
+CalmDownTom,90
+PC Gamer,85
+Ragequit.gr,84
+LEVEL (Czech Republic),80
+Games.cz,80
+Guardian,80
+4Players.de,80
+Hooked Gamers,80
+God is a Geek,80
+Pelit (Finland),78
+Softpedia,75
+Kill Screen,75
+GameOver.gr,75
+PC Games (Germany),74
+GameStar,72
+Riot Pixels,70
+Multiplayer.it,70
+IGN Italia,70
+Everyeye.it,70
+GameWatcher,70
+Gameblog.fr,70
+Vandal Online,68
+CD-Action,65
+Game Informer,65
+3DJuegos,65
+PC PowerPlay,60
+Eurogamer Italy,60
+Gamer.no,40
+GameSpot,40

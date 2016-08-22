@@ -1,0 +1,11 @@
+GameZone,85
+Game Informer,80
+Adrenaline Vault,80
+IncGamers,65
+IGN,64
+PC Gamer,60
+GameSpot,51
+GamerFeed,50
+Gamer's Pulse,50
+Yahoo!,50
+eToychest,40

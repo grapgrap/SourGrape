@@ -1,0 +1,4 @@
+GameSpew,100
+The Escapist,100
+Destructoid,85
+Ragequit.gr,76

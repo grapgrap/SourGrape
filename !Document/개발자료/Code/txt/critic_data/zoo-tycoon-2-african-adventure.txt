@@ -1,0 +1,4 @@
+G4 TV,40
+GamerFeed,40
+IGN,35
+1UP,30

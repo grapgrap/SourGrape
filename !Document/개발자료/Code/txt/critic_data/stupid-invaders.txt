@@ -1,0 +1,23 @@
+Four Fat Chicks,100
+Just Adventure,100
+Games Radar,88
+PC Gameworld,81
+Adrenaline Vault,80
+Adventure Gamers,80
+ActionTrip,79
+Armchair Empire,79
+Cincinnati Enquirer,75
+IGN,72
+Electric Playground,70
+Spank!,70
+Happy Puppy,70
+GameSpot,66
+GamePower,62
+Yahoo!,60
+Computer Games Magazine,60
+Quandary,50
+Daily Radar,50
+Hot Games,40
+All Game Guide,40
+GamerWeb PC,40
+GameSpy,35

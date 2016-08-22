@@ -1,0 +1,5 @@
+CD-Action,90
+Digital Chumps,90
+GamingTrend,90
+COGconnected,85
+CGMagazine,80

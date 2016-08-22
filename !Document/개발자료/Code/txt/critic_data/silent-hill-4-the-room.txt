@@ -1,0 +1,20 @@
+Stuff,85
+AceGamez,80
+GameZone,80
+Gamer.tv,80
+Maxim Online,80
+Total Video Games,80
+ActionTrip,78
+GameSpot,76
+GamingTrend,76
+Gaming Age,75
+Game Over Online,74
+IGN,69
+My Gamer,68
+Computer and Video Games,63
+Edge Magazine,60
+PC Gamer,60
+Just Adventure,50
+Computer Gaming World,50
+PC Format,43
+Times Online,40

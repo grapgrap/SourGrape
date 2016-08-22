@@ -1,0 +1,14 @@
+Yahoo!,100
+GameZone,95
+PC Gamer,95
+Gamezilla!,93
+IGN,92
+GameSpot,91
+Gaming Age,91
+GMR Magazine,90
+GamePower,88
+Cincinnati Enquirer,88
+Daily Radar,88
+Computer Games Magazine,80
+Adrenaline Vault,80
+Sports Gaming Network,80

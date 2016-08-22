@@ -1,0 +1,3 @@
+GameSpot,85
+CPUGamer,85
+IGN,80

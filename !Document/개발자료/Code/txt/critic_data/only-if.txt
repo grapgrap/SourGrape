@@ -1,0 +1,4 @@
+Hardcore Gamer,60
+Game Informer,50
+Kill Screen,21
+GameSpot,20

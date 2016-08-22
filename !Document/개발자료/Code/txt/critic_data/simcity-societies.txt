@@ -1,0 +1,27 @@
+GameZone,87
+Pelit (Finland),81
+Game Informer,80
+NZGamer,80
+GamingTrend,71
+1UP,70
+PC PowerPlay,70
+Games Master UK,69
+GamePro,65
+PC Gamer,65
+Game Chronicles,62
+ActionTrip,61
+PC Zone UK,61
+GameSpy,60
+GameSpot,60
+Gaming Nexus,60
+Cheat Code Central,60
+Thunderbolt,60
+IGN,58
+Jolt Online Gaming UK,56
+PC Format,56
+YouGamers,51
+Eurogamer,50
+Total Video Games,50
+PC Gamer UK,50
+AceGamez,50
+Play.tm,45

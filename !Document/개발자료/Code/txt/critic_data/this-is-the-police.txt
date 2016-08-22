@@ -1,0 +1,25 @@
+Twinfinite,100
+Ragequit.gr,90
+Eurogamer Italy,90
+GRYOnline.pl,85
+Hooked Gamers,85
+Games.cz,80
+Vandal Online,75
+Riot Pixels,71
+GameSpot,70
+Multiplayer.it,70
+TheSixthAxis,70
+SpazioGames,70
+GameSpew,70
+4Players.de,68
+GameStar,65
+PC Gamer,65
+PLAY! Zine,65
+GamingTrend,60
+IGN Spain,60
+The Digital Fix,50
+Game Informer,50
+We Got This Covered,40
+Destructoid,40
+IBTimes UK,40
+Kill Screen,30

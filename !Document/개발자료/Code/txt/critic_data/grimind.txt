@@ -1,0 +1,2 @@
+DarkZero,30
+DarkStation,20

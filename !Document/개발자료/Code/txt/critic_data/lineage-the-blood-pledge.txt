@@ -1,0 +1,5 @@
+IGN,78
+Yahoo!,60
+GameSpot,55
+PC Gamer,45
+Computer Games Magazine,40

@@ -1,0 +1,15 @@
+Game Over Online,85
+IGN,85
+Voodoo Extreme,83
+PC Gamer,81
+GamerWeb PC,80
+GameSpot,79
+GameSpy,77
+Electric Playground,75
+Computer Games Magazine,70
+Adrenaline Vault,70
+All Game Guide,70
+TotalGames.net,64
+CNET Gamecenter,60
+Daily Radar,50
+Yahoo!,40

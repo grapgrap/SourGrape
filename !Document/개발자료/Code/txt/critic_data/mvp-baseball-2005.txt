@@ -1,0 +1,11 @@
+PC Gameworld,91
+GameZone,90
+Game Over Online,90
+IGN,88
+GameSpot,87
+PC Gamer,85
+XGP Gaming,84
+My Gamer,84
+Gaming Age,83
+Computer Gaming World,80
+Computer Games Magazine,70

@@ -1,0 +1,27 @@
+G4 TV,100
+Entertainment Weekly,100
+CPUGamer,100
+PC Gameworld,97
+Computer Games Online RO,94
+IGN,93
+Game Revolution,91
+PC Gamer,91
+GameShark,90
+Yahoo!,90
+Computer Gaming World,90
+Game Informer,90
+GameSpy,90
+AtomicGamer,90
+netjak,88
+Media and Games Online Network,88
+GameSpot,88
+Game Over Online,88
+FiringSquad,87
+GameZone,87
+Gamer.tv,84
+GameNow,83
+ActionTrip,82
+PC Format,82
+Adrenaline Vault,80
+Total Video Games,80
+Gamer's Pulse,76

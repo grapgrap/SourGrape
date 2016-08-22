@@ -1,0 +1,42 @@
+Game Informer,80
+Game Over Online,75
+GameTrailers,74
+GameStar,71
+Pelit (Finland),70
+XGN,70
+IGN,70
+RPG Fan,70
+Destructoid,70
+Multiplayer.it,70
+Gameblog.fr,70
+GamesRadar+,70
+Meristation,68
+CD-Action,65
+GamingTrend,65
+GameWatcher,65
+DarkStation,60
+PC Games (Germany),60
+IncGamers,60
+Merlin'in Kazan©¥ (Turkey),55
+3DJuegos,55
+PC Gamer,54
+Riot Pixels,50
+DarkZero,50
+SpazioGames,50
+Games.cz,50
+Post Arcade (National Post),50
+Eurogamer Germany,50
+The Escapist,50
+Ragequit.gr,47
+Gameplanet,45
+MMORPG.com,45
+LEVEL (Czech Republic),40
+PCGamesN,40
+USgamer,40
+Hardcore Gamer,40
+GRYOnline.pl,40
+GameSpot,40
+Polygon,40
+Hooked Gamers,35
+Hyper Magazine,30
+VideoGamer,20

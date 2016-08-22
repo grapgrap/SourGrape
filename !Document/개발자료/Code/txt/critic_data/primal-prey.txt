@@ -1,0 +1,3 @@
+ActionTrip,72
+GameSpy,55
+GameSpot,39

@@ -1,0 +1,11 @@
+GameWatcher,60
+GameStar,52
+Everyeye.it,50
+PC Master (Greece),48
+GRYOnline.pl,40
+GameSpot,40
+LEVEL (Czech Republic),30
+PC PowerPlay,30
+Absolute Games,30
+GameSpy,20
+Gamer.nl,10

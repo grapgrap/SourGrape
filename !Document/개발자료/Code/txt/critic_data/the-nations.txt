@@ -1,0 +1,6 @@
+All Game Guide,80
+GameZone,75
+ActionTrip,72
+GameSpot,64
+Yahoo!,60
+Computer Gaming World,50

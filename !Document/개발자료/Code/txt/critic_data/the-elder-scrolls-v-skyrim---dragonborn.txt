@@ -1,0 +1,6 @@
+LEVEL (Czech Republic),90
+PC Gamer,88
+3DJuegos,87
+PC PowerPlay,80
+AtomicGamer,80
+Riot Pixels,75

@@ -1,0 +1,15 @@
+1UP,91
+The A.V. Club,91
+Worth Playing,88
+IGN,84
+Game Revolution,83
+Wired,80
+Thunderbolt,80
+PC Zone UK,80
+PC Format,80
+Destructoid,80
+GamingTrend,71
+Absolute Games,70
+PC Gamer UK,66
+Eurogamer,60
+AceGamez,50

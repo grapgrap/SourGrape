@@ -1,0 +1,6 @@
+GameZone,70
+Happy Puppy,60
+All Game Guide,60
+Computer Games Magazine,50
+IGN,48
+GameSpot,47

@@ -1,0 +1,19 @@
+GameZone,95
+Game Revolution,91
+Electric Playground,90
+PC Gamer,78
+Armchair Empire,75
+IGN,75
+Media and Games Online Network,71
+GameSpot,71
+Adrenaline Vault,70
+TotalGames.net,70
+GameSpy,68
+Game Informer,65
+Yahoo!,60
+ActionTrip,60
+Next Generation Magazine,60
+Just RPG,60
+Game Over Online,52
+All Game Guide,50
+Computer Games Magazine,20

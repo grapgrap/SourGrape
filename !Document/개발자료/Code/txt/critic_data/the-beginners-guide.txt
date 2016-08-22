@@ -1,0 +1,37 @@
+Washington Post,100
+The Jimquisition,95
+The Escapist,90
+3DJuegos,90
+Brash Games,90
+Destructoid,90
+Power Unlimited,88
+Multiplayer.it,88
+IGN Italia,87
+SpazioGames,85
+Everyeye.it,85
+GameStar,85
+Kill Screen,84
+Eurogamer Italy,80
+DarkStation,80
+Gamer.nl,80
+Eurogamer Poland,80
+GamingTrend,80
+IGN,80
+We Got This Covered,80
+DarkZero,80
+Game Informer,80
+GameSpot,80
+Giant Bomb,80
+GameCritics,70
+Vandal Online,70
+Game Revolution,70
+PC Gamer,69
+Games Master UK,63
+IGN Spain,60
+Gamer.no,50
+USgamer,40
+CD-Action,30
+Shacknews,30
+Slant Magazine,20
+Ars Technica,
+The A.V. Club,

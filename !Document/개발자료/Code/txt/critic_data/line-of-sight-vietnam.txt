@@ -1,0 +1,8 @@
+PC Format,83
+Computer Games Magazine,80
+GameZone,75
+PC Gamer,73
+ActionTrip,71
+GameSpot,70
+IGN,65
+Computer Gaming World,30

@@ -1,0 +1,15 @@
+1UP,90
+GameTap,90
+IGN,85
+GameStar,85
+PC Gamer UK,81
+GameSpy,80
+GameDaily,80
+PC PowerPlay,80
+PC Format,79
+GameZone,75
+PTGamers,75
+Gamer 2.0,71
+GameSpot,70
+PC Zone UK,70
+PC Gamer,65

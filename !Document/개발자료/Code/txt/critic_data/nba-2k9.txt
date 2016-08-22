@@ -1,0 +1,6 @@
+PC Format,88
+PC Zone UK,87
+PC Gamer UK,83
+IGN,80
+Play (Poland),80
+LEVEL (Czech Republic),60

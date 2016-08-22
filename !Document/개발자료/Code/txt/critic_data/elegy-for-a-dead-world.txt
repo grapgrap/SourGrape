@@ -1,0 +1,14 @@
+DarkStation,80
+Hardcore Gamer,80
+Hooked Gamers,75
+Game Rant,70
+Multiplayer.it,70
+Eurogamer,70
+GameSpot,70
+GameFront,70
+Post Arcade (National Post),70
+Kill Screen,68
+Softpedia,60
+GameCritics,50
+Game Revolution,50
+games(TM),40

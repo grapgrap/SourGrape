@@ -1,0 +1,31 @@
+Daily Radar,100
+Games Radar,100
+Hot Games,100
+Gamer's Pulse,97
+GameZone,95
+IGN,90
+GMR Magazine,90
+GamePro,90
+Happy Puppy,90
+FiringSquad,90
+Gamezilla!,89
+GameSpot,89
+GamePower,88
+ActionTrip,88
+Voodoo Extreme,88
+Da Gameboyz,86
+Game Over Online,84
+GameSpy,84
+Game Revolution,83
+TotalGames.net,83
+Computer Games Magazine,80
+Armchair Empire,80
+GamerWeb PC,80
+Cincinnati Enquirer,80
+Adrenaline Vault,80
+Electric Playground,80
+PC Gamer,75
+Spank!,70
+All Game Guide,70
+Yahoo!,70
+Thunderbolt,40

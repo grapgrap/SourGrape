@@ -1,0 +1,8 @@
+1UP,40
+Computer Games Magazine,40
+IGN,33
+GameSpot,30
+Game Chronicles,30
+Digital Entertainment News,22
+PC Gamer,20
+The A.V. Club,16

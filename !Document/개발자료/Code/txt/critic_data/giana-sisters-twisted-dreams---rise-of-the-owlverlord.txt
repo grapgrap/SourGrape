@@ -1,0 +1,5 @@
+ZTGD,95
+DarkStation,90
+DarkZero,80
+Gameblog.fr,80
+Multiplayer.it,80

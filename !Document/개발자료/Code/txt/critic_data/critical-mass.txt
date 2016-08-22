@@ -1,0 +1,6 @@
+GamePro,100
+Eurogamer,80
+IGN,80
+Impulsegamer,80
+Gamekult,70
+Bit-Gamer,56

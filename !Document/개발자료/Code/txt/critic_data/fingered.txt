@@ -1,0 +1,3 @@
+Destructoid,80
+3DJuegos,70
+CD-Action,45

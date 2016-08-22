@@ -1,0 +1,32 @@
+Daily Radar,100
+Electric Playground,95
+PC Gameworld,94
+Da Gameboyz,92
+GamePro,90
+FiringSquad,84
+Voodoo Extreme,84
+Evil Avatar,80
+GamerWeb PC,80
+Antagonist,80
+Eurogamer,80
+Gamezilla!,80
+CPUGamer,80
+GameSpy,80
+Game Over Online,78
+IGN,77
+PC Gamer,75
+Games Radar,75
+Game Revolution,75
+Adrenaline Vault,70
+Armchair Empire,70
+GameZone,70
+ActionTrip,70
+Spank!,70
+Just RPG,70
+Happy Puppy,60
+CNET Gamecenter,60
+CheckOut,60
+GameSpot,52
+Yahoo!,50
+GamePower,50
+Computer Games Magazine,40

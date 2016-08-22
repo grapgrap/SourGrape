@@ -1,0 +1,7 @@
+GameZone,95
+Game Revolution,91
+Yahoo!,90
+Computer Games Magazine,90
+PC Gamer,89
+GameSpot,87
+Computer Gaming World,80

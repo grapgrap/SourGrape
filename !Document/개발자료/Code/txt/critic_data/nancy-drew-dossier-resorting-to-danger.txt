@@ -1,0 +1,5 @@
+Just Adventure,100
+GameZone,80
+Adventure Gamers,80
+My Gamer,70
+Gamekult,30

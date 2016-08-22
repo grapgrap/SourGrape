@@ -1,0 +1,8 @@
+GameZone,81
+Four Fat Chicks,80
+Armchair Empire,65
+Game Chronicles,63
+GamingExcellence,58
+Gamers' Temple,45
+GameWatcher,42
+GameSpot,40

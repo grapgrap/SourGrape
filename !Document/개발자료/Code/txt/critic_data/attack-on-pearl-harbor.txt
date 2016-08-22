@@ -1,0 +1,19 @@
+GamingTrend,84
+PC Gamer UK,78
+PALGN,75
+Armchair Empire,75
+PC Format,74
+Worth Playing,73
+GameZone,72
+Gamers Europe,70
+GameSpot,70
+PC Gamer,68
+Gamers' Temple,66
+GameWatcher,65
+PC Gameworld,65
+Jolt Online Gaming UK,55
+PC Zone UK,52
+Eurogamer,50
+GameDaily,50
+GameShark,50
+IGN,46

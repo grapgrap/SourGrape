@@ -1,0 +1,6 @@
+ZTGD,90
+PC Gamer,79
+IGN,75
+Absolute Games,65
+Eurogamer,60
+PC PowerPlay,50

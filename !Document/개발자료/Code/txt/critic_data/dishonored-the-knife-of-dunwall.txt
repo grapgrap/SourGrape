@@ -1,0 +1,21 @@
+GamingTrend,93
+IncGamers,90
+Pelit (Finland),89
+Cheat Code Central,88
+3DJuegos,86
+GameSpot,85
+Gamer Limit,85
+IGN Italia,85
+AusGamers,84
+PC PowerPlay,80
+CD-Action,80
+GameWatcher,80
+Destructoid,80
+Polygon,80
+Meristation,80
+GameFront,78
+IGN,75
+PC Gamer UK,73
+DarkStation,70
+Gameblog.fr,70
+Riot Pixels,65

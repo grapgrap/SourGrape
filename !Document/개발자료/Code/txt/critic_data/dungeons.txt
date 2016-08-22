@@ -1,0 +1,35 @@
+Worth Playing,90
+GameWatcher,85
+Game Revolution,83
+GamingXP,81
+Multiplayer.it,80
+GamePro,80
+AceGamez,80
+Gamers.at,79
+Ten Ton Hammer,78
+PC Gamer UK,77
+Vandal Online,76
+GamingTrend,76
+Meristation,75
+GameFocus,71
+Game Informer,70
+GameStar,66
+IGN,65
+GameTrailers,65
+Game Over Online,65
+SpazioGames,63
+PC Games (Russia),60
+GamingExcellence,60
+LEVEL (Czech Republic),60
+Eurogamer,60
+Gamers' Temple,58
+GRYOnline.pl,55
+CPUGamer,50
+PC PowerPlay,50
+GamesRadar+,50
+Eurogamer Italy,50
+Gamekult,50
+GameSpot,50
+GameShark,42
+Gaming Nexus,42
+IncGamers,40

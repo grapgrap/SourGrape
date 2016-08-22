@@ -1,0 +1,19 @@
+Gamezilla!,96
+IGN,93
+PC Gamer,93
+Electric Playground,91
+Game Informer,90
+Cincinnati Enquirer,90
+TotalGames.net,84
+ActionTrip,84
+Games Radar,82
+GamePro,80
+Total Video Games,80
+GameZone,80
+GameSpy,76
+GameSpot,73
+Computer Games Magazine,70
+Yahoo!,70
+Computer Gaming World,70
+CPUGamer,70
+FHM,40

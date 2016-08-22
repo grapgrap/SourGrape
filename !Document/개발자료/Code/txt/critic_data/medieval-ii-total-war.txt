@@ -1,0 +1,39 @@
+Times Online,100
+PC Gameworld,95
+PC Gamer UK,94
+Pelit (Finland),94
+Games Master UK,94
+GameWatcher,93
+Game Informer,93
+Next Level Gaming,93
+PC Zone UK,91
+PC Gamer,90
+Eurogamer,90
+Boomtown,90
+ActionTrip,90
+PC Format,90
+GamePro,90
+GamesRadar+,90
+Jolt Online Gaming UK,90
+Worth Playing,90
+Sydney Morning Herald,90
+IGN,88
+GameSpot,88
+Gamers' Temple,88
+Game Chronicles,88
+GamingTrend,88
+Computer Games Online RO,88
+FiringSquad,86
+PALGN,85
+Play Magazine,85
+Game Revolution,83
+GameShark,83
+GamerNode,83
+1UP,80
+GameDaily,80
+GameSpy,80
+Edge Magazine,80
+Play.tm,80
+games(TM),80
+Computer Games Magazine,80
+Game Over Online,80

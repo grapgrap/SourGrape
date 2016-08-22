@@ -1,0 +1,23 @@
+Total Video Games,80
+Gamers Europe,80
+Gamers' Temple,75
+IncGamers,70
+GamePro,70
+IGN,70
+Play Magazine,70
+BonusStage,70
+PC Format,67
+FiringSquad,61
+G4 TV,60
+GameCritics,60
+Computer and Video Games,59
+Play.tm,57
+Eurogamer,50
+GamerFeed,50
+PC Gamer,50
+eToychest,49
+PALGN,35
+GameSpot,31
+Edge Magazine,30
+Computer Games Magazine,30
+Boomtown,30

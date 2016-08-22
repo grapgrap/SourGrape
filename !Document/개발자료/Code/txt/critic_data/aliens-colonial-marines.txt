@@ -1,0 +1,40 @@
+Guardian,80
+Pelit (Finland),68
+Impulsegamer,66
+Everyeye.it,65
+Vandal Online,62
+PC Master (Greece),60
+Hyper Magazine,60
+Games.cz,60
+GamesBeat,60
+Eurogamer Italy,60
+GameTrailers,59
+GameStar,59
+IGN Italia,55
+PC PowerPlay,50
+CD-Action,50
+BigPond GameArena,50
+IGN,50
+ActionTrip,49
+ZTGD,48
+PC Gamer,48
+Gamer.nl,45
+GRYOnline.pl,45
+GameSpot,45
+Toronto Sun,40
+GameFront,40
+Eurogamer Germany,40
+AtomicGamer,40
+Game Informer,40
+GameSpy,40
+Worth Playing,34
+Riot Pixels,33
+Hooked Gamers,30
+VideoGamer,30
+Polygon,30
+Destructoid,25
+IncGamers,20
+Thunderbolt,20
+Giant Bomb,20
+Quarter to Three,20
+Joystiq,20

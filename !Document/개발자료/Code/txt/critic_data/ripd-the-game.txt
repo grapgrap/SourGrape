@@ -1,0 +1,7 @@
+IGN,45
+Worth Playing,30
+Impulsegamer,30
+GameSpot,25
+Gameblog.fr,20
+Hardcore Gamer,20
+Gaming Age,0

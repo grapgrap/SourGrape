@@ -1,0 +1,11 @@
+Eurogamer,80
+PC Gamer,80
+Yahoo!,80
+GameSpot,78
+GameZone,70
+IGN,70
+ActionTrip,69
+PC Gameworld,67
+Computer Games Magazine,60
+Adrenaline Vault,40
+Computer Gaming World,40

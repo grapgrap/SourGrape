@@ -1,0 +1,4 @@
+DarkZero,70
+ZTGD,45
+PC Gamer,44
+GameSpot,40

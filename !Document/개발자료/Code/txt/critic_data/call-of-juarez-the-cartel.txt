@@ -1,0 +1,12 @@
+GameStar,57
+GameSpot,55
+GRYOnline.pl,55
+GamingExcellence,55
+Computer Games Online RO,50
+PC Games (Russia),50
+IGN,45
+XGN,45
+Game Informer,45
+LEVEL (Czech Republic),40
+GameWatcher,40
+PC Gamer,35

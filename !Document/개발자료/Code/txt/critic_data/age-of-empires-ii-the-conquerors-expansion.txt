@@ -1,0 +1,21 @@
+GamePro,100
+Computer Games Magazine,100
+Daily Radar,100
+PC Gameworld,97
+Da Gameboyz,95
+PC Gamer,93
+ActionTrip,91
+Gamezilla!,91
+CheckOut,90
+All Game Guide,90
+Electric Playground,90
+Adrenaline Vault,90
+GameSpot,85
+GameZone,85
+GameSpy,85
+Gaming Age,83
+IGN,82
+Game Over Online,80
+GamerWeb PC,80
+Spank!,79
+CNET Gamecenter,70

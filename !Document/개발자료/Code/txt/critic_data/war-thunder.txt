@@ -1,0 +1,6 @@
+CalmDownTom,90
+Eurogamer Italy,90
+Meristation,87
+GameStar,85
+PC Gamer,78
+IGN,72

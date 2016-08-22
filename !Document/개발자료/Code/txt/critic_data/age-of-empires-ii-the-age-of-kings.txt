@@ -1,0 +1,21 @@
+Yahoo!,100
+GamePro,100
+Computer Games Magazine,100
+Gamer's Pulse,97
+PC Gameworld,97
+Gamezilla!,95
+Electric Playground,95
+Gamers' Temple,94
+TotalGames.net,94
+PC Gamer,94
+GameSpot,91
+Game Revolution,91
+Gaming Age,91
+Eurogamer,90
+FiringSquad,90
+All Game Guide,90
+GameSpy,89
+IGN,88
+Game Over Online,87
+GameZone,81
+Adrenaline Vault,80

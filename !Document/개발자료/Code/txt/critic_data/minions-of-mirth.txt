@@ -1,0 +1,3 @@
+Just RPG,85
+GameZone,70
+PC Gamer,50

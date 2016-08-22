@@ -1,0 +1,4 @@
+Kill Screen,80
+Gamer.nl,70
+DarkStation,40
+Rock, Paper, Shotgun,

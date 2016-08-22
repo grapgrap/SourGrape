@@ -1,0 +1,15 @@
+Gaming Age,100
+Games Radar,88
+PC Format,87
+Armchair Empire,85
+Game Chronicles,84
+GameZone,80
+Adrenaline Vault,80
+Computer Games Magazine,80
+Eurogamer,80
+ActionTrip,79
+IGN,75
+GameSpot,71
+GameSpy,63
+PC Gamer,51
+Computer Gaming World,30

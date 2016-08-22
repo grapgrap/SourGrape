@@ -1,0 +1,13 @@
+ActionTrip,75
+GameSpy,73
+Gamezilla!,69
+GameZone,55
+IGN,49
+CNET Gamecenter,40
+PC Gamer,40
+Adrenaline Vault,40
+GameSpot,39
+GamePower,38
+Game Over Online,35
+Computer Games Magazine,20
+Daily Radar,0

@@ -1,0 +1,4 @@
+GameSpot,75
+PC PowerPlay,50
+SpazioGames,50
+IGN,40

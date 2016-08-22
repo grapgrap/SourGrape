@@ -1,0 +1,5 @@
+GameZone,74
+VGPub,74
+PC Format,70
+PC Gamer UK,60
+Just RPG,55

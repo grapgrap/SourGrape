@@ -1,0 +1,5 @@
+Hardcore Gamer,60
+GameSpot,50
+Multiplayer.it,40
+Riot Pixels,25
+Slant Magazine,10

@@ -1,0 +1,13 @@
+Computer Games Magazine,90
+Just RPG,86
+ActionTrip,83
+IGN,82
+Gamer's Hell,78
+GameSpy,75
+PC Format,73
+Game Informer,70
+Yahoo!,70
+GameSpot,67
+Worth Playing,60
+PC Gamer,56
+Computer Gaming World,40

@@ -1,0 +1,6 @@
+GamingTrend,80
+Ragequit.gr,72
+Gamer.nl,65
+Hardcore Gamer,50
+COGconnected,30
+Digitally Downloaded,30

@@ -1,0 +1,2 @@
+IGN,80
+CD-Action,75

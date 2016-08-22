@@ -1,0 +1,3 @@
+Thunderbolt,80
+Eurogamer,70
+PALGN,65

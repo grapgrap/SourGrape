@@ -1,0 +1,6 @@
+GameZone,70
+Gamer's Pulse,63
+Adrenaline Vault,50
+All Game Guide,50
+Sports Gaming Network,48
+GamePower,38

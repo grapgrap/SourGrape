@@ -1,0 +1,6 @@
+CGMagazine,90
+GamingTrend,75
+Post Arcade (National Post),75
+Brash Games,70
+ActionTrip,65
+SpazioGames,60

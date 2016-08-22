@@ -1,0 +1,6 @@
+GameSpy,79
+IGN,70
+GameZone,70
+Armchair Empire,70
+TotalGames.net,65
+Yahoo!,60

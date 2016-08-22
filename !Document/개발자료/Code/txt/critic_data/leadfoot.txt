@@ -1,0 +1,8 @@
+GameZone,85
+Gamezilla!,84
+IGN,78
+GameSpot,71
+ActionTrip,62
+GamePower,62
+Yahoo!,60
+Adrenaline Vault,50

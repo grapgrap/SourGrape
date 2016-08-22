@@ -1,0 +1,6 @@
+GameSpy,67
+GameZone,65
+GameSpot,62
+GameSpot,62
+IGN,61
+Yahoo!,40

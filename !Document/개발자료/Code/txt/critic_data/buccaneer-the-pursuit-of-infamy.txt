@@ -1,0 +1,10 @@
+DarkStation,80
+Gameplanet,75
+Gameplayer,75
+GameZone,70
+Gamervision,70
+GamingXP,69
+GameFocus,66
+D+PAD Magazine,60
+DarkZero,60
+Gaming Nexus,58

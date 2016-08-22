@@ -1,0 +1,19 @@
+GamingTrend,83
+LEVEL (Czech Republic),80
+GamerNode,80
+Worth Playing,80
+Game Revolution,75
+My Gamer,74
+3DJuegos,73
+IncGamers,72
+Eurogamer,70
+DarkZero,70
+Gaming Age,67
+PC Gamer,65
+IGN,65
+SpazioGames,60
+GameWatcher,60
+Edge Magazine,60
+Gaming Nexus,58
+GamesRadar+,50
+1UP,42

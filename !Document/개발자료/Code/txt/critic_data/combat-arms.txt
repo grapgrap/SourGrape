@@ -1,0 +1,6 @@
+GameZone,90
+FiringSquad,77
+GamePro,75
+Gamervision,70
+PC Gamer,67
+Eurogamer,60

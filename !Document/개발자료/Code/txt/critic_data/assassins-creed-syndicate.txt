@@ -1,0 +1,15 @@
+XGN,90
+Hobby Consolas,87
+3DJuegos,85
+Lazygamer,80
+Eurogamer Italy,80
+Multiplayer.it,77
+Ragequit.gr,75
+GameWatcher,75
+GRYOnline.pl,75
+Riot Pixels,70
+PC Invasion,70
+PC Gamer,66
+PCWorld,60
+DarkZero,60
+Rock, Paper, Shotgun,

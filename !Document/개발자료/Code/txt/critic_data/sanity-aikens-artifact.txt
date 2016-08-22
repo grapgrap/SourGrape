@@ -1,0 +1,20 @@
+Hot Games,90
+GameZone,84
+GameSpy,83
+IGN,83
+ActionTrip,82
+PC Gamer,81
+Happy Puppy,80
+GamerWeb PC,80
+All Game Guide,80
+Adrenaline Vault,80
+Electric Playground,80
+Evil Avatar,80
+Game Over Online,75
+FiringSquad,74
+GamePro,70
+GameSpot,66
+Computer Games Magazine,60
+CNET Gamecenter,60
+Daily Radar,50
+Games Radar,50

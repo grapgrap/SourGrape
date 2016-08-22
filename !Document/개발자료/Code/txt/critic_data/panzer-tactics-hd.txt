@@ -1,0 +1,11 @@
+CalmDownTom,90
+GameStar,80
+PC Games (Germany),75
+Games.cz,70
+NZGamer,70
+XGN,70
+DarkStation,70
+Eurogamer Germany,70
+Hooked Gamers,65
+Riot Pixels,60
+Eurogamer,60

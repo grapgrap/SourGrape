@@ -1,0 +1,21 @@
+GameZone,88
+Play Magazine,83
+ActionTrip,81
+Computer Gaming World,80
+IGN,79
+Game Chronicles,77
+IncGamers,75
+GameSpy,75
+Gamers' Temple,74
+FiringSquad,74
+GameSpot,72
+Armchair Empire,70
+eToychest,70
+VIA Gamers Arena,68
+GamerFeed,60
+games(TM),60
+PC Format,58
+PC Gamer,56
+Eurogamer,50
+Edge Magazine,50
+Computer Games Magazine,40

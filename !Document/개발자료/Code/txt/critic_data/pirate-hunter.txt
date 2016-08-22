@@ -1,0 +1,11 @@
+GameZone,83
+Worth Playing,80
+Gamer's Hell,75
+PC Gamer,72
+GameSpot,71
+Yahoo!,70
+GameBiz,68
+IGN,68
+Game Informer,60
+Adrenaline Vault,60
+Game Revolution,42

@@ -1,0 +1,62 @@
+Total Video Games,100
+Detroit Free Press,100
+G4 TV,100
+Computer and Video Games,95
+Worth Playing,93
+IC-Games,92
+Next Level Gaming,92
+Cheat Code Central,92
+AtomicGamer,92
+Gaming Age,91
+CPUGamer,91
+GameShark,91
+Boomtown,90
+GamingTrend,90
+GameZone,90
+ActionTrip,90
+PGNx Media,90
+RewiredMind,90
+Jolt Online Gaming UK,90
+AceGamez,90
+Gaming Nexus,90
+WHAM! Gaming,90
+games(TM),90
+Gaming Illustrated,90
+PC Format,89
+Gaming Target,89
+Gamer 2.0,88
+Game Informer,88
+eToychest,88
+The New York Times,87
+Game Chronicles,87
+Gamer's Hell,87
+VGPub,87
+Pelit (Finland),86
+PC Gameworld,86
+Gaming Horizon,86
+PC Gamer,86
+DailyGame,85
+My Gamer,84
+The A.V. Club,83
+Digital Entertainment News,83
+GameSpot,82
+Gamers' Temple,82
+Thunderbolt,80
+1UP,80
+IGN,80
+Yahoo!,80
+GamePro,80
+Sydney Morning Herald,80
+3DAvenue,80
+Computer Gaming World,80
+PALGN,80
+Armchair Empire,80
+Gamenikki,80
+Game Over Online,75
+Game Revolution,75
+GameSpy,70
+Computer Games Magazine,70
+Edge Magazine,70
+FiringSquad,70
+GamerNode,70
+GamerFeed,60

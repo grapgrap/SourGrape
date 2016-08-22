@@ -1,0 +1,37 @@
+GameSpew,90
+Digital Spy,90
+Twinfinite,90
+TheSixthAxis,90
+We Got This Covered,90
+Impulsegamer,86
+GameCrate,83
+Ragequit.gr,81
+PC Games (Germany),80
+Forbes,80
+COGconnected,80
+GameWatcher,80
+Meristation,80
+USgamer,80
+DarkStation,80
+GameSpot,80
+RPG Fan,79
+GameGrin,75
+Everyeye.it,75
+God is a Geek,75
+IGN,75
+Game Debate,70
+The Digital Fix,70
+Destructoid,70
+Game Informer,70
+Game Over Online,68
+PC Gamer,68
+Areajugones,65
+Arcade Sushi,65
+Riot Pixels,60
+4Players.de,50
+PC Invasion,50
+Mashable,
+PCWorld,
+Polygon,
+Rock, Paper, Shotgun,
+Shacknews,

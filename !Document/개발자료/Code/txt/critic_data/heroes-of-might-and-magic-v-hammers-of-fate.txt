@@ -1,0 +1,10 @@
+Pelit (Finland),85
+Game Informer,80
+GameSpy,70
+PC Zone UK,69
+IGN,65
+GameSpot,64
+PC Gamer,62
+PC Gamer UK,60
+GamesRadar+,60
+Eurogamer,40

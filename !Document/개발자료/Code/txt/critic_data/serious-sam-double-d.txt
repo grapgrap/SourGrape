@@ -1,0 +1,21 @@
+GameCritics,95
+GameWatcher,85
+DarkZero,80
+Worth Playing,80
+GamerNode,80
+GamingXP,76
+Gaming Nexus,75
+GameShark,75
+Machinima,75
+Bit-Gamer,70
+SpazioGames,70
+Destructoid,70
+IGN,70
+Everyeye.it,67
+PC Gamer UK,62
+Eurogamer Italy,60
+Eurogamer,60
+GamePro,60
+LEVEL (Czech Republic),50
+IncGamers,30
+CD-Action,20

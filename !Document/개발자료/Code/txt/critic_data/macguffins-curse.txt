@@ -1,0 +1,4 @@
+PC PowerPlay,80
+Adventure Gamers,70
+Hooked Gamers,68
+IGN,65

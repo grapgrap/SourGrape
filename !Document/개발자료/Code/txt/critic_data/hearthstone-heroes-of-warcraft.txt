@@ -1,0 +1,42 @@
+Polygon,100
+Eurogamer,100
+GamesBeat,95
+Hardcore Gamer,90
+PC PowerPlay,90
+XGN,90
+Games Master UK,90
+Hyper Magazine,90
+Edge Magazine,90
+GamesRadar+,90
+Gamer.nl,90
+GameTrailers,90
+Eurogamer Germany,90
+GameFront,90
+Merlin'in Kazan©¥ (Turkey),90
+Eurogamer Portugal,90
+3DJuegos,90
+Eurogamer Italy,90
+Meristation,90
+The Escapist,90
+Vandal Online,90
+PCGamesN,90
+IGN,90
+Game Informer,90
+IGN Italia,86
+MMORPG.com,86
+CD-Action,85
+GameOver.gr,85
+Multiplayer.it,85
+SpazioGames,85
+AusGamers,85
+Pelit (Finland),84
+GameStar,81
+Guardian,80
+games(TM),80
+PC Gamer UK,80
+Gamereactor Sweden,80
+GameSpot,80
+Gameblog.fr,80
+Destructoid,80
+JeuxActu,80
+NZGamer,79

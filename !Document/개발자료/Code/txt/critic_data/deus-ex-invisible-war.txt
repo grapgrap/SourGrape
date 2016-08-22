@@ -1,0 +1,44 @@
+GamePro,100
+Game Informer,95
+Games Radar,92
+Gamer's Pulse,92
+VideoGamesLife,91
+Total Video Games,90
+netjak,90
+Boomtown,90
+GameSpy,90
+IGN,90
+GameZone,90
+Quandary,90
+GameBiz,89
+IncGamers,88
+PC Format,88
+Next Level Gaming,85
+ActionTrip,85
+Gamer.tv,84
+FiringSquad,84
+TotalGames.net,84
+PC Gamer,83
+Game Over Online,82
+Gamer's Hell,81
+PC Gameworld,80
+Times Online,80
+PC Arena,80
+GamerFeed,80
+Yahoo!,80
+GameSpot,80
+games(TM),80
+Computer Games Online RO,76
+Xequted,76
+Game Revolution,75
+Play Magazine,75
+Worth Playing,70
+Game Chronicles,70
+Adrenaline Vault,70
+Edge Magazine,70
+1UP,70
+GameShark,62
+Computer Gaming World,60
+Computer Games Magazine,60
+Gaming Age,58
+eToychest,50

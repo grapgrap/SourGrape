@@ -1,0 +1,44 @@
+Play Magazine,100
+CPUGamer,100
+G4 TV,100
+Electric Playground,100
+GamePro,100
+Gamers' Temple,98
+GameBiz,97
+Game Chronicles,97
+netjak,96
+Gamer's Pulse,96
+GameSpy,95
+GameZone,94
+PGNx Media,94
+Gamezilla!,94
+FiringSquad,93
+PC Gamer,93
+IGN,93
+ActionTrip,93
+Gaming Nexus,93
+Armchair Empire,92
+VIA Gamers Arena,92
+Game Revolution,91
+Gamer.tv,91
+GameNow,91
+PC Arena,90
+Computer Games Magazine,90
+Gamers Europe,90
+Yahoo!,90
+PC Format,90
+Game Over Online,90
+Xequted,90
+Game Informer,90
+Adrenaline Vault,90
+1UP,90
+Worth Playing,90
+GameSpot,90
+Computer Gaming World,90
+TotalGames.net,84
+Eurogamer,80
+Cincinnati Enquirer,80
+GamerArchive,80
+Edge Magazine,70
+games(TM),70
+GMR Magazine,70

@@ -1,0 +1,5 @@
+GameSpy,70
+IGN,68
+GameSpot,67
+Computer Gaming World,40
+Yahoo!,40

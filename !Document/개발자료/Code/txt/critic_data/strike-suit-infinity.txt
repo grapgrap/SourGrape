@@ -1,0 +1,11 @@
+GamingTrend,82
+Gaming Nexus,80
+Multiplayer.it,78
+GameSpot,75
+Destructoid,75
+PC Master (Greece),70
+IncGamers,70
+Games.cz,60
+Hardcore Gamer,50
+Metro GameCentral,50
+ZTGD,50

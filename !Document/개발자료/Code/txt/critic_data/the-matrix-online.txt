@@ -1,0 +1,33 @@
+Game Chronicles,100
+GamingTrend,86
+PC Gamer,80
+Play Magazine,80
+PC Format,79
+IGN,76
+GameZone,75
+Game Informer,75
+GameSpot,73
+Gamers' Temple,73
+Game Over Online,72
+Jolt Online Gaming UK,72
+GameSpy,70
+GamePro,70
+Total Video Games,70
+Computer and Video Games,70
+AltGaming,70
+Pelit (Finland),70
+PC Gameworld,68
+My Gamer,66
+1UP,65
+Next Level Gaming,63
+Maxim Online,60
+Cheat Code Central,60
+GamerFeed,60
+CPUGamer,60
+AceGamez,60
+Boomtown,60
+Computer Gaming World,60
+Inside Gamer Online,56
+Eurogamer,50
+Detroit Free Press,50
+Pelaaja (Finland),40

@@ -1,0 +1,5 @@
+Digital Entertainment News,90
+GameSpot,73
+Eurogamer,70
+PC Gamer UK,65
+PC Zone UK,50

@@ -1,0 +1,5 @@
+GameWatcher,85
+Game Chronicles,62
+IGN,55
+Vandal Online,50
+Gamekult,30

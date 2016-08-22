@@ -1,0 +1,13 @@
+GameZone,94
+GamePro,90
+Electric Playground,85
+IGN,84
+ActionTrip,81
+GameSpot,81
+Yahoo!,80
+Game Informer,80
+Media and Games Online Network,79
+PC Gamer,74
+Adrenaline Vault,70
+GameSpy,66
+Computer Gaming World,60

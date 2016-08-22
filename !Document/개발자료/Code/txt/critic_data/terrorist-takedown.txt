@@ -1,0 +1,4 @@
+GameCritics,60
+GameZone,44
+Worth Playing,40
+GameSpot,32

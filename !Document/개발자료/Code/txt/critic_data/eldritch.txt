@@ -1,0 +1,14 @@
+Polygon,90
+Games Master UK,83
+Post Arcade (National Post),80
+Eurogamer,80
+Quarter to Three,80
+Joystiq,80
+GameFront,80
+Hardcore Gamer,80
+GameTrailers,78
+IGN,77
+PC Gamer,72
+USgamer,70
+GameSpot,70
+PC PowerPlay,60

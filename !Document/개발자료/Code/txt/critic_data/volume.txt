@@ -1,0 +1,36 @@
+LEVEL (Czech Republic),100
+CD-Action,90
+Multiplayer.it,90
+Level7.nu,90
+Attack of the Fanboy,90
+Eurogamer Italy,90
+Polygon,90
+Game Informer,88
+Games Master UK,85
+CGMagazine,85
+Lazygamer,85
+GamesVillage.it,83
+IGN,81
+GameOver.gr,80
+Games.cz,80
+Vandal Online,80
+DarkZero,80
+VideoGamer,80
+Arcade Sushi,80
+TheSixthAxis,80
+Shacknews,80
+Digital Spy,80
+GameSpot,80
+Power Unlimited,79
+Gamer.nl,75
+GameCritics,75
+3DJuegos,75
+Softpedia,75
+God is a Geek,75
+PC Gamer,72
+Edge Magazine,70
+Hyper Magazine,70
+GamesRadar+,70
+Destructoid,60
+Ars Technica,
+Rock, Paper, Shotgun,

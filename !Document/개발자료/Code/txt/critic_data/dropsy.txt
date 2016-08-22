@@ -1,0 +1,29 @@
+ZTGD,95
+Destructoid,95
+Post Arcade (National Post),90
+Game Revolution,90
+COGconnected,90
+IGN Italia,87
+GamingTrend,85
+PCWorld,80
+games(TM),80
+SpazioGames,80
+DarkStation,80
+Gamer.nl,80
+Ragequit.gr,80
+CGMagazine,80
+TheSixthAxis,80
+Twinfinite,80
+VideoGamer,80
+The Jimquisition,80
+GamesBeat,80
+4Players.de,78
+PC Gamer,78
+Gamers' Temple,75
+GameWatcher,75
+Vandal Online,70
+Kill Screen,70
+Hardcore Gamer,70
+CD-Action,65
+Adventure Gamers,50
+Rock, Paper, Shotgun,

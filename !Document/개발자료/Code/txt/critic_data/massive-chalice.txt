@@ -1,0 +1,31 @@
+Quarter to Three,100
+Twinfinite,100
+Pelit (Finland),85
+Softpedia,85
+COGconnected,81
+CD-Action,80
+Eurogamer Italy,80
+GameWatcher,80
+Multiplayer.it,80
+Shacknews,80
+Game Informer,80
+Attack of the Fanboy,80
+Games Master UK,79
+Power Unlimited,75
+3DJuegos,75
+PC Gamer,75
+Brash Games,70
+Edge Magazine,70
+Toronto Sun,70
+Kill Screen,70
+USgamer,70
+IGN,67
+LevelUp,65
+Games.cz,60
+Level7.nu,60
+GameSpot,60
+Destructoid,60
+Riot Pixels,40
+Ars Technica,
+Rock, Paper, Shotgun,
+The A.V. Club,

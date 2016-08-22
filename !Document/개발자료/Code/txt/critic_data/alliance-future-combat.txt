@@ -1,0 +1,4 @@
+PC Zone UK,58
+PC Gamer UK,56
+PC Format,55
+GameSpot,23

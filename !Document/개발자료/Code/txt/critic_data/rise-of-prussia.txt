@@ -1,0 +1,6 @@
+PC Zone UK,68
+GameStar,64
+GameWatcher,63
+GameShark,50
+GamerNode,45
+LEVEL (Czech Republic),30

@@ -1,0 +1,10 @@
+Cincinnati Enquirer,80
+GameSpot,79
+IGN,75
+Sports Gaming Network,74
+CNET Gamecenter,70
+Adrenaline Vault,70
+Happy Puppy,60
+Daily Radar,50
+Yahoo!,40
+PC Gamer,38

@@ -1,0 +1,14 @@
+Gaming Age,100
+Gamer's Pulse,91
+Voodoo Extreme,90
+Yahoo!,90
+IGN,90
+All Game Guide,90
+GamePower,88
+GameZone,85
+Happy Puppy,85
+GameSpy,85
+Game Revolution,83
+GameSpot,83
+ActionTrip,80
+Cincinnati Enquirer,70

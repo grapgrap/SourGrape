@@ -1,0 +1,8 @@
+Quarter to Three,100
+Gaming Nexus,95
+GamingTrend,95
+Gaming Age,91
+XGN,90
+IGN,85
+DarkStation,80
+Kill Screen,80

@@ -1,0 +1,14 @@
+ActionTrip,92
+Computer Gaming World,90
+GameSpy,88
+GameZone,85
+Media and Games Online Network,85
+Gamer's Pulse,84
+IGN,83
+GameSpot,80
+PC Gamer,73
+Operation Sports,72
+Yahoo!,70
+Adrenaline Vault,70
+Computer Games Magazine,60
+Sports Gaming Network,48

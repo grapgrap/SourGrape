@@ -1,0 +1,6 @@
+GamesRadar+,60
+ZTGD,58
+GameCritics,35
+GameWatcher,30
+Hardcore Gamer,30
+DarkZero,20

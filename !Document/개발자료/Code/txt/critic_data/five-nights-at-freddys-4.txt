@@ -1,0 +1,6 @@
+PC Gamer,70
+CD-Action,55
+Vandal Online,50
+PCGamesN,50
+Destructoid,40
+LevelUp,30

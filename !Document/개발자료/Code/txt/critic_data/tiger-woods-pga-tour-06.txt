@@ -1,0 +1,14 @@
+BonusStage,94
+Stuff,90
+Computer Gaming World,90
+GameSpot,89
+IGN,87
+PC Gamer,86
+Computer and Video Games,85
+Gaming Age,83
+Play.tm,82
+GameZone,80
+G4 TV,80
+PC Format,71
+DailyGame,68
+Computer Games Magazine,40

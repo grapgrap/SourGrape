@@ -1,0 +1,22 @@
+CD-Action,80
+GameOver.gr,80
+The Escapist,80
+DarkStation,80
+Hardcore Gamer,80
+GamingTrend,80
+Game Informer,80
+Gamers' Temple,78
+PC Gamer,76
+Multiplayer.it,75
+Game World Navigator Magazine,73
+Game Over Online,70
+PCGamesN,70
+MMORPG.com,70
+GameStar,69
+PC Games (Germany),68
+IGN,65
+Everyeye.it,60
+Eurogamer Germany,60
+GameSpot,60
+Riot Pixels,56
+Eurogamer,40

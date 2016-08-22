@@ -1,0 +1,4 @@
+GameStar,83
+PC Format,77
+Eurogamer,60
+PC Gamer,60

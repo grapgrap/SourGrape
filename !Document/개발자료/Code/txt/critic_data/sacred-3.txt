@@ -1,0 +1,47 @@
+CalmDownTom,80
+GameWatcher,80
+Game Informer,75
+PC Gamer UK,72
+GameStar,71
+Hooked Gamers,71
+Gamereactor Denmark,70
+ZTGD,70
+Vandal Online,70
+3DJuegos,70
+Power Unlimited,69
+IGN,65
+Meristation,65
+Everyeye.it,63
+PC Games (Germany),61
+SpazioGames,60
+GRYOnline.pl,60
+Multiplayer.it,60
+Hardcore Gamer,60
+DarkZero,60
+Gamereactor Sweden,60
+Eurogamer Italy,60
+Eurogamer Germany,60
+games(TM),60
+The Escapist,60
+IGN Italia,58
+Gaming Age,58
+Riot Pixels,55
+InsideGamer.nl,55
+Softpedia,55
+GamesBeat,55
+Pelit (Finland),50
+GameOver.gr,50
+Gamer.nl,50
+Game Revolution,50
+GameTrailers,50
+Cheat Code Central,50
+Destructoid,50
+Game World Navigator Magazine,45
+ActionTrip,45
+MMORPG.com,44
+Hyper Magazine,40
+Games.cz,40
+GameSpot,40
+RPGamer,40
+PCGamesN,40
+GamesRadar+,40

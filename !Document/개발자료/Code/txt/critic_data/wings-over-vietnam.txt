@@ -1,0 +1,4 @@
+IGN,78
+GameSpot,69
+PC Gamer,65
+PC Format,55

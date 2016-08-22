@@ -1,0 +1,3 @@
+CD-Action,80
+GameStar,72
+XGN,55

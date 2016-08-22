@@ -1,0 +1,9 @@
+GameStar,79
+Play (Poland),60
+GameZone,60
+IGN,60
+LEVEL (Czech Republic),60
+PC Zone UK,52
+Computer Games Online RO,50
+GameSpot,45
+PC Gamer,41

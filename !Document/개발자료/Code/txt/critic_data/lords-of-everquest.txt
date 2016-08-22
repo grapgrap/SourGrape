@@ -1,0 +1,25 @@
+Yahoo!,80
+Gamer's Pulse,78
+Game Revolution,75
+Game Informer,75
+PC Gameworld,73
+Game Over Online,72
+GameZone,72
+Gamenikki,70
+IncGamers,70
+Adrenaline Vault,70
+GamePro,70
+ActionTrip,69
+Gamers' Temple,66
+IGN,65
+GameSpy,60
+Computer Gaming World,60
+PC Gamer,58
+GameSpot,55
+Worth Playing,50
+GamerFeed,50
+Computer Games Magazine,50
+GMR Magazine,50
+Gamezilla!,45
+Game Chronicles,40
+1UP,30

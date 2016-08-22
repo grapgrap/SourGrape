@@ -1,0 +1,22 @@
+ZTGD,83
+XGN,80
+GamePro,80
+Bit-Gamer,80
+Gamer Limit,80
+NZGamer,80
+PC Gamer,76
+Cheat Code Central,76
+Gamer.nl,75
+Multiplayer.it,75
+Destructoid,75
+GameTrailers,73
+GamingXP,70
+PC PowerPlay,70
+GameSpot,70
+AtomicGamer,70
+GamesRadar+,70
+GameZone,70
+Games.cz,60
+GameStar,60
+Absolute Games,57
+IGN,50

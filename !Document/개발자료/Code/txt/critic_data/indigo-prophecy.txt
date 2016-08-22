@@ -1,0 +1,41 @@
+Times Online,100
+Gaming Age,100
+Just Adventure,100
+IC-Games,93
+GameZone,93
+Gamer 2.0,92
+Gamezilla!,91
+Total Video Games,90
+Jolt Online Gaming UK,90
+GameBiz,90
+Gamer's Hell,90
+Pelit (Finland),90
+BonusStage,90
+Computer Gaming World,90
+Computer Games Magazine,90
+eToychest,89
+Game Chronicles,89
+Computer Games Online RO,89
+CPUGamer,88
+Worth Playing,88
+PC Gameworld,87
+Next Level Gaming,86
+PC Gamer,85
+Stuff,85
+ActionTrip,84
+GameSpot,84
+IGN,83
+Game Informer,83
+Adventure Gamers,80
+1UP,80
+PC Format,80
+Edge Magazine,80
+G4 TV,80
+GamerFeed,80
+Armchair Empire,80
+Quandary,80
+The New York Times,70
+GameSpy,70
+NTSC-uk,70
+Sydney Morning Herald,60
+Gamers' Temple,55

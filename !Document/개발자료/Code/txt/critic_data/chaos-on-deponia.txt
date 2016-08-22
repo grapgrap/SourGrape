@@ -1,0 +1,31 @@
+GamingXP,91
+GameStar,90
+Eurogamer Germany,90
+Riot Pixels,88
+CD-Action,85
+Vandal Online,85
+SpazioGames,85
+RPG Fan,85
+Everyeye.it,85
+Meristation,85
+GameOver.gr,85
+PC Games (Germany),85
+PC Master (Greece),83
+GamingTrend,82
+Worth Playing,80
+Game Over Online,80
+LEVEL (Czech Republic),80
+XGN,80
+Multiplayer.it,80
+Gameblog.fr,80
+4Players.de,79
+NZGamer,78
+GameSpot,75
+Destructoid,75
+Pelit (Finland),71
+Eurogamer Italy,70
+DarkZero,70
+Adventure Gamers,70
+GameCritics,60
+PC PowerPlay,60
+The Escapist,60

@@ -1,0 +1,17 @@
+GamingTrend,90
+Cheat Code Central,86
+GameZone,85
+IGN,82
+GameBrink,80
+GamesRadar+,80
+PC Gamer,79
+ActionTrip,78
+PC Format,78
+PC Zone UK,78
+Gamer 2.0,76
+GameSpot,74
+Computer Games Online RO,73
+PC Gamer UK,72
+VideoGamer,70
+Jolt Online Gaming UK,70
+Boomtown,60

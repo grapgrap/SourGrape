@@ -1,0 +1,18 @@
+GameZone,93
+Armchair Empire,86
+Gamers' Temple,85
+GameSpy,84
+Gamezilla!,83
+Voodoo Extreme,83
+Game Revolution,83
+IGN,82
+Gamer's Pulse,82
+GamePro,80
+Adrenaline Vault,80
+GamePen,80
+Next Generation Magazine,80
+GameSpot,77
+Electric Playground,75
+ActionTrip,71
+Yahoo!,70
+Computer Games Magazine,70

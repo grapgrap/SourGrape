@@ -1,0 +1,24 @@
+Guardian,100
+Gamer.no,90
+Games Master UK,87
+4Players.de,85
+IGN,85
+Destructoid,85
+Gamer.nl,80
+Games.cz,80
+DarkStation,80
+Eurogamer Spain,80
+GameSpot,80
+Telegraph,80
+3DJuegos,80
+Eurogamer,80
+Thunderbolt,80
+Edge Magazine,80
+PC Gamer,76
+GameFront,75
+GameTrailers,74
+Eurogamer Germany,70
+GamingTrend,70
+Gameblog.fr,70
+GameOver.gr,60
+Digital Spy,60

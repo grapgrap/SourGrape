@@ -1,0 +1,3 @@
+GamePro,80
+Gamekult,30
+PC PowerPlay,20

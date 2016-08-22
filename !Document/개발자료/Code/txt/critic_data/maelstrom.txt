@@ -1,0 +1,22 @@
+GameWatcher,82
+G4 TV,80
+Worth Playing,75
+GameZone,74
+PC Format,68
+PC Zone UK,67
+Game Revolution,67
+Armchair Empire,65
+PC Gamer UK,63
+GamerNode,62
+Eurogamer,60
+1UP,60
+VideoGamer,60
+games(TM),60
+PC Gamer,59
+GameDaily,50
+Play.tm,50
+Jolt Online Gaming UK,45
+GameSpot,42
+Game Informer,40
+Game Chronicles,36
+PALGN,30

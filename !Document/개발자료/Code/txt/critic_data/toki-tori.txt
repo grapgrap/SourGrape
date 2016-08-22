@@ -1,0 +1,10 @@
+Gamer Limit,90
+Gamers.at,85
+PC Gamer UK,82
+Gamer.nl,80
+Eurogamer Portugal,80
+Eurogamer Italy,80
+Total PC Gaming,80
+9Lives,76
+GamingXP,75
+PC Zone UK,73

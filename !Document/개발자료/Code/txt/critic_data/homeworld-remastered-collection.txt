@@ -1,0 +1,49 @@
+Gameplanet,100
+Digital Spy,100
+GamingTrend,100
+CD-Action,95
+PC Gamer,92
+Cheat Code Central,92
+Gaming Age,91
+PCWorld,90
+GameCritics,90
+Everyeye.it,90
+ZTGD,90
+GRYOnline.pl,90
+Hooked Gamers,90
+3DJuegos,90
+GameWatcher,90
+Multiplayer.it,90
+Eurogamer Italy,90
+Metro GameCentral,90
+Eurogamer Poland,90
+CGMagazine,90
+Attack of the Fanboy,90
+Softpedia,90
+Gaming Nexus,90
+IGN,90
+IncGamers,90
+God is a Geek,90
+GamesVillage.it,88
+Meristation,88
+COGconnected,85
+JeuxActu,85
+Post Arcade (National Post),85
+Game Over Online,85
+GameStar,85
+Lazygamer,85
+PC Games (Germany),83
+LEVEL (Czech Republic),80
+games(TM),80
+The Digital Fix,80
+PC PowerPlay,80
+Games.cz,80
+GameSpot,80
+Twinfinite,80
+Game Informer,80
+IGN Italia,80
+Arcade Sushi,80
+Destructoid,80
+Game World Navigator Magazine,78
+Gamer.nl,75
+USgamer,70

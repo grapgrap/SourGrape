@@ -1,0 +1,11 @@
+Four Fat Chicks,100
+Computer Games Magazine,80
+Adrenaline Vault,80
+Adventure Gamers,80
+GameZone,75
+GameSpot,74
+Quandary,70
+Electric Playground,70
+All Game Guide,70
+Yahoo!,70
+IGN,53

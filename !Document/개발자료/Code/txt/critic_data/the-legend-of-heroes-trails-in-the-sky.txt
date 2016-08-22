@@ -1,0 +1,5 @@
+RPG Fan,90
+Digitally Downloaded,90
+Hardcore Gamer,90
+RPGamer,80
+CD-Action,75

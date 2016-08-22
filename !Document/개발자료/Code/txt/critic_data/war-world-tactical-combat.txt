@@ -1,0 +1,7 @@
+GameZone,86
+Worth Playing,85
+Total Video Games,80
+Boomtown,80
+GamerFeed,70
+PALGN,70
+PC Format,62

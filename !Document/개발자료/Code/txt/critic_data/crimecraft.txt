@@ -1,0 +1,8 @@
+Worth Playing,83
+Gamer Limit,65
+CPUGamer,63
+GamingExcellence,63
+Cheat Code Central,60
+GameSpot,60
+IGN,56
+Eurogamer,40

@@ -1,0 +1,39 @@
+Detroit Free Press,100
+PC Gameworld,95
+PC Gamer,94
+3DAvenue,90
+GameSpot AU,90
+Cheat Code Central,90
+IGN,89
+ActionTrip,87
+Game Chronicles,87
+Games Radar,85
+GamingTrend,85
+GameZone,85
+Warcry,85
+Armchair Empire,85
+Next Level Gaming,84
+PC Format,84
+Game Revolution,83
+GameSpy,80
+GameSpot,80
+Yahoo!,80
+Total Video Games,80
+Sydney Morning Herald,80
+Computer Gaming World,80
+Computer and Video Games,80
+The New York Times,80
+Gamers' Temple,80
+GamerFeed,80
+AceGamez,80
+My Gamer,78
+Game Informer,75
+1UP,75
+Worth Playing,75
+Eurogamer,70
+Pelaaja (Finland),70
+Pelit (Finland),70
+G4 TV,60
+VideoGamesLife,60
+CPUGamer,49
+Computer Games Magazine,30

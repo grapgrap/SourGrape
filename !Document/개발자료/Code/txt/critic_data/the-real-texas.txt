@@ -1,0 +1,5 @@
+Destructoid,85
+RPGamer,80
+PC Gamer UK,76
+PC PowerPlay,70
+Gamer.nl,50

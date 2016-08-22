@@ -1,0 +1,6 @@
+PC Gamer,87
+GameSpy,83
+ActionTrip,81
+GameZone,80
+GameSpot,72
+Yahoo!,70

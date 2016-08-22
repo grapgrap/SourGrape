@@ -1,0 +1,5 @@
+GameWatcher,75
+XGN,75
+Gaming Nexus,70
+SpazioGames,65
+Gamer.nl,30

@@ -1,0 +1,7 @@
+GameTrailers,72
+GameCritics,65
+GamingTrend,61
+CD-Action,60
+IncGamers,60
+Thunderbolt,50
+Quarter to Three,40

@@ -1,0 +1,5 @@
+GameZone,94
+IGN,80
+GameSpot,64
+GamePower,62
+Happy Puppy,60

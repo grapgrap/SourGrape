@@ -1,0 +1,29 @@
+GameBiz,100
+Xequted,96
+Play Magazine,95
+Inside Gamer Online,94
+eToychest,94
+Game Chronicles,92
+Jolt Online Gaming UK,92
+ActionTrip,91
+PC Format,91
+1UP,90
+Computer Gaming World,90
+Yahoo!,90
+PC Gamer,90
+GameSpy,90
+GamerFeed,90
+Games Radar,89
+IGN,87
+Pelit (Finland),87
+GameSpot,84
+Just Adventure,83
+Game Over Online,82
+The New York Times,80
+G4 TV,80
+Edge Magazine,80
+Computer Games Magazine,80
+Eurogamer,80
+AceGamez,80
+CPUGamer,72
+games(TM),70

@@ -1,0 +1,5 @@
+PC Format,32
+PALGN,30
+GameSpot,30
+PC Zone UK,22
+PC Gamer UK,21

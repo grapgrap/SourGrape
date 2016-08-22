@@ -1,0 +1,24 @@
+LEVEL (Czech Republic),100
+Pelit (Finland),90
+DarkZero,90
+Hardcore Gamer,90
+GameWatcher,90
+PC Gamer,89
+IGN,88
+CD-Action,85
+SpazioGames,85
+Hooked Gamers,85
+3DJuegos,85
+4Players.de,85
+GamingTrend,85
+Meristation,85
+GameStar,83
+Ragequit.gr,81
+PC Games (Germany),81
+RPG Fan,80
+Games.cz,80
+Eurogamer Spain,80
+Metro GameCentral,80
+COGconnected,78
+Multiplayer.it,75
+Softpedia,70

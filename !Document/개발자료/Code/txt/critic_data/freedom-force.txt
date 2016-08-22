@@ -1,0 +1,27 @@
+Entertainment Weekly,100
+Computer Gaming World,100
+Four Fat Chicks,100
+Media and Games Online Network,95
+PC Gamer,94
+IGN,93
+ActionTrip,93
+Gamers' Temple,91
+Adrenaline Vault,90
+netjak,90
+All Game Guide,90
+Pregaming,90
+Games Radar,90
+GameSpot,90
+GamePro,90
+GameSpy,89
+GameZone,89
+Gamer's Pulse,88
+Game Informer,88
+Armchair Empire,88
+Gamer.tv,87
+Game Over Online,86
+G4 TV,80
+Total Video Games,80
+Yahoo!,80
+GamePen,80
+Maxim Online,60

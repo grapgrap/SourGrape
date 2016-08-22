@@ -1,0 +1,11 @@
+3DAvenue,90
+PC Format,87
+Pelit (Finland),84
+Games Radar,80
+Sydney Morning Herald,80
+PC Gamer,78
+GameSpot,76
+Computer and Video Games,75
+Edge Magazine,70
+Eurogamer,70
+Computer Games Magazine,60

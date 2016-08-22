@@ -1,0 +1,13 @@
+Antagonist,98
+Adrenaline Vault,90
+Game Over Online,89
+GameSpot,87
+PC Gamer,85
+IGN,85
+GamerWeb PC,85
+Gamer's Pulse,83
+Maxim Online,80
+All Game Guide,80
+Happy Puppy,70
+Yahoo!,70
+Computer Games Magazine,70

@@ -1,0 +1,10 @@
+PC Gameworld,84
+GameZone,72
+GameSpot,71
+PC Gamer,70
+Worth Playing,70
+IGN,70
+PC Format,54
+BonusStage,48
+G4 TV,40
+AceGamez,30

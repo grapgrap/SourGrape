@@ -1,0 +1,50 @@
+GRYOnline.pl,95
+GamesBeat,92
+Post Arcade (National Post),90
+PC PowerPlay,90
+GameFront,90
+GamingTrend,90
+IGN Italia,90
+ActionTrip,90
+Eurogamer Germany,90
+Multiplayer.it,90
+Gameblog.fr,90
+Hardcore Gamer,90
+AtomicGamer,90
+Polygon,90
+Game Informer,90
+Cheat Code Central,88
+GameTrailers,87
+4Players.de,87
+Vandal Online,87
+IGN,86
+CD-Action,85
+GameOver.gr,85
+ZTGD,85
+Everyeye.it,85
+BigPond GameArena,85
+Gamer.nl,85
+Destructoid,85
+GameSpot,85
+GameStar,84
+Hooked Gamers,83
+Games Master UK,82
+3DJuegos,82
+PC Gamer,82
+PC Master (Greece),81
+Pelit (Finland),80
+Hyper Magazine,80
+Thunderbolt,80
+Telegraph,80
+Eurogamer Italy,80
+Giant Bomb,80
+Digital Spy,80
+GamesRadar+,80
+Metro GameCentral,80
+GameCritics,75
+The Digital Fix,70
+Gamer.no,70
+Toronto Sun,60
+Eurogamer,60
+Edge Magazine,60
+Riot Pixels,55

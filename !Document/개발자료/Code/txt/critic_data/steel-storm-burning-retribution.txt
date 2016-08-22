@@ -1,0 +1,4 @@
+Everyeye.it,75
+PC Gamer,65
+MEGamers,60
+Eurogamer,40

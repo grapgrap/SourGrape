@@ -1,0 +1,5 @@
+GameZone,72
+IGN,62
+G4 TV,60
+Gamer's Pulse,56
+GameSpot,51

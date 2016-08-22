@@ -1,0 +1,46 @@
+ZTGD,100
+USgamer,100
+GameTrailers,93
+CD-Action,90
+Pelit (Finland),90
+Worth Playing,90
+GameCritics,90
+CalmDownTom,90
+God is a Geek,90
+Gameblog.fr,90
+Multiplayer.it,90
+Gamers' Temple,90
+Ragequit.gr,90
+Digitally Downloaded,90
+Vandal Online,90
+GameFront,90
+Hardcore Gamer,90
+GamesRadar+,90
+Polygon,90
+Post Arcade (National Post),90
+IGN,90
+LevelUp,87
+Meristation,86
+Gamer.nl,85
+Everyeye.it,85
+SpazioGames,85
+InsideGamer.nl,85
+Hooked Gamers,85
+3DJuegos,85
+PC Games (Germany),83
+4Players.de,83
+GameStar,82
+Kill Screen,81
+games(TM),80
+Edge Magazine,80
+GameOver.gr,80
+Games.cz,80
+Eurogamer Germany,80
+PC Gamer,80
+Eurogamer Italy,80
+Shacknews,80
+Level7.nu,80
+Game World Navigator Magazine,76
+IGN Italia,75
+The Escapist,70
+Eurogamer,70

@@ -1,0 +1,42 @@
+XGN,90
+IGN Italia,85
+GamingTrend,80
+Gaming Nexus,80
+Multiplayer.it,80
+SpazioGames,80
+Everyeye.it,80
+Eurogamer Italy,80
+Merlin'in Kazan©¥ (Turkey),78
+IGN,78
+Vandal Online,78
+4Players.de,78
+Gamers' Temple,77
+GameStar,76
+Meristation,76
+COGconnected,75
+Gamer.nl,75
+PC Gamer,74
+Games Master UK,72
+Pelit (Finland),70
+Armchair Empire,70
+CD-Action,70
+Destructoid,70
+GameSpot,70
+Games.cz,70
+Gamereactor Sweden,70
+Eurogamer Germany,70
+Game Revolution,70
+EGM,65
+GameWatcher,65
+GRYOnline.pl,65
+Eurogamer Portugal,60
+Level7.nu,60
+games(TM),60
+LEVEL (Czech Republic),60
+Eurogamer,60
+JeuxActu,60
+Gameblog.fr,60
+PC PowerPlay,60
+MMORPG.com,57
+Polygon,50
+IncGamers,50

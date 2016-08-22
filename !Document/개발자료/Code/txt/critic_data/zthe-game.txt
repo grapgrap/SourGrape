@@ -1,0 +1,3 @@
+CalmDownTom,60
+CD-Action,35
+Ragequit.gr,30

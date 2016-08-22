@@ -1,0 +1,2 @@
+GameZone,75
+GamerFeed,40

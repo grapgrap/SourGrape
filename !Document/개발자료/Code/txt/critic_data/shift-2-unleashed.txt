@@ -1,0 +1,24 @@
+LEVEL (Czech Republic),90
+PC Format,90
+VideoGamer,90
+Vandal Online,88
+PC Games (Germany),88
+GamingXP,85
+Game Informer,85
+Meristation,85
+IGN,85
+PC Games (Russia),85
+GameStar,84
+Cheat Code Central,84
+Gamers.at,84
+GamingExcellence,83
+SpazioGames,83
+Game Revolution,83
+PC Gamer,82
+3DJuegos,81
+PC Gamer UK,81
+GameWatcher,80
+AtomicGamer,80
+Absolute Games,78
+Computer Games Online RO,77
+PC PowerPlay,70

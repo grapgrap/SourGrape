@@ -1,0 +1,5 @@
+PC Format,71
+GameSpot,65
+LEVEL (Czech Republic),50
+PC Gamer UK,40
+PC Zone UK,30

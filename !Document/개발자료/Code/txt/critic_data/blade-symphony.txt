@@ -1,0 +1,5 @@
+PC Gamer,85
+Eurogamer Italy,80
+Edge Magazine,80
+Games.cz,60
+GameSpot,50

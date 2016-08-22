@@ -1,0 +1,19 @@
+Times Online,80
+PC Zone UK,78
+PC Gamer UK,72
+PC Format,72
+VideoGamer,70
+AceGamez,70
+GameZone,68
+GamesRadar+,60
+Jolt Online Gaming UK,60
+Eurogamer,60
+PC Gamer,59
+IGN,57
+Play.tm,49
+GameSpot,43
+PALGN,40
+Computer Games Magazine,40
+GameSpy,40
+G4 TV,40
+Worth Playing,40

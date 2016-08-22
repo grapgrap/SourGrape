@@ -1,0 +1,11 @@
+Antagonist,100
+Daily Radar,88
+GameZone,85
+IGN,83
+All Game Guide,80
+CNET Gamecenter,80
+Electric Playground,80
+PC Gamer,78
+GameSpot,74
+GamerWeb PC,70
+Computer Games Magazine,60

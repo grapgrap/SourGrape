@@ -1,0 +1,15 @@
+GameZone,81
+GameSpy,80
+GamerFeed,80
+Warcry,80
+IGN,75
+Just RPG,70
+PC Gamer,68
+RealGamer,66
+Games Radar,64
+Computer Gaming World,60
+GameSpot,56
+PC Format,54
+Adrenaline Vault,50
+IncGamers,50
+Computer Games Magazine,40

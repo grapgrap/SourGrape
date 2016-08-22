@@ -1,0 +1,2 @@
+Ragequit.gr,53
+GameOver.gr,40

@@ -1,0 +1,69 @@
+LEVEL (Czech Republic),100
+Gameplanet,95
+God is a Geek,95
+GamesBeat,95
+IGN,93
+WCCFtech,92
+IGN Denmark,90
+Pelit (Finland),90
+IGN Sweden,90
+COGconnected,90
+CGMagazine,90
+4Players.de,90
+Game Revolution,90
+GameCritics,90
+Softpedia,90
+PCGamesN,90
+Forbes,90
+GameGrin,90
+GamingTrend,90
+Hardcore Gamer,90
+Game Rant,90
+Lazygamer,85
+PC Gamer,85
+Polygon,85
+Meristation,83
+Game World Navigator Magazine,82
+GameStar,82
+IGN Spain,82
+CD-Action,80
+GameSpew,80
+Games Master UK,80
+Edge Magazine,80
+PLAY! Zine,80
+Game Debate,80
+DarkStation,80
+Multiplayer.it,80
+Digital Spy,80
+The Jimquisition,80
+The Escapist,80
+GRYOnline.pl,80
+Brash Games,80
+Eurogamer Poland,80
+Telegraph,80
+Shacknews,80
+3DJuegos,80
+Post Arcade (National Post),80
+GameTrailers,80
+Destructoid,80
+GameWatcher,80
+Guardian,80
+PC Games (Germany),76
+Kill Screen,74
+Everyeye.it,72
+SpazioGames,70
+Games.cz,70
+ActionTrip,70
+Gamer.nl,70
+Washington Post,70
+DarkZero,70
+GameSpot,70
+Power Unlimited,70
+GameOver.gr,65
+PCWorld,60
+The Daily Dot,60
+PC PowerPlay,50
+Mashable,
+Rock, Paper, Shotgun,
+The A.V. Club,
+Wired,

@@ -1,0 +1,7 @@
+IGN,80
+Maxim Online,80
+Worth Playing,79
+GameSpot,71
+PC Gamer,62
+PC Gameworld,60
+Computer Games Magazine,50

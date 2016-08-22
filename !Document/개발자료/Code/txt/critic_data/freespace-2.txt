@@ -1,0 +1,16 @@
+GamePro,100
+Gamezilla!,97
+PC Gameworld,96
+GameSpot,94
+PC Gamer,93
+GameSpy,92
+Game Revolution,91
+Hot Games,90
+All Game Guide,90
+CPUGamer,90
+Computer Games Magazine,90
+Adrenaline Vault,90
+Yahoo!,90
+IGN,89
+Electric Playground,85
+Eurogamer,70

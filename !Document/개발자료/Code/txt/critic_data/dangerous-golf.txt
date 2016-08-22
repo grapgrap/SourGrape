@@ -1,0 +1,13 @@
+GameGrin,70
+Polygon,70
+The Games Machine,63
+Eurogamer Italy,60
+GamesBeat,60
+Brash Games,60
+IGN,60
+Sporting News,50
+VideoGamer,50
+PLAY! Zine,35
+PC Gamer,35
+Gamer.nl,30
+Shacknews,30

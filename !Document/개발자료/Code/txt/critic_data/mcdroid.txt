@@ -1,0 +1,3 @@
+GameWatcher,80
+SpazioGames,75
+Hardcore Gamer,50

@@ -1,0 +1,6 @@
+IGN,68
+GameShark,67
+GameSpot,65
+GameZone,64
+Hardcore Gamer,60
+PC Gamer,47

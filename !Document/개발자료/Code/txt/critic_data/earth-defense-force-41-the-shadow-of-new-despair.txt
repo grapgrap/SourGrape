@@ -1,0 +1,4 @@
+CGMagazine,90
+PC Gamer,80
+Brash Games,70
+Multiplayer.it,65

@@ -1,0 +1,10 @@
+PC Gameworld,85
+Computer Games Online RO,85
+Gaming Nexus,81
+Thunderbolt,80
+Gamer's Hell,80
+Gamer's Pulse,76
+GameZone,75
+GameSpot,70
+GamerArchive,60
+GameShark,50

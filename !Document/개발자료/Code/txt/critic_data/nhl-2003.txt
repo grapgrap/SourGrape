@@ -1,0 +1,12 @@
+GameZone,91
+IGN,88
+PC Gameworld,85
+GameSpot,84
+GameSpy,78
+TotalGames.net,78
+PC Gamer,72
+Armchair Empire,70
+Gaming Age,67
+Computer Gaming World,60
+Yahoo!,60
+Computer Games Magazine,40

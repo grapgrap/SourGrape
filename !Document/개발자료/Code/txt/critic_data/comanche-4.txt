@@ -1,0 +1,16 @@
+GameZone,90
+Voodoo Extreme,87
+IGN,86
+Gamezilla!,84
+Total Video Games,80
+GameSpy,79
+PC Gamer,78
+GameSpot,77
+Gamer's Pulse,77
+Computer Gaming World,70
+Adrenaline Vault,70
+Game Revolution,67
+Game Informer,65
+Yahoo!,60
+Computer Games Magazine,60
+FHM,40

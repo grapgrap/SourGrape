@@ -1,0 +1,4 @@
+IGN,60
+Hardcore Gamer,60
+ZTGD,55
+GameSpot,30

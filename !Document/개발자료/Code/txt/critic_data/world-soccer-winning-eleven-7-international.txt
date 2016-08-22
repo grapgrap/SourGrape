@@ -1,0 +1,7 @@
+Operation Sports,100
+Computer Games Magazine,100
+GameZone,94
+GameSpot,91
+Computer Gaming World,90
+Worth Playing,87
+GamerFeed,80

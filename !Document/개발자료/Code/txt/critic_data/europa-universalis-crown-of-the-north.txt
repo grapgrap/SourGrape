@@ -1,0 +1,9 @@
+GameZone,88
+GameSpy,82
+Gamezilla!,74
+Game Chronicles,70
+GameSpot,65
+FiringSquad,65
+IGN,65
+Computer Games Magazine,30
+Computer Gaming World,30

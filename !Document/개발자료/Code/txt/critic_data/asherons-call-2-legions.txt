@@ -1,0 +1,5 @@
+PC Gamer,75
+GameZone,70
+Computer and Video Games,62
+Worth Playing,62
+GamerFeed,60

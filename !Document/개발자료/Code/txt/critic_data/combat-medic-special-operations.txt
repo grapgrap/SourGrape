@@ -1,0 +1,7 @@
+GameZone,73
+GameSpy,45
+GameSpot,42
+All Game Guide,40
+Computer Games Magazine,30
+PC Gamer,21
+Computer Gaming World,20

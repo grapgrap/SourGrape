@@ -1,0 +1,4 @@
+GameWatcher,80
+4Players.de,69
+Games.cz,60
+XGN,60

@@ -1,0 +1,9 @@
+Worth Playing,87
+GameZone,83
+IGN,78
+GameSpot,76
+Game Over Online,76
+GameSpy,70
+Computer Games Magazine,60
+Armchair Empire,60
+PC Gamer,34

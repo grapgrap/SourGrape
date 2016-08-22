@@ -1,0 +1,57 @@
+Giant Bomb,100
+Eurogamer Germany,100
+Eurogamer Sweden,100
+GameSpy,100
+Armchair Empire,95
+Worth Playing,95
+EGM,95
+Game Informer,95
+GamingTrend,92
+PC Games (Germany),92
+Vandal Online,92
+GameTrailers,91
+Hyper Magazine,90
+Absolute Games,90
+LEVEL (Czech Republic),90
+Level7.nu,90
+NZGamer,90
+Game Over Online,90
+Thunderbolt,90
+IncGamers,90
+GRYOnline.pl,90
+DarkZero,90
+AtomicGamer,90
+Multiplayer.it,90
+Games.cz,90
+G4 TV,90
+GameWatcher,90
+Machinima,90
+SpazioGames,90
+Gamereactor Denmark,90
+Edge Magazine,90
+games(TM),90
+VideoGamer,90
+Eurogamer,90
+Destructoid,90
+Joystiq,90
+PC Master (Greece),88
+ActionTrip,87
+4Players.de,87
+3DJuegos,87
+PC Gamer,87
+GamingXP,85
+JeuxActu,85
+InsideGamer.nl,85
+BigPond GameArena,85
+GameStar,85
+GameSpot,85
+Gamer.nl,85
+GamesBeat,85
+Impulsegamer,82
+IGN,82
+Gamer.no,80
+Quarter to Three,80
+PC PowerPlay,80
+Eurogamer Italy,80
+CD-Action,75
+Gameblog.fr,70

@@ -1,0 +1,12 @@
+GameZone,80
+GameSpy,70
+Armchair Empire,64
+PC Gamer,62
+GameSpot,62
+GamePen,60
+IGN,56
+Computer Gaming World,50
+ActionTrip,50
+Game Informer,50
+PC Gameworld,49
+Electric Playground,40

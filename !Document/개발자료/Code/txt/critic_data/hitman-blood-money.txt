@@ -1,0 +1,35 @@
+AceGamez,100
+Times Online,100
+Computer Games Online RO,95
+AtomicGamer,93
+Gaming Age,91
+Gamer's Hell,90
+Cheat Code Central,88
+Game Chronicles,88
+GamerNode,88
+Jolt Online Gaming UK,87
+PC Format,86
+PC Gamer UK,85
+GameZone,85
+PC Zone UK,84
+Play.tm,84
+Game Almighty,84
+ActionTrip,83
+GameSpot,82
+Worth Playing,82
+PC Gamer,81
+VideoGamer,80
+1UP,80
+IGN,80
+Yahoo!,80
+GamesRadar+,80
+NTSC-uk,80
+games(TM),80
+CPUGamer,80
+Game Informer,78
+GameWatcher,77
+Game Over Online,76
+My Gamer,74
+Edge Magazine,70
+Play Magazine,65
+Computer Games Magazine,50

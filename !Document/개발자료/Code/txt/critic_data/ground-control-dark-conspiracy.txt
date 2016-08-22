@@ -1,0 +1,7 @@
+GameZone,85
+CNET Gamecenter,80
+IGN,80
+GameSpot,79
+GamePower,75
+ActionTrip,73
+Gaming Age,67

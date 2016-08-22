@@ -1,0 +1,11 @@
+IncGamers,90
+Gaming Nexus,88
+Next Level Gaming,80
+IGN,80
+GameZone,80
+GameShark,80
+Gamers' Temple,80
+Warcry,79
+PC Gameworld,78
+Computer Gaming World,70
+PC Gamer,62

@@ -1,0 +1,18 @@
+Adrenaline Vault,100
+Four Fat Chicks,100
+ActionTrip,92
+Game Revolution,91
+All Game Guide,90
+GamePen,90
+Game Informer,88
+GameSpot,88
+IGN,87
+Game Over Online,85
+GameZone,85
+GameSpy,84
+Media and Games Online Network,82
+PC Gameworld,80
+Electric Playground,80
+PC Gamer,76
+Yahoo!,60
+Computer Gaming World,50

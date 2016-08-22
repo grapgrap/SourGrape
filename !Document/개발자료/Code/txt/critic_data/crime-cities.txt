@@ -1,0 +1,7 @@
+Daily Radar,88
+IGN,81
+GameZone,75
+Computer Games Magazine,60
+GameSpot,59
+ActionTrip,59
+Yahoo!,50

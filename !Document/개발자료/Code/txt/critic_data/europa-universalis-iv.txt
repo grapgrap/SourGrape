@@ -1,0 +1,34 @@
+LEVEL (Czech Republic),100
+Eurogamer Sweden,100
+Riot Pixels,95
+GRYOnline.pl,95
+Destructoid,95
+PC Gamer,91
+PC PowerPlay,90
+CD-Action,90
+Gaming Nexus,90
+Pelit (Finland),90
+Hyper Magazine,90
+Games.cz,90
+IGN Italia,90
+Gamer.no,90
+Gamer.nl,90
+Hardcore Gamer,90
+GameSpot,90
+GameWatcher,90
+Multiplayer.it,90
+GamesBeat,90
+IGN,89
+4Players.de,86
+Vandal Online,85
+Hooked Gamers,85
+Meristation,85
+Everyeye.it,83
+DarkStation,80
+Thunderbolt,80
+The Escapist,80
+IncGamers,80
+GameStar,78
+Gamereactor Sweden,70
+Joystiq,70
+Edge Magazine,70

@@ -1,0 +1,71 @@
+Quarter to Three,100
+GameOver.gr,95
+Impulsegamer,93
+PC Master (Greece),92
+GameTrailers,91
+DarkStation,90
+Digital Chumps,90
+GRYOnline.pl,90
+Joystiq,90
+GamesRadar+,90
+Eurogamer Italy,90
+GameSpot,90
+Pelit (Finland),88
+NZGamer,88
+GamingTrend,88
+3DJuegos,88
+Game Informer,88
+Everyeye.it,86
+ActionTrip,86
+GameStar,86
+CD-Action,85
+Gamer.nl,85
+Multiplayer.it,85
+JeuxActu,85
+XGN,85
+GameWatcher,85
+GameFront,85
+Vandal Online,85
+ZTGD,85
+Polygon,85
+PC Games (Germany),84
+Riot Pixels,83
+Games Master UK,83
+GamesBeat,83
+LEVEL (Czech Republic),80
+Eurogamer Portugal,80
+Hooked Gamers,80
+Telegraph,80
+Edge Magazine,80
+DarkZero,80
+Worth Playing,80
+games(TM),80
+SpazioGames,80
+Armchair Empire,80
+Post Arcade (National Post),80
+Gamer.no,80
+Eurogamer Germany,80
+AtomicGamer,80
+Giant Bomb,80
+Meristation,80
+Game Revolution,80
+Gamereactor Sweden,80
+Digital Spy,80
+Eurogamer Sweden,80
+Gamereactor Denmark,80
+PC Gamer UK,80
+IGN,77
+GameCritics,75
+Gaming Age,75
+Machinima,75
+Level7.nu,70
+PC PowerPlay,70
+Thunderbolt,70
+IncGamers,70
+Games.cz,70
+InsideGamer.nl,70
+Gameblog.fr,70
+IGN Italia,70
+Eurogamer,70
+Destructoid,70
+Gameplanet,65

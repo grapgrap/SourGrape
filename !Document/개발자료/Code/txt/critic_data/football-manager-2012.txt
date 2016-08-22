@@ -1,0 +1,45 @@
+GameOver.gr,95
+GamingXP,91
+SpazioGames,91
+Gamereactor Denmark,90
+Cynamite,90
+Telegraph,90
+Multiplayer.it,90
+Meristation,90
+Level7.nu,90
+Computer and Video Games,90
+Gamer.no,90
+GameWatcher,90
+Games.cz,90
+IGN,90
+Everyeye.it,90
+VideoGamer,90
+PALGN,85
+Games Master UK,85
+CD-Action,85
+Gamer.nl,85
+GRYOnline.pl,85
+Vandal Online,85
+XGN,85
+GameStar,85
+PC Gamer UK,84
+3DJuegos,83
+Pelit (Finland),81
+Eurogamer,80
+Impulsegamer,80
+Absolute Games,80
+PC Games (Russia),80
+LEVEL (Czech Republic),80
+Eurogamer Portugal,80
+Eurogamer Spain,80
+Metro GameCentral,80
+Total Video Games,80
+Eurogamer Sweden,80
+Gamekult,80
+GameSpot,80
+Eurogamer Italy,80
+Digital Spy,80
+NZGamer,75
+Bit-Gamer,75
+IncGamers,70
+Gameblog.fr,60

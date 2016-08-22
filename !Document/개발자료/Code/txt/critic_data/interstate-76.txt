@@ -1,0 +1,6 @@
+PC Gamer,93
+GameSpot,89
+Game Revolution,83
+Adrenaline Vault,80
+Computer Games Magazine,60
+Computer and Video Games,50

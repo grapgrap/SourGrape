@@ -1,0 +1,9 @@
+IncGamers,75
+PC Gamer,70
+Game Chronicles,68
+Gamers' Temple,58
+GamingExcellence,56
+Armchair Empire,55
+GameSpot,53
+GameWatcher,48
+G4 TV,40

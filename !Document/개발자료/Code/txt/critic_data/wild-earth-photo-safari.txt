@@ -1,0 +1,10 @@
+Four Fat Chicks,100
+CPUGamer,80
+PC Gamer UK,79
+GameZone,75
+PC Format,71
+VideoGamer,70
+Jolt Online Gaming UK,69
+Gamers Europe,65
+PC Zone UK,64
+Eurogamer,50

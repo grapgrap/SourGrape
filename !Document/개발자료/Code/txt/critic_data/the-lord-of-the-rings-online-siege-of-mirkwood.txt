@@ -1,0 +1,8 @@
+GamingTrend,91
+IGN,90
+Pelit (Finland),90
+GameStar,82
+Gamervision,80
+Eurogamer,80
+PC Gamer UK,77
+PC Zone UK,76

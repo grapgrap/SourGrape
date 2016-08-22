@@ -1,0 +1,11 @@
+Gameplanet,70
+GameZone,65
+PC Games (Germany),64
+Play (Poland),60
+GamingTrend,59
+IGN,53
+PC PowerPlay,50
+LEVEL (Czech Republic),50
+PC Gamer,48
+PC Gamer UK,42
+PC Format,38

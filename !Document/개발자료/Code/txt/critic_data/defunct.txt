@@ -1,0 +1,3 @@
+XGN,75
+GameGrin,70
+GameWatcher,70

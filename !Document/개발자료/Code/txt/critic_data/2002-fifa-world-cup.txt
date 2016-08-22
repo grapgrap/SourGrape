@@ -1,0 +1,9 @@
+IGN,93
+GameZone,92
+Media and Games Online Network,90
+GameSpot,88
+Yahoo!,80
+ActionTrip,71
+Computer Games Magazine,70
+Computer Gaming World,70
+PC Gamer,56

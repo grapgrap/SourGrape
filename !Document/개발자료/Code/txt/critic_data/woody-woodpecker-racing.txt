@@ -1,0 +1,7 @@
+GameZone,85
+All Game Guide,60
+Daily Radar,50
+IGN,45
+Computer Games Magazine,40
+GameSpot,36
+Game Over Online,30

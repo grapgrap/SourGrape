@@ -1,0 +1,9 @@
+GameZone,84
+GamePro,80
+ActionTrip,77
+GameSpot,75
+GameSpy,75
+PC Gamer,73
+Computer Games Magazine,60
+Next Generation Magazine,60
+Game Revolution,25

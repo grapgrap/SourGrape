@@ -1,0 +1,12 @@
+Yahoo!,100
+Computer Games Magazine,100
+Computer Gaming World,100
+GameSpy,94
+GameSpot,92
+Electric Playground,92
+Media and Games Online Network,90
+PC Gamer,90
+Games Radar,89
+Gamezilla!,87
+IGN,83
+Cincinnati Enquirer,80

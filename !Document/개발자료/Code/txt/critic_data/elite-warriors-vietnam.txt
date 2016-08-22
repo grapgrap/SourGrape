@@ -1,0 +1,11 @@
+GameZone,63
+Next Level Gaming,62
+Game Chronicles,52
+Worth Playing,51
+GameSpot,50
+GameSpy,50
+IGN,50
+Cheat Code Central,50
+G4 TV,40
+Computer Gaming World,30
+PC Gamer,22

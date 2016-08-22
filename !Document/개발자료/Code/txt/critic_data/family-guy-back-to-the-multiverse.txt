@@ -1,0 +1,4 @@
+CD-Action,60
+GameStar,52
+Vandal Online,50
+PC Gamer,20

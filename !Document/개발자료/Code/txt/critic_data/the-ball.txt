@@ -1,0 +1,22 @@
+Gamer Limit,85
+IncGamers,82
+PC Gamer,81
+PC Format,80
+PC PowerPlay,80
+CPUGamer,80
+GamingXP,73
+Multiplayer.it,72
+LEVEL (Czech Republic),70
+Gamer.no,70
+VideoGamer,70
+games(TM),70
+AtomicGamer,70
+IGN,70
+Edge Magazine,60
+Eurogamer,60
+Gameblog.fr,60
+SpazioGames,55
+GameZone,55
+GameSpot,55
+Absolute Games,50
+Gamer.nl,50

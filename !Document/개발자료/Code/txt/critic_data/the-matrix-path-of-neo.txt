@@ -1,0 +1,17 @@
+Stuff,95
+Cincinnati Enquirer,81
+Cheat Code Central,80
+IC-Games,80
+The New York Times,76
+Total Video Games,70
+GameSpot,68
+GameZone,67
+PC Gamer,67
+IGN,65
+ActionTrip,64
+Gamer's Hell,64
+Computer Gaming World,60
+Gaming Target,57
+Edge Magazine,50
+Computer Games Magazine,30
+Computer and Video Games,19

@@ -1,0 +1,7 @@
+GameZone,75
+IncGamers,70
+PC Arena,70
+Jolt Online Gaming UK,66
+PC Gamer,61
+GameSpot,48
+PC Format,39

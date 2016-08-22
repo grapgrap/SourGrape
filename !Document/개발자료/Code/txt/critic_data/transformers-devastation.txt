@@ -1,0 +1,10 @@
+LevelUp,90
+Vandal Online,84
+PLAY! Zine,80
+CD-Action,75
+GameStar,71
+PCWorld,70
+GameWatcher,70
+Hooked Gamers,70
+Riot Pixels,65
+Rock, Paper, Shotgun,

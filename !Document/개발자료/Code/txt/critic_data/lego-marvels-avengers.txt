@@ -1,0 +1,5 @@
+GameStar,79
+Hooked Gamers,70
+PC Gamer,52
+CD-Action,50
+Rock, Paper, Shotgun,

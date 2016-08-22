@@ -1,0 +1,2 @@
+GamingTrend,75
+SpazioGames,70

@@ -1,0 +1,17 @@
+Twinfinite,100
+Pelit (Finland),85
+GameCritics,80
+God is a Geek,80
+Digital Chumps,78
+RPG Fan,76
+GamingTrend,75
+Game Rant,70
+COGconnected,70
+Arcade Sushi,70
+DarkStation,60
+Adventure Gamers,60
+Hardcore Gamer,60
+PCGamesN,60
+GameSpot,50
+Digitally Downloaded,40
+CGMagazine,40

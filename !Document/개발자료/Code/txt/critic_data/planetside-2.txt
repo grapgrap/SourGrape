@@ -1,0 +1,42 @@
+AusGamers,95
+GamingTrend,94
+Everyeye.it,90
+GamingXP,90
+Hyper Magazine,90
+Games Master UK,90
+Eurogamer Italy,90
+GamesRadar+,90
+PC PowerPlay,90
+IGN,90
+Eurogamer,90
+AtomicGamer,90
+GameSpy,90
+PC Gamer,90
+Ten Ton Hammer,90
+PC Master (Greece),89
+Pelit (Finland),89
+GameTrailers,87
+GameStar,87
+MMORPG.com,86
+GameWatcher,85
+CD-Action,85
+GameSpot,85
+Vandal Online,85
+Multiplayer.it,85
+GRYOnline.pl,85
+Meristation,85
+3DJuegos,84
+GameFront,80
+Edge Magazine,80
+Gamereactor Sweden,80
+LEVEL (Czech Republic),80
+Eurogamer Germany,80
+Metro GameCentral,80
+The Escapist,80
+Armchair Empire,75
+Polygon,75
+Destructoid,75
+DarkStation,70
+Game Revolution,70
+Gamer.nl,70
+Gameblog.fr,70

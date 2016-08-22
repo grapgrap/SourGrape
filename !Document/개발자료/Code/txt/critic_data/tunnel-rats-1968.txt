@@ -1,0 +1,7 @@
+LEVEL (Czech Republic),40
+IGN,38
+PC Gamer UK,37
+Meristation,30
+GameSpot,25
+PC Zone UK,17
+Absolute Games,1

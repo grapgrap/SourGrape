@@ -1,0 +1,56 @@
+GameTap,100
+Cheat Code Central,100
+GotNext,100
+PC Gamer,98
+Game Chronicles,98
+GameWatcher,97
+GamingTrend,96
+GameSpot,95
+GamePro,95
+WHAM! Gaming,95
+GameCritics,95
+PC Gameworld,95
+PTGamers,95
+IGN,94
+GameStar,94
+Game Over Online,94
+GameZone,93
+YouGamers,93
+PC Zone UK,92
+Gamer 2.0,92
+Play.tm,92
+Game Almighty,92
+PC Gamer UK,92
+ActionTrip,91
+PC Format,91
+GameShark,91
+Jolt Online Gaming UK,91
+Game Revolution,91
+GamingExcellence,91
+Eurogamer,90
+GameDaily,90
+VideoGamer,90
+Game Informer,90
+Edge Magazine,90
+games(TM),90
+GameSpy,90
+Gamer's Hell,90
+Yahoo!,90
+Games Master UK,89
+Gaming Nexus,89
+GameTrailers,88
+FiringSquad,88
+Worth Playing,88
+Pelit (Finland),88
+Gamers' Temple,88
+NZGamer,88
+Computer Games Online RO,86
+GamerNode,85
+The New York Times,85
+Armchair Empire,85
+CPUGamer,85
+1UP,80
+Total Video Games,80
+AceGamez,80
+Boomtown,80
+Thunderbolt,80

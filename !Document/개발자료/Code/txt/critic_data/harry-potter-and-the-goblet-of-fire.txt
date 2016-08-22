@@ -1,0 +1,16 @@
+PGNx Media,80
+GameZone,80
+Computer Games Magazine,80
+GameSpot,73
+IGN,72
+Cheat Code Central,70
+IncGamers,70
+PC Gameworld,70
+Eurogamer,60
+Computer Gaming World,60
+Jolt Online Gaming UK,60
+Sydney Morning Herald,60
+G4 TV,60
+AceGamez,50
+Worth Playing,40
+PC Gamer,35

@@ -1,0 +1,22 @@
+GameNow,100
+Armchair Empire,87
+Worth Playing,86
+Next Level Gaming,85
+PC Gameworld,85
+PC Gamer,85
+GameSpy,85
+Gamers' Temple,84
+Gamer's Pulse,84
+GameSpot,83
+IGN,82
+Game Over Online,81
+Computer Games Magazine,80
+G4 TV,80
+Computer Gaming World,80
+GameZone,79
+Game Informer,78
+RealGamer,76
+ActionTrip,72
+Game Revolution,67
+Gaming Age,67
+Yahoo!,50

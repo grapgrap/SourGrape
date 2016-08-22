@@ -1,0 +1,14 @@
+Yahoo!,80
+Computer Games Magazine,70
+Gamer's Hell,65
+GameSpy,60
+Computer Gaming World,60
+PC Gamer,57
+GameZone,57
+PC Gameworld,50
+GameSpot,49
+Boomtown,40
+Game Chronicles,35
+GamerFeed,30
+Worth Playing,30
+eToychest,20

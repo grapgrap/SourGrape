@@ -1,0 +1,3 @@
+GameSpot,80
+DarkStation,80
+CD-Action,70

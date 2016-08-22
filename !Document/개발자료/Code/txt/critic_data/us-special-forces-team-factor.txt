@@ -1,0 +1,4 @@
+PC Gameworld,50
+GameSpot,46
+Adrenaline Vault,40
+Computer Games Magazine,40

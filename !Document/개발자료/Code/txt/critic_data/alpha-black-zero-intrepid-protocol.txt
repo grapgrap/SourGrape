@@ -1,0 +1,18 @@
+GameZone,80
+PC Format,68
+PC Gamer,62
+Computer and Video Games,61
+IGN,60
+Warcry,53
+Gamer's Hell,53
+GameSpot,51
+GamerFeed,50
+Adrenaline Vault,50
+IncGamers,50
+Worth Playing,45
+Play Magazine,42
+GameSpy,40
+My Gamer,38
+eToychest,35
+Boomtown,30
+Computer Gaming World,30

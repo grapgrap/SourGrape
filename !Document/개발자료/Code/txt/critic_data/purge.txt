@@ -1,0 +1,10 @@
+ActionTrip,72
+GameZone,67
+Cheat Code Central,60
+PC Gamer,57
+IGN,55
+GameSpot,51
+Gaming Age,50
+Computer Games Magazine,40
+Gamezilla!,40
+G4 TV,20

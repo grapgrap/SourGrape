@@ -1,0 +1,19 @@
+Happy Puppy,95
+GameZone,90
+ActionTrip,89
+Games Radar,88
+Gamers' Temple,88
+Armchair Empire,88
+Game Revolution,83
+GameSpot,83
+Total Video Games,80
+GamePro,80
+Gamer's Pulse,80
+IGN,80
+GamePower,75
+Electric Playground,75
+GameSpy,75
+Gamezilla!,72
+Yahoo!,50
+All Game Guide,50
+Adrenaline Vault,50

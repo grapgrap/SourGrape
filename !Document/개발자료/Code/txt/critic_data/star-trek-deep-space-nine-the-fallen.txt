@@ -1,0 +1,23 @@
+Hot Games,100
+Antagonist,92
+Eurogamer,90
+Gamer's Pulse,90
+Daily Radar,88
+GamePower,88
+Game Revolution,83
+GameSpy,82
+Electric Playground,80
+Computer Games Magazine,80
+CNET Gamecenter,80
+All Game Guide,80
+IGN,78
+GameSpot,77
+Four Fat Chicks,75
+GameZone,75
+Games Radar,75
+GamerWeb PC,75
+PC Gamer,72
+Spank!,70
+Game Over Online,70
+Happy Puppy,70
+Adrenaline Vault,70

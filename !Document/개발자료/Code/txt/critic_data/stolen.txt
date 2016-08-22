@@ -1,0 +1,10 @@
+Gaming Horizon,77
+BonusStage,70
+1UP,65
+Total Video Games,60
+GameSpot,53
+Edge Magazine,50
+Gamer's Hell,35
+PC Format,31
+games(TM),30
+PC Gamer,28

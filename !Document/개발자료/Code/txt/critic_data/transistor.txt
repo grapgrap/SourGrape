@@ -1,0 +1,35 @@
+LEVEL (Czech Republic),100
+CalmDownTom,100
+GameWatcher,100
+Digitally Downloaded,100
+Gaming Nexus,90
+COGconnected,90
+IGN,90
+GameTrailers,90
+Game Informer,90
+Eurogamer,90
+Meristation,90
+Cheat Code Central,90
+GameCritics,85
+3DJuegos,85
+Polygon,85
+Destructoid,85
+Ragequit.gr,82
+CD-Action,80
+PC PowerPlay,80
+Hyper Magazine,80
+DarkStation,80
+Games.cz,80
+Slant Magazine,80
+Gamereactor Denmark,80
+Eurogamer Germany,80
+Digital Spy,80
+RPGamer,80
+PC Gamer,80
+GameSpot,80
+GameStar,74
+Riot Pixels,70
+Metro GameCentral,70
+The Escapist,70
+GameFront,70
+Quarter to Three,40

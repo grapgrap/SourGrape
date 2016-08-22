@@ -1,0 +1,7 @@
+GameZone,75
+GameSpot,63
+Computer Games Magazine,50
+Computer Gaming World,40
+G4 TV,40
+PC Gamer,35
+IGN,20

@@ -1,0 +1,57 @@
+DarkStation,100
+CD-Action,100
+GameOver.gr,100
+LEVEL (Czech Republic),100
+Impulsegamer,100
+Gamer.no,100
+DarkZero,100
+AusGamers,100
+Games.cz,100
+We Got This Covered,100
+Gameplanet,100
+Atomix,100
+God is a Geek,100
+LevelUp,100
+Gamer.nl,100
+Eurogamer Italy,100
+GameWatcher,100
+PCGamesN,100
+Twinfinite,100
+Hardcore Gamer,100
+IGN,100
+Guardian,100
+JeuxActu,100
+VideoGamer,100
+Eurogamer Poland,100
+Meristation,100
+Attack of the Fanboy,100
+Gameblog.fr,100
+Ragequit.gr,98
+GamesVillage.it,98
+IGN Spain,97
+Game Over Online,97
+Hobby Consolas,96
+Vandal Online,96
+SpazioGames,95
+ActionTrip,95
+NZGamer,95
+GamingTrend,95
+InsideGamer.nl,95
+Hooked Gamers,95
+PC Games (Germany),95
+GRYOnline.pl,95
+XGN,95
+Merlin'in Kazan©¥ (Turkey),95
+3DJuegos,95
+Worth Playing,92
+Digital Chumps,92
+PC Gamer,92
+GameStar,92
+Gaming Age,91
+PC PowerPlay,90
+Digitally Downloaded,90
+Dealspwn,90
+Lazygamer,90
+4Players.de,90
+Cheat Code Central,86
+CGMagazine,70

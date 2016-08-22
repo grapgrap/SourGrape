@@ -1,0 +1,6 @@
+GameZone,80
+Gamers' Temple,65
+GameSpot,62
+Happy Puppy,55
+All Game Guide,50
+GamePower,25

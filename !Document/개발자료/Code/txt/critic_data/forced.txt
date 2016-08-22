@@ -1,0 +1,25 @@
+NZGamer,86
+GamingTrend,85
+GameStar,84
+DarkZero,80
+RPG Fan,80
+Hardcore Gamer,80
+GameFront,80
+Riot Pixels,78
+SpazioGames,75
+GameCritics,75
+GameWatcher,75
+Gaming Nexus,74
+Hooked Gamers,74
+GameOver.gr,70
+Eurogamer Italy,70
+Destructoid,70
+Gameblog.fr,70
+Multiplayer.it,70
+ZTGD,70
+4Players.de,69
+PC Gamer UK,65
+Everyeye.it,65
+RPGamer,60
+God is a Geek,60
+GameSpot,50

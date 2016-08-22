@@ -1,0 +1,44 @@
+PC PowerPlay,90
+Total PC Gaming,90
+Play.tm,87
+PC Gamer UK,87
+Gamers.at,86
+AceGamez,86
+Pelit (Finland),86
+GameStar,85
+GameZone,85
+AtomicGamer,85
+Gamer Limit,85
+InsideGamer.nl,85
+Multiplayer.it,84
+IGN,82
+Vandal Online,82
+GamingXP,80
+LEVEL (Czech Republic),80
+Eurogamer,80
+GameSpot,80
+Metro GameCentral,80
+GameSpy,80
+Boomtown,80
+BigPond GameArena,80
+PC Zone UK,80
+PC Format,80
+3DJuegos,80
+games(TM),80
+Meristation,80
+Impulsegamer,80
+Gamekult,80
+Games Master UK,79
+GamingExcellence,78
+ActionTrip,77
+Worth Playing,76
+SpazioGames,75
+9Lives,75
+Cynamite,70
+Eurogamer Italy,70
+Cheat Code Central,70
+Edge Magazine,70
+Gamereactor Sweden,70
+Gamer.nl,70
+Everyeye.it,65
+Absolute Games,54

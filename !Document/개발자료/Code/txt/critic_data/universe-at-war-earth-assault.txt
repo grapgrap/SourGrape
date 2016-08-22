@@ -1,0 +1,48 @@
+ActionTrip,87
+The New York Times,86
+Gamers' Temple,86
+PC Gamer,85
+Computer Games Online RO,85
+YouGamers,84
+Game Informer,83
+Gamers.at,83
+GameStar,82
+GameWatcher,82
+Pelit (Finland),81
+Hardcore Gamer,80
+GamesRadar+,80
+IGN,80
+GamePro,80
+Cheat Code Central,80
+GamerNode,80
+GameZone,80
+Armchair Empire,80
+Total Video Games,80
+G4 TV,80
+Play (Poland),80
+Gamer 2.0,80
+PC PowerPlay,80
+PC Zone UK,79
+PC Gamer UK,78
+Play Magazine,75
+GameSpot,75
+Worth Playing,75
+PALGN,75
+PC Format,75
+NZGamer,75
+PTGamers,75
+Jolt Online Gaming UK,72
+1UP,70
+GameSpy,70
+GameDaily,70
+GameTap,70
+Game Over Online,70
+Eurogamer,70
+Gamer.nl,70
+GotNext,70
+AceGamez,70
+Gameplanet,70
+MEGamers,69
+Game Revolution,67
+Edge Magazine,60
+Gameplayer,60

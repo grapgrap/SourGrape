@@ -1,0 +1,23 @@
+GamingTrend,90
+PC Gameworld,86
+GameZone,85
+Gaming Nexus,83
+Gaming Age,83
+Game Chronicles,80
+PC Gamer,80
+Armchair Empire,79
+Worth Playing,75
+netjak,72
+GamerFeed,70
+My Gamer,70
+Adrenaline Vault,70
+Gamers' Temple,67
+GameSpot,51
+IGN,50
+Cheat Code Central,50
+Pelit (Finland),48
+Eurogamer,40
+Computer Games Magazine,40
+1UP,30
+Computer Gaming World,20
+GameSpy,10

@@ -1,0 +1,12 @@
+GameZone,75
+Gamer's Pulse,74
+PC Gamer,69
+Game Informer,65
+Game Over Online,60
+GameSpy,60
+ActionTrip,59
+GameSpot,59
+Adrenaline Vault,50
+Computer Games Magazine,50
+G4 TV,40
+Computer Gaming World,40

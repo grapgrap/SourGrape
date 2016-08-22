@@ -1,0 +1,5 @@
+IGN,45
+Worth Playing,45
+VGPub,41
+PC Format,39
+GameSpot,36

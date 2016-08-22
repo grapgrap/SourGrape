@@ -1,0 +1,5 @@
+GameZone,85
+GameSpy,60
+GameSpot,57
+ActionTrip,55
+Yahoo!,40

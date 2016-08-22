@@ -1,0 +1,6 @@
+GameZone,72
+GameSpy,42
+PC Gameworld,30
+IGN,25
+G4 TV,20
+Game Chronicles,10

@@ -1,0 +1,23 @@
+1UP,90
+Worth Playing,90
+Gamers' Temple,90
+GameDaily,90
+AtomicGamer,88
+Game Over Online,88
+PALGN,85
+GameWatcher,80
+GameSpy,80
+Yahoo!,80
+Jolt Online Gaming UK,80
+Game Informer,80
+Play Magazine,80
+G4 TV,80
+AceGamez,80
+VideoGamer,80
+PC Gamer,79
+GameSpot,79
+IGN,78
+PC Zone UK,77
+PC Format,71
+Eurogamer,70
+PC Gamer UK,70

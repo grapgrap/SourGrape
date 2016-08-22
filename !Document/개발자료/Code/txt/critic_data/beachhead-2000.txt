@@ -1,0 +1,14 @@
+Electric Playground,75
+Happy Puppy,70
+Da Gameboyz,70
+GameZone,65
+PC Gameworld,60
+IGN,60
+CNET Gamecenter,50
+Maxim Online,50
+All Game Guide,40
+Computer Games Magazine,40
+GameSpot,39
+Adrenaline Vault,30
+Game Over Online,20
+Daily Radar,0

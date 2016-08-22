@@ -1,0 +1,16 @@
+PC Format,85
+Cincinnati Enquirer,70
+GameZone,69
+PC Gamer,68
+PC Gameworld,65
+IGN,65
+Quandary,60
+GameSpy,59
+ActionTrip,59
+GameSpot,57
+Gamers' Temple,56
+Game Over Online,54
+netjak,48
+TotalGames.net,41
+Computer Gaming World,40
+Yahoo!,20

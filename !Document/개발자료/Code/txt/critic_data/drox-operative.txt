@@ -1,0 +1,7 @@
+IncGamers,90
+GamingTrend,83
+RPG Fan,80
+Multiplayer.it,78
+PC PowerPlay,70
+Hooked Gamers,61
+EGM,60

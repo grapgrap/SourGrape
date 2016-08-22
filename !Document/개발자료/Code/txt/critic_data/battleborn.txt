@@ -1,0 +1,36 @@
+GamingTrend,90
+Game Revolution,90
+LevelUp,87
+COGconnected,86
+Pelit (Finland),83
+Hooked Gamers,80
+MMORPG.com,80
+Eurogamer Italy,80
+IGN Denmark,80
+IGN Italia,80
+Multiplayer.it,78
+Polygon,75
+Meristation,75
+Power Unlimited,73
+Ragequit.gr,72
+PC Gamer,72
+IGN,71
+Gaming Nexus,70
+Game World Navigator Magazine,70
+Gamer.nl,70
+DarkZero,70
+GameSpot,70
+PLAY! Zine,65
+GRYOnline.pl,65
+Games Master UK,62
+CD-Action,60
+PC PowerPlay,60
+LEVEL (Czech Republic),60
+Brash Games,60
+Game Debate,60
+USgamer,60
+Games.cz,50
+GameWatcher,40
+Washington Post,40
+Rock, Paper, Shotgun,
+The A.V. Club,

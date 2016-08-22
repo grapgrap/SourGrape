@@ -1,0 +1,6 @@
+GameZone,90
+Electric Playground,90
+Gaming Age,83
+GameSpot,76
+Computer Gaming World,70
+GameSpy,64

@@ -1,0 +1,4 @@
+GameWatcher,85
+IGN Italia,75
+Hardcore Gamer,70
+Multiplayer.it,65

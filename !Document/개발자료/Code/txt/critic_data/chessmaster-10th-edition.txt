@@ -1,0 +1,9 @@
+GamerFeed,90
+GameZone,85
+IGN,84
+PC Gamer,80
+Worth Playing,80
+Game Chronicles,80
+PC Gamer UK,80
+GameSpot,78
+Warcry,77

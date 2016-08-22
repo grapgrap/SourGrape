@@ -1,0 +1,28 @@
+Joystiq,100
+Softpedia,90
+GameWatcher,90
+Pelit (Finland),85
+GamesBeat,85
+Ragequit.gr,84
+PC Games (Germany),82
+Riot Pixels,81
+Game World Navigator Magazine,81
+Adventure Gamers,80
+PC PowerPlay,80
+Games.cz,80
+Gamereactor Denmark,80
+GameFront,80
+Hooked Gamers,80
+GameTrailers,80
+IncGamers,80
+Digital Spy,80
+GRYOnline.pl,80
+The Escapist,80
+GameSpot,80
+GameStar,73
+CD-Action,70
+GameOver.gr,70
+USgamer,70
+GamesRadar+,70
+Eurogamer,70
+PC Gamer,65

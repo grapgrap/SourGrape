@@ -1,0 +1,5 @@
+IGN,89
+GameZone,89
+PC Gamer,78
+GameSpot,76
+Armchair Empire,75

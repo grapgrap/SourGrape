@@ -1,0 +1,24 @@
+GameFront,47
+XGN,45
+GameStar,44
+IGN,43
+IGN Italia,40
+Everyeye.it,40
+GameWatcher,40
+Gameblog.fr,40
+PC Gamer,39
+PC Games (Germany),39
+3DJuegos,35
+CD-Action,30
+Eurogamer Germany,30
+Gamer.no,30
+Vandal Online,30
+Multiplayer.it,30
+Gamereactor Sweden,30
+PCGamesN,30
+NZGamer,28
+Destructoid,25
+GameSpot,20
+IncGamers,20
+Quarter to Three,20
+4Players.de,16

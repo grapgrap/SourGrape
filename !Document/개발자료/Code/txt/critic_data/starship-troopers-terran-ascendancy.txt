@@ -1,0 +1,19 @@
+PC Gameworld,95
+Hot Games,90
+Adrenaline Vault,80
+GameSpy,78
+IGN,72
+Happy Puppy,70
+All Game Guide,70
+Computer Games Magazine,70
+CNET Gamecenter,70
+PC Gamer,60
+GamePro,60
+GamerWeb PC,60
+Eurogamer,60
+Yahoo!,60
+CheckOut,60
+Antagonist,58
+Gamer's Pulse,55
+GameSpot,54
+Daily Radar,50

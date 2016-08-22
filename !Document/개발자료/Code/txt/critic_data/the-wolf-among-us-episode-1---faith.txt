@@ -1,0 +1,45 @@
+The Escapist,100
+Gaming Age,100
+Gaming Nexus,95
+Hyper Magazine,90
+Hardcore Gamer,90
+Gamers' Temple,90
+Hooked Gamers,90
+GameWatcher,90
+RPG Fan,90
+Adventure Gamers,90
+ZTGD,90
+DarkStation,90
+Thunderbolt,90
+USgamer,90
+Game Informer,90
+IGN,90
+PC Gamer,90
+Pelit (Finland),88
+Impulsegamer,86
+Game Over Online,86
+Gameplanet,85
+NowGamer,85
+4Players.de,85
+Vandal Online,84
+GameStar,82
+Riot Pixels,80
+LEVEL (Czech Republic),80
+PCGamesN,80
+Games.cz,80
+DarkZero,80
+Eurogamer Spain,80
+Eurogamer Italy,80
+Digital Spy,80
+JeuxActu,80
+Eurogamer Germany,80
+3DJuegos,80
+Game Revolution,80
+GameTrailers,80
+Destructoid,80
+VideoGamer,80
+GameSpot,80
+CD-Action,75
+SpazioGames,75
+Multiplayer.it,74
+IncGamers,70

@@ -1,0 +1,4 @@
+Adrenaline Vault,60
+GameZone,60
+Yahoo!,40
+Computer Gaming World,40

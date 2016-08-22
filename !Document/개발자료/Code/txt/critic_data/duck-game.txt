@@ -1,0 +1,6 @@
+CGMagazine,95
+Gamers' Temple,88
+Destructoid,85
+IGN Italia,75
+ZTGD,75
+IGN Spain,74

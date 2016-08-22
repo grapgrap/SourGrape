@@ -1,0 +1,4 @@
+GameSpot,70
+CD-Action,60
+RPGamer,50
+Destructoid,45

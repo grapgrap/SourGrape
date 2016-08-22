@@ -1,0 +1,8 @@
+games(TM),80
+PC Gamer UK,79
+PC Format,72
+GameSpot,71
+PC Zone UK,68
+PC Gamer,67
+IGN,58
+Computer Games Magazine,40

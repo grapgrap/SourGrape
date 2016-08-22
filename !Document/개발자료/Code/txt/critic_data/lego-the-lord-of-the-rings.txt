@@ -1,0 +1,6 @@
+AusGamers,89
+GameWatcher,85
+CD-Action,85
+GameStar,82
+PC Gamer,77
+LEVEL (Czech Republic),70

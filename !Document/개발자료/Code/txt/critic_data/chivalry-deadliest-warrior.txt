@@ -1,0 +1,5 @@
+IGN,81
+EGM,80
+GameWatcher,75
+Riot Pixels,62
+PC Gamer,55

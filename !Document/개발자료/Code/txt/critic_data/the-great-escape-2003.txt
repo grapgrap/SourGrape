@@ -1,0 +1,11 @@
+Four Fat Chicks,75
+GameZone,63
+PC Gamer,62
+GameSpot,61
+Yahoo!,60
+ActionTrip,52
+games(TM),50
+IGN,50
+TotalGames.net,50
+Computer Games Magazine,40
+Computer Gaming World,40

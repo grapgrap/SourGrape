@@ -1,0 +1,9 @@
+GameStar,75
+Boomtown,70
+AceGamez,70
+Absolute Games,68
+PC Gamer UK,65
+DarkZero,60
+PC Zone UK,60
+PC Format,56
+GameSpot,55

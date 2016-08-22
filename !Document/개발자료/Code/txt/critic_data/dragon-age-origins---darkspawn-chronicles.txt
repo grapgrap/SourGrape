@@ -1,0 +1,4 @@
+GamingXP,89
+LEVEL (Czech Republic),70
+IGN,65
+Gamekult,40

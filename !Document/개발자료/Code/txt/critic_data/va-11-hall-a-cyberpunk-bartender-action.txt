@@ -1,0 +1,13 @@
+CGMagazine,100
+Destructoid,90
+Games.cz,80
+Shacknews,80
+Meristation,80
+Twinfinite,80
+The Escapist,80
+Game Informer,80
+We Got This Covered,80
+Kill Screen,80
+Hardcore Gamer,60
+PC Gamer,60
+Rock, Paper, Shotgun,

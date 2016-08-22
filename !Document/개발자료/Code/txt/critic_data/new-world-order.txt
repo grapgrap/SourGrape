@@ -1,0 +1,12 @@
+GameZone,65
+Game Chronicles,55
+PC Gamer,53
+IGN,42
+ActionTrip,41
+PC Gameworld,22
+GameSpot,21
+G4 TV,20
+Deeko,20
+Computer Gaming World,20
+Computer Games Magazine,20
+Eurogamer,10

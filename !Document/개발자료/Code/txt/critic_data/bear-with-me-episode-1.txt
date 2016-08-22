@@ -1,0 +1,4 @@
+GamingTrend,75
+We Got This Covered,70
+Impulsegamer,60
+Hardcore Gamer,50

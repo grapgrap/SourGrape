@@ -1,0 +1,4 @@
+PC Format,84
+GamingXP,81
+GameStar,79
+Boomtown,70

@@ -1,0 +1,10 @@
+Gamezilla!,96
+GameZone,95
+Sports Gaming Network,79
+PC Gamer,75
+Adrenaline Vault,70
+IGN,70
+Gamer's Pulse,68
+GameSpot,67
+Computer Games Magazine,60
+Yahoo!,40

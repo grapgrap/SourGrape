@@ -1,0 +1,22 @@
+Quarter to Three,100
+PC PowerPlay,90
+Gamer.nl,90
+GRYOnline.pl,90
+Pelit (Finland),89
+PC Gamer,87
+GameWatcher,85
+Destructoid,85
+IGN,84
+Vandal Online,82
+GameStar,81
+Impulsegamer,80
+Eurogamer Italy,80
+Games.cz,80
+Riot Pixels,80
+Gaming Nexus,80
+GameSpot,80
+JeuxActu,80
+4Players.de,70
+Armchair Empire,60
+Hardcore Gamer,60
+LEVEL (Czech Republic),40

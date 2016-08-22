@@ -1,0 +1,33 @@
+NowGamer,85
+Gaming Nexus,80
+SpazioGames,75
+ZTGD,75
+GameTrailers,73
+PC Master (Greece),72
+GameCritics,70
+3DJuegos,70
+IncGamers,70
+The Escapist,70
+Multiplayer.it,68
+GameStar,67
+PC Gamer UK,67
+Gamer.nl,65
+IGN,64
+Games Master UK,60
+Polygon,60
+PC PowerPlay,60
+CD-Action,60
+Games.cz,60
+DarkStation,60
+Eurogamer Italy,60
+AtomicGamer,60
+Gaming Age,58
+GameSpot,55
+Destructoid,55
+4Players.de,50
+Thunderbolt,50
+Eurogamer,50
+Gameblog.fr,50
+GamesRadar+,50
+LEVEL (Czech Republic),40
+Hardcore Gamer,40

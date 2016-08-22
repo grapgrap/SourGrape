@@ -1,0 +1,2 @@
+Gamer Limit,60
+GameZone,50

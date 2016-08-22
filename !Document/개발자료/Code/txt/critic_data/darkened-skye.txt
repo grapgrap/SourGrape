@@ -1,0 +1,10 @@
+Four Fat Chicks,75
+GameSpy,73
+GameSpot,73
+Armchair Empire,71
+IGN,70
+PC Gamer,65
+Adrenaline Vault,60
+ActionTrip,53
+Computer Gaming World,50
+Game Revolution,50

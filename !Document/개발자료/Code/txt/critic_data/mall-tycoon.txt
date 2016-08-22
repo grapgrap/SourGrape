@@ -1,0 +1,10 @@
+GameZone,75
+IGN,47
+GameSpot,46
+Electric Playground,45
+PC Gamer,42
+Gamers' Temple,40
+Game Over Online,38
+Computer Games Magazine,30
+Yahoo!,20
+Computer Gaming World,20

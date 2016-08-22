@@ -1,0 +1,5 @@
+GameSpot,84
+GameZone,78
+PC Gamer,76
+Gamer's Pulse,68
+Gamezilla!,65

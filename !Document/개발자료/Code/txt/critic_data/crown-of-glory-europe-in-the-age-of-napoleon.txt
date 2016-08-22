@@ -1,0 +1,4 @@
+IGN,80
+Worth Playing,75
+Computer Games Magazine,60
+Computer Gaming World,50

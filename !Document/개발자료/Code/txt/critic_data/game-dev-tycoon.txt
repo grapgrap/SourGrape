@@ -1,0 +1,21 @@
+Pelit (Finland),85
+GamingTrend,84
+LEVEL (Czech Republic),80
+PC Master (Greece),78
+Vandal Online,75
+Post Arcade (National Post),75
+Games.cz,70
+XGN,70
+DarkStation,70
+ZTGD,70
+PC PowerPlay,70
+Eurogamer Italy,70
+Games Master UK,68
+Gaming Age,67
+SpazioGames,65
+Meristation,65
+Multiplayer.it,60
+Eurogamer Germany,60
+Destructoid,50
+Eurogamer Sweden,40
+GameCritics,30

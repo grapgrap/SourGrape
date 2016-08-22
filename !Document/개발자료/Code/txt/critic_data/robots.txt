@@ -1,0 +1,3 @@
+Times Online,60
+PC Format,53
+IGN,50

@@ -1,0 +1,54 @@
+Hardcore Gamer,90
+GamingTrend,87
+Destructoid,85
+IGN Italia,85
+GamesBeat,85
+Game Informer,85
+Pelit (Finland),82
+LEVEL (Czech Republic),80
+Hyper Magazine,80
+CD-Action,80
+Games.cz,80
+PC PowerPlay,80
+Multiplayer.it,80
+The Escapist,80
+Riot Pixels,80
+Giant Bomb,80
+GameFront,80
+Eurogamer Italy,80
+GameTrailers,80
+Joystiq,80
+Thunderbolt,80
+Eurogamer Germany,80
+Slant Magazine,80
+GameWatcher,80
+games(TM),80
+Eurogamer,80
+Cheat Code Central,76
+SpazioGames,75
+Gamer.nl,75
+3DJuegos,75
+Meristation,75
+PC Gamer,74
+PC Games (Germany),73
+IGN,73
+Hooked Gamers,71
+Level7.nu,70
+Gamer.no,70
+Everyeye.it,70
+Shacknews,70
+DarkStation,70
+Toronto Sun,70
+GameSpot,70
+GRYOnline.pl,70
+GamesRadar+,70
+EGM,70
+Edge Magazine,70
+Metro GameCentral,70
+VideoGamer,70
+Gameblog.fr,70
+Polygon,70
+4Players.de,65
+GameStar,63
+Eurogamer Sweden,60
+IncGamers,60

@@ -1,0 +1,4 @@
+Just Adventure,75
+GameSpot,60
+PC Gamer,52
+Adventure Gamers,50

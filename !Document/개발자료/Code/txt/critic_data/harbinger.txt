@@ -1,0 +1,21 @@
+Gamezilla!,80
+GameZone,79
+PC Gamer,76
+Four Fat Chicks,75
+Game Over Online,75
+Adrenaline Vault,70
+Electric Playground,70
+Play Magazine,70
+PC Gameworld,68
+ActionTrip,67
+netjak,63
+Game Informer,60
+G4 TV,60
+Armchair Empire,59
+GameSpy,58
+GameSpot,45
+IGN,40
+Computer Games Magazine,40
+Computer Gaming World,40
+Game Revolution,33
+GamerFeed,30

@@ -1,0 +1,3 @@
+GameWatcher,80
+Eurogamer Italy,70
+GameOver.gr,40

@@ -1,0 +1,59 @@
+LEVEL (Czech Republic),100
+Quarter to Three,100
+GameOver.gr,95
+Softpedia,95
+Polygon,95
+Hooked Gamers,95
+ActionTrip,93
+Meristation,93
+Everyeye.it,93
+Ragequit.gr,92
+Worth Playing,91
+Pelit (Finland),91
+Gamer.no,90
+games(TM),90
+Gamer.nl,90
+Hyper Magazine,90
+XGN,90
+PC PowerPlay,90
+Games.cz,90
+IGN Italia,90
+GameSpot,90
+Hardcore Gamer,90
+IGN,90
+NowGamer,90
+Vandal Online,90
+PCGamesN,90
+GRYOnline.pl,90
+Game Revolution,90
+Eurogamer Italy,90
+Eurogamer,90
+Game Informer,90
+3DJuegos,90
+Multiplayer.it,90
+RPG Fan,89
+Game World Navigator Magazine,87
+PC Gamer,87
+GameStar,87
+Destructoid,85
+Games Master UK,85
+GameFront,85
+SpazioGames,85
+GameWatcher,85
+PC Games (Germany),83
+MMORPG.com,82
+CD-Action,80
+Riot Pixels,80
+Giant Bomb,80
+Edge Magazine,80
+Joystiq,80
+RPGamer,80
+Game Over Online,80
+Eurogamer Germany,80
+Gameblog.fr,80
+Cheat Code Central,78
+GameCritics,75
+GamingTrend,75
+God is a Geek,70
+Kill Screen,68
+The Digital Fix,60

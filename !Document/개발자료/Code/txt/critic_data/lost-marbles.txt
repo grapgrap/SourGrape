@@ -1,0 +1,3 @@
+GamingTrend,73
+DarkStation,70
+Hardcore Gamer,70

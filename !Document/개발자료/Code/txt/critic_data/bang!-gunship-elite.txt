@@ -1,0 +1,15 @@
+Hot Games,90
+GameZone,85
+IGN,79
+Daily Radar,75
+CNET Gamecenter,70
+CheckOut,70
+Game Over Online,70
+GameSpot,64
+Happy Puppy,60
+Evil Avatar,60
+GamePro,60
+Electric Playground,55
+Computer Games Magazine,50
+PC Gamer,50
+Adrenaline Vault,50

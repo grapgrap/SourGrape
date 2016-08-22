@@ -1,0 +1,21 @@
+GameZone,90
+Gamer's Pulse,89
+ActionTrip,86
+Electric Playground,84
+Gamezilla!,82
+GameSpot,82
+Game Over Online,81
+FHM,80
+Yahoo!,80
+Next Generation Magazine,80
+Hot Games,80
+Total Video Games,80
+IGN,80
+TotalGames.net,79
+PC Gamer,78
+GameSpy,77
+Computer Gaming World,70
+Computer Games Magazine,60
+G4 TV,60
+Game Revolution,50
+Game Informer,38

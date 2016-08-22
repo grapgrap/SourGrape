@@ -1,0 +1,38 @@
+GameDaily,90
+PC Gamer,88
+PC Gamer UK,88
+Cheat Code Central,86
+Play.tm,85
+Worth Playing,85
+Gamers' Temple,84
+PC Zone UK,83
+Pelit (Finland),83
+Jolt Online Gaming UK,83
+PGNx Media,83
+DailyGame,83
+Game Chronicles,83
+GameStar,81
+ActionTrip,80
+VideoGamer,80
+GameZone,80
+PC Format,80
+AceGamez,80
+IC-Games,80
+Computer Games Online RO,80
+Thunderbolt,80
+IGN,79
+GameTrailers,78
+GamerNode,75
+Gaming Age,75
+Game Informer,73
+GameWatcher,72
+Game Over Online,72
+Gamer 2.0,71
+Edge Magazine,70
+GameSpot,70
+GameSpy,70
+1UP,70
+Game Almighty,65
+Armchair Empire,65
+Boomtown,60
+GameShark,58

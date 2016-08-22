@@ -1,0 +1,12 @@
+Adrenaline Vault,100
+Voodoo Extreme,90
+Gamer's Pulse,83
+GameSpy,78
+Gamezilla!,74
+IGN,72
+Computer Games Magazine,70
+GameZone,70
+PC Gamer,65
+GameSpot,63
+Computer Gaming World,60
+Yahoo!,40

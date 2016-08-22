@@ -1,0 +1,4 @@
+PC Format,82
+PC Zone UK,74
+GameSpot,60
+MEGamers,30

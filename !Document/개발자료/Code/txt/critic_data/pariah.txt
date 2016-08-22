@@ -1,0 +1,27 @@
+Total Video Games,90
+PC Format,86
+Game Informer,85
+BonusStage,84
+Computer and Video Games,81
+GameBiz,80
+IGN,78
+1UP,75
+Play Magazine,75
+Game Chronicles,75
+Pelit (Finland),75
+games(TM),70
+WHAM! Gaming,70
+Edge Magazine,70
+Boomtown,70
+Gamezilla!,70
+PC Gamer,68
+GameZone,67
+Computer Games Online RO,67
+GameSpot,63
+Worth Playing,62
+ActionTrip,60
+GameSpy,60
+Times Online,60
+Pelaaja (Finland),50
+Computer Gaming World,50
+Computer Games Magazine,40

@@ -1,0 +1,19 @@
+Detroit Free Press,100
+Game Chronicles,82
+GameSpy,80
+AltGaming,80
+GamerFeed,80
+Worth Playing,78
+ActionTrip,77
+IGN,75
+GameZone,75
+GameSpot,73
+Jolt Online Gaming UK,73
+Total Video Games,70
+IncGamers,70
+GamePro,70
+Play.tm,68
+PC Format,66
+PC Gamer,65
+Eurogamer,60
+Boomtown,50

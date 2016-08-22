@@ -1,0 +1,30 @@
+GameOver.gr,95
+GamingTrend,90
+Multiplayer.it,90
+Adventure Gamers,90
+Pelit (Finland),89
+PC Gamer,87
+ActionTrip,86
+Gamer.nl,85
+GRYOnline.pl,85
+ICXM,85
+Vandal Online,85
+Kill Screen,85
+COGconnected,84
+IGN Spain,82
+GameCritics,80
+Washington Post,80
+Eurogamer Italy,80
+LEVEL (Czech Republic),80
+Games.cz,80
+3DJuegos,80
+PLAY! Zine,80
+Hardcore Gamer,80
+Destructoid,80
+Brash Games,70
+GameSpot,70
+CD-Action,60
+DarkStation,60
+Attack of the Fanboy,60
+We Got This Covered,50
+Rock, Paper, Shotgun,

@@ -1,0 +1,5 @@
+GamePro,80
+Thunderbolt,80
+3DJuegos,75
+IGN,75
+Gameblog.fr,60

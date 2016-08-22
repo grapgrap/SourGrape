@@ -1,0 +1,6 @@
+ActionTrip,80
+Ragequit.gr,74
+Adventure Gamers,70
+Games.cz,70
+IGN Italia,70
+Hardcore Gamer,50

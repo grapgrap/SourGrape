@@ -1,0 +1,41 @@
+PC PowerPlay,100
+PC Gamer,93
+GameFront,92
+CD-Action,90
+Softpedia,90
+Games.cz,90
+Telegraph,90
+Everyeye.it,90
+Multiplayer.it,90
+The Escapist,90
+Eurogamer Italy,90
+Pelit (Finland),87
+Ragequit.gr,87
+SpazioGames,85
+GameWatcher,85
+LevelUp,85
+JeuxActu,85
+AusGamers,85
+3DJuegos,85
+Destructoid,85
+ActionTrip,83
+Game World Navigator Magazine,82
+LEVEL (Czech Republic),80
+IncGamers,80
+Merlin'in Kazan©¥ (Turkey),80
+PCGamesN,80
+Joystiq,80
+Shacknews,80
+Vandal Online,80
+IGN Italia,80
+Kill Screen,78
+Hooked Gamers,75
+GameStar,73
+Riot Pixels,72
+Slant Magazine,70
+Eurogamer Germany,70
+Meristation,70
+GRYOnline.pl,65
+Digital Trends,60
+GameSpot,60
+IGN,59

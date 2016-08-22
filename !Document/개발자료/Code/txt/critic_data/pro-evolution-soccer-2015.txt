@@ -1,0 +1,8 @@
+IGN,90
+GameStar,87
+CD-Action,85
+PC Gamer,85
+Ragequit.gr,80
+GRYOnline.pl,75
+Game World Navigator Magazine,73
+GameWatcher,60

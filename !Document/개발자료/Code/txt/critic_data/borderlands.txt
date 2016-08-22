@@ -1,0 +1,37 @@
+FiringSquad,93
+AtomicGamer,92
+Total PC Gaming,90
+Game Over Online,90
+IGN,88
+CPUGamer,88
+PC Zone UK,88
+Vandal Online,86
+PC Gamer UK,86
+Destructoid,85
+GameSpot,85
+Gameplanet,85
+3DJuegos,84
+PC Games (Germany),84
+GameShark,83
+SpazioGames,82
+Computer Games Online RO,82
+PC Gamer,81
+Eurogamer Italy,80
+Eurogamer,80
+GameDaily,80
+GameSpy,80
+InsideGamer.nl,80
+Gameplayer Sweden,80
+Gamervision,80
+Telegraph,80
+RealGamer,80
+LEVEL (Czech Republic),80
+Gamers.at,79
+PC Format,79
+GameStar,78
+Digital Chumps,76
+AceGamez,76
+Gamer Limit,75
+PC PowerPlay,60
+Absolute Games,50
+Thunderbolt,50

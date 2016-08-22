@@ -1,0 +1,22 @@
+ZTGD,95
+PC Master (Greece),90
+Thunderbolt,90
+Eurogamer Italy,90
+Hardcore Gamer,90
+Eurogamer Germany,90
+IGN,89
+PC Games (Germany),89
+Hooked Gamers,88
+Multiplayer.it,88
+3DJuegos,86
+Everyeye.it,85
+IGN Italia,85
+SpazioGames,85
+BigPond GameArena,85
+PC Gamer,83
+GameStar,82
+GameWatcher,80
+IncGamers,80
+GameSpot,80
+GameSpy,80
+Riot Pixels,78

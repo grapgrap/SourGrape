@@ -1,0 +1,23 @@
+LEVEL (Czech Republic),100
+Game Rant,100
+Time,100
+IGN,100
+ActionTrip,93
+Pelit (Finland),92
+Adventure Gamers,90
+Eurogamer Poland,90
+PCWorld,90
+PC Gamer,89
+Gamer.nl,85
+XGN,85
+PLAY! Zine,80
+GRYOnline.pl,80
+The Daily Dot,80
+Polygon,80
+Game World Navigator Magazine,77
+Shacknews,70
+High-Def Digest,60
+Games.cz,60
+Ars Technica,
+The A.V. Club,
+Wired,

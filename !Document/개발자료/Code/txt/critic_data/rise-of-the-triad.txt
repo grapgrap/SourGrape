@@ -1,0 +1,40 @@
+PC PowerPlay,90
+ZTGD,85
+Destructoid,85
+GameFront,85
+Pelit (Finland),82
+Hyper Magazine,80
+USgamer,80
+NZGamer,80
+NowGamer,80
+Machinima,80
+AtomicGamer,80
+DarkStation,80
+Vandal Online,78
+Digital Chumps,76
+AusGamers,75
+Multiplayer.it,75
+PC Gamer,74
+GamingTrend,74
+Polygon,70
+Thunderbolt,70
+Gamereactor Denmark,70
+DarkZero,70
+Hardcore Gamer,70
+COGconnected,70
+IncGamers,70
+GRYOnline.pl,65
+IGN Italia,65
+GameTrailers,62
+LEVEL (Czech Republic),60
+CD-Action,60
+GamesRadar+,60
+Joystiq,60
+GameSpot,55
+4Players.de,54
+GameStar,50
+Metro GameCentral,50
+GameWatcher,50
+IGN,43
+Riot Pixels,40
+Games.cz,40

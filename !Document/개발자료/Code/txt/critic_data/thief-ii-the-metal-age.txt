@@ -1,0 +1,18 @@
+GameZone,95
+PC Gameworld,92
+Game Revolution,91
+Gaming Age,91
+Yahoo!,90
+Total Video Games,90
+IGN,90
+Computer Games Magazine,90
+Eurogamer,90
+PC Gamer,89
+GameSpot,86
+Game Over Online,85
+Electric Playground,85
+FiringSquad,83
+GameSpy,83
+Gamer's Pulse,80
+GamePro,80
+Adrenaline Vault,80

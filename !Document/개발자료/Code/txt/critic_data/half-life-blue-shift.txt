@@ -1,0 +1,19 @@
+GameZone,90
+TotalGames.net,88
+Gamer's Pulse,80
+Happy Puppy,80
+CPUGamer,80
+FiringSquad,75
+Game Over Online,74
+Gamezilla!,72
+GamerWeb PC,70
+Electric Playground,70
+IGN,70
+GameSpy,70
+GameSpot,70
+ActionTrip,68
+Game Revolution,67
+GamePower,62
+Yahoo!,60
+Maxim Online,60
+Adrenaline Vault,50

@@ -1,0 +1,37 @@
+LEVEL (Czech Republic),100
+Games.cz,90
+DarkStation,90
+PC Gamer,85
+GamingTrend,83
+GameStar,81
+PC PowerPlay,80
+Hyper Magazine,80
+Gamer.no,80
+IGN Italia,80
+Post Arcade (National Post),80
+GamesBeat,80
+GameSpot,80
+ZTGD,80
+Vandal Online,80
+4Players.de,80
+IncGamers,80
+PC Games (Germany),80
+GamesRadar+,80
+Hardcore Gamer,80
+IGN,78
+SpazioGames,75
+Multiplayer.it,75
+Destructoid,75
+Game Informer,75
+Riot Pixels,73
+Eurogamer Italy,70
+Thunderbolt,70
+Eurogamer,70
+Metro GameCentral,70
+GRYOnline.pl,70
+Edge Magazine,70
+GameFront,67
+CD-Action,65
+Gameblog.fr,60
+The Escapist,60
+Quarter to Three,40

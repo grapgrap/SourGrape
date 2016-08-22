@@ -1,0 +1,23 @@
+DarkZero,90
+Game Rant,90
+GameSpew,90
+Arcade Sushi,80
+High-Def Digest,80
+God is a Geek,80
+Ragequit.gr,79
+Everyeye.it,78
+GameCritics,75
+Lazygamer,75
+GameWatcher,70
+We Got This Covered,70
+Shacknews,70
+Multiplayer.it,65
+RPG Fan,65
+Destructoid,65
+IGN,63
+Eurogamer Italy,60
+WCCFtech,60
+Vandal Online,60
+Hardcore Gamer,60
+DarkStation,60
+The Games Machine,58

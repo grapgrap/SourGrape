@@ -1,0 +1,10 @@
+GameZone,85
+PC Gamer,84
+ActionTrip,81
+Gamer's Pulse,78
+IGN,75
+GameSpot,73
+Computer Games Magazine,70
+G4 TV,60
+Yahoo!,60
+Computer Gaming World,40

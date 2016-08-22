@@ -1,0 +1,34 @@
+LEVEL (Czech Republic),100
+CD-Action,90
+GameSpew,90
+Attack of the Fanboy,90
+Games Master UK,87
+Ragequit.gr,86
+Merlin'in Kazan©¥ (Turkey),86
+GameStar,85
+Hooked Gamers,85
+Game Debate,85
+Worth Playing,85
+Meristation,85
+Game World Navigator Magazine,82
+Games.cz,80
+MMORPG.com,80
+Game Informer,80
+CGMagazine,80
+Giant Bomb,80
+GameSpot,80
+Hardcore Gamer,80
+Gameblog.fr,80
+PCGamesN,80
+PC Games (Germany),79
+GamesBeat,75
+PC PowerPlay,70
+Gamer.no,70
+GRYOnline.pl,70
+GameGrin,70
+PLAY! Zine,70
+PC Gamer,68
+IGN,67
+PC Invasion,60
+PCWorld,60
+Rock, Paper, Shotgun,

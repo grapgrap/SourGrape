@@ -1,0 +1,11 @@
+GameZone,80
+Four Fat Chicks,75
+Electric Playground,70
+Quandary,70
+Computer Gaming World,70
+Yahoo!,70
+GameSpy,68
+IGN,64
+G4 TV,60
+PC Gamer,59
+GameSpot,55

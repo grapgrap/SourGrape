@@ -1,0 +1,5 @@
+AtomicGamer,90
+GameStar,80
+GamingXP,77
+Adventure Gamers,70
+PC Gamer UK,69

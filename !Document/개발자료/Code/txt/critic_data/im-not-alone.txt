@@ -1,0 +1,6 @@
+GamingXP,60
+PC Format,46
+PC Zone UK,45
+GameStar,42
+Gamer Limit,40
+Gamer.no,30

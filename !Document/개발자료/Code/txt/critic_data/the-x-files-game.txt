@@ -1,0 +1,11 @@
+Adventure Gamers,80
+Computer Games Magazine,70
+All Game Guide,70
+Adrenaline Vault,70
+Just Adventure,67
+Quandary,60
+GameSpot,51
+Cincinnati Enquirer,50
+Game Revolution,42
+PC Gamer,35
+Computer and Video Games,30

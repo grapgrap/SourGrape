@@ -1,0 +1,8 @@
+DarkStation,100
+GamingTrend,100
+Gaming Nexus,95
+Gaming Age,91
+Brash Games,90
+Sporting News,90
+PC Gamer,89
+GameGrin,80

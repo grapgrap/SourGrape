@@ -1,0 +1,22 @@
+Cincinnati Enquirer,100
+Gamezilla!,96
+PC Gameworld,93
+IGN,91
+PC Gamer,90
+GameSpot,89
+Gamers' Temple,88
+GameSpy,88
+TotalGames.net,87
+GameZone,85
+GameNow,83
+Yahoo!,80
+Computer Gaming World,80
+Electric Playground,80
+Adrenaline Vault,80
+Computer Games Magazine,80
+GameShark,80
+ActionTrip,80
+Pregaming,70
+GMR Magazine,70
+G4 TV,60
+Eurogamer,60

@@ -1,0 +1,9 @@
+ZTGD,90
+GRYOnline.pl,80
+Gamereactor Denmark,80
+SpazioGames,80
+AtomicGamer,80
+Gamereactor Sweden,80
+GameSpy,80
+Destructoid,80
+IGN,75

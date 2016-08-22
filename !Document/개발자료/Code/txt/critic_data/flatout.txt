@@ -1,0 +1,21 @@
+Sydney Morning Herald,90
+RealGamer,88
+CPUGamer,86
+BonusStage,84
+Adrenaline Vault,80
+Total Video Games,80
+GameZone,80
+Computer Gaming World,80
+AtomicGamer,80
+Computer and Video Games,79
+GameSpot,79
+PC Gamer,75
+PC Format,74
+Edge Magazine,70
+IGN,70
+Play Magazine,70
+G4 TV,60
+1UP,60
+Yahoo!,60
+Maxim Online,40
+Cheat Code Central,40

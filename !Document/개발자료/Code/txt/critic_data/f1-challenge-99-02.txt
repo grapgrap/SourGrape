@@ -1,0 +1,8 @@
+IGN,95
+PC Gameworld,95
+PC Gamer,91
+Computer Gaming World,90
+Computer Games Magazine,90
+GameSpy,90
+GameSpot,89
+Armchair Empire,86

@@ -1,0 +1,7 @@
+GameZone,70
+Deeko,70
+Game Chronicles,62
+Computer Games Magazine,40
+PC Gamer,40
+Cheat Code Central,30
+IGN,22

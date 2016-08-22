@@ -1,0 +1,14 @@
+IGN,75
+Game Informer,75
+GameZone,72
+Gamers' Temple,66
+GameSpy,62
+Computer Gaming World,60
+Gamer's Pulse,56
+GameSpot,56
+PC Gamer,55
+All Game Guide,50
+Game Over Online,45
+Yahoo!,40
+GamePen,40
+Adrenaline Vault,40

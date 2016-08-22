@@ -1,0 +1,9 @@
+GameSpew,80
+GameStar,80
+IGN Italia,80
+Ragequit.gr,80
+Multiplayer.it,78
+GamingTrend,75
+GRYOnline.pl,70
+PCWorld,70
+Wired,

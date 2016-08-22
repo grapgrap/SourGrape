@@ -1,0 +1,26 @@
+Adventure Gamers,100
+Evil Avatar,100
+GamePro,100
+Yahoo!,100
+Four Fat Chicks,100
+Just Adventure,100
+Daily Radar,100
+Happy Puppy,95
+IGN,93
+TotalGames.net,93
+GameSpot,93
+GameSpy,92
+Game Revolution,91
+Quandary,90
+CNET Gamecenter,90
+Computer Games Magazine,90
+PC Gamer,90
+ActionTrip,90
+Adrenaline Vault,90
+Eurogamer,90
+My Gamer,88
+Electric Playground,85
+Hot Games,80
+GamePower,75
+Gaming Age,75
+All Game Guide,70

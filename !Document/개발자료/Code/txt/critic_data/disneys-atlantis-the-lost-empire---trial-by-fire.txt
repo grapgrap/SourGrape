@@ -1,0 +1,7 @@
+GameSpy,77
+Cincinnati Enquirer,70
+Computer Games Magazine,50
+GamePower,50
+IGN,50
+GameSpot,47
+Game Revolution,16

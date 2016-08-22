@@ -1,0 +1,9 @@
+GamingXP,90
+GamingTrend,86
+GameStar,85
+Gamers.at,83
+LEVEL (Czech Republic),80
+PC Games (Russia),75
+CD-Action,75
+Gaming Age,75
+Absolute Games,45

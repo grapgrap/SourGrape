@@ -1,0 +1,7 @@
+PC Gamer,77
+GameStar,76
+CD-Action,70
+Eurogamer Germany,70
+InsideGamer.nl,65
+Eurogamer,60
+Games.cz,40

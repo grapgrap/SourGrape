@@ -1,0 +1,7 @@
+GameWatcher,68
+AceGamez,60
+GameSpot,60
+IGN,58
+PC Gamer UK,50
+PC Format,50
+PC Zone UK,35

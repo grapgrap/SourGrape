@@ -1,0 +1,6 @@
+Just Adventure,100
+GameZone,85
+IGN,80
+Game Chronicles,78
+AceGamez,70
+Adventure Gamers,60

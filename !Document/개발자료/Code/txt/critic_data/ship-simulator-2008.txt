@@ -1,0 +1,9 @@
+Worth Playing,78
+PC Format,68
+Play.tm,68
+PC Zone UK,64
+PC Gamer UK,64
+Eurogamer,60
+GameWatcher,58
+AceGamez,50
+GameShark,42

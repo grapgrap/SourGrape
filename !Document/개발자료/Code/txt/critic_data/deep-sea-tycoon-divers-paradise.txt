@@ -1,0 +1,5 @@
+AceGamez,60
+PC Gamer,52
+1UP,50
+Computer Games Magazine,30
+G4 TV,20

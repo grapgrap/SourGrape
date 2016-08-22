@@ -1,0 +1,2 @@
+IGN,50
+GameSpot,21

@@ -1,0 +1,38 @@
+PC PowerPlay,100
+Hyper Magazine,100
+AtomicGamer,100
+Everyeye.it,95
+JeuxActu,95
+GRYOnline.pl,95
+Gamers' Temple,94
+Ten Ton Hammer,94
+GamingTrend,94
+PC Master (Greece),92
+Worth Playing,92
+RPG Fan,90
+LEVEL (Czech Republic),90
+Thunderbolt,90
+DarkStation,90
+Eurogamer Germany,90
+Games.cz,90
+SpazioGames,90
+Gamereactor Denmark,90
+PC Gamer,90
+Gamereactor Sweden,90
+GameSpy,90
+Eurogamer,90
+IGN,90
+Multiplayer.it,89
+ZTGD,88
+PC Games (Germany),86
+GameStar,86
+CD-Action,85
+GameSpot,85
+Destructoid,85
+4Players.de,83
+Gameblog.fr,80
+Eurogamer Sweden,80
+RPGamer,80
+Hardcore Gamer,80
+Giant Bomb,80
+Absolute Games,66

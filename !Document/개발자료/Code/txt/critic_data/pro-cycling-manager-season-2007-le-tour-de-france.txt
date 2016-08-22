@@ -1,0 +1,4 @@
+PC Format,72
+GameZone,60
+PC Zone UK,40
+PC Gamer UK,34

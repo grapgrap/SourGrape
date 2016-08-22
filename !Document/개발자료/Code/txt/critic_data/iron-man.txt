@@ -1,0 +1,10 @@
+GameFocus,61
+Worth Playing,40
+Cynamite,40
+IGN,35
+GamerNode,35
+PC Format,32
+Play (Poland),30
+PC Zone UK,27
+PC Gamer,25
+PC Gamer UK,20

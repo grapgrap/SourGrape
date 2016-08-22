@@ -1,0 +1,7 @@
+Thunderbolt,90
+Pelit (Finland),84
+PC PowerPlay,80
+IGN,75
+Eurogamer,70
+Gamer.nl,70
+PC Gamer,64

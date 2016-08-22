@@ -1,0 +1,5 @@
+GameZone,80
+Adrenaline Vault,80
+GameSpy,79
+GameSpot,77
+IGN,75

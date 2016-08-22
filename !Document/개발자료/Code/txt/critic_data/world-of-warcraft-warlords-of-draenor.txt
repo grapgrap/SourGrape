@@ -1,0 +1,49 @@
+LEVEL (Czech Republic),100
+Gameplanet,95
+Polygon,95
+Pelit (Finland),92
+Multiplayer.it,92
+Power Unlimited,91
+GamesVillage.it,90
+AusGamers,90
+Games.cz,90
+Ragequit.gr,90
+IGN Italia,90
+games(TM),90
+Eurogamer Portugal,90
+Softpedia,90
+GameTrailers,90
+Everyeye.it,90
+GamesRadar+,90
+God is a Geek,90
+LevelUp,90
+Hardcore Gamer,90
+Vandal Online,90
+IGN,90
+GamingTrend,90
+The Escapist,90
+Game Revolution,90
+PC Gamer,90
+Hooked Gamers,90
+Meristation,88
+GameStar,88
+MMORPG.com,86
+Merlin'in Kazan©¥ (Turkey),86
+SpazioGames,85
+4Players.de,85
+GamesBeat,85
+3DJuegos,85
+JeuxActu,85
+XGN,85
+Games Master UK,83
+Eurogamer Poland,80
+GameSpot,80
+PC PowerPlay,80
+InsideGamer.nl,80
+GameOver.gr,80
+Gamer.nl,80
+Digital Spy,80
+Gameblog.fr,80
+CD-Action,75
+Gamestyle,70
+USgamer,60

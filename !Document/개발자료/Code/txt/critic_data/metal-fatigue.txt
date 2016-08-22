@@ -1,0 +1,20 @@
+ActionTrip,87
+PC Gameworld,85
+GameSpy,85
+Spank!,84
+GamePro,80
+Game Over Online,74
+IGN,71
+Electric Playground,70
+CNET Gamecenter,70
+Computer Games Magazine,70
+Happy Puppy,70
+Adrenaline Vault,70
+Eurogamer,70
+GameZone,70
+All Game Guide,70
+GameSpot,69
+PC Gamer,67
+Gaming Age,50
+Hot Games,50
+Daily Radar,50

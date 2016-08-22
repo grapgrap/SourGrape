@@ -1,0 +1,5 @@
+IGN,78
+Destructoid,70
+CD-Action,60
+Thunderbolt,60
+PC Gamer,59

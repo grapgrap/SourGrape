@@ -1,0 +1,48 @@
+CD-Action,100
+LEVEL (Czech Republic),100
+Game Debate,100
+Game Revolution,100
+Telegraph,100
+The Escapist,100
+Ragequit.gr,100
+Twinfinite,100
+GRYOnline.pl,100
+MMORPG.com,96
+XGN,96
+Game World Navigator Magazine,95
+LevelUp,95
+Gameplanet,95
+GameWatcher,95
+3DJuegos,95
+Meristation,95
+Areajugones,95
+The Games Machine,95
+IGN Spain,95
+PC Gamer,94
+Game Informer,93
+Everyeye.it,93
+Riot Pixels,91
+PC Games (Germany),91
+DarkZero,90
+COGconnected,90
+Games.cz,90
+Merlin'in Kazan©¥ (Turkey),90
+Gamer.no,90
+PCGamesN,90
+Eurogamer Poland,90
+Hobby Consolas,90
+USgamer,90
+VideoGamer,90
+GamesRadar+,90
+Shacknews,90
+IGN,90
+Eurogamer Italy,90
+M3,90
+Destructoid,90
+Multiplayer.it,88
+Quarter to Three,80
+Examiner,80
+Metro GameCentral,80
+Gameblog.fr,80
+GameSpot,80
+Rock, Paper, Shotgun,

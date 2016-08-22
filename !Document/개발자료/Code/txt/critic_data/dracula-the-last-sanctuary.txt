@@ -1,0 +1,14 @@
+Just Adventure,83
+Happy Puppy,80
+Electric Playground,80
+IGN,78
+GameZone,75
+GameSpy,72
+Gamezilla!,70
+Quandary,70
+GamePower,62
+Adventure Gamers,60
+Computer Games Magazine,60
+Adrenaline Vault,60
+GameSpot,55
+PC Gamer,50

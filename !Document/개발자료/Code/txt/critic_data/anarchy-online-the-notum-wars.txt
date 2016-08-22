@@ -1,0 +1,5 @@
+IGN,88
+netjak,85
+PC Gamer,75
+GameSpot,68
+Computer Games Magazine,30

@@ -1,0 +1,45 @@
+BigPond GameArena,95
+PC Format,95
+PC Gamer,94
+GameTrailers,92
+Vandal Online,91
+3DJuegos,91
+PC PowerPlay,90
+GameFocus,90
+Absolute Games,90
+NZGamer,89
+Game Over Online,88
+PC Games (Germany),88
+GameStar,87
+Ten Ton Hammer,86
+SpazioGames,86
+GamingXP,86
+CPUGamer,85
+PC Games (Russia),85
+Meristation,85
+IGN,85
+Game Revolution,83
+The A.V. Club,83
+FiringSquad,82
+Gamers.at,81
+LEVEL (Czech Republic),80
+Thunderbolt,80
+GRYOnline.pl,80
+Armchair Empire,80
+AtomicGamer,80
+Cheat Code Central,80
+Gamer.no,80
+GameSpot,80
+GamePro,80
+Game Informer,78
+ActionTrip,76
+GameShark,75
+Computer Games Online RO,75
+GameOver.gr,75
+IncGamers,72
+Eurogamer Sweden,70
+Video Game Talk,70
+DarkZero,60
+Worth Playing,60
+RPGamer,60
+Gaming Nexus,58

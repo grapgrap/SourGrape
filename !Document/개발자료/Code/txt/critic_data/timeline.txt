@@ -1,0 +1,13 @@
+Adrenaline Vault,60
+GameSpy,56
+Happy Puppy,50
+GamePower,50
+Game Over Online,45
+Electric Playground,45
+GameSpot,42
+All Game Guide,40
+ActionTrip,40
+IGN,38
+PC Gamer,36
+CNET Gamecenter,30
+Computer Games Magazine,10

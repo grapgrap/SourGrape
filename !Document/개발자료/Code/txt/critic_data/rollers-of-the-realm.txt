@@ -1,0 +1,19 @@
+GamingTrend,90
+Multiplayer.it,80
+Twinfinite,80
+CalmDownTom,80
+Digitally Downloaded,80
+Ragequit.gr,80
+Gaming Nexus,80
+Kill Screen,75
+Post Arcade (National Post),75
+Shacknews,70
+IncGamers,70
+Hardcore Gamer,70
+ZTGD,65
+We Got This Covered,60
+GamesBeat,60
+Everyeye.it,60
+Gamers' Temple,50
+God is a Geek,50
+GameSpot,40

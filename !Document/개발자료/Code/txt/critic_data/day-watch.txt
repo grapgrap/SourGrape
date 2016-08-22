@@ -1,0 +1,3 @@
+GamerNode,43
+Pelit (Finland),40
+PC Gamer UK,9

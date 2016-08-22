@@ -1,0 +1,23 @@
+BigPond GameArena,90
+Vandal Online,90
+GameSpot,85
+IGN,85
+GameWatcher,85
+Absolute Games,85
+PC Gamer UK,81
+Metro GameCentral,80
+GameStar,80
+LEVEL (Czech Republic),80
+Boomtown,80
+Gamers.at,80
+PC PowerPlay,80
+Meristation,80
+Impulsegamer,80
+3DJuegos,79
+Gamer Limit,75
+Gameplanet,75
+Pelit (Finland),73
+GamePro,70
+Level7.nu,70
+PC Zone UK,60
+Total PC Gaming,50

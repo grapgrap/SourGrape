@@ -1,0 +1,30 @@
+NTSC-uk,90
+GamePro,85
+GamingTrend,81
+1UP,80
+Worth Playing,79
+PC Format,77
+Gamer 2.0,76
+PC Gamer,76
+PC Gamer UK,72
+GameStar,71
+Cheat Code Central,70
+GameSpot,69
+GameTrailers,69
+GameZone,69
+Games Master UK,69
+IGN,68
+Game Chronicles,68
+Gamers' Temple,67
+GamerNode,65
+Game Informer,65
+Computer and Video Games,60
+Eurogamer,60
+GameDaily,60
+Edge Magazine,60
+G4 TV,60
+Game Revolution,58
+The A.V. Club,58
+GameShark,58
+PC Zone UK,58
+GameSpy,40

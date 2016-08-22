@@ -1,0 +1,25 @@
+Game Chronicles,90
+GameBiz,86
+Gaming Illustrated,80
+Yahoo!,80
+IGN,80
+GameZone,80
+Times Online,80
+Game Informer,78
+PC Gameworld,76
+GameSpy,75
+Gamers' Temple,75
+GameSpot,72
+1UP,70
+PC Format,70
+DailyGame,70
+Game Over Online,70
+Total Video Games,70
+Adrenaline Vault,70
+Computer Gaming World,70
+Sydney Morning Herald,70
+Boomtown,70
+PC Gamer,67
+Gamer's Pulse,60
+PALGN,60
+games(TM),50

@@ -1,0 +1,24 @@
+eToychest,90
+GameZone,90
+Frictionless Insight,90
+Warcry,90
+Game Chronicles,88
+Gamer's Hell,82
+Computer Games Magazine,80
+IGN,80
+Adrenaline Vault,80
+Cheat Code Central,80
+Adventure Gamers,80
+Computer Gaming World,80
+GameSpy,75
+Just Adventure,75
+ActionTrip,72
+GameSpot,71
+PC Gamer,68
+Game Over Online,68
+Game Informer,65
+GamerFeed,60
+GameShark,60
+G4 TV,60
+Quandary,50
+Worth Playing,45

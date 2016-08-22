@@ -1,0 +1,3 @@
+FiringSquad,77
+GameSpot,53
+Computer Games Magazine,50

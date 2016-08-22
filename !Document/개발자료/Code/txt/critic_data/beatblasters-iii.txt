@@ -1,0 +1,4 @@
+DarkStation,70
+3DJuegos,60
+Hooked Gamers,52
+Hardcore Gamer,40

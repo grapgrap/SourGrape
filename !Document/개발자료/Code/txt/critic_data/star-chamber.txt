@@ -1,0 +1,4 @@
+GameZone,90
+Computer Gaming World,90
+GameSpot,88
+Computer Games Magazine,70

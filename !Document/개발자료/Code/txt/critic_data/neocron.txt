@@ -1,0 +1,11 @@
+Adrenaline Vault,80
+Computer Games Magazine,80
+PC Format,79
+GameSpy,71
+Cheat Code Central,70
+GameSpot,66
+IGN,65
+PC Gamer,60
+PC Gameworld,60
+Computer Gaming World,40
+G4 TV,40

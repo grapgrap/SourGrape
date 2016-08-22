@@ -1,0 +1,13 @@
+Game Over Online,65
+PC Gamer,63
+Entertainment Weekly,58
+GameSpy,51
+Cheat Code Central,50
+IGN,45
+Adrenaline Vault,40
+Computer Games Magazine,40
+eToychest,40
+GameSpot,35
+Computer Gaming World,30
+Yahoo!,20
+G4 TV,20

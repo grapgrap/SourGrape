@@ -1,0 +1,11 @@
+Gamezilla!,77
+GamePower,75
+GameZone,70
+Game Over Online,68
+FiringSquad,65
+Gamers' Temple,62
+IGN,59
+GameSpot,58
+GameSpy,55
+Adrenaline Vault,40
+Computer Games Magazine,20

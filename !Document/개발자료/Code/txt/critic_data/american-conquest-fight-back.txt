@@ -1,0 +1,10 @@
+GameZone,82
+IGN,78
+Gamer's Hell,77
+GameSpot,76
+Game Over Online,70
+Worth Playing,69
+GameSpy,60
+eToychest,50
+Computer Games Magazine,40
+Computer Gaming World,40

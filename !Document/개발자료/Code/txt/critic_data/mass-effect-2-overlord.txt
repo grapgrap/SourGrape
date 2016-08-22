@@ -1,0 +1,4 @@
+IGN,90
+GameSpot,85
+3DJuegos,83
+Game Revolution,83

@@ -1,0 +1,6 @@
+GameZone,80
+GameSpot,68
+IGN,50
+PC Gamer,50
+GamePen,50
+Computer Games Magazine,40

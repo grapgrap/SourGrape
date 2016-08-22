@@ -1,0 +1,22 @@
+GameShark,100
+PC Gamer,91
+PC Gamer UK,90
+PC Zone UK,90
+Jolt Online Gaming UK,90
+Game Informer,90
+AceGamez,90
+games(TM),90
+PC Format,86
+Pelit (Finland),85
+Games Master UK,85
+Worth Playing,85
+ActionTrip,84
+IGN,84
+GameZone,83
+Eurogamer,80
+GameSpy,80
+GameSpot,80
+1UP,80
+GameTap,80
+NZGamer,80
+GameDaily,70

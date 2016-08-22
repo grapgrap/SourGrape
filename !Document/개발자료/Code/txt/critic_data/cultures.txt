@@ -1,0 +1,5 @@
+IGN,73
+TotalGames.net,67
+GameSpot,58
+Adrenaline Vault,50
+Yahoo!,50

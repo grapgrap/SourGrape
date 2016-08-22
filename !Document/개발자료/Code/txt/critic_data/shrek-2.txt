@@ -1,0 +1,8 @@
+Play Magazine,75
+PC Gamer,75
+Gamer's Hell,73
+Computer Gaming World,70
+GameZone,59
+GameSpot,45
+IGN,39
+GamerFeed,30

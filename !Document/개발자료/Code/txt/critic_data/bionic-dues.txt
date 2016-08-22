@@ -1,0 +1,6 @@
+GameWatcher,85
+Game Revolution,80
+IGN Italia,75
+GameSpot,70
+Riot Pixels,65
+PCGamesN,60

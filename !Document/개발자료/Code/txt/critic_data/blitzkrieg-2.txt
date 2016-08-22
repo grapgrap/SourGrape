@@ -1,0 +1,25 @@
+GamingTrend,86
+GameBiz,85
+ActionTrip,85
+IGN,84
+eToychest,84
+Worth Playing,83
+GameZone,82
+IncGamers,80
+AceGamez,80
+DailyGame,80
+Pelit (Finland),80
+Armchair Empire,80
+G4 TV,80
+Computer Games Magazine,80
+GameSpot,78
+IC-Games,77
+Next Level Gaming,75
+RewiredMind,70
+Yahoo!,70
+PALGN,65
+Gaming Horizon,64
+PC Gamer,62
+Computer Gaming World,60
+GameShark,58
+GameSpy,50

@@ -1,0 +1,4 @@
+Hardcore Gamer,80
+CD-Action,75
+GameSpot,50
+PC Gamer UK,48

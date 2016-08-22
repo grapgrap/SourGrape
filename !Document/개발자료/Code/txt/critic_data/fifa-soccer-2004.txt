@@ -1,0 +1,13 @@
+Play Magazine,100
+IGN,85
+GameNow,83
+PC Format,81
+Eurogamer,80
+GMR Magazine,80
+PC Gamer,79
+Gamer's Hell,78
+GameSpot,78
+PC Gameworld,77
+Computer Gaming World,70
+games(TM),60
+Computer Games Magazine,40

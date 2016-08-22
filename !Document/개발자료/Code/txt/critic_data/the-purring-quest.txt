@@ -1,0 +1,3 @@
+ICXM,80
+IGN Spain,78
+GameSpew,70

@@ -1,0 +1,38 @@
+GamePro,100
+Games Radar,100
+CheckOut,100
+Daily Radar,100
+GMR Magazine,100
+Hot Games,100
+Armchair Empire,97
+PC Gamer,96
+IGN,95
+Game Fan,94
+Gamer's Pulse,94
+Antagonist,93
+FiringSquad,92
+GameSpot,91
+Gaming Age,91
+Game Revolution,91
+Gamers' Temple,90
+Computer Games Magazine,90
+Happy Puppy,90
+ActionTrip,90
+Total Video Games,90
+Electric Playground,90
+All Game Guide,90
+GameZone,90
+Adrenaline Vault,90
+Eurogamer,90
+TotalGames.net,90
+GamePen,90
+CNET Gamecenter,90
+Cincinnati Enquirer,88
+Game Over Online,88
+PC Gameworld,87
+Gamezilla!,87
+GameSpy,86
+Spank!,85
+Evil Avatar,80
+Maxim Online,80
+Yahoo!,60

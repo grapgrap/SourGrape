@@ -1,0 +1,30 @@
+GamePro,100
+IncGamers,93
+GameSpy,90
+Computer Gaming World,90
+AtomicGamer,90
+PC Gameworld,89
+GameZone,88
+3DAvenue,87
+RealGamer,86
+Worth Playing,86
+Game Informer,85
+PC Gamer,85
+Gamers' Temple,85
+Game Over Online,83
+Game Revolution,83
+GameSpot,82
+games(TM),80
+GameShark,80
+GMR Magazine,80
+PC Format,80
+Yahoo!,80
+PC Gamer UK,80
+IGN,76
+GameSpot AU,75
+Game Chronicles,73
+Boomtown,70
+1UP,70
+Computer Games Magazine,70
+Cheat Code Central,70
+The New York Times,70

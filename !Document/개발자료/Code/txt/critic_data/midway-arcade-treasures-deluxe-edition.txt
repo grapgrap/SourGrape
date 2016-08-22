@@ -1,0 +1,7 @@
+PC Gamer,90
+BonusStage,83
+PC Format,80
+Gamer's Hell,68
+Worth Playing,62
+GameSpot,57
+GameZone,55

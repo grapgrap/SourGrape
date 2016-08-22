@@ -1,0 +1,36 @@
+ZTGD,95
+PC Master (Greece),76
+GameStar,74
+LEVEL (Czech Republic),70
+DarkStation,70
+GameWatcher,70
+GRYOnline.pl,70
+Pelit (Finland),65
+Multiplayer.it,65
+Level7.nu,60
+Eurogamer Sweden,60
+RPG Fan,60
+CD-Action,60
+Everyeye.it,60
+Gamer.no,60
+Game Informer,60
+Gamereactor Denmark,60
+Gamereactor Sweden,60
+Destructoid,55
+PC Gamer,50
+PC PowerPlay,50
+GameSpot,50
+Vandal Online,50
+DarkZero,50
+XGN,50
+AusGamers,50
+IGN,50
+Absolute Games,48
+Edge Magazine,40
+Gamer.nl,40
+Games.cz,40
+GameSpy,40
+EGM,35
+Metro GameCentral,20
+Quarter to Three,20
+Gameblog.fr,20

@@ -1,0 +1,18 @@
+Twinfinite,100
+Ragequit.gr,75
+God is a Geek,75
+Destructoid,70
+Impulsegamer,68
+IGN,67
+Game Informer,65
+Gamestyle,60
+PC Gamer,60
+Softpedia,55
+Post Arcade (National Post),55
+Brash Games,50
+Hooked Gamers,46
+ZTGD,45
+TheSixthAxis,40
+Hardcore Gamer,40
+3DJuegos,40
+GameSpot,40

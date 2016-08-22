@@ -1,0 +1,23 @@
+CD-Action,100
+AtomicGamer,100
+RPG Fan,99
+IGN,95
+GRYOnline.pl,95
+GamingXP,95
+XGN,94
+PC Gamer,93
+CPUGamer,90
+LEVEL (Czech Republic),90
+GameSpy,90
+PC Master (Greece),90
+Bit-Gamer,90
+PC Games (Germany),90
+GameStar,90
+GameSpot,90
+Absolute Games,85
+PC PowerPlay,80
+Game Over Online,80
+DarkStation,80
+Quarter to Three,80
+Ten Ton Hammer,77
+Computer Games Online RO,75

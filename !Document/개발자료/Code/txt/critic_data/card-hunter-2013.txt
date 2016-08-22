@@ -1,0 +1,18 @@
+DarkStation,100
+USgamer,100
+VideoGamer,90
+GamesBeat,90
+RPG Fan,89
+Games Master UK,86
+GameTrailers,86
+PC Gamer,85
+Game Informer,83
+Multiplayer.it,81
+PCGamesN,80
+LEVEL (Czech Republic),80
+Edge Magazine,80
+Hardcore Gamer,80
+GameSpot,80
+PC PowerPlay,80
+Destructoid,80
+Eurogamer,70

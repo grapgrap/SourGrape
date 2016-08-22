@@ -1,0 +1,45 @@
+G4 TV,100
+VideoGamer,100
+GameSpy,100
+Play.tm,96
+Pelit (Finland),96
+PTGamers,95
+GameFocus,95
+GamerNode,95
+GameZone,95
+Game Informer,95
+Gamers.at,94
+GameWatcher,92
+PC Zone UK,92
+IGN,92
+AtomicGamer,92
+1UP,91
+GameShark,91
+PC Gamer,91
+GameSpot,90
+CPUGamer,90
+NZGamer,90
+Level7.nu,90
+Boomtown,90
+MEGamers,90
+BigPond GameArena,90
+Cynamite,90
+GameDaily,90
+GamePro,90
+PC Gamer UK,89
+Worth Playing,89
+ActionTrip,88
+RPG Fan,88
+Computer Games Online RO,87
+Game Over Online,85
+GameStar,85
+PALGN,85
+PC Format,84
+Cheat Code Central,84
+DarkZero,80
+Play (Poland),80
+PC PowerPlay,80
+Thunderbolt,80
+Eurogamer Portugal,80
+Eurogamer,80
+FiringSquad,75

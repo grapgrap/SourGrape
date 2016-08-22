@@ -1,0 +1,26 @@
+Operation Sports,100
+Computer Games Magazine,100
+Gaming Nexus,95
+GamerNode,95
+PC Gamer UK,92
+PC Zone UK,92
+GameZone,92
+IGN,92
+PC Format,91
+PC Gamer,91
+Edge Magazine,90
+1UP,90
+GamesRadar+,90
+GameSpot,90
+Eurogamer,90
+PGNx Media,90
+VideoGamer,90
+Pelit (Finland),89
+Worth Playing,89
+GameWatcher,87
+Jolt Online Gaming UK,85
+DailyGame,85
+Games Master UK,83
+games(TM),80
+GameSpy,80
+GamingExcellence,79

@@ -1,0 +1,23 @@
+eToychest,90
+GameSpy,90
+GameZone,80
+IGN,80
+DailyGame,80
+GameSpot,79
+RealGamer,78
+PC Gamer,78
+Worth Playing,75
+IncGamers,70
+Adrenaline Vault,70
+Cheat Code Central,70
+Boomtown,70
+Quandary,70
+GamerFeed,70
+VideoGamesLife,69
+Play.tm,68
+Game Over Online,65
+Computer Games Magazine,60
+Gamer.tv,60
+Times Online,60
+Computer Gaming World,60
+PC Format,59

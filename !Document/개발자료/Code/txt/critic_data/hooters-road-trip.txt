@@ -1,0 +1,6 @@
+GameZone,50
+Gamers' Temple,28
+Computer Gaming World,20
+IGN,20
+PC Gamer,18
+Gamer's Pulse,12

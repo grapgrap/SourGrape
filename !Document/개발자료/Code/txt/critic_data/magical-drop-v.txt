@@ -1,0 +1,3 @@
+Joystiq,50
+Destructoid,45
+ZTGD,39

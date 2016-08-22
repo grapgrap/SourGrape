@@ -1,0 +1,10 @@
+Gaming Age,100
+Adrenaline Vault,100
+Yahoo!,100
+Electric Playground,95
+PC Gamer,94
+Game Revolution,91
+Computer Games Magazine,90
+GameSpot,89
+Gamezilla!,85
+All Game Guide,50

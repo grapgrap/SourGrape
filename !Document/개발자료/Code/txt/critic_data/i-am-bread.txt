@@ -1,0 +1,25 @@
+Gameplanet,80
+GameCritics,75
+GameOver.gr,75
+Multiplayer.it,74
+IGN,72
+PCWorld,70
+Everyeye.it,70
+IGN Spain,70
+NZGamer,70
+Game Rant,70
+Metro GameCentral,70
+Gaming Nexus,65
+Games Master UK,60
+Games.cz,60
+Kill Screen,60
+Twinfinite,60
+TheSixthAxis,60
+PC Gamer,58
+3DJuegos,55
+GameSpot,50
+games(TM),40
+Eurogamer Italy,40
+Hardcore Gamer,40
+CD-Action,30
+Hooked Gamers,30

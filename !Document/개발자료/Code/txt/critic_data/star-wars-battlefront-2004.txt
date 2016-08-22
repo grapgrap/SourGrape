@@ -1,0 +1,34 @@
+Yahoo!,90
+Gamers Depot,90
+Computer Games Online RO,88
+AtomicGamer,88
+Game Power Australia,85
+RealGamer,84
+Gaming Age,83
+Warcry,83
+WHAM! Gaming,83
+Gamer's Hell,80
+games(TM),80
+PC Gamer,80
+Gamer.tv,80
+1UP,80
+Sydney Morning Herald,80
+Computer Games Magazine,80
+GameSpot,79
+Game Over Online,79
+PC Format,78
+My Gamer,78
+Computer and Video Games,78
+GameBiz,75
+IGN,75
+Play Magazine,75
+ActionTrip,73
+Jolt Online Gaming UK,72
+Computer Gaming World,70
+PC Gameworld,70
+CPUGamer,70
+Total Video Games,70
+GameSpy,70
+GamerFeed,60
+GameShark,60
+Adrenaline Vault,50

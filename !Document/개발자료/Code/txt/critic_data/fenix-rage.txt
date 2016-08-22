@@ -1,0 +1,20 @@
+GamesBeat,90
+GameFront,85
+COGconnected,84
+Gaming Nexus,80
+Multiplayer.it,80
+CalmDownTom,80
+Ragequit.gr,80
+GameSpot,80
+Gameblog.fr,80
+Hardcore Gamer,80
+Game Revolution,80
+IGN Italia,73
+Softpedia,70
+GameOver.gr,70
+DarkZero,70
+DarkStation,70
+GameTrailers,68
+Vandal Online,65
+Game Informer,65
+IGN,60

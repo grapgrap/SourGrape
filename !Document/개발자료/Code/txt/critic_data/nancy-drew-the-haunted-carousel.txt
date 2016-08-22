@@ -1,0 +1,5 @@
+Just Adventure,100
+GameZone,88
+PC Gameworld,82
+Quandary,80
+Adventure Gamers,60

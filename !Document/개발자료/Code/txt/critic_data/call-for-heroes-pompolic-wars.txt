@@ -1,0 +1,7 @@
+PC Gamer,55
+GameZone,50
+GamingExcellence,24
+Game Chronicles,23
+GameSpot,20
+Gamers' Temple,15
+IGN,12

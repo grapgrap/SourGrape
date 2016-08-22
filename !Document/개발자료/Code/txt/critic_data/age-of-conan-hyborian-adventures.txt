@@ -1,0 +1,44 @@
+GameFocus,97
+GameZone,94
+AtomicGamer,92
+Gamer 2.0,90
+Boomtown,90
+PC PowerPlay,90
+Cynamite,90
+Computer Games Online RO,89
+Gamers.at,87
+Games Master UK,86
+Gamers' Temple,86
+GameSpot,85
+Gameplayer,85
+GameTrailers,85
+PTGamers,85
+Pelit (Finland),85
+Play.tm,84
+Jolt Online Gaming UK,84
+PC Format,84
+Worth Playing,82
+GamingXP,82
+GameStar,81
+Game Positive,81
+GameSpy,80
+G4 TV,80
+Gamer.nl,80
+games(TM),80
+Cheat Code Central,80
+Eurogamer,80
+Game Informer,80
+Play (Poland),80
+BigPond GameArena,80
+IGN,78
+PC Gamer UK,77
+PC Gamer,77
+YouGamers,76
+PC Zone UK,73
+Wired,70
+GamePro,70
+Edge Magazine,70
+AceGamez,70
+Eurogamer Portugal,70
+1UP,67
+Game Revolution,67

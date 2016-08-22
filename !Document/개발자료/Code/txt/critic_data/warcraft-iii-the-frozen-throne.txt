@@ -1,0 +1,23 @@
+Cinescape,100
+GamePro,100
+Game Chronicles,100
+GameNow,100
+GameZone,94
+Armchair Empire,94
+GameSpot,92
+Game Over Online,92
+Gamers' Temple,92
+ActionTrip,91
+IGN,90
+Game Informer,90
+GMR Magazine,90
+PC Gameworld,89
+GameSpy,88
+FiringSquad,87
+Game Revolution,83
+PC Gamer,83
+Computer Games Magazine,80
+Computer Gaming World,80
+Yahoo!,80
+G4 TV,80
+Adrenaline Vault,60

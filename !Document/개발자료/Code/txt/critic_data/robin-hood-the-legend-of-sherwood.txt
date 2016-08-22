@@ -1,0 +1,15 @@
+Yahoo!,90
+GameSpy,87
+ActionTrip,87
+GameSpot,86
+Gamers' Temple,86
+Armchair Empire,86
+GameZone,85
+IGN,82
+Computer Gaming World,80
+Game Over Online,79
+Electric Playground,75
+PC Gamer,71
+Pregaming,70
+Computer Games Magazine,60
+Gamer's Pulse,60

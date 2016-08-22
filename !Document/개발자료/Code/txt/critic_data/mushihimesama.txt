@@ -1,0 +1,6 @@
+LevelUp,100
+Multiplayer.it,90
+Hardcore Gamer,90
+Destructoid,90
+Pelit (Finland),88
+The Escapist,70

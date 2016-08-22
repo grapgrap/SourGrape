@@ -1,0 +1,4 @@
+AceGamez,80
+Quandary,80
+GameZone,75
+Computer Gaming World,50

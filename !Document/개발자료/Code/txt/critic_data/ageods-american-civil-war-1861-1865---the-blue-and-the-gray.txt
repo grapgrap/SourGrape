@@ -1,0 +1,6 @@
+GameShark,91
+Worth Playing,80
+GameZone,70
+IGN,62
+GameSpy,60
+PC Zone UK,41

@@ -1,0 +1,2 @@
+GameStar,50
+Multiplayer.it,40

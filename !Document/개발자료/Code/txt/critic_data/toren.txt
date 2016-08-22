@@ -1,0 +1,20 @@
+Game Revolution,80
+GamingTrend,80
+Gaming Nexus,70
+Shacknews,70
+The Escapist,70
+COGconnected,63
+Impulsegamer,62
+Hooked Gamers,61
+PC Gamer,60
+Gamestyle,60
+Destructoid,60
+Riot Pixels,54
+Multiplayer.it,50
+VideoGamer,50
+GameSpot,50
+LEVEL (Czech Republic),40
+Games.cz,40
+CD-Action,35
+Game Rant,30
+Ars Technica,

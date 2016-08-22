@@ -1,0 +1,8 @@
+LEVEL (Czech Republic),80
+CGMagazine,70
+Impulsegamer,70
+Vandal Online,70
+Kill Screen,70
+XGN,65
+GameCritics,40
+Games.cz,40

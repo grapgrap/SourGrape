@@ -1,0 +1,24 @@
+CheckOut,100
+GameZone,95
+TotalGames.net,94
+Spank!,90
+Eurogamer,90
+Evil Avatar,90
+Adrenaline Vault,90
+GameSpy,90
+Electric Playground,90
+GamePro,90
+Da Gameboyz,89
+FiringSquad,89
+Armchair Empire,88
+GameSpot,88
+IGN,85
+ActionTrip,84
+PC Gamer,84
+Hot Games,80
+CNET Gamecenter,80
+Computer Games Magazine,80
+Daily Radar,75
+Game Revolution,75
+All Game Guide,70
+Happy Puppy,70

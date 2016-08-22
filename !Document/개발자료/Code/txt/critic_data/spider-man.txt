@@ -1,0 +1,11 @@
+Gaming Age,83
+PC Gamer,78
+GameSpy,77
+GameZone,70
+Adrenaline Vault,70
+Computer Games Magazine,70
+GameSpot,66
+Gamezilla!,63
+IGN,60
+Electric Playground,58
+ActionTrip,55

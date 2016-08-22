@@ -1,0 +1,39 @@
+Thunderbolt,100
+Inside Gamer Online,92
+AceGamez,90
+Warcry,90
+Eurogamer,90
+eToychest,90
+Gamers' Temple,90
+1UP,90
+Computer Games Magazine,90
+IC-Games,89
+Game Informer,88
+Games Radar,88
+3DAvenue,86
+IGN,85
+PGNx Media,85
+GameBiz,85
+Worth Playing,85
+Xequted,84
+PC Gamer,83
+Jolt Online Gaming UK,83
+Yahoo!,80
+Times Online,80
+GamerFeed,80
+GamerArchive,80
+GamePro,80
+Adrenaline Vault,80
+Computer Gaming World,80
+Computer and Video Games,79
+Game Chronicles,78
+GameSpot,78
+PC Format,77
+PC Gameworld,75
+RealGamer,74
+Game Over Online,74
+Play.tm,72
+ActionTrip,70
+games(TM),70
+GameSpy,60
+Detroit Free Press,50

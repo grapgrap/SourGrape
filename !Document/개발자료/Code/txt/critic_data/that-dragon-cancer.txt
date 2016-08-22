@@ -1,0 +1,42 @@
+GameSpew,100
+GameGrin,100
+Forbes,100
+Telegraph,100
+Twinfinite,100
+The Daily Dot,100
+Arcade Sushi,95
+GameSpot,90
+GameStar,87
+RPG Fan,85
+LEVEL (Czech Republic),80
+games(TM),80
+Edge Magazine,80
+Games.cz,80
+GameCrate,80
+PLAY! Zine,80
+God is a Geek,80
+IGN Italia,80
+VideoGamer,80
+Toronto Sun,80
+Guardian,80
+IGN,80
+Game Revolution,80
+GameWatcher,80
+Gameblog.fr,80
+IGN Spain,80
+The Games Machine,75
+PC Gamer,75
+The Jimquisition,75
+Destructoid,75
+Kill Screen,71
+Brash Games,70
+Metro GameCentral,70
+We Got This Covered,70
+PC Games (Germany),62
+DarkStation,60
+The Escapist,60
+4Players.de,50
+Game World Navigator Magazine,3
+Ars Technica,
+Rock, Paper, Shotgun,
+The A.V. Club,

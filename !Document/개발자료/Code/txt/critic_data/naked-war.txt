@@ -1,0 +1,5 @@
+games(TM),90
+PC Zone UK,85
+PC Format,82
+Eurogamer,80
+PC Gamer UK,80

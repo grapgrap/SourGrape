@@ -1,0 +1,10 @@
+BonusStage,66
+GameSpy,60
+GameZone,53
+GameSpot,52
+Next Level Gaming,50
+Worth Playing,45
+IGN,40
+1UP,40
+Gaming Age,25
+G4 TV,20

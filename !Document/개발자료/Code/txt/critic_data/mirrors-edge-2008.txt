@@ -1,0 +1,44 @@
+3DJuegos,91
+Pelit (Finland),91
+VideoGamer,90
+Gamer.nl,90
+Meristation,90
+DarkStation,90
+InsideGamer.nl,90
+Play (Poland),90
+YouGamers,87
+Vandal Online,86
+IGN,85
+AtomicGamer,85
+Computer Games Online RO,85
+Multiplayer.it,85
+GamingExcellence,85
+PC Format,84
+Gamers.at,84
+PC Gamer UK,83
+ActionTrip,83
+MEGamers,83
+GameZone,83
+PC Games (Germany),82
+CPUGamer,82
+Eurogamer,80
+GameStar,80
+LEVEL (Czech Republic),80
+Gameplanet,80
+Cheat Code Central,80
+Gamervision,80
+GamerNode,80
+GamingXP,80
+AceGamez,80
+GamingTrend,78
+FiringSquad,76
+GameShark,75
+Gaming Age,75
+Absolute Games,75
+PC Zone UK,71
+GameSpot,70
+GameSpy,70
+Metro GameCentral,70
+Play.tm,69
+Gamers' Temple,68
+Total PC Gaming,60

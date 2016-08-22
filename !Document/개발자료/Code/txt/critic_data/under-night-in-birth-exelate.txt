@@ -1,0 +1,5 @@
+Gaming Age,100
+ZTGD,85
+CGMagazine,80
+Ragequit.gr,79
+GameCrate,63

@@ -1,0 +1,55 @@
+GamingTrend,95
+Hooked Gamers,90
+COGconnected,90
+Everyeye.it,90
+GameSpot,90
+PC Gamer,90
+Multiplayer.it,88
+Gaming Nexus,88
+IGN,88
+Ragequit.gr,85
+Lazygamer,85
+Vandal Online,85
+ActionTrip,85
+GameWatcher,85
+Softpedia,85
+IGN Denmark,80
+LEVEL (Czech Republic),80
+Riot Pixels,80
+GRYOnline.pl,80
+Brash Games,80
+Game Informer,80
+Eurogamer Italy,80
+Eurogamer Poland,80
+IGN Italia,80
+Hardcore Gamer,80
+The Escapist,80
+SpazioGames,80
+PCWorld,80
+CGMagazine,80
+IGN Sweden,79
+GameStar,79
+4Players.de,78
+Meristation,78
+Game World Navigator Magazine,77
+CD-Action,75
+Gamer.nl,75
+PLAY! Zine,75
+Kill Screen,75
+Gameplanet,75
+3DJuegos,75
+Destructoid,75
+PC Games (Germany),74
+WCCFtech,72
+Game Debate,70
+GameOver.gr,70
+Games.cz,70
+Polygon,70
+PC Invasion,70
+Metro GameCentral,70
+TheSixthAxis,70
+God is a Geek,65
+PC PowerPlay,60
+Ars Technica,
+PCGamesN,
+Rock, Paper, Shotgun,

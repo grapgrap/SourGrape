@@ -1,0 +1,4 @@
+GamingTrend,77
+GameZone,75
+IGN,74
+Gamers' Temple,68

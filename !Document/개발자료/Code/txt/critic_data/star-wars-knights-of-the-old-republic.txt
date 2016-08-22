@@ -1,0 +1,33 @@
+Thunderbolt,100
+Computer Games Magazine,100
+Computer Gaming World,100
+GMR Magazine,100
+Worth Playing,98
+Game Chronicles,98
+Next Level Gaming,98
+Computer Games Online RO,97
+PC Gameworld,97
+Game Informer,95
+GameZone,95
+Gamenikki,95
+GameSpy,95
+Game Over Online,93
+ActionTrip,93
+Gamer's Hell,93
+CPUGamer,93
+AtomicGamer,93
+TotalGames.net,92
+PC Format,92
+Game Revolution,91
+Armchair Empire,91
+PC Gamer,91
+Total Video Games,90
+Cincinnati Enquirer,90
+Yahoo!,90
+Quandary,90
+GameShark,90
+IGN,90
+GamerFeed,90
+GameSpot,88
+1UP,85
+GamePro,80

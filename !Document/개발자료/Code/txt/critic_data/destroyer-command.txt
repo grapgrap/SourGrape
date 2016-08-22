@@ -1,0 +1,11 @@
+GameZone,80
+PC Gamer,79
+Gamer's Pulse,61
+Adrenaline Vault,60
+IGN,56
+Armchair Empire,50
+Yahoo!,50
+Electric Playground,50
+Computer Gaming World,40
+Gamers' Temple,38
+GameSpot,25

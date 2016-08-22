@@ -1,0 +1,4 @@
+Game Revolution,91
+PC Gamer,86
+GameSpot,77
+Computer Games Magazine,70

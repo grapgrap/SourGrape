@@ -1,0 +1,51 @@
+CalmDownTom,90
+Hooked Gamers,90
+GamesRadar+,90
+GameStar,88
+Worth Playing,85
+GameFront,85
+Game Informer,85
+Post Arcade (National Post),85
+PC Games (Germany),83
+Games Master UK,82
+CD-Action,80
+Riot Pixels,80
+Meristation,80
+PC PowerPlay,80
+Hyper Magazine,80
+Gamer.no,80
+Games.cz,80
+InsideGamer.nl,80
+The Escapist,80
+Multiplayer.it,80
+XGN,80
+GameWatcher,80
+GamesBeat,80
+Eurogamer Germany,80
+GameSpot,80
+PC Gamer,78
+Game Over Online,77
+Vandal Online,75
+3DJuegos,75
+Kill Screen,75
+COGconnected,75
+IGN Italia,73
+IGN,72
+Cheat Code Central,72
+AusGamers,70
+Gamer.nl,70
+Gameblog.fr,70
+PCGamesN,70
+GamingTrend,70
+Eurogamer,70
+Shacknews,70
+Polygon,65
+JeuxActu,65
+Level7.nu,60
+LEVEL (Czech Republic),60
+EGM,60
+GRYOnline.pl,60
+Joystiq,60
+games(TM),60
+Hardcore Gamer,60
+Quarter to Three,40

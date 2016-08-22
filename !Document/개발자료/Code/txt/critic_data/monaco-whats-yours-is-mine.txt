@@ -1,0 +1,47 @@
+Quarter to Three,100
+IncGamers,100
+GameFront,95
+Destructoid,95
+GamingTrend,92
+Games.cz,90
+Hyper Magazine,90
+Eurogamer Spain,90
+GRYOnline.pl,90
+PC PowerPlay,90
+Joystiq,90
+Multiplayer.it,90
+PC Gamer UK,90
+Eurogamer,90
+IGN,90
+Hardcore Gamer,90
+ZTGD,90
+Games Master UK,88
+Hooked Gamers,88
+Pelit (Finland),87
+Worth Playing,85
+Vandal Online,85
+3DJuegos,84
+GameTrailers,84
+PC Master (Greece),81
+Everyeye.it,80
+Gamer.no,80
+Slant Magazine,80
+Gameplanet,80
+Thunderbolt,80
+Game Revolution,80
+Metro GameCentral,80
+Gamer.nl,80
+Gamer Limit,80
+Giant Bomb,80
+GamesBeat,80
+Eurogamer Sweden,80
+Digital Spy,80
+GameStar,79
+InsideGamer.nl,73
+Riot Pixels,70
+Gamereactor Sweden,70
+CD-Action,70
+Eurogamer Italy,70
+4Players.de,64
+Cheat Code Central,60
+Gaming Age,50

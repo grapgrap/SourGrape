@@ -1,0 +1,8 @@
+Boomtown,90
+DarkZero,90
+PC Gamer UK,86
+Gaming Nexus,83
+Eurogamer,80
+Cheat Code Central,76
+AceGamez,70
+Gamer Limit,65

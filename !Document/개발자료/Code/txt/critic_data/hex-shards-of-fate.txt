@@ -1,0 +1,7 @@
+GamingTrend,95
+USgamer,90
+Game Informer,88
+Vandal Online,85
+MMORPG.com,84
+IGN Spain,82
+Everyeye.it,78

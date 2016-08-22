@@ -1,0 +1,9 @@
+GameZone,80
+IGN,78
+PC Gamer,76
+GameSpot,70
+Armchair Empire,70
+Worth Playing,69
+PC Format,69
+Computer Games Magazine,60
+Computer Gaming World,20

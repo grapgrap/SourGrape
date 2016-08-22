@@ -1,0 +1,13 @@
+Playboy,100
+Computer Games Magazine,100
+Play Magazine,100
+Entertainment Weekly,100
+IGN,93
+PC Gameworld,91
+Computer Gaming World,90
+Cheat Code Central,90
+GameZone,90
+GameSpot,88
+GameSpy,82
+Gamer's Hell,81
+PC Gamer,76

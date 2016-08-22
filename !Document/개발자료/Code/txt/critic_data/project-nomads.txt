@@ -1,0 +1,13 @@
+PC Format,86
+Yahoo!,80
+GameZone,79
+ActionTrip,72
+GameSpot,67
+IGN,63
+Computer Gaming World,60
+PC Gamer,58
+GameSpy,57
+Gamers' Temple,52
+Adrenaline Vault,50
+Armchair Empire,50
+Computer Games Magazine,30

@@ -1,0 +1,4 @@
+GameSpew,60
+Brash Games,60
+Hardcore Gamer,30
+Slant Magazine,10

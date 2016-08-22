@@ -1,0 +1,10 @@
+GameWatcher,88
+PC Gamer UK,86
+GameSpot,85
+PC Zone UK,85
+PC Format,84
+IGN,80
+Games Master UK,76
+Eurogamer,70
+GameSpy,60
+G4 TV,60

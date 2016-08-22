@@ -1,0 +1,32 @@
+Worth Playing,85
+GamingTrend,84
+GameDaily,80
+GameWatcher,75
+GameZone,73
+PC Gamer,72
+GamesRadar+,70
+CPUGamer,70
+Armchair Empire,70
+AceGamez,70
+PC Format,68
+Jolt Online Gaming UK,68
+Gaming Nexus,68
+PC Gamer UK,66
+PALGN,65
+PC Zone UK,65
+GameSpot,65
+Play Magazine,60
+Eurogamer,60
+Play.tm,60
+Cheat Code Central,60
+Gamers' Temple,60
+Game Informer,60
+GamePro,60
+VideoGamer,60
+GameShark,58
+IGN,55
+Game Chronicles,51
+GameSpy,50
+Boomtown,50
+G4 TV,40
+1UP,30

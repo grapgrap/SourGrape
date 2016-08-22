@@ -1,0 +1,13 @@
+PC Gameworld,93
+GameZone,90
+Cincinnati Enquirer,88
+TotalGames.net,86
+CheckOut,70
+PC Gamer,70
+IGN,64
+GameSpy,60
+Game Over Online,55
+GameSpot,52
+Adrenaline Vault,50
+Daily Radar,50
+Games Radar,0

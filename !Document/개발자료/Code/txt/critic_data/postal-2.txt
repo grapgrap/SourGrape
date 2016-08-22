@@ -1,0 +1,27 @@
+PC Gameworld,82
+Maxim Online,80
+Game Over Online,80
+PC Gamer,79
+Game Informer,75
+Game Chronicles,71
+ActionTrip,71
+Yahoo!,70
+Gamer's Pulse,68
+Armchair Empire,65
+netjak,60
+G4 TV,60
+IGN,55
+Cheat Code Central,50
+Gaming Age,50
+Game Revolution,50
+Gamezilla!,49
+GameSpot,48
+Cincinnati Enquirer,40
+Adrenaline Vault,40
+Village Voice,40
+Computer Games Magazine,40
+TotalGames.net,30
+Eurogamer,30
+games(TM),20
+Computer Gaming World,0
+GMR Magazine,0

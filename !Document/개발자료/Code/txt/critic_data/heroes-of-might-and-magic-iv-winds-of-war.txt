@@ -1,0 +1,11 @@
+GameZone,75
+ActionTrip,70
+PC Gameworld,70
+IGN,69
+GameSpot,67
+netjak,60
+Computer Games Magazine,50
+Game Revolution,42
+G4 TV,40
+GameSpy,40
+Computer Gaming World,30

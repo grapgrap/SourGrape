@@ -1,0 +1,16 @@
+IncGamers,75
+Warcry,75
+GameZone,64
+PC Gameworld,60
+Cheat Code Central,50
+GameSpy,50
+Worth Playing,45
+Gaming Nexus,45
+Game Chronicles,45
+GameSpot,42
+Gamers' Temple,41
+GameShark,40
+My Gamer,34
+IGN,30
+AceGamez,30
+PC Gamer,20

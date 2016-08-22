@@ -1,0 +1,5 @@
+Gamer Limit,90
+PC Gamer,69
+ZTGD,65
+XGN,60
+Gaming Nexus,58

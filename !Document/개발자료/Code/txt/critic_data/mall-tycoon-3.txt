@@ -1,0 +1,6 @@
+BonusStage,75
+IGN,68
+GameZone,60
+Worth Playing,55
+Next Level Gaming,50
+Computer Games Magazine,30

@@ -1,0 +1,16 @@
+Play Magazine,95
+AceGamez,90
+Edge Magazine,80
+GameStar,74
+PC Format,71
+InsideGamer.nl,70
+3DJuegos,70
+PC Gamer UK,70
+Multiplayer.it,66
+PC Zone UK,66
+GameSpot,60
+LEVEL (Czech Republic),60
+Absolute Games,60
+IGN,51
+Total Video Games,50
+Total PC Gaming,40

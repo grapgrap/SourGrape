@@ -1,0 +1,30 @@
+The Escapist,90
+GameSpot,85
+4Players.de,85
+Pelit (Finland),83
+Games Master UK,79
+Vandal Online,78
+GameFront,75
+PC Master (Greece),74
+3DJuegos,74
+DarkZero,70
+Eurogamer Italy,70
+Gamer.no,70
+Meristation,70
+GRYOnline.pl,70
+PC Gamer,65
+IGN,65
+GameTrailers,61
+GameWatcher,60
+Everyeye.it,60
+Gamer.nl,60
+Digital Spy,60
+Metro GameCentral,60
+Multiplayer.it,57
+Riot Pixels,55
+God is a Geek,50
+games(TM),50
+Games.cz,50
+GamingTrend,40
+VideoGamer,40
+CD-Action,25

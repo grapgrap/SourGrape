@@ -1,0 +1,3 @@
+GameStar,90
+Gamer.nl,85
+4Players.de,85

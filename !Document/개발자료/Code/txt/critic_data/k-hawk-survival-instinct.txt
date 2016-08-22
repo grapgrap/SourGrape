@@ -1,0 +1,4 @@
+GameZone,75
+ActionTrip,59
+GameSpot,57
+Gamers' Temple,48

@@ -1,0 +1,82 @@
+Telegraph,100
+Joystiq,100
+Gaming Nexus,100
+Meristation,100
+Giant Bomb,100
+Gamereactor Denmark,100
+VideoGamer,100
+Game Informer,100
+Gameblog.fr,100
+The Escapist,100
+The A.V. Club,100
+GameWatcher,100
+GamesRadar+,100
+Impulsegamer,99
+ZTGD,98
+GamingExcellence,98
+Vandal Online,98
+NZGamer,98
+YouGamers,97
+Gamers' Temple,96
+GamingTrend,96
+Cheat Code Central,96
+Play.tm,96
+Multiplayer.it,96
+Everyeye.it,96
+PC Zone UK,95
+RealGamer,95
+Gamer's Hell,95
+Gamer Limit,95
+GameTrailers,95
+GameSpot,95
+PALGN,95
+Game Chronicles,95
+FiringSquad,95
+3DJuegos,95
+Gameplanet,95
+AceGamez,95
+SpazioGames,95
+Cynamite,95
+Destructoid,95
+GamingXP,94
+MEGamers,94
+Worth Playing,94
+PC Format,93
+PC Gamer,93
+Computer and Video Games,93
+AtomicGamer,92
+Gamers.at,92
+1UP,91
+Video Game Talk,90
+Gamervision,90
+GameZone,90
+GamePro,90
+PC PowerPlay,90
+Eurogamer Italy,90
+GameStar,90
+Edge Magazine,90
+BigPond GameArena,90
+Computer Games Online RO,90
+Eurogamer,90
+Total Video Games,90
+Eurogamer Spain,90
+Gamereactor Sweden,90
+Metro GameCentral,90
+LEVEL (Czech Republic),90
+Wired,90
+Gamer.no,90
+Eurogamer Portugal,90
+PC Games (Germany),90
+Gamekult,90
+Thunderbolt,90
+IGN,90
+Gamer.nl,90
+Level7.nu,90
+games(TM),90
+ActionTrip,89
+Game Over Online,85
+Game Revolution,83
+GameSpy,80
+GameCritics,80
+Absolute Games,78
+GameShark,75

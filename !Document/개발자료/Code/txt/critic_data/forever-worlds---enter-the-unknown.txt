@@ -1,0 +1,10 @@
+AceGamez,50
+GameZone,48
+Just Adventure,42
+Four Fat Chicks,40
+VideoGamesLife,32
+Quandary,30
+RealGamer,30
+Adventure Gamers,20
+GameShark,20
+PC Gamer,10

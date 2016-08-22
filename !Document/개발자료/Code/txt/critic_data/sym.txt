@@ -1,0 +1,11 @@
+Game Revolution,80
+CGMagazine,80
+Game Rant,80
+Gaming Nexus,65
+God is a Geek,65
+games(TM),60
+Destructoid,60
+Twinfinite,60
+Arcade Sushi,60
+DarkStation,50
+GameSpot,40

@@ -1,0 +1,20 @@
+3DAvenue,85
+IC-Games,83
+GameSpot,83
+IncGamers,80
+Boomtown,80
+My Gamer,80
+Gamer's Hell,80
+GameSpy,80
+eToychest,80
+Warcry,78
+Computer and Video Games,75
+IGN,75
+GameZone,74
+PC Format,71
+Total Video Games,70
+AceGamez,70
+Computer Gaming World,70
+Jolt Online Gaming UK,70
+PC Gamer,60
+Thunderbolt,60

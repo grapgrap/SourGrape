@@ -1,0 +1,4 @@
+PC Gamer,64
+GameSpot,58
+Computer Games Magazine,30
+All Game Guide,30

@@ -1,0 +1,41 @@
+AceGamez,100
+Destructoid,100
+GameShark,100
+Gamers.at,94
+GamingTrend,92
+Play.tm,92
+Game Revolution,91
+1UP,91
+The A.V. Club,91
+Worth Playing,91
+Gameplayer Sweden,90
+GameSpy,90
+Edge Magazine,90
+PC Gamer UK,90
+Eurogamer,90
+Multiplayer.it,90
+GamePro,90
+IGN,90
+Wired,90
+GameDaily,90
+VideoGamer,90
+Cheat Code Central,90
+Cynamite,90
+Pelit (Finland),90
+Games Master UK,90
+Absolute Games,86
+GameSpot,85
+Armchair Empire,85
+Game Over Online,83
+PC Zone UK,82
+PC Format,82
+Hardcore Gamer,80
+Everyeye.it,80
+Impulsegamer,80
+Metro GameCentral,80
+Total PC Gaming,80
+Eurogamer Spain,80
+Gamer.nl,80
+Thunderbolt,80
+Eurogamer Italy,80
+GamingXP,72

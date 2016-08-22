@@ -1,0 +1,8 @@
+GameZone,80
+GameSpy,65
+IGN,60
+Electric Playground,60
+Game Over Online,57
+GameSpot,42
+PC Gamer,38
+ActionTrip,29

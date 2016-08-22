@@ -1,0 +1,10 @@
+IGN,82
+Electric Playground,75
+ActionTrip,65
+GameZone,60
+FHM,60
+Gamer's Pulse,53
+GameSpot,33
+PC Gamer,25
+Computer Gaming World,20
+Computer Games Magazine,20

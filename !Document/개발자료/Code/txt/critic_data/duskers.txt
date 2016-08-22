@@ -1,0 +1,10 @@
+Polygon,90
+God is a Geek,90
+PC Gamer,86
+4Players.de,82
+GameSpot,80
+High-Def Digest,80
+Hooked Gamers,65
+Ars Technica,
+Rock, Paper, Shotgun,
+Wired,

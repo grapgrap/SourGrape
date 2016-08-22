@@ -1,0 +1,6 @@
+GameWatcher,90
+Games.cz,80
+RPGamer,80
+Multiplayer.it,80
+IGN,80
+PC Gamer,67

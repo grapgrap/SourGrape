@@ -1,0 +1,11 @@
+Gamer's Pulse,86
+IGN,72
+GameSpot,72
+ActionTrip,70
+Game Over Online,65
+GamePower,62
+Computer Games Magazine,60
+Armchair Empire,58
+Game Revolution,58
+Adrenaline Vault,50
+Yahoo!,40

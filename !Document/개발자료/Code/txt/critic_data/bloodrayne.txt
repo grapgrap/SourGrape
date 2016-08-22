@@ -1,0 +1,15 @@
+PC Gameworld,82
+Maxim Online,80
+GameZone,76
+PC Format,76
+Play Magazine,75
+GameSpy,75
+IGN,73
+ActionTrip,70
+PC Arena,70
+Gamer's Hell,68
+PC Gamer,58
+GameSpot,56
+Computer Games Magazine,50
+Gaming Age,42
+Computer Gaming World,40

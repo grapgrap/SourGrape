@@ -1,0 +1,11 @@
+Play Magazine,91
+IGN,91
+GameSpy,90
+Australian GamePro,85
+GameSpot,83
+PC Format,80
+Computer and Video Games,80
+Computer Games Magazine,80
+PC Gamer,73
+Sydney Morning Herald,70
+Edge Magazine,60

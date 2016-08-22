@@ -1,0 +1,55 @@
+GameSpy,100
+Yahoo!,100
+Computer Gaming World,100
+Times Online,100
+Detroit Free Press,100
+G4 TV,100
+Game Chronicles,97
+XGP Gaming,96
+Gamer's Hell,95
+PGNx Media,95
+Da Gameboyz,95
+IncGamers,95
+BonusStage,94
+Computer and Video Games,94
+PC Gamer,94
+Pelit (Finland),94
+GameSpot,93
+Game Informer,93
+GameZone,92
+Worth Playing,92
+Jolt Online Gaming UK,92
+FiringSquad,91
+PC Format,91
+ActionTrip,90
+Boomtown,90
+Eurogamer,90
+PC Gameworld,90
+GamerFeed,90
+eToychest,90
+Pelaaja (Finland),90
+Cheat Code Central,90
+Edge Magazine,90
+Sydney Morning Herald,90
+PALGN,90
+games(TM),90
+Play Magazine,90
+Thunderbolt,90
+WHAM! Gaming,90
+AceGamez,90
+Computer Games Magazine,90
+Xequted,90
+GamesRadar+,90
+IGN,89
+Gamers' Temple,89
+Inside Gamer Online,88
+Next Level Gaming,88
+CPUGamer,87
+Gaming Nexus,87
+1UP,85
+Game Over Online,84
+Game Revolution,83
+GamePro,80
+3DAvenue,80
+VideoGamesLife,80
+GameShark,70

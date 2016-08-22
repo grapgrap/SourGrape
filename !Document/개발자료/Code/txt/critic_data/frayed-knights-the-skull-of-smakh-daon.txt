@@ -1,0 +1,2 @@
+GameSpot,60
+RPGamer,50

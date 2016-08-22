@@ -1,0 +1,34 @@
+PC Format,87
+HellBored,83
+Pelit (Finland),83
+Impulsegamer,82
+Vandal Online,82
+Meristation,80
+PC PowerPlay,80
+Eurogamer Spain,80
+PC Gamer UK,80
+Boomtown,80
+Play.tm,80
+GamingXP,79
+Gamers.at,78
+3DJuegos,75
+GameStar,74
+SpazioGames,73
+CPUGamer,72
+PC Zone UK,71
+GameSpot,70
+GamesRadar+,70
+Total PC Gaming,70
+Cynamite,70
+AceGamez,70
+DarkZero,70
+games(TM),70
+Multiplayer.it,70
+GameShark,67
+Gameplanet,65
+IGN,64
+GameWatcher,63
+Gamer.nl,60
+Eurogamer,60
+Metro GameCentral,60
+LEVEL (Czech Republic),50

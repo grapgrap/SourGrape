@@ -1,0 +1,50 @@
+Times Online,100
+G4 TV,100
+Computer Games Magazine,100
+Just Adventure,100
+Detroit Free Press,100
+Gamers' Temple,95
+My Gamer,94
+Jolt Online Gaming UK,93
+Just RPG,92
+RealGamer,92
+Pelit (Finland),92
+GameSpot,92
+Worth Playing,92
+IGN,92
+PC Gamer,91
+GameBiz,91
+IC-Games,91
+Boomtown,90
+Computer Gaming World,90
+GameShark,90
+Gaming Illustrated,90
+GamePro,90
+GameSpy,90
+GameZone,89
+Game Chronicles,89
+CPUGamer,88
+Cincinnati Enquirer,88
+IncGamers,88
+Computer and Video Games,88
+Games Radar,86
+3DAvenue,86
+FiringSquad,86
+1UP,85
+Game Informer,85
+ActionTrip,84
+Play.tm,83
+Game Revolution,83
+PC Format,82
+Game Over Online,82
+Yahoo!,80
+Thunderbolt,80
+AceGamez,80
+games(TM),80
+Sydney Morning Herald,80
+GamerFeed,80
+TotalGames.net,78
+Gamers Europe,70
+Gamers Depot,70
+Eurogamer,70
+Edge Magazine,60

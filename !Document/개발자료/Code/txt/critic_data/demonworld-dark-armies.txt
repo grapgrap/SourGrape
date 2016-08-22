@@ -1,0 +1,8 @@
+GameSpy,68
+All Game Guide,50
+Computer Gaming World,50
+IGN,30
+Computer Games Magazine,30
+Electric Playground,25
+PC Gamer,17
+GameSpot,16

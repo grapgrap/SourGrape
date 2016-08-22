@@ -1,0 +1,6 @@
+PC Gameworld,79
+GameZone,75
+Computer Games Magazine,70
+IGN,68
+PC Gamer,59
+GameSpot,52

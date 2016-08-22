@@ -1,0 +1,12 @@
+Electric Playground,90
+IGN,87
+GameSpot,84
+TotalGames.net,84
+Yahoo!,80
+Computer Gaming World,80
+Games Radar,75
+GameSpy,75
+ActionTrip,71
+Game Informer,68
+PC Gamer,58
+Computer Games Magazine,50

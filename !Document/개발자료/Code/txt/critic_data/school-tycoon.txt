@@ -1,0 +1,3 @@
+GameSpot,69
+Computer Games Magazine,60
+PC Gamer,53

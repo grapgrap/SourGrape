@@ -1,0 +1,23 @@
+PC Gameworld,100
+Antagonist,98
+CheckOut,90
+IGN,90
+GamePro,90
+All Game Guide,90
+GameSpy,89
+Daily Radar,88
+Electric Playground,85
+GamerWeb PC,85
+GameSpot,84
+Gaming Age,83
+Game Revolution,83
+Hot Games,80
+GameZone,80
+Eurogamer,80
+Game Over Online,80
+Happy Puppy,80
+PC Gamer,79
+CNET Gamecenter,70
+Evil Avatar,70
+Computer Games Magazine,60
+Games Radar,50

@@ -1,0 +1,6 @@
+GameZone,68
+IGN,63
+Gamer's Hell,52
+Computer Gaming World,50
+Cheat Code Central,50
+GameSpot,47

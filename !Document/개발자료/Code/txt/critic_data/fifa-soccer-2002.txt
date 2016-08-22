@@ -1,0 +1,9 @@
+Gaming Age,100
+ActionTrip,94
+GameSpot,93
+GameZone,88
+Yahoo!,80
+PC Gamer,73
+IGN,63
+Computer Games Magazine,60
+Sports Gaming Network,50

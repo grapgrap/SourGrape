@@ -1,0 +1,5 @@
+GameZone,76
+Gamer's Hell,65
+GameSpot,58
+PC Gamer,51
+Computer Games Magazine,40

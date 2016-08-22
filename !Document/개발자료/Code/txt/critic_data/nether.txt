@@ -1,0 +1,7 @@
+CalmDownTom,70
+Hardcore Gamer,70
+Gaming Nexus,65
+GameStar,62
+GameSpot,50
+Gameblog.fr,50
+Hooked Gamers,40

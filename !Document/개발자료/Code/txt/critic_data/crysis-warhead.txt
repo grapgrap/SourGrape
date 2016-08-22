@@ -1,0 +1,56 @@
+3DJuegos,96
+GameCritics,95
+IGN,94
+PC Zone UK,92
+GameShark,91
+PC Games (Germany),91
+Eurogamer,90
+GamePro,90
+GameSpot,90
+VideoGamer,90
+GameFocus,90
+Boomtown,90
+Gamervision,90
+Game Over Online,90
+GameZone,90
+MEGamers,90
+DarkZero,90
+Meristation,90
+PC Gameworld,90
+NZGamer,90
+Gamer's Hell,90
+Worth Playing,90
+Total PC Gaming,90
+GameStar,88
+Play.tm,88
+Game Informer,88
+Gamers.at,87
+Computer Games Online RO,87
+GamingXP,86
+Gameplanet,85
+Gameplayer,85
+GamingExcellence,85
+PALGN,85
+AtomicGamer,84
+GameTrailers,84
+HellBored,84
+1UP,83
+ActionTrip,83
+Game Chronicles,83
+PC Format,80
+G4 TV,80
+Cheat Code Central,80
+LEVEL (Czech Republic),80
+Giant Bomb,80
+Gamer.nl,80
+PTGamers,80
+games(TM),80
+Edge Magazine,80
+Level7.nu,80
+Games Master UK,76
+PC Gamer,73
+GameSpy,70
+Thunderbolt,70
+PC PowerPlay,70
+Game Revolution,67
+PC Gamer UK,60

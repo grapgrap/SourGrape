@@ -1,0 +1,4 @@
+LEVEL (Czech Republic),80
+Metro GameCentral,70
+Edge Magazine,60
+Games.cz,50

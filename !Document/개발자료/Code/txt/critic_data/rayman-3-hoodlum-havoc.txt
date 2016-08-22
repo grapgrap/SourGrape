@@ -1,0 +1,8 @@
+ActionTrip,85
+IGN,83
+GameSpot,81
+GameZone,80
+Adrenaline Vault,70
+Computer Games Magazine,70
+Computer Gaming World,60
+PC Gamer,51

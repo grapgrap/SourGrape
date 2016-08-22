@@ -1,0 +1,8 @@
+BonusStage,82
+GameSpot,75
+Digital Entertainment News,72
+Game Chronicles,70
+PC Gamer,65
+PC Zone UK,59
+PC Gamer UK,56
+GameZone,55

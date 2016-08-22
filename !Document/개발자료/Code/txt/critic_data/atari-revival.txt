@@ -1,0 +1,4 @@
+GameSpot,52
+IGN,52
+GamePen,50
+PC Gamer,48

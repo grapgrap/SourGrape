@@ -1,0 +1,40 @@
+PC Zone UK,72
+AceGamez,70
+Gaming Nexus,70
+Game Informer,65
+PC Format,64
+PC Gamer,63
+PC Gamer UK,61
+Pelit (Finland),60
+GameWatcher,58
+ActionTrip,57
+GamingTrend,57
+GameZone,56
+Game Chronicles,55
+Gameplanet,55
+IGN,54
+Play.tm,53
+IC-Games,53
+1UP,50
+GameDaily,50
+Worth Playing,50
+GotNext,50
+PC PowerPlay,50
+Gamers' Temple,48
+YouGamers,48
+Games Master UK,47
+GamerNode,45
+Jolt Online Gaming UK,45
+PALGN,45
+Gamer 2.0,43
+GameSpy,40
+Eurogamer,40
+Thunderbolt,40
+Armchair Empire,40
+GameSpot,35
+Game Almighty,35
+GameShark,33
+GamingExcellence,32
+GameTap,30
+Gamer.nl,30
+Game Revolution,16

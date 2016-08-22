@@ -1,0 +1,5 @@
+GamesBeat,90
+PC PowerPlay,70
+GameCritics,50
+Games.cz,40
+Gamers' Temple,30

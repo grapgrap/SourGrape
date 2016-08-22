@@ -1,0 +1,40 @@
+Meristation,100
+Cynamite,100
+GameSpy,100
+VideoGamer,100
+BigPond GameArena,100
+Gamer.nl,100
+Total PC Gaming,100
+3DJuegos,96
+Gameplanet,95
+InsideGamer.nl,95
+Computer and Video Games,94
+GameStar,93
+Play.tm,93
+Games Master UK,93
+PC Gamer UK,92
+PC Games (Germany),92
+IGN,92
+PC Gamer,92
+Computer Games Online RO,92
+PC Zone UK,91
+Eurogamer,90
+GameZone,90
+GameSpot,90
+YouGamers,90
+GamePro,90
+Gamers.at,90
+Pelit (Finland),90
+PC Format,89
+NZGamer,86
+Gameplayer,85
+Absolute Games,85
+Gamer 2.0,84
+PC PowerPlay,80
+LEVEL (Czech Republic),80
+Game Over Online,80
+Play (Poland),80
+AtomicGamer,79
+1UP,75
+Worth Playing,70
+CPUGamer,70

@@ -1,0 +1,9 @@
+XGN,70
+DarkStation,60
+GameWatcher,50
+Games.cz,40
+Eurogamer Sweden,40
+LEVEL (Czech Republic),40
+IGN,35
+4Players.de,35
+Hooked Gamers,32

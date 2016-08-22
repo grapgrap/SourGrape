@@ -1,0 +1,7 @@
+GameZone,77
+Gamer's Pulse,50
+Computer Gaming World,50
+Game Over Online,40
+Cheat Code Central,40
+IGN,35
+Yahoo!,20

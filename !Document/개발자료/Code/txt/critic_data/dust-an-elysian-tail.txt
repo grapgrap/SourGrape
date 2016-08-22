@@ -1,0 +1,7 @@
+LEVEL (Czech Republic),100
+RPG Fan,90
+3DJuegos,86
+Hardcore Gamer,80
+PC Gamer,79
+GameStar,79
+GamingTrend,79

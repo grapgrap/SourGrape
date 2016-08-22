@@ -1,0 +1,39 @@
+Adventure Gamers,100
+Twinfinite,100
+Pelit (Finland),93
+IGN,93
+ActionTrip,92
+CD-Action,90
+PC PowerPlay,90
+Gamer.nl,90
+Multiplayer.it,90
+3DJuegos,90
+IncGamers,90
+GameWatcher,90
+Game Revolution,90
+God is a Geek,90
+Game Over Online,85
+GameStar,85
+GamingTrend,85
+Power Unlimited,83
+PC Games (Germany),82
+Dealspwn,80
+LEVEL (Czech Republic),80
+games(TM),80
+GameOver.gr,80
+Games.cz,80
+GameTrailers,80
+Eurogamer Germany,80
+Ragequit.gr,80
+Gamer.no,80
+Gameplanet,80
+PC Gamer,80
+Digital Spy,80
+Level7.nu,80
+TheSixthAxis,80
+Eurogamer,80
+Eurogamer Poland,70
+PCGamesN,70
+Shacknews,70
+Washington Post,60
+Ars Technica,

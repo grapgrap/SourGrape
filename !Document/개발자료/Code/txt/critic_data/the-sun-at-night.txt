@@ -1,0 +1,5 @@
+Polygon,70
+Games.cz,60
+Destructoid,55
+GamingTrend,55
+Joystiq,50

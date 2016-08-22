@@ -1,0 +1,7 @@
+IGN,91
+IGN Italia,90
+Gameblog.fr,90
+Destructoid,85
+GameSpot,80
+Adventure Gamers,70
+Riot Pixels,68

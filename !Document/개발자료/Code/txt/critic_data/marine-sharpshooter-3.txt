@@ -1,0 +1,3 @@
+IGN,35
+GamingXP,26
+GameSpot,24

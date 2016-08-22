@@ -1,0 +1,2 @@
+Kill Screen,60
+GameSpew,40

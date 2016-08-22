@@ -1,0 +1,6 @@
+GameStar,78
+GameZone,70
+IGN,70
+PC Gamer,67
+Worth Playing,65
+1UP,58

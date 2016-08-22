@@ -1,0 +1,11 @@
+GameZone,100
+CNET Gamecenter,80
+GameSpy,76
+IGN,75
+Electric Playground,70
+Adrenaline Vault,70
+GameSpot,67
+Happy Puppy,65
+GamePower,62
+Computer Games Magazine,60
+PC Gamer,58

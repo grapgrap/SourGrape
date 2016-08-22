@@ -1,0 +1,10 @@
+GameSpy,75
+IGN,73
+GameZone,70
+Electric Playground,65
+All Game Guide,60
+GameSpot,52
+Computer Games Magazine,50
+Yahoo!,40
+Adrenaline Vault,40
+GamePower,38

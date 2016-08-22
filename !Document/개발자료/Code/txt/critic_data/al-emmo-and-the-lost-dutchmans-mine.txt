@@ -1,0 +1,7 @@
+Just Adventure,100
+Hardcore Gamer,80
+Quandary,80
+GameZone,75
+Adventure Gamers,70
+The New York Times,65
+PC Zone UK,63

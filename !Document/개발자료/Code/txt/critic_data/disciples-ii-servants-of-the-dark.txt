@@ -1,0 +1,10 @@
+IGN,70
+GameSpot,70
+Computer Gaming World,70
+GameZone,70
+Armchair Empire,68
+ActionTrip,68
+Deeko,65
+Computer Games Magazine,60
+Cheat Code Central,50
+GameSpy,50

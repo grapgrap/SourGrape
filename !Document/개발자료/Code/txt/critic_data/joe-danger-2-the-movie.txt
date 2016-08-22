@@ -1,0 +1,4 @@
+PC Gamer,85
+GameWatcher,80
+Thunderbolt,80
+Eurogamer Italy,80

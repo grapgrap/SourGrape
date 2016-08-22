@@ -1,0 +1,15 @@
+GamingTrend,91
+GamingXP,91
+Ten Ton Hammer,90
+Meristation,88
+MMORPG.com,84
+Cheat Code Central,84
+IGN,83
+PC Gamer,82
+Digital Chumps,80
+Eurogamer Italy,80
+AusGamers,80
+GameSpy,70
+GamesRadar+,70
+Impulsegamer,70
+PC PowerPlay,60

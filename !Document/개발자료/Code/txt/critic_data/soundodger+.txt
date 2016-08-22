@@ -1,0 +1,5 @@
+GameOver.gr,85
+USgamer,80
+Hardcore Gamer,80
+CD-Action,75
+IGN,73

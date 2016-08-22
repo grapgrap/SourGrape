@@ -1,0 +1,27 @@
+Digital Trends,80
+GameCritics,80
+USgamer,80
+Shacknews,80
+Destructoid,80
+MMORPG.com,80
+Ragequit.gr,79
+IGN,76
+GameWatcher,75
+ZTGD,75
+GameTrailers,72
+CD-Action,70
+Edge Magazine,70
+Softpedia,70
+RPG Fan,70
+Gamer.no,70
+3DJuegos,70
+Joystiq,70
+GameSpot,70
+PC Gamer,70
+GamesRadar+,70
+Game Informer,68
+Gaming Age,67
+Polygon,60
+Hooked Gamers,55
+Eurogamer,50
+Metro GameCentral,40

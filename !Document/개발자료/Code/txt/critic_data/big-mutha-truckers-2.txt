@@ -1,0 +1,8 @@
+BonusStage,68
+Computer and Video Games,58
+IGN,55
+PC Gamer,46
+Edge Magazine,40
+GameSpy,40
+Maxim Online,20
+Play Magazine,20

@@ -1,0 +1,13 @@
+BonusStage,88
+PC Format,81
+Worth Playing,81
+games(TM),80
+Pelit (Finland),77
+GameSpot,76
+IGN,75
+Gaming Age,75
+PC Gamer,75
+Play Magazine,70
+Computer Gaming World,70
+Computer and Video Games,69
+GameCritics,65

@@ -1,0 +1,6 @@
+JeuxActu,75
+CGMagazine,75
+The Escapist,70
+LEVEL (Czech Republic),60
+Hooked Gamers,60
+GameWatcher,60

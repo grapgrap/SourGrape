@@ -1,0 +1,4 @@
+Operation Sports,86
+GameSpot,81
+Computer Gaming World,80
+Computer Games Magazine,70

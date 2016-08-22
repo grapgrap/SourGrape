@@ -1,0 +1,3 @@
+GameWatcher,60
+CalmDownTom,40
+Riot Pixels,39

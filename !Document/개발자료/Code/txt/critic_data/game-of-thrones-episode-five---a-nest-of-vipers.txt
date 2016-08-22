@@ -1,0 +1,25 @@
+Ragequit.gr,91
+GameOver.gr,90
+Vandal Online,90
+Game Rant,90
+GameSpot,90
+RPG Fan,85
+Multiplayer.it,84
+GamesVillage.it,82
+Everyeye.it,80
+Post Arcade (National Post),80
+DarkStation,80
+Softpedia,80
+Worth Playing,75
+God is a Geek,75
+GameWatcher,75
+Games.cz,70
+Attack of the Fanboy,70
+Destructoid,70
+IGN,65
+DarkZero,60
+Gameblog.fr,60
+The Jimquisition,60
+Cheat Code Central,58
+Kill Screen,55
+PC Invasion,50

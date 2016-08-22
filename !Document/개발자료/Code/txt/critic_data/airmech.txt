@@ -1,0 +1,3 @@
+GameSpy,90
+Destructoid,85
+SpazioGames,80

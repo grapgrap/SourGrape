@@ -1,0 +1,16 @@
+BonusStage,83
+Times Online,80
+PC Format,72
+Stuff,70
+Gamer's Hell,70
+Play Magazine,70
+Games Radar,68
+PC Gamer,68
+GameSpot,61
+Edge Magazine,60
+Pelaaja (Finland),60
+IGN,60
+Yahoo!,60
+GameSpy,60
+ActionTrip,53
+Computer Games Magazine,50

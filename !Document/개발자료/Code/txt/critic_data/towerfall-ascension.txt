@@ -1,0 +1,16 @@
+Polygon,95
+Destructoid,95
+PC Gamer,90
+Joystiq,90
+Eurogamer,90
+Post Arcade (National Post),90
+IGN,89
+Multiplayer.it,88
+Vandal Online,87
+Riot Pixels,85
+Meristation,85
+Edge Magazine,80
+PCGamesN,80
+GameStar,80
+3DJuegos,80
+GameSpot,80

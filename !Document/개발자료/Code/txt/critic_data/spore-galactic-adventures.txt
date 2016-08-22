@@ -1,0 +1,32 @@
+MEGamers,86
+GameSpot,80
+Meristation,80
+GameSpy,80
+Vandal Online,80
+Boomtown,80
+GameZone,80
+Cheat Code Central,78
+IGN,77
+1UP,75
+3DJuegos,75
+Everyeye.it,75
+PC Games (Germany),71
+LEVEL (Czech Republic),70
+Eurogamer,70
+GameDaily,70
+Metro GameCentral,70
+Gameplanet,70
+Gamer.nl,70
+NZGamer,70
+Eurogamer Italy,70
+Gamers.at,70
+Level7.nu,70
+AceGamez,70
+Multiplayer.it,68
+InsideGamer.nl,65
+GameStar,62
+PC PowerPlay,60
+Total PC Gaming,60
+DarkZero,60
+PC Gamer UK,42
+The A.V. Club,33

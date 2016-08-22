@@ -1,0 +1,7 @@
+GamingTrend,90
+Areajugones,90
+Hardcore Gamer,80
+We Got This Covered,80
+Multiplayer.it,78
+SpazioGames,75
+Kill Screen,58

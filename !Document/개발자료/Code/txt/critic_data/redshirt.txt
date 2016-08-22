@@ -1,0 +1,16 @@
+Polygon,80
+PC Gamer,75
+IGN,74
+The Digital Fix,70
+GameWatcher,70
+IGN Italia,70
+Riot Pixels,65
+LEVEL (Czech Republic),60
+Games.cz,60
+DarkStation,60
+Meristation,60
+4Players.de,60
+GameSpot,60
+PC PowerPlay,50
+Eurogamer,50
+Gameblog.fr,40

@@ -1,0 +1,6 @@
+IGN,90
+Gamezilla!,86
+Cheat Code Central,70
+GameSpot,64
+Computer Games Magazine,50
+Computer Gaming World,20

@@ -1,0 +1,10 @@
+PC Gameworld,90
+PC Gamer,89
+GameSpot,87
+FiringSquad,85
+All Game Guide,80
+Computer Games Magazine,80
+Adrenaline Vault,80
+IGN,70
+Eurogamer,70
+Yahoo!,70

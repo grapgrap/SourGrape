@@ -1,0 +1,5 @@
+GameGrin,80
+Brash Games,70
+GamingTrend,65
+Games.cz,60
+Hardcore Gamer,60

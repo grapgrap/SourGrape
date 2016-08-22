@@ -1,0 +1,7 @@
+Adrenaline Vault,80
+GameNow,67
+Next Level Gaming,60
+PC Gameworld,55
+PC Gamer,49
+GameSpot,47
+IGN,35

@@ -1,0 +1,10 @@
+MEGamers,80
+PC Gamer,74
+VideoGamer,70
+Everyeye.it,65
+Gamer.nl,60
+Gamereactor Denmark,60
+Thunderbolt,60
+SpazioGames,60
+IGN,55
+Eurogamer,50

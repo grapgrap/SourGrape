@@ -1,0 +1,15 @@
+Armchair Empire,92
+GameZone,90
+Gamers' Temple,88
+IGN,85
+GameSpot,84
+GameSpy,81
+GamePen,80
+Media and Games Online Network,80
+G4 TV,80
+ActionTrip,80
+Game Over Online,76
+Game Informer,75
+Computer Games Magazine,70
+Yahoo!,60
+Computer Gaming World,50

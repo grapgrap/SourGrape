@@ -1,0 +1,6 @@
+IGN,55
+XGN,55
+RPG Site,50
+Everyeye.it,45
+Game Debate,35
+Rock, Paper, Shotgun,

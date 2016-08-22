@@ -1,0 +1,12 @@
+AceGamez,100
+PC Gameworld,95
+PC Gamer,92
+GMR Magazine,90
+Computer Games Magazine,90
+GameSpot,86
+IGN,85
+GameSpy,85
+FiringSquad,84
+Computer Gaming World,80
+Yahoo!,70
+G4 TV,60

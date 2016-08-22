@@ -1,0 +1,3 @@
+XGN,75
+DarkZero,70
+Thunderbolt,30

@@ -1,0 +1,10 @@
+Hot Games,80
+PC Gamer,78
+GameZone,76
+Armchair Empire,68
+IGN,65
+Operation Sports,65
+Computer Games Magazine,60
+GameSpot,59
+Computer Gaming World,40
+Yahoo!,40

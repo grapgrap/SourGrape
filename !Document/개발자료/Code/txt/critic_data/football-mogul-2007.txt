@@ -1,0 +1,9 @@
+GameZone,66
+Worth Playing,55
+Game Chronicles,48
+GamerNode,44
+GameShark,42
+Operation Sports,40
+GamingExcellence,40
+PC Gamer,39
+GamingTrend,37

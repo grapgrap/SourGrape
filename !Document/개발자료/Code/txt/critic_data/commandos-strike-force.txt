@@ -1,0 +1,20 @@
+PC Format,84
+Pelit (Finland),82
+ActionTrip,79
+IGN,75
+Eurogamer,70
+Cheat Code Central,68
+GameZone,68
+Deeko,65
+PC Gamer,65
+Worth Playing,65
+AceGamez,60
+GameSpot,57
+Game Informer,55
+1UP,50
+VideoGamer,50
+Sydney Morning Herald,50
+GameWatcher,48
+games(TM),40
+Yahoo!,40
+Computer Games Magazine,40

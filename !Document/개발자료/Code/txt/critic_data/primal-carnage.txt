@@ -1,0 +1,15 @@
+ZTGD,80
+IGN,76
+DarkStation,70
+DarkZero,70
+Multiplayer.it,70
+GameSpy,70
+Joystiq,70
+Cheat Code Central,70
+Vandal Online,68
+PC Gamer,65
+CD-Action,60
+Riot Pixels,60
+Machinima,60
+IncGamers,50
+GameWatcher,50

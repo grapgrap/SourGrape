@@ -1,0 +1,2 @@
+GameSpy,90
+XGN,75

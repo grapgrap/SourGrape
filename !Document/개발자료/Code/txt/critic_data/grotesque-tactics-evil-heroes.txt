@@ -1,0 +1,4 @@
+GamingXP,80
+GameStar,75
+RPG Fan,65
+Absolute Games,30

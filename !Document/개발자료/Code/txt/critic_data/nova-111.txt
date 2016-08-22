@@ -1,0 +1,5 @@
+Gamer.nl,75
+Kill Screen,71
+GameWatcher,70
+ZTGD,65
+NZGamer,60

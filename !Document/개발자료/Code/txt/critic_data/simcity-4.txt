@@ -1,0 +1,36 @@
+Adrenaline Vault,100
+GameNow,100
+GamePro,100
+Game Informer,98
+Gamezilla!,96
+IGN,92
+Armchair Empire,92
+ActionTrip,91
+Entertainment Weekly,91
+CPUGamer,90
+Eurogamer,90
+Cheat Code Central,90
+Gamers' Temple,90
+PC Format,88
+Games Radar,88
+PC Gameworld,87
+Gaming Age,83
+PC Gamer,83
+GameZone,83
+Gamer's Pulse,82
+GameSpot,81
+Total Video Games,80
+Yahoo!,80
+GMR Magazine,80
+Maxim Online,80
+Computer Gaming World,80
+G4 TV,80
+GameSpy,75
+Game Revolution,75
+FiringSquad,71
+All Game Guide,70
+TotalGames.net,70
+netjak,70
+Edge Magazine,70
+Game Over Online,68
+Computer Games Magazine,50

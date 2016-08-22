@@ -1,0 +1,40 @@
+VideoGamer,100
+Game Chronicles,99
+Cheat Code Central,98
+IGN,95
+InsideGamer.nl,95
+Gamervision,95
+GameZone,94
+PC Zone UK,94
+GamingExcellence,92
+GameWatcher,92
+1UP,91
+Game Revolution,91
+GamingXP,91
+Thunderbolt,90
+Edge Magazine,90
+Gameplayer Sweden,90
+GamesRadar+,90
+GameStar,89
+PC Format,88
+AtomicGamer,88
+3DJuegos,87
+GameSpot,85
+Everyeye.it,85
+CPUGamer,85
+Computer Games Online RO,84
+Pelit (Finland),84
+Gamers.at,82
+FiringSquad,82
+ActionTrip,81
+PC PowerPlay,80
+PC Gamer,80
+Total PC Gaming,80
+GameSpy,80
+Boomtown,80
+Meristation,80
+PALGN,75
+Gameplanet,70
+LEVEL (Czech Republic),70
+Absolute Games,69
+BigPond GameArena,50

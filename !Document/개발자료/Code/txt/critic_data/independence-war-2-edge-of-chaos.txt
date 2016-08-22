@@ -1,0 +1,17 @@
+Games Radar,100
+Computer Gaming World,90
+Game Informer,90
+GameSpot,89
+Electric Playground,88
+GameZone,85
+IGN,82
+ActionTrip,81
+GameSpy,81
+PC Gamer,80
+Yahoo!,80
+Adrenaline Vault,80
+GamePro,80
+G4 TV,80
+Playboy,80
+Computer Games Magazine,70
+Next Generation Magazine,60

@@ -1,0 +1,11 @@
+GameSpy,70
+GameDaily,70
+GameSpot,64
+IGN,60
+VideoGamer,60
+Computer Games Online RO,60
+PC Gamer,60
+GamesRadar+,50
+Sydney Morning Herald,40
+PC Format,34
+PC Zone UK,32

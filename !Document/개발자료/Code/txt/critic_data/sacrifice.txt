@@ -1,0 +1,31 @@
+Games Radar,100
+Yahoo!,100
+GamePro,100
+Four Fat Chicks,100
+Computer Games Magazine,100
+Antagonist,99
+Gamer's Pulse,99
+GamerWeb PC,97
+Electric Playground,95
+IGN,94
+Game Over Online,94
+GameSpy,93
+ActionTrip,92
+Game Revolution,91
+CNET Gamecenter,90
+Adrenaline Vault,90
+GMR Magazine,90
+TotalGames.net,90
+PC Gamer,90
+Happy Puppy,90
+Armchair Empire,90
+Daily Radar,88
+FiringSquad,87
+GameSpot,86
+Da Gameboyz,85
+Gaming Age,83
+Evil Avatar,80
+GamePower,75
+All Game Guide,70
+Spank!,70
+Eurogamer,60

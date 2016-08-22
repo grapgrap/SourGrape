@@ -1,0 +1,24 @@
+GameSpy,90
+GamePro,90
+GameZone,84
+Quandary,80
+Armchair Empire,80
+PC Gamer,79
+ActionTrip,79
+GameSpot,79
+IGN,75
+PC Format,74
+Game Over Online,74
+Game Chronicles,72
+Gamers' Temple,70
+Game Informer,70
+Yahoo!,70
+GMR Magazine,70
+Computer Games Magazine,70
+GameShark,68
+PC Gameworld,64
+netjak,63
+Computer Gaming World,50
+Game Revolution,42
+G4 TV,40
+Edge Magazine,40

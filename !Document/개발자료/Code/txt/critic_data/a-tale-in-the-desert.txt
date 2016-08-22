@@ -1,0 +1,6 @@
+Just Adventure,91
+IGN,89
+Gamer's Pulse,84
+GameSpot,77
+Computer Games Magazine,70
+Computer Gaming World,60

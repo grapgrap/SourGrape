@@ -1,0 +1,9 @@
+3DAvenue,88
+GameZone,85
+My Gamer,80
+GameSpot,72
+G4 TV,60
+GameSpy,60
+PC Gamer,58
+AceGamez,50
+PC Format,42

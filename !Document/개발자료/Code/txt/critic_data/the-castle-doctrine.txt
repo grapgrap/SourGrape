@@ -1,0 +1,12 @@
+PC Gamer,85
+Destructoid,70
+Game Informer,70
+Eurogamer Italy,60
+Edge Magazine,60
+Hardcore Gamer,60
+Lazygamer,55
+God is a Geek,50
+Polygon,50
+IGN,45
+GameCritics,40
+GameSpot,40

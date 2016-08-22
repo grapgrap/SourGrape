@@ -1,0 +1,24 @@
+Quarter to Three,100
+PC PowerPlay,90
+Games.cz,90
+Gaming Nexus,90
+AtomicGamer,90
+GameSpy,90
+Impulsegamer,89
+GamingTrend,89
+GameTrailers,87
+PC Games (Germany),86
+PC Gamer,86
+GameSpot,85
+GameWatcher,85
+GameStar,82
+4Players.de,80
+GamesRadar+,80
+G4 TV,80
+Game Informer,80
+GameCritics,75
+IGN,75
+Cheat Code Central,74
+Everyeye.it,70
+Absolute Games,62
+games(TM),60

@@ -1,0 +1,36 @@
+GamingXP,80
+GameStar,76
+PC Games (Germany),76
+GameZone,75
+Meristation,75
+Cynamite,75
+Gamers.at,73
+PC Zone UK,71
+Vandal Online,70
+Eurogamer,70
+Eurogamer Italy,70
+Computer Games Online RO,70
+GRYOnline.pl,65
+PC Gamer,65
+RPG Fan,65
+ActionTrip,63
+Eurogamer Spain,60
+GameWatcher,60
+IGN,60
+Armchair Empire,60
+LEVEL (Czech Republic),60
+GameSpot,55
+GamingExcellence,55
+Worth Playing,55
+Multiplayer.it,55
+Game Informer,55
+Cheat Code Central,52
+Absolute Games,40
+Gamekult,40
+GamesRadar+,40
+Everyeye.it,40
+GameShark,33
+Gaming Nexus,33
+1UP,25
+Metro GameCentral,20
+Game Revolution,0

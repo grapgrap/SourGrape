@@ -1,0 +1,14 @@
+BonusStage,83
+ActionTrip,79
+Computer and Video Games,77
+PC Format,71
+PC Gamer,70
+Jolt Online Gaming UK,70
+Boomtown,70
+Game Chronicles,69
+Computer Games Online RO,69
+IGN,68
+GameSpot,60
+Computer Gaming World,60
+GamerFeed,60
+Computer Games Magazine,50

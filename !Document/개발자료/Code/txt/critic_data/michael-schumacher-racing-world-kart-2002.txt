@@ -1,0 +1,5 @@
+IGN,70
+Media and Games Online Network,70
+Yahoo!,60
+GameSpot,56
+PC Gamer,46

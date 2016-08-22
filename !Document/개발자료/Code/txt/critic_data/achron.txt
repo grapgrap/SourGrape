@@ -1,0 +1,11 @@
+Ten Ton Hammer,78
+PC Gamer,70
+XGN,70
+The Escapist,70
+GameSpot,60
+IGN,50
+PC PowerPlay,50
+GamingExcellence,45
+GamePro,40
+Bit-Gamer,35
+Destructoid,30

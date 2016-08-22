@@ -1,0 +1,8 @@
+GameZone,90
+Game Over Online,87
+Computer Games Magazine,80
+Electric Playground,80
+PC Gameworld,70
+GameSpy,68
+GameSpot,62
+Computer Gaming World,60

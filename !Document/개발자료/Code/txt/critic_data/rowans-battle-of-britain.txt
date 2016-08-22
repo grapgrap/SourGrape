@@ -1,0 +1,14 @@
+GamePower,100
+Happy Puppy,90
+GMR Magazine,90
+TotalGames.net,88
+GameSpot,84
+ActionTrip,82
+Adrenaline Vault,80
+PC Gamer,80
+IGN,77
+Eurogamer,70
+GameZone,65
+Yahoo!,60
+All Game Guide,50
+Computer Games Magazine,50

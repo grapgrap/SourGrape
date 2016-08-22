@@ -1,0 +1,22 @@
+ZTGD,88
+Armchair Empire,80
+AtomicGamer,80
+Game Chronicles,75
+CD-Action,75
+Game Over Online,72
+LEVEL (Czech Republic),70
+Eurogamer Italy,70
+NZGamer,70
+Destructoid,70
+GamePro,70
+Cheat Code Central,62
+Gamer.no,60
+Thunderbolt,60
+Giant Bomb,60
+GameSpot,60
+Gaming Nexus,58
+games(TM),50
+Gamekult,50
+GameWatcher,45
+PC Gamer,43
+Adventure Gamers,40

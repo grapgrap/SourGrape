@@ -1,0 +1,5 @@
+IGN,84
+GameTrailers,74
+Destructoid,70
+Game Revolution,70
+GameSpot,60

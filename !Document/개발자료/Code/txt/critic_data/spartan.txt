@@ -1,0 +1,13 @@
+Total Video Games,80
+GameBiz,79
+Computer Games Online RO,72
+GameZone,64
+Computer Games Magazine,60
+Gamers Europe,60
+PC Gamer,58
+Game Chronicles,50
+Thunderbolt,50
+IGN,50
+Boomtown,50
+DailyGame,40
+Computer and Video Games,33

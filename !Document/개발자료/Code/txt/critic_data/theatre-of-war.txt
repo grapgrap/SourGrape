@@ -1,0 +1,13 @@
+Gaming Target,85
+GamePro,80
+GameSpot,78
+GameZone,77
+Pelit (Finland),74
+PC Zone UK,71
+IGN,70
+GameShark,67
+PC Gamer UK,60
+PC Format,60
+Worth Playing,50
+PC Gamer,41
+1UP,40

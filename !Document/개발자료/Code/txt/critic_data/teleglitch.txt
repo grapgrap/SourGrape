@@ -1,0 +1,4 @@
+Eurogamer,90
+PC Gamer,84
+PC PowerPlay,80
+Destructoid,80

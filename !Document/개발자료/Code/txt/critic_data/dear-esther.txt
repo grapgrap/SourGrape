@@ -1,0 +1,37 @@
+Gaming Nexus,100
+GameOver.gr,100
+Multiplayer.it,90
+GameWatcher,90
+Everyeye.it,90
+Gamer.nl,90
+4Players.de,90
+Bit-Gamer,90
+VideoGamer,90
+PC Master (Greece),88
+PC Gamer,84
+Pelit (Finland),83
+Telegraph,80
+The Escapist,80
+Meristation,80
+Eurogamer Italy,80
+Gameblog.fr,80
+3DJuegos,80
+AtomicGamer,80
+GameSpy,80
+Digital Spy,80
+Eurogamer,80
+Game Informer,80
+GameSpot,80
+IGN,80
+Edge Magazine,80
+ActionTrip,77
+Absolute Games,76
+GameTrailers,75
+PC PowerPlay,60
+DarkZero,60
+CD-Action,55
+LEVEL (Czech Republic),50
+Games Master UK,50
+Destructoid,45
+DarkStation,40
+Thunderbolt,30

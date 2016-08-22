@@ -1,0 +1,21 @@
+PC Gameworld,91
+GamePro,90
+Gamer's Hell,85
+GameSpy,85
+DailyGame,85
+Game Over Online,84
+GameZone,83
+Armchair Empire,83
+Computer Games Magazine,80
+Game Chronicles,80
+G4 TV,80
+PC Gamer,80
+IGN,75
+Gamezilla!,74
+Yahoo!,70
+Game Informer,70
+Game Revolution,67
+GameSpot,67
+Gamer's Pulse,62
+Eurogamer,60
+Computer Gaming World,50

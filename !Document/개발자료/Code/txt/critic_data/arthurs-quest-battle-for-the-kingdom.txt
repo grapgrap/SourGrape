@@ -1,0 +1,3 @@
+GamerWeb PC,45
+GameSpot,19
+Computer Games Magazine,10

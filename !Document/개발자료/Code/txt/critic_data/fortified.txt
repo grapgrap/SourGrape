@@ -1,0 +1,5 @@
+Softpedia,80
+WCCFtech,68
+GameWatcher,65
+GameSpot,60
+Impulsegamer,60

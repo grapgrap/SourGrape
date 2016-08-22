@@ -1,0 +1,30 @@
+GamePower,100
+CheckOut,100
+Games Radar,100
+Adrenaline Vault,100
+GMR Magazine,100
+Daily Radar,100
+Computer Games Magazine,100
+GamePro,100
+Quandary,100
+Antagonist,98
+Da Gameboyz,98
+PC Gameworld,98
+Gamer's Pulse,98
+GamerWeb PC,96
+ActionTrip,96
+Electric Playground,95
+Happy Puppy,95
+GameZone,95
+Armchair Empire,95
+IGN,94
+FiringSquad,93
+GameSpy,92
+GameSpot,92
+Game Revolution,91
+PC Gamer,91
+Game Over Online,91
+CNET Gamecenter,90
+Spank!,90
+Eurogamer,90
+All Game Guide,80

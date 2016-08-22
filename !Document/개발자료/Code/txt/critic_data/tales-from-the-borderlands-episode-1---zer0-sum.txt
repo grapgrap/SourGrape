@@ -1,0 +1,43 @@
+DarkStation,100
+GamesBeat,96
+Softpedia,95
+RPG Fan,91
+Arcade Sushi,90
+TheSixthAxis,90
+PC PowerPlay,90
+Game Over Online,90
+Ragequit.gr,90
+Gaming Nexus,90
+PCGamesN,90
+Destructoid,90
+Cheat Code Central,90
+God is a Geek,90
+AusGamers,89
+IGN Italia,88
+IGN,88
+SpazioGames,85
+NZGamer,85
+Power Unlimited,85
+Everyeye.it,85
+Gameplanet,85
+3DJuegos,85
+Polygon,85
+The Jimquisition,85
+Merlin'in Kazan©¥ (Turkey),84
+InsideGamer.nl,83
+4Players.de,83
+Gaming Age,83
+LEVEL (Czech Republic),80
+Eurogamer Poland,80
+Gamer.nl,80
+Gameblog.fr,80
+GameCritics,80
+Games.cz,80
+DarkZero,80
+Meristation,80
+IncGamers,80
+Metro GameCentral,80
+Games Master UK,78
+CD-Action,75
+Multiplayer.it,70
+Game Informer,65

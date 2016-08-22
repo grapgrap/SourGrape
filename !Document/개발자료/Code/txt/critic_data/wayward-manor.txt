@@ -1,0 +1,23 @@
+CalmDownTom,70
+Shacknews,60
+Eurogamer,50
+Joystiq,50
+Game Informer,50
+Hooked Gamers,50
+Multiplayer.it,49
+PC Gamer,49
+Ragequit.gr,48
+GameStar,46
+Games Master UK,40
+Eurogamer Italy,40
+NZGamer,40
+GameSpot,40
+Level7.nu,30
+games(TM),30
+Metro GameCentral,30
+Everyeye.it,30
+Game Revolution,30
+Hardcore Gamer,30
+Slant Magazine,30
+CD-Action,20
+GameCritics,20

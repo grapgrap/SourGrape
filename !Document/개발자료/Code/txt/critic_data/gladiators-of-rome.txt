@@ -1,0 +1,7 @@
+Gamezilla!,70
+GameZone,66
+GameSpot,63
+G4 TV,40
+Gamers' Temple,35
+IGN,30
+PC Gamer,29

@@ -1,0 +1,11 @@
+Gaming Age,100
+Games.cz,80
+LEVEL (Czech Republic),80
+Multiplayer.it,80
+GameSpot,75
+Armchair Empire,70
+Eurogamer Germany,70
+Hardcore Gamer,70
+GamingTrend,67
+Destructoid,60
+CD-Action,50

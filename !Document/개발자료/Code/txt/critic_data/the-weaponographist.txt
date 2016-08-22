@@ -1,0 +1,16 @@
+GamingTrend,75
+COGconnected,75
+Hardcore Gamer,70
+GameSpot,70
+Game Rant,70
+Arcade Sushi,70
+Gaming Nexus,65
+Digitally Downloaded,60
+Twinfinite,60
+DarkStation,50
+Hooked Gamers,50
+Gamers' Temple,50
+Destructoid,50
+Game Revolution,50
+GameCritics,45
+Riot Pixels,40

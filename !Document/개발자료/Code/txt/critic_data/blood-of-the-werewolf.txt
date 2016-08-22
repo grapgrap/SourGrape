@@ -1,0 +1,9 @@
+GamingTrend,80
+Worth Playing,75
+GameWatcher,75
+GameSpot,70
+Vandal Online,65
+Eurogamer Italy,60
+4Players.de,60
+DarkZero,50
+God is a Geek,50

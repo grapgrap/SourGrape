@@ -1,0 +1,10 @@
+GameZone,90
+GameSpot,84
+Gaming Age,83
+IGN,81
+Computer Games Magazine,80
+Adrenaline Vault,80
+Yahoo!,80
+XGP Gaming,78
+GameSpy,75
+PC Format,64

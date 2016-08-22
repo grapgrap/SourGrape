@@ -1,0 +1,12 @@
+PC Gameworld,82
+Computer Games Magazine,80
+Times Online,80
+Gamer's Hell,78
+IGN,76
+GameSpy,75
+GameZone,74
+Adrenaline Vault,70
+PC Format,68
+GamerFeed,60
+GameSpot,59
+Computer Gaming World,50

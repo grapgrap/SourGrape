@@ -1,0 +1,12 @@
+BonusStage,69
+PC Gamer,64
+My Gamer,64
+Computer Gaming World,60
+Yahoo!,60
+Computer Games Online RO,60
+GameSpot,56
+Edge Magazine,50
+Gamer.tv,50
+IGN,50
+Maxim Online,40
+Eurogamer,30

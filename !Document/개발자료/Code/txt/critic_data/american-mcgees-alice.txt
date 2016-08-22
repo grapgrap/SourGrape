@@ -1,0 +1,34 @@
+GameZone,100
+Cincinnati Enquirer,100
+Antagonist,99
+Armchair Empire,98
+Gamer's Pulse,95
+IGN,94
+GameSpy,93
+Gaming Age,91
+GamerWeb PC,91
+Da Gameboyz,91
+ActionTrip,90
+Voodoo Extreme,90
+PC Gameworld,90
+Game Over Online,90
+Happy Puppy,90
+Games Radar,88
+Gamezilla!,88
+Daily Radar,88
+PC Gamer,88
+GamePower,88
+FiringSquad,87
+Total Video Games,80
+CNET Gamecenter,80
+Eurogamer,80
+GamePro,80
+Spank!,80
+All Game Guide,80
+Game Revolution,75
+Four Fat Chicks,75
+GameSpot,73
+Adrenaline Vault,70
+Yahoo!,70
+Computer Games Magazine,60
+Evil Avatar,50

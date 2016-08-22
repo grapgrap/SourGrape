@@ -1,0 +1,3 @@
+CGMagazine,90
+Hooked Gamers,80
+Digitally Downloaded,70

@@ -1,0 +1,2 @@
+GRYOnline.pl,70
+CD-Action,60

@@ -1,0 +1,15 @@
+CheckOut,80
+Computer Games Magazine,70
+GameZone,70
+Electric Playground,70
+GameSpy,70
+Adrenaline Vault,70
+GameSpot,70
+IGN,60
+All Game Guide,60
+PC Gamer,58
+Games Radar,50
+Daily Radar,50
+PC Gameworld,48
+CNET Gamecenter,40
+Yahoo!,40

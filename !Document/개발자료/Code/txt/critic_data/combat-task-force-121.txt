@@ -1,0 +1,6 @@
+GameSpot,54
+My Gamer,46
+Game Informer,40
+Computer Gaming World,30
+Computer Games Magazine,30
+PC Gamer,28

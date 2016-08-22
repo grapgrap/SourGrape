@@ -1,0 +1,12 @@
+IGN,76
+SpazioGames,75
+GameStar,74
+LEVEL (Czech Republic),60
+Gamer.no,60
+Eurogamer Germany,60
+Game Over Online,60
+Absolute Games,56
+AusGamers,50
+Eurogamer Sweden,40
+Games.cz,40
+Thunderbolt,20

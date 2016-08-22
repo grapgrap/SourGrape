@@ -1,0 +1,2 @@
+GamerNode,85
+PC Format,50

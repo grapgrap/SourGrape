@@ -1,0 +1,67 @@
+Gameplayer Sweden,100
+GameShark,100
+Giant Bomb,100
+1UP,100
+GamePro,100
+Cynamite,100
+The A.V. Club,100
+BigPond GameArena,100
+GameZone,99
+Gamer Limit,95
+FiringSquad,95
+GameWatcher,95
+Armchair Empire,95
+Meristation,95
+GameSpot,95
+Multiplayer.it,95
+ZTGD,95
+Gamers' Temple,94
+PC Gamer UK,94
+GamingTrend,93
+PC Zone UK,93
+SpazioGames,93
+PC Gamer,92
+GamingXP,92
+9Lives,92
+GameFocus,92
+Absolute Games,92
+IGN UK,92
+Cheat Code Central,92
+GameStar,92
+PC Games (Germany),91
+AtomicGamer,91
+Game Revolution,91
+Gaming Age,91
+3DJuegos,91
+GameTrailers,91
+Level7.nu,90
+Gamervision,90
+Gamer.nl,90
+Total PC Gaming,90
+PC PowerPlay,90
+Computer Games Online RO,90
+RPG Fan,90
+Game Informer,90
+Everyeye.it,90
+Vandal Online,90
+GameDaily,90
+Gamers.at,90
+LEVEL (Czech Republic),90
+GamesRadar+,90
+IGN,90
+Gameplanet,90
+GameSpy,90
+NZGamer,90
+PC Format,88
+Pelit (Finland),88
+WonderwallWeb,86
+YouGamers,86
+GamingExcellence,86
+Play.tm,85
+D+PAD Magazine,80
+Eurogamer Portugal,80
+RealGamer,80
+Eurogamer,80
+VideoGamer,80
+Total Video Games,80
+Metro GameCentral,70

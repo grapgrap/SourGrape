@@ -1,0 +1,8 @@
+GameSpy,90
+GameFront,87
+ZTGD,80
+GRYOnline.pl,75
+PC Gamer,70
+AtomicGamer,70
+IGN,69
+IncGamers,60

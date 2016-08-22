@@ -1,0 +1,9 @@
+PC Zone UK,82
+IGN,80
+PC Format,79
+PC Gamer UK,78
+PC Gamer,78
+YouGamers,78
+GameZone,75
+GameDaily,70
+Game Revolution,42

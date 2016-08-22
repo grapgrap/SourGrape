@@ -1,0 +1,12 @@
+GamePen,100
+Operation Sports,97
+Sports Gaming Network,95
+Armchair Empire,95
+GameSpy,90
+All Game Guide,90
+GameSpot,84
+Gamer's Pulse,81
+Adrenaline Vault,80
+Computer Gaming World,80
+Yahoo!,80
+GameZone,78

@@ -1,0 +1,5 @@
+TotalGames.net,92
+Computer Games Magazine,90
+PC Gamer,90
+GameSpot,90
+Game Revolution,83

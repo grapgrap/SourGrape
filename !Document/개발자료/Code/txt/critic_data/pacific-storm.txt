@@ -1,0 +1,10 @@
+Worth Playing,85
+PC Gameworld,82
+IGN,80
+GamerNode,79
+GameZone,75
+Game Chronicles,65
+PC Gamer,62
+GamingExcellence,56
+GameSpot,54
+Computer Games Magazine,40

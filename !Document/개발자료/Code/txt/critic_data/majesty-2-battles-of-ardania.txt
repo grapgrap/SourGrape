@@ -1,0 +1,5 @@
+My Gamer,84
+GameWatcher,60
+CPUGamer,60
+GameSpot,45
+GameZone,35

@@ -1,0 +1,4 @@
+GamingXP,71
+GameStar,55
+GameWatcher,30
+Absolute Games,24

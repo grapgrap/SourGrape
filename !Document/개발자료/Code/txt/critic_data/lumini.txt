@@ -1,0 +1,6 @@
+GameCrate,80
+TheSixthAxis,80
+IGN Spain,70
+Gamer.nl,70
+Vandal Online,65
+Brash Games,50

@@ -1,0 +1,6 @@
+GameWatcher,80
+IGN,65
+NZGamer,65
+Everyeye.it,60
+DarkStation,40
+GameCritics,35

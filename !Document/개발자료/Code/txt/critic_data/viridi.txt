@@ -1,0 +1,4 @@
+CGMagazine,70
+Kill Screen,68
+Twinfinite,40
+GamingTrend,5

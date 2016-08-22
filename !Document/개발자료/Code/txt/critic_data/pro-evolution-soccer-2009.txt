@@ -1,0 +1,12 @@
+Cynamite,90
+PC Gamer UK,87
+GameStar,86
+PC Format,86
+PC Zone UK,85
+Thunderbolt,80
+PTGamers,80
+LEVEL (Czech Republic),80
+Gamers.at,79
+VideoGamer,70
+PC PowerPlay,70
+Total PC Gaming,60

@@ -1,0 +1,59 @@
+Hardcore Gamer,80
+Gaming Nexus,80
+God is a Geek,80
+GamingTrend,75
+GameFront,75
+Pelit (Finland),72
+Hooked Gamers,70
+Eurogamer Italy,70
+Eurogamer,70
+Vandal Online,67
+Kill Screen,65
+Everyeye.it,65
+Multiplayer.it,63
+IGN Italia,63
+DarkStation,60
+Gamer.no,60
+Lazygamer,60
+ZTGD,60
+Game Informer,60
+Meristation,60
+PC Games (Germany),58
+Gaming Age,58
+IGN,58
+XGN,55
+SpazioGames,55
+JeuxActu,55
+GameStar,52
+CD-Action,50
+Gamer.nl,50
+Eurogamer Portugal,50
+Ragequit.gr,50
+DarkZero,50
+Level7.nu,50
+Joystiq,50
+Digitally Downloaded,50
+The Escapist,50
+Polygon,50
+Worth Playing,45
+GRYOnline.pl,45
+3DJuegos,45
+GameWatcher,45
+PC Gamer,43
+PC PowerPlay,40
+LEVEL (Czech Republic),40
+Games.cz,40
+Riot Pixels,40
+Gameblog.fr,40
+Destructoid,40
+VideoGamer,40
+IncGamers,40
+GamesRadar+,40
+games(TM),30
+GameOver.gr,30
+NZGamer,30
+Eurogamer Germany,30
+Edge Magazine,30
+Gameplanet,30
+GameSpot,30
+Game Over Online,25

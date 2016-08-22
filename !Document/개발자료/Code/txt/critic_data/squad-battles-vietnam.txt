@@ -1,0 +1,3 @@
+PC Gamer,90
+GameSpy,77
+GameSpot,73

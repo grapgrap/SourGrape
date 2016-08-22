@@ -1,0 +1,47 @@
+The Escapist,100
+CGMagazine,95
+High-Def Digest,90
+PC PowerPlay,90
+IGN Sweden,90
+GameOver.gr,90
+GamingTrend,90
+COGconnected,90
+Ragequit.gr,89
+Pelit (Finland),86
+Hooked Gamers,85
+GameStar,81
+PLAY! Zine,80
+IGN Italia,80
+ZTGD,80
+Gaming Nexus,80
+IGN Spain,80
+Eurogamer Poland,80
+Attack of the Fanboy,80
+Arcade Sushi,80
+4Players.de,78
+SpazioGames,75
+3DJuegos,75
+Multiplayer.it,75
+PC Games (Germany),74
+Game World Navigator Magazine,70
+Games.cz,70
+Merlin'in Kazan©¥ (Turkey),70
+ActionTrip,70
+LevelUp,70
+PCWorld,70
+Game Revolution,70
+Destructoid,70
+GameSpot,70
+Kill Screen,66
+GRYOnline.pl,65
+PC Gamer,64
+Game Over Online,60
+Hardcore Gamer,60
+IGN,58
+Riot Pixels,56
+CD-Action,55
+Game Informer,50
+The Jimquisition,50
+Adventure Gamers,40
+Quarter to Three,20
+Rock, Paper, Shotgun,

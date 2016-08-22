@@ -1,0 +1,3 @@
+PC PowerPlay,80
+GamingXP,75
+IGN,65

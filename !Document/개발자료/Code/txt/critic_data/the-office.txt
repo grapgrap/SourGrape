@@ -1,0 +1,2 @@
+GameZone,70
+Game Almighty,65

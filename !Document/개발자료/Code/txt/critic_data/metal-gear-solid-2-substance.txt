@@ -1,0 +1,9 @@
+IGN,89
+GameZone,85
+GameSpy,84
+PC Gamer,80
+Game Chronicles,79
+GameSpot,78
+ActionTrip,77
+Computer Games Magazine,60
+Computer Gaming World,50

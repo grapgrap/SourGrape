@@ -1,0 +1,21 @@
+1UP,100
+Thunderbolt,100
+PALGN,95
+Armchair Empire,95
+IGN,94
+PC Gamer UK,93
+AtomicGamer,92
+Computer and Video Games,90
+Eurogamer,90
+GamerNode,90
+Jolt Online Gaming UK,90
+VideoGamer,90
+AceGamez,90
+Play (Poland),90
+YouGamers,89
+The New York Times,86
+Computer Games Online RO,86
+PC Zone UK,82
+GameSpy,80
+GameCritics,80
+Four Fat Chicks,80

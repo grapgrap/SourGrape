@@ -1,0 +1,14 @@
+LEVEL (Czech Republic),80
+Hardcore Gamer,80
+The Escapist,80
+The Digital Fix,80
+IGN,72
+Destructoid,70
+Metro GameCentral,70
+Multiplayer.it,65
+SpazioGames,65
+Games.cz,60
+VideoGamer,60
+GameSpot,60
+PCGamesN,40
+Riot Pixels,35

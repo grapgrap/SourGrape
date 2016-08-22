@@ -1,0 +1,3 @@
+GameWatcher,80
+Hardcore Gamer,70
+RPG Fan,65

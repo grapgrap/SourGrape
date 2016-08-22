@@ -1,0 +1,3 @@
+GRYOnline.pl,70
+GameStar,69
+The Games Machine,61

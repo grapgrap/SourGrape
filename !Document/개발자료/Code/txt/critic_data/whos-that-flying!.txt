@@ -1,0 +1,7 @@
+IncGamers,85
+MEGamers,82
+Kikizo,80
+IGN,80
+games(TM),70
+GameZone,65
+CPUGamer,65

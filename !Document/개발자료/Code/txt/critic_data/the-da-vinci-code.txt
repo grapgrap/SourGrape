@@ -1,0 +1,24 @@
+AceGamez,80
+PC Format,79
+GamerNode,76
+Detroit Free Press,75
+The New York Times,67
+GameSpot,65
+PC Zone UK,61
+Deeko,60
+Adventure Gamers,60
+Quandary,60
+Cheat Code Central,60
+Gaming Horizon,55
+GameZone,53
+VideoGamer,50
+Jolt Online Gaming UK,50
+Eurogamer,50
+PC Gamer,45
+IGN,45
+The A.V. Club,42
+Gaming Age,42
+GamesRadar+,40
+Edge Magazine,40
+Computer Games Magazine,40
+PC Gamer UK,23

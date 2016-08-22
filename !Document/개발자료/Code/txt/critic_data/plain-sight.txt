@@ -1,0 +1,32 @@
+GameShark,100
+Game Chronicles,90
+PC Zone UK,90
+PC Format,88
+Pelit (Finland),88
+GameCritics,85
+The A.V. Club,83
+Gaming Age,83
+PC Gamer,81
+GameZone,80
+Eurogamer,80
+IGN UK,80
+Gamervision,80
+Thunderbolt,80
+DarkZero,80
+GameSpot,80
+GameFocus,79
+GameTrailers,78
+GamingXP,72
+SpazioGames,70
+Edge Magazine,70
+GamerNode,70
+Gaming Target,70
+Metro GameCentral,70
+IGN,70
+Gamers' Temple,69
+Gaming Nexus,67
+PC Gamer UK,66
+Gamer Limit,65
+VideoGamer,60
+Gamekult,60
+Boomtown,50

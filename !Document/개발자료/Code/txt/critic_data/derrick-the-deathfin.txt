@@ -1,0 +1,3 @@
+GameOver.gr,70
+CD-Action,60
+Riot Pixels,40

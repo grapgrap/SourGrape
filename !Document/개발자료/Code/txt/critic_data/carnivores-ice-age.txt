@@ -1,0 +1,10 @@
+ActionTrip,70
+Electric Playground,60
+Game Over Online,60
+Adrenaline Vault,60
+GameSpot,54
+IGN,51
+PC Gameworld,50
+CNET Gamecenter,50
+Daily Radar,50
+Computer Games Magazine,50

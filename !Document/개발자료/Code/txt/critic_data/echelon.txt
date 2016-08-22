@@ -1,0 +1,16 @@
+GamePower,88
+TotalGames.net,85
+Armchair Empire,83
+FiringSquad,77
+GameZone,75
+Voodoo Extreme,74
+IGN,72
+Eurogamer,70
+GameSpy,70
+GameSpot,70
+ActionTrip,70
+Gamezilla!,66
+Da Gameboyz,65
+Yahoo!,60
+Adrenaline Vault,50
+Game Revolution,50

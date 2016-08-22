@@ -1,0 +1,2 @@
+Sporting News,80
+GameSpot,50

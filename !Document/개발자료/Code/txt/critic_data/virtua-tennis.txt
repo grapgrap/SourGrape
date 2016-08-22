@@ -1,0 +1,4 @@
+Games Radar,84
+PC Gamer,83
+Yahoo!,70
+Computer Gaming World,40

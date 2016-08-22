@@ -1,0 +1,75 @@
+LEVEL (Czech Republic),100
+DarkStation,100
+Quarter to Three,100
+Gaming Age,100
+Digital Chumps,96
+Polygon,95
+GameOver.gr,95
+AusGamers,95
+Game Informer,93
+IGN,91
+Vandal Online,91
+CD-Action,90
+Ragequit.gr,90
+Impulsegamer,90
+Hyper Magazine,90
+Games.cz,90
+PC PowerPlay,90
+Eurogamer Portugal,90
+God is a Geek,90
+DarkZero,90
+Slant Magazine,90
+Game Revolution,90
+Eurogamer Germany,90
+Eurogamer Spain,90
+Level7.nu,90
+ActionTrip,90
+Gameplanet,90
+COGconnected,90
+Multiplayer.it,90
+Eurogamer,90
+GRYOnline.pl,90
+GameWatcher,90
+PCGamesN,90
+Merlin'in Kazan©¥ (Turkey),90
+VideoGamer,90
+USgamer,90
+Destructoid,90
+Gameblog.fr,90
+GamingTrend,90
+Pelit (Finland),89
+IGN Italia,87
+LevelUp,87
+PC Gamer,87
+PC Games (Germany),86
+Gamer.nl,85
+InsideGamer.nl,85
+NZGamer,85
+GameTrailers,85
+XGN,85
+Post Arcade (National Post),85
+GameStar,85
+Meristation,85
+MMORPG.com,85
+4Players.de,84
+Lazygamer,83
+The Digital Fix,80
+games(TM),80
+Everyeye.it,80
+SpazioGames,80
+IncGamers,80
+Gamereactor Sweden,80
+NowGamer,80
+Gamereactor Denmark,80
+Digital Spy,80
+GameFront,80
+Metro GameCentral,80
+Eurogamer Italy,80
+GameSpot,80
+Machinima,80
+GamesRadar+,80
+Riot Pixels,77
+Games Master UK,75
+Game Over Online,75
+Gaming Nexus,74
+Cheat Code Central,72

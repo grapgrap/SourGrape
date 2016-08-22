@@ -1,0 +1,2 @@
+XGN,60
+GamePro,50

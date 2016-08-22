@@ -1,0 +1,9 @@
+GameSpew,90
+GamingTrend,90
+TheSixthAxis,90
+RPG Fan,80
+High-Def Digest,80
+Ragequit.gr,80
+SpazioGames,70
+Areajugones,70
+Rock, Paper, Shotgun,

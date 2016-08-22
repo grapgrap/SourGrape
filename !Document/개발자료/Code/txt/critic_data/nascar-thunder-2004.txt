@@ -1,0 +1,9 @@
+PC Gamer,87
+IGN,85
+GameSpy,85
+GameZone,84
+GMR Magazine,80
+GameSpot,75
+Computer Games Magazine,70
+Computer Gaming World,70
+Maxim Online,60

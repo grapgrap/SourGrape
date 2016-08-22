@@ -1,0 +1,10 @@
+BonusStage,80
+GameZone,75
+Next Level Gaming,70
+Worth Playing,63
+PC Format,61
+GamerFeed,60
+PC Gamer,53
+Computer Games Magazine,50
+netjak,47
+GameShark,33

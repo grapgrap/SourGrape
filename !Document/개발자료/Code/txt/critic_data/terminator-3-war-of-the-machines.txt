@@ -1,0 +1,6 @@
+PC Format,34
+GameSpy,30
+Computer Gaming World,30
+PC Gamer,21
+GameSpot,20
+Game Over Online,15

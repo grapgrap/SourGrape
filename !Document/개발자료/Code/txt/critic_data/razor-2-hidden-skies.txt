@@ -1,0 +1,4 @@
+IGN,75
+SpazioGames,55
+GameSpot,50
+GameZone,45

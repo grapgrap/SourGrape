@@ -1,0 +1,3 @@
+Gameblog.fr,80
+JeuxActu,75
+CD-Action,70

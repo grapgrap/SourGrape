@@ -1,0 +1,20 @@
+PC Gameworld,95
+GameZone,93
+Computer Gaming World,90
+Computer Games Magazine,90
+GamePro,90
+TotalGames.net,90
+ActionTrip,89
+netjak,89
+IGN,87
+GameSpy,87
+Games Radar,86
+GameSpot,86
+PC Gamer,86
+PC Format,86
+Game Over Online,84
+RealGamer,84
+FiringSquad,83
+CPUGamer,80
+G4 TV,80
+Armchair Empire,80

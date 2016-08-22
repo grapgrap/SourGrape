@@ -1,0 +1,6 @@
+Happy Puppy,70
+Yahoo!,60
+IGN,55
+Cincinnati Enquirer,50
+Gaming Age,33
+Game Over Online,33

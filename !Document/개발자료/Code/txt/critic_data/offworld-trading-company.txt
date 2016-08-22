@@ -1,0 +1,25 @@
+Quarter to Three,100
+DarkZero,90
+The Escapist,90
+GamingTrend,90
+GameSpot,90
+Gaming Nexus,90
+PC Gamer,88
+Eurogamer Poland,80
+Brash Games,80
+4Players.de,80
+Multiplayer.it,80
+GRYOnline.pl,80
+IGN,80
+Game World Navigator Magazine,79
+GamesBeat,78
+COGconnected,77
+IGN Sweden,75
+The Digital Fix,70
+CGMagazine,70
+WCCFtech,70
+Everyeye.it,70
+Lazygamer,70
+Hooked Gamers,70
+PC PowerPlay,60
+Rock, Paper, Shotgun,

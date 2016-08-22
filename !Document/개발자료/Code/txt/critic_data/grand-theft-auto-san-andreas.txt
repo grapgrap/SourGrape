@@ -1,0 +1,47 @@
+WHAM! Gaming,100
+Stuff,100
+GameSpy,100
+Game Revolution,100
+Gaming Age,100
+Computer Games Magazine,100
+GamesRadar+,100
+Next Level Gaming,98
+Game Informer,98
+PGNx Media,97
+IC-Games,97
+Worth Playing,97
+AtomicGamer,97
+eToychest,96
+CPUGamer,95
+PC Gamer,95
+ActionTrip,94
+Gaming Horizon,94
+Game Over Online,93
+Jolt Online Gaming UK,93
+IGN,93
+GameZone,92
+Computer Games Online RO,92
+Computer and Video Games,92
+PC Format,92
+Gaming Target,92
+Pelit (Finland),92
+Total Video Games,90
+Yahoo!,90
+Inside Gamer Online,90
+Cheat Code Central,90
+Boomtown,90
+GameBiz,90
+PC Gameworld,90
+3DAvenue,90
+Pelaaja (Finland),90
+Game Chronicles,90
+PALGN,90
+Computer Gaming World,90
+GamePro,90
+GameSpot,90
+Gamer's Hell,88
+1UP,85
+GamingTrend,84
+Armchair Empire,78
+Gamezilla!,74
+GameShark,70

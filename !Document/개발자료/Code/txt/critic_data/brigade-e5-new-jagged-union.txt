@@ -1,0 +1,9 @@
+PC Gameworld,55
+Game Chronicles,50
+Armchair Empire,50
+GameZone,40
+GameDaily,40
+GameCritics,40
+Worth Playing,40
+GameSpot,35
+GamingExcellence,22

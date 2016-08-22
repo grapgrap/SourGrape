@@ -1,0 +1,31 @@
+DarkStation,90
+XGN,80
+Pelit (Finland),80
+LEVEL (Czech Republic),80
+Gaming Nexus,80
+Games.cz,80
+ZTGD,80
+Games Master UK,78
+GameStar,78
+Vandal Online,75
+GameFront,75
+CD-Action,75
+GameSpot,75
+3DJuegos,73
+4Players.de,72
+Everyeye.it,70
+Eurogamer Germany,70
+JeuxActu,70
+Eurogamer Italy,70
+IGN,68
+Hooked Gamers,68
+Multiplayer.it,67
+PC Gamer,66
+Riot Pixels,65
+Destructoid,65
+PC PowerPlay,60
+Thunderbolt,60
+IncGamers,60
+Edge Magazine,60
+God is a Geek,50
+GameWatcher,40

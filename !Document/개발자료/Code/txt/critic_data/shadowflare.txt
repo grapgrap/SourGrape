@@ -1,0 +1,7 @@
+IGN,65
+Gamers' Temple,62
+GameSpy,61
+GameSpot,41
+Computer Gaming World,40
+Adrenaline Vault,40
+Computer Games Magazine,30

@@ -1,0 +1,40 @@
+GamerFeed,100
+RewiredMind,90
+Eurogamer,90
+Boomtown,90
+GameSpy,90
+Worth Playing,90
+GameZone,89
+My Gamer,88
+Game Informer,88
+PC Format,88
+ActionTrip,87
+Gamers' Temple,86
+1UP,85
+Pelit (Finland),85
+Cheat Code Central,84
+GameShark,83
+Computer Games Online RO,83
+Play.tm,83
+GameSpot,82
+Game Chronicles,82
+Computer and Video Games,81
+Gamers Europe,80
+G4 TV,80
+GamePro,80
+IGN,80
+Xequted,80
+PC Gameworld,80
+Play Magazine,80
+Yahoo!,80
+BonusStage,80
+Computer Games Magazine,80
+Computer Gaming World,80
+Gaming Illustrated,80
+AceGamez,80
+GamerNode,80
+Detroit Free Press,75
+Gamer 2.0,73
+PC Gamer,73
+netjak,70
+GamesRadar+,70

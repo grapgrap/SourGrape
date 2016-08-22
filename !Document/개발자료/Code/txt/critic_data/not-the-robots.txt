@@ -1,0 +1,3 @@
+IGN,65
+Eurogamer Germany,60
+Gameblog.fr,50

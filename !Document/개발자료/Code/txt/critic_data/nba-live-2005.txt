@@ -1,0 +1,9 @@
+1UP,90
+IGN,89
+GameZone,87
+PC Gamer,82
+GameSpot,80
+Computer Games Magazine,80
+GameSpy,70
+Computer Gaming World,70
+PC Format,58

@@ -1,0 +1,11 @@
+GamePower,88
+Game Revolution,83
+Gamezilla!,80
+All Game Guide,70
+GameZone,70
+Electric Playground,60
+GameSpy,60
+GameSpot,50
+Yahoo!,50
+IGN,46
+Armchair Empire,45

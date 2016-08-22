@@ -1,0 +1,6 @@
+GamingXP,55
+PC PowerPlay,50
+GameShark,50
+PC Gamer,45
+Game Revolution,42
+GameSpot,30

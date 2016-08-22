@@ -1,0 +1,3 @@
+IGN,60
+Adrenaline Vault,40
+GameSpot,39

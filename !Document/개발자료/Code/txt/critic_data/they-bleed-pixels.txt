@@ -1,0 +1,8 @@
+IGN,82
+GameOver.gr,80
+Hardcore Gamer,80
+Destructoid,75
+PC Master (Greece),72
+Edge Magazine,70
+GameSpot,70
+Thunderbolt,60

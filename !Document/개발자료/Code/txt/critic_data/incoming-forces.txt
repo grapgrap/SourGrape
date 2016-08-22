@@ -1,0 +1,10 @@
+ActionTrip,84
+IGN,79
+PC Gameworld,75
+Adrenaline Vault,70
+GameSpot,66
+GameSpy,65
+GameZone,65
+PC Gamer,59
+Cheat Code Central,50
+Computer Games Magazine,50

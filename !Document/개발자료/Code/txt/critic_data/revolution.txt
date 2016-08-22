@@ -1,0 +1,4 @@
+PC Gamer,35
+Computer Gaming World,30
+GameSpot,27
+Gamers' Temple,20

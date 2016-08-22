@@ -1,0 +1,39 @@
+Gaming Age,100
+GameTrailers,95
+PCGamesN,90
+GameWatcher,90
+GameFront,90
+GamesBeat,90
+GameSpot,90
+Hardcore Gamer,90
+Joystiq,90
+RPG Fan,88
+Ragequit.gr,86
+Post Arcade (National Post),85
+Softpedia,85
+Hooked Gamers,85
+Merlin'in Kazan©¥ (Turkey),83
+Games.cz,80
+Adventure Gamers,80
+Game Informer,80
+Vandal Online,80
+The Escapist,80
+Destructoid,80
+Cheat Code Central,78
+4Players.de,77
+Gamer.nl,75
+Multiplayer.it,75
+Everyeye.it,75
+ZTGD,75
+AusGamers,75
+IGN Italia,70
+Eurogamer Spain,70
+Eurogamer Italy,70
+Eurogamer Germany,70
+God is a Geek,70
+Riot Pixels,69
+IncGamers,60
+Eurogamer,60
+IGN,60
+Polygon,60
+Kill Screen,55

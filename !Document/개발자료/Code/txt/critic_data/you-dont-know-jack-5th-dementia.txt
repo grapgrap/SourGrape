@@ -1,0 +1,8 @@
+Electric Playground,85
+IGN,82
+All Game Guide,80
+CNET Gamecenter,80
+GameZone,80
+GameSpot,79
+Happy Puppy,70
+Yahoo!,50

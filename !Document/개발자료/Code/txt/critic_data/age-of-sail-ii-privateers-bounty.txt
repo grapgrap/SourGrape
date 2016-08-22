@@ -1,0 +1,7 @@
+GameSpy,81
+GameZone,80
+GameSpot,77
+ActionTrip,71
+Adrenaline Vault,70
+Game Over Online,60
+Computer Gaming World,40

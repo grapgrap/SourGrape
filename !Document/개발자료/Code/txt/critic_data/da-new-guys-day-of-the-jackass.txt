@@ -1,0 +1,9 @@
+GameWatcher,75
+GameSpot,70
+CD-Action,65
+Destructoid,65
+Adventure Gamers,60
+Gameblog.fr,60
+PC PowerPlay,50
+DarkStation,30
+Thunderbolt,30

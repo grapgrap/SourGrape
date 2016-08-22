@@ -1,0 +1,31 @@
+G4 TV,100
+Adrenaline Vault,100
+Yahoo!,100
+eToychest,100
+Entertainment Weekly,100
+GameZone,97
+Game Informer,95
+Game Over Online,94
+Gamers' Temple,94
+Gamer's Pulse,94
+IGN,93
+netjak,93
+GameSpot,92
+PC Arena,90
+Games Radar,90
+All Game Guide,90
+Electric Playground,90
+GamePro,90
+Computer Games Magazine,90
+Voodoo Extreme,89
+PC Format,88
+FiringSquad,88
+PC Gamer,86
+GameNow,83
+GameSpy,83
+Game Revolution,83
+ActionTrip,83
+Eurogamer,80
+TotalGames.net,80
+Computer Gaming World,80
+PC Gameworld,75

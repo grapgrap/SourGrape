@@ -1,0 +1,20 @@
+Gamezilla!,88
+Game Informer,85
+Game Over Online,75
+GameZone,72
+Gamer's Hell,71
+IGN,68
+ActionTrip,66
+GameSpy,65
+GameSpot,65
+Game Chronicles,65
+PC Gamer,61
+Gamer's Pulse,60
+eToychest,60
+G4 TV,60
+Adrenaline Vault,50
+GMR Magazine,40
+Computer Games Magazine,40
+Computer Gaming World,30
+Game Revolution,25
+GameNow,16

@@ -1,0 +1,13 @@
+Four Fat Chicks,100
+Computer Games Magazine,90
+Digital Entertainment News,87
+GamingExcellence,82
+Game Chronicles,78
+GameZone,75
+Gaming Nexus,74
+Quandary,70
+Adventure Gamers,70
+GameShark,67
+PC Gamer,64
+PC Gamer UK,54
+Worth Playing,50

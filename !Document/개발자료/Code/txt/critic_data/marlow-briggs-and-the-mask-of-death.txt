@@ -1,0 +1,4 @@
+GameSpot,70
+3DJuegos,65
+Eurogamer Italy,60
+Hooked Gamers,58

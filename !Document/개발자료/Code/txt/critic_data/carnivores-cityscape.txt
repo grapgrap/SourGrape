@@ -1,0 +1,10 @@
+Gamezilla!,76
+GameZone,69
+Electric Playground,65
+IGN,65
+Gamer's Pulse,63
+Gamers' Temple,58
+GameSpy,58
+GameSpot,52
+GamerWeb PC,50
+PC Gamer,20

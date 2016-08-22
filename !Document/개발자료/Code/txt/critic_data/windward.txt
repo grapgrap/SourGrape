@@ -1,0 +1,11 @@
+CGMagazine,80
+Game World Navigator Magazine,79
+CD-Action,70
+Multiplayer.it,65
+Softpedia,65
+PC Gamer,65
+Games.cz,60
+PLAY! Zine,60
+Gamer.nl,60
+Eurogamer Italy,60
+GameSpot,30

@@ -1,0 +1,6 @@
+GameZone,35
+Cheat Code Central,20
+PC Gamer,18
+GameSpot,16
+GameSpy,15
+Worth Playing,10

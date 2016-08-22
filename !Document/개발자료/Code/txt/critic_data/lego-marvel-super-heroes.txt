@@ -1,0 +1,7 @@
+DarkStation,100
+Gaming Nexus,88
+GameStar,83
+Games.cz,80
+GRYOnline.pl,75
+GamingTrend,75
+PC Gamer,60

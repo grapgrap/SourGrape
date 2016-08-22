@@ -1,0 +1,9 @@
+PC Gameworld,80
+Four Fat Chicks,75
+GameZone,70
+PC Gamer,63
+IGN,60
+Gamer's Pulse,60
+GameSpot,59
+Computer Games Magazine,40
+Computer Gaming World,20

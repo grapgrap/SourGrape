@@ -1,0 +1,30 @@
+DarkStation,90
+Pelit (Finland),85
+GameOver.gr,85
+Post Arcade (National Post),85
+Impulsegamer,85
+GameWatcher,85
+PC Gamer,83
+Hyper Magazine,80
+Everyeye.it,80
+Thunderbolt,80
+DarkZero,80
+GameFront,80
+Destructoid,80
+Digital Spy,80
+AusGamers,80
+GamesRadar+,80
+Game Informer,80
+GamesBeat,78
+4Players.de,77
+CD-Action,75
+3DJuegos,72
+Level7.nu,70
+Adventure Gamers,70
+Vandal Online,70
+Games.cz,70
+Eurogamer Italy,70
+Metro GameCentral,70
+Hardcore Gamer,70
+Riot Pixels,68
+GRYOnline.pl,65

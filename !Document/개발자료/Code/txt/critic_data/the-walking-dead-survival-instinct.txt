@@ -1,0 +1,13 @@
+GameStar,53
+IGN Italia,45
+CD-Action,40
+Hyper Magazine,40
+Riot Pixels,40
+Eurogamer Germany,40
+GameSpot,40
+NowGamer,40
+PC Master (Greece),38
+GRYOnline.pl,35
+Eurogamer,30
+AusGamers,30
+Thunderbolt,20

@@ -1,0 +1,12 @@
+IGN,75
+ActionTrip,72
+PC Gameworld,70
+Yahoo!,70
+PC Gamer,67
+Gamers' Temple,66
+GameSpot,65
+PC Format,63
+GameSpy,60
+1UP,50
+Computer Gaming World,40
+GMR Magazine,30

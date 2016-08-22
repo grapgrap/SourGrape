@@ -1,0 +1,4 @@
+Playboy,80
+IGN,53
+GameZone,50
+GamePower,50

@@ -1,0 +1,4 @@
+Hyper Magazine,90
+Multiplayer.it,80
+GameSpot,70
+Destructoid,40

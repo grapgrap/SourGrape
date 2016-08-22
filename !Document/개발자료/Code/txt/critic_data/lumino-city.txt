@@ -1,0 +1,16 @@
+LEVEL (Czech Republic),100
+Games.cz,90
+GamesVillage.it,80
+TheSixthAxis,80
+Adventure Gamers,80
+Kill Screen,80
+Game Informer,75
+games(TM),70
+Everyeye.it,70
+PCGamesN,70
+Multiplayer.it,68
+Eurogamer Italy,60
+Gameblog.fr,60
+Eurogamer,60
+CD-Action,55
+Metro GameCentral,50

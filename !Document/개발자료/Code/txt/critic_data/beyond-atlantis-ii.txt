@@ -1,0 +1,8 @@
+IGN,83
+Gamer's Pulse,79
+GameSpot,74
+Adrenaline Vault,70
+Yahoo!,70
+Quandary,70
+GameZone,70
+ActionTrip,69

@@ -1,0 +1,4 @@
+DarkZero,70
+GameStar,67
+CD-Action,50
+IncGamers,50

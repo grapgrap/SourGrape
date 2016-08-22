@@ -1,0 +1,48 @@
+GamePro,100
+Adrenaline Vault,100
+GamerFeed,100
+Warcry,100
+Gamers Depot,100
+GameShark,100
+Computer Gaming World,100
+G4 TV,100
+Gamer.tv,100
+Times Online,100
+Frictionless Insight,100
+Game Chronicles,98
+Game Over Online,96
+Gamezilla!,95
+GameBiz,95
+GameSpot AU,95
+GameZone,95
+Australian GamePro,95
+Game Informer,95
+Game Power Australia,95
+3DAvenue,95
+GameSpy,95
+Gaming Nexus,94
+Computer and Video Games,94
+Worth Playing,94
+GameSpot,94
+IGN,94
+ActionTrip,93
+VideoGamesLife,93
+Gamer's Hell,93
+Inside Gamer Online,92
+PC Gamer,92
+AtomicGamer,92
+Game Revolution,91
+VIA Gamers Arena,91
+1UP,90
+Yahoo!,90
+Computer Games Magazine,90
+Eurogamer,90
+Cheat Code Central,90
+TotalGames.net,90
+My Gamer,90
+Boomtown,90
+eToychest,90
+PC Format,83
+Edge Magazine,80
+games(TM),80
+GMR Magazine,80

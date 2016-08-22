@@ -1,0 +1,14 @@
+PC Gamer,85
+IGN,82
+Entertainment Weekly,75
+GameZone,72
+PALGN,70
+Sydney Morning Herald,70
+GamePro,65
+GameSpot,65
+G4 TV,60
+PC Zone UK,53
+WHAM! Gaming,45
+GameDaily,40
+PC Gamer UK,30
+Computer Games Magazine,20

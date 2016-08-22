@@ -1,0 +1,39 @@
+GamingXP,90
+Vandal Online,85
+NZGamer,85
+Cynamite,85
+Meristation,85
+Gaming Age,83
+GameStar,82
+3DJuegos,82
+Gamers.at,81
+Pelit (Finland),80
+PC Games (Russia),80
+LEVEL (Czech Republic),80
+GamesRadar+,80
+Eurogamer Italy,80
+Gameblog.fr,80
+GameWatcher,80
+Guardian,80
+GamePro,80
+Worth Playing,79
+SpazioGames,78
+CD-Action,75
+GRYOnline.pl,75
+Machinima,75
+PC Format,74
+PC Gamer,72
+AusGamers,72
+Computer Games Online RO,70
+Gaming Target,70
+Everyeye.it,70
+GameSpot,70
+Gamekult,70
+Level7.nu,70
+Multiplayer.it,70
+IncGamers,70
+Game Over Online,65
+PC Gamer UK,65
+PC PowerPlay,60
+IGN,60
+GameShark,58

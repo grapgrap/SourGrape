@@ -1,0 +1,7 @@
+GamingXP,86
+CPUGamer,80
+Ten Ton Hammer,80
+Game Revolution,75
+Impulsegamer,70
+Cheat Code Central,56
+PC Gamer,55

@@ -1,0 +1,43 @@
+DarkStation,100
+LEVEL (Czech Republic),100
+IGN,100
+Gameblog.fr,100
+The Escapist,100
+GamesBeat,100
+RPGamer,100
+USgamer,100
+GamingTrend,100
+ZTGD,100
+Giant Bomb,100
+Destructoid,100
+PC Invasion,100
+The Jimquisition,100
+Hooked Gamers,98
+Vandal Online,98
+God is a Geek,95
+CD-Action,95
+SpazioGames,95
+Game Informer,95
+Hobby Consolas,93
+Pelit (Finland),92
+PC Gamer,91
+games(TM),90
+DarkZero,90
+Atomix,90
+IGN Italia,90
+Games.cz,90
+GameSpot,90
+Everyeye.it,90
+CGMagazine,90
+3DJuegos,90
+4Players.de,87
+Multiplayer.it,85
+LevelUp,82
+Metro GameCentral,80
+GameCritics,80
+Gamer.no,80
+GameOver.gr,80
+Gamer.nl,70
+Kill Screen,65
+Riot Pixels,60
+Rock, Paper, Shotgun,

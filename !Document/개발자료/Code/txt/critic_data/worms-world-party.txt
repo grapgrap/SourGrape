@@ -1,0 +1,8 @@
+IGN,80
+Voodoo Extreme,80
+GamePower,75
+PC Gamer,75
+GameSpot,74
+Yahoo!,70
+Maxim Online,70
+ActionTrip,65

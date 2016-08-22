@@ -1,0 +1,32 @@
+Maxim Online,100
+CheckOut,100
+Four Fat Chicks,100
+Games Radar,100
+Daily Radar,100
+Computer Games Magazine,100
+Gamer's Pulse,97
+Antagonist,96
+GameZone,95
+Armchair Empire,95
+PC Gameworld,95
+GameSpot,93
+IGN,91
+Gaming Age,91
+FiringSquad,91
+GamePen,90
+GMR Magazine,90
+GamerWeb PC,90
+GamePro,90
+Game Over Online,90
+Happy Puppy,90
+Hot Games,90
+Adrenaline Vault,90
+Thunderbolt,90
+GamePower,88
+GameSpy,84
+PC Gamer,84
+Game Revolution,83
+Da Gameboyz,82
+CNET Gamecenter,80
+Spank!,80
+Eurogamer,80

@@ -1,0 +1,5 @@
+Telegraph,60
+LEVEL (Czech Republic),50
+Meristation,40
+PC Gamer,40
+Adventure Gamers,40

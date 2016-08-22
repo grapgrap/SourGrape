@@ -1,0 +1,6 @@
+IGN,66
+PC Gamer,59
+PC Format,56
+GameSpot,35
+PC Zone UK,22
+PC Gamer UK,20

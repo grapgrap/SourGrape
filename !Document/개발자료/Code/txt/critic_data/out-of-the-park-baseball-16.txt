@@ -1,0 +1,6 @@
+Gaming Age,100
+GamingTrend,100
+Gaming Nexus,95
+PC Gamer,91
+PLAY! Zine,80
+XGN,80

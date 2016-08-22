@@ -1,0 +1,4 @@
+GameSpew,70
+Areajugones,60
+We Got This Covered,40
+Vandal Online,40

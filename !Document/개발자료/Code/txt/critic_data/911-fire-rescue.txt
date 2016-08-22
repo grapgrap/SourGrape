@@ -1,0 +1,6 @@
+GameZone,65
+GameSpot,58
+IGN,55
+Computer Games Magazine,50
+Electric Playground,48
+Game Revolution,0

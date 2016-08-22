@@ -1,0 +1,29 @@
+LEVEL (Czech Republic),100
+Quarter to Three,100
+Merlin'in Kazan©¥ (Turkey),99
+Game Informer,93
+CD-Action,90
+Hyper Magazine,90
+Eurogamer Portugal,90
+Level7.nu,90
+GameOver.gr,90
+Gamer.no,90
+PCGamesN,90
+Eurogamer Germany,90
+ActionTrip,90
+GameSpot,90
+Hooked Gamers,89
+IGN,89
+PC Gamer,86
+Pelit (Finland),85
+GRYOnline.pl,85
+GameStar,83
+Lazygamer,81
+Ragequit.gr,80
+Games.cz,80
+Thunderbolt,80
+IncGamers,80
+GameFront,80
+Giant Bomb,80
+Riot Pixels,75
+PC PowerPlay,70

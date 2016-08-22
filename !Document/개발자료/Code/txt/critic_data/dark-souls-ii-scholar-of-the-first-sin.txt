@@ -1,0 +1,7 @@
+CD-Action,95
+GameSpot,90
+3DJuegos,90
+GameStar,87
+Games.cz,80
+Game Revolution,80
+Washington Post,50

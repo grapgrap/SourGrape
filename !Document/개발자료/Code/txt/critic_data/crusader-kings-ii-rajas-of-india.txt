@@ -1,0 +1,4 @@
+CalmDownTom,100
+XGN,75
+GameWatcher,75
+IGN Italia,70

@@ -1,0 +1,21 @@
+Play.tm,82
+PGNx Media,75
+Sydney Morning Herald,70
+games(TM),70
+Game Chronicles,69
+PC Gamer UK,61
+Cheat Code Central,60
+Boomtown,60
+GameZone,60
+GameSpot,58
+PC Zone UK,57
+PC Gamer,57
+PC Gameworld,55
+PC Format,52
+VideoGamer,50
+Total Video Games,50
+Jolt Online Gaming UK,50
+DailyGame,50
+Yahoo!,40
+Worth Playing,40
+Computer Games Magazine,40

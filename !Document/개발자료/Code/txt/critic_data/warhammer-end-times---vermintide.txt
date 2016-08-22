@@ -1,0 +1,40 @@
+PC PowerPlay,90
+The Escapist,90
+PC Gamer,90
+CGMagazine,90
+Gamer.nl,85
+Everyeye.it,85
+GamingTrend,85
+GameWatcher,85
+Meristation,85
+Softpedia,85
+Ragequit.gr,84
+Pelit (Finland),83
+IGN Spain,83
+Game World Navigator Magazine,81
+Power Unlimited,81
+Eurogamer Poland,80
+DarkZero,80
+Riot Pixels,80
+Games.cz,80
+LevelUp,80
+The Digital Fix,80
+GameOver.gr,80
+PLAY! Zine,80
+Brash Games,80
+GameStar,80
+4Players.de,80
+3DJuegos,80
+Multiplayer.it,80
+Vandal Online,78
+Destructoid,75
+IGN,72
+Gamers' Temple,70
+We Got This Covered,70
+GameSpot,70
+Kill Screen,70
+TheSixthAxis,70
+Metro GameCentral,70
+GamesBeat,68
+CD-Action,60
+Rock, Paper, Shotgun,

@@ -1,0 +1,8 @@
+ActionTrip,89
+CGMagazine,85
+Ragequit.gr,82
+Adventure Gamers,80
+Digital Chumps,76
+GameGrin,65
+GameSpew,60
+The Digital Fix,40

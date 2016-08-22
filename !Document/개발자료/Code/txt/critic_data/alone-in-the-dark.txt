@@ -1,0 +1,19 @@
+GameStar,82
+Gamer 2.0,78
+PTGamers,75
+Gamers.at,71
+Game Informer,65
+PC Format,64
+GameWatcher,62
+VideoGamer,60
+Boomtown,60
+Cheat Code Central,60
+Play (Poland),60
+Total PC Gaming,60
+Computer Games Online RO,55
+PC PowerPlay,50
+YouGamers,49
+PC Zone UK,46
+PC Gamer UK,39
+IGN,35
+PC Gamer,28

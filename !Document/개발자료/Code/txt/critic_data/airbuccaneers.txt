@@ -1,0 +1,6 @@
+PC Gamer,80
+IGN,75
+Destructoid,75
+CD-Action,70
+Games Master UK,70
+XGN,65

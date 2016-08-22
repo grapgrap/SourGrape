@@ -1,0 +1,22 @@
+Hot Games,90
+Happy Puppy,90
+TotalGames.net,84
+GameSpy,83
+GamerWeb PC,80
+GamePro,80
+PC Gamer,78
+Games Radar,75
+GamePower,75
+Daily Radar,75
+GameSpot,73
+IGN,73
+Gamezilla!,72
+Da Gameboyz,71
+Adrenaline Vault,70
+Electric Playground,70
+All Game Guide,60
+Computer Games Magazine,60
+CNET Gamecenter,60
+ActionTrip,59
+Game Revolution,58
+Yahoo!,50

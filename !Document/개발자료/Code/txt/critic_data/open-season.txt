@@ -1,0 +1,4 @@
+1UP,75
+IGN,60
+GameSpot,53
+PC Format,44

@@ -1,0 +1,27 @@
+GameOver.gr,90
+The Escapist,90
+Ragequit.gr,85
+GamesVillage.it,85
+RPG Fan,85
+IGN,82
+4Players.de,80
+Multiplayer.it,80
+Gameblog.fr,80
+Worth Playing,80
+Softpedia,80
+DarkStation,80
+Game Revolution,80
+The Jimquisition,80
+Attack of the Fanboy,80
+Merlin'in Kazan©¥ (Turkey),78
+GameWatcher,75
+Everyeye.it,75
+Post Arcade (National Post),75
+PC Invasion,70
+SpazioGames,70
+Cheat Code Central,70
+Vandal Online,70
+Destructoid,70
+God is a Geek,65
+Games.cz,60
+GameSpot,50

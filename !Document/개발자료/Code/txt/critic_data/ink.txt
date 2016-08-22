@@ -1,0 +1,4 @@
+DarkZero,80
+SpazioGames,70
+Brash Games,60
+Twinfinite,60

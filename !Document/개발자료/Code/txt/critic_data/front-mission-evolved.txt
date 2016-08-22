@@ -1,0 +1,13 @@
+LEVEL (Czech Republic),80
+PC Gamer,78
+Game Revolution,75
+D+PAD Magazine,70
+Hardcore Gamer,65
+3DJuegos,63
+VideoGamer,60
+GameWatcher,60
+IGN,60
+GamingExcellence,45
+Gameplanet,45
+GameShark,42
+Gamekult,40

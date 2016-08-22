@@ -1,0 +1,37 @@
+Guardian,100
+Vandal Online,92
+Hyper Magazine,90
+PC PowerPlay,90
+Gamer.nl,90
+Eurogamer Sweden,90
+Eurogamer Portugal,90
+Gamereactor Sweden,90
+JeuxActu,90
+DarkZero,90
+Games.cz,90
+GRYOnline.pl,90
+Gamereactor Denmark,90
+IGN,90
+Meristation,90
+Metro GameCentral,90
+GameWatcher,90
+Impulsegamer,90
+SpazioGames,90
+Eurogamer,90
+Eurogamer Italy,90
+4Players.de,88
+PC Gamer,88
+3DJuegos,87
+InsideGamer.nl,85
+Pelit (Finland),84
+PC Master (Greece),82
+Riot Pixels,80
+Gameblog.fr,80
+LEVEL (Czech Republic),80
+CD-Action,80
+Gamer.no,80
+Digital Spy,80
+VideoGamer,80
+GameSpot,80
+Level7.nu,70
+Thunderbolt,60

@@ -1,0 +1,26 @@
+LEVEL (Czech Republic),80
+GameOver.gr,80
+Games.cz,80
+Eurogamer Poland,80
+GameWatcher,80
+Impulsegamer,80
+Shacknews,80
+PC Gamer,80
+CD-Action,75
+Multiplayer.it,75
+Everyeye.it,75
+3DJuegos,75
+Destructoid,75
+games(TM),70
+Games Master UK,70
+Game Rant,70
+Edge Magazine,70
+Hardcore Gamer,70
+4Players.de,69
+Power Unlimited,60
+Gamer.nl,60
+PCGamesN,60
+Digital Spy,60
+Guardian,40
+Twinfinite,40
+Rock, Paper, Shotgun,

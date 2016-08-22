@@ -1,0 +1,4 @@
+GameZone,85
+PC Gamer,74
+Computer Games Magazine,40
+TotalGames.net,30

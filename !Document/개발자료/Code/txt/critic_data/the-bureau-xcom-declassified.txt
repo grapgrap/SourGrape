@@ -1,0 +1,45 @@
+Everyeye.it,82
+CD-Action,80
+InsideGamer.nl,80
+Eurogamer Italy,80
+Vandal Online,80
+Joystiq,80
+Games Master UK,79
+GameStar,77
+AusGamers,76
+GRYOnline.pl,75
+Gamer.nl,75
+Game Informer,75
+Multiplayer.it,75
+SpazioGames,75
+Pelit (Finland),73
+Hooked Gamers,73
+PC PowerPlay,70
+USgamer,70
+Games.cz,70
+GameWatcher,70
+JeuxActu,70
+GameOver.gr,70
+Meristation,70
+Polygon,70
+ZTGD,68
+GameFront,65
+4Players.de,63
+PC Gamer,62
+Riot Pixels,61
+PCGamesN,60
+games(TM),60
+LEVEL (Czech Republic),60
+IncGamers,60
+Giant Bomb,60
+Gamereactor Sweden,60
+Eurogamer Germany,60
+Edge Magazine,60
+GamesRadar+,60
+GameSpot,60
+IGN,55
+Game Over Online,50
+Thunderbolt,50
+Lazygamer,50
+ActionTrip,45
+Destructoid,45

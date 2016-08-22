@@ -1,0 +1,21 @@
+BigPond GameArena,85
+PC Gamer UK,82
+Eurogamer Italy,80
+Everyeye.it,75
+CD-Action,75
+SpazioGames,75
+GamesBeat,72
+Games Master UK,70
+Multiplayer.it,70
+GameSpot,70
+GameWatcher,70
+GameSpy,70
+Vandal Online,65
+PC PowerPlay,60
+IncGamers,60
+Eurogamer,60
+GameStar,57
+Gamer.nl,50
+Eurogamer Germany,50
+IGN,50
+LEVEL (Czech Republic),40

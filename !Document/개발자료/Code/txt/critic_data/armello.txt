@@ -1,0 +1,25 @@
+Twinfinite,100
+PC PowerPlay,90
+CGMagazine,90
+GameWatcher,90
+Pelit (Finland),85
+GameOver.gr,85
+Multiplayer.it,83
+GameSpew,80
+GameSpot,80
+Lazygamer,80
+Vandal Online,80
+Softpedia,80
+GameCrate,80
+3DJuegos,80
+Shacknews,80
+Game World Navigator Magazine,79
+SpazioGames,75
+Gameplanet,75
+CD-Action,70
+Eurogamer Italy,70
+Game Revolution,70
+Gamer.no,60
+IGN,56
+Riot Pixels,45
+Quarter to Three,40

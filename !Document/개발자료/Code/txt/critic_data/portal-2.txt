@@ -1,0 +1,52 @@
+LEVEL (Czech Republic),100
+GameCritics,100
+PC Games (Russia),100
+Adventure Gamers,100
+Armchair Empire,100
+Game Revolution,100
+GameSpy,100
+DarkZero,100
+GamesRadar+,100
+Destructoid,100
+AtomicGamer,100
+GameWatcher,100
+Eurogamer,100
+VideoGamer,100
+Giant Bomb,100
+Game Chronicles,98
+XGN,97
+Gaming Target,96
+Vandal Online,96
+3DJuegos,96
+Bit-Gamer,95
+GamingXP,95
+CPUGamer,95
+GamingExcellence,95
+FiringSquad,95
+Absolute Games,95
+GRYOnline.pl,95
+Gameplanet,95
+Meristation,95
+Computer Games Online RO,95
+PC Games (Germany),95
+Cynamite,95
+Game Informer,95
+IGN,95
+SpazioGames,94
+Cheat Code Central,94
+PC Gamer,94
+ActionTrip,93
+PC Format,92
+YouGamers,92
+GameStar,91
+Pelit (Finland),90
+Thunderbolt,90
+Eurogamer Spain,90
+Worth Playing,90
+GameSpot,90
+Gamers.at,90
+Edge Magazine,90
+Gamereactor Denmark,90
+GameShark,83
+PC PowerPlay,80
+Gamekult,70

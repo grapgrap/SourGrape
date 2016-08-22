@@ -1,0 +1,36 @@
+games(TM),90
+GamesRadar+,90
+GamePro,90
+1UP,90
+VideoGamer,90
+AceGamez,90
+Computer Games Magazine,90
+AtomicGamer,90
+CPUGamer,89
+GamingTrend,89
+Game Almighty,88
+PC Gamer UK,87
+GamingExcellence,86
+GamerNode,86
+IGN,85
+Gaming Target,85
+PC Zone UK,85
+Pelit (Finland),85
+Computer Games Online RO,85
+PC Format,83
+The A.V. Club,83
+Jolt Online Gaming UK,83
+PC Gamer,83
+GameWatcher,83
+GameSpot,81
+Eurogamer,80
+Yahoo!,80
+PALGN,80
+Games Master UK,80
+netjak,80
+Boomtown,80
+The New York Times,75
+Edge Magazine,70
+GameDaily,70
+Total Video Games,70
+NTSC-uk,60

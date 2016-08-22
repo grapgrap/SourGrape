@@ -1,0 +1,5 @@
+IGN,85
+PC Gamer UK,81
+AtomicGamer,80
+Eurogamer,80
+Multiplayer.it,80

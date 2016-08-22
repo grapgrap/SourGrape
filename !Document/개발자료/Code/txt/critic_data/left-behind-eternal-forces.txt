@@ -1,0 +1,20 @@
+GameDaily,60
+AceGamez,60
+IGN,59
+Just Adventure,58
+GameShark,58
+WHAM! Gaming,45
+GamesRadar+,40
+GameSpy,40
+G4 TV,40
+Game Chronicles,40
+Digital Entertainment News,38
+PC Gamer,37
+PC Gamer UK,37
+GameSpot,34
+Worth Playing,30
+The A.V. Club,25
+Gaming Age,25
+GameZone,19
+Computer Games Magazine,10
+Game Revolution,0

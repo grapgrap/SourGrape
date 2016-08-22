@@ -1,0 +1,14 @@
+Daily Radar,100
+GamerWeb PC,90
+GameZone,90
+GameSpot,90
+CNET Gamecenter,90
+IGN,88
+Game Over Online,87
+Computer Games Magazine,80
+Eurogamer,80
+PC Gamer,80
+Happy Puppy,80
+Hot Games,80
+Sports Gaming Network,62
+All Game Guide,60

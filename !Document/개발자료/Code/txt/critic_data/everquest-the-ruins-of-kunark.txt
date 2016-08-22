@@ -1,0 +1,11 @@
+GamePro,100
+Electric Playground,90
+All Game Guide,90
+GameSpot,88
+Game Over Online,86
+GameSpy,86
+IGN,85
+Gaming Age,83
+Gamer's Pulse,80
+Eurogamer,80
+Yahoo!,60

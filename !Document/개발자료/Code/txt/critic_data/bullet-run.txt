@@ -1,0 +1,6 @@
+GameStar,71
+Multiplayer.it,65
+GameSpot,55
+SpazioGames,50
+CD-Action,50
+PC Gamer,32

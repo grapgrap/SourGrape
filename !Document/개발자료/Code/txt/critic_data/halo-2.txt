@@ -1,0 +1,32 @@
+GameZone,92
+GamerNode,90
+AceGamez,90
+Pelit (Finland),88
+GamingTrend,86
+Gaming Nexus,80
+Yahoo!,80
+Game Informer,80
+Worth Playing,78
+ActionTrip,78
+Game Chronicles,75
+IGN,75
+GamePro,75
+Computer Games Online RO,75
+GameTrailers,72
+GameDaily,70
+GameSpot,70
+Game Over Online,70
+GamingExcellence,70
+CPUGamer,69
+Gamers' Temple,68
+GameShark,67
+PC Gamer,67
+PC Gamer UK,66
+Games Master UK,66
+PC Format,65
+PC Zone UK,60
+GameSpy,60
+Eurogamer,60
+1UP,60
+VideoGamer,60
+Game Almighty,55

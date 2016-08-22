@@ -1,0 +1,10 @@
+Play.tm,77
+Worth Playing,75
+PC Gamer,62
+AceGamez,60
+G4 TV,60
+GameZone,57
+PC Zone UK,55
+PC Gamer UK,55
+Eurogamer,50
+GamingExcellence,40

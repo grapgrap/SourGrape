@@ -1,0 +1,24 @@
+Gameplanet,90
+GamesBeat,90
+Games Master UK,82
+Hooked Gamers,80
+GameSpot,80
+GameWatcher,80
+TheSixthAxis,80
+IGN,76
+Cheat Code Central,76
+Gamer.nl,75
+SpazioGames,75
+Multiplayer.it,75
+Meristation,75
+Everyeye.it,73
+Eurogamer Italy,70
+Games.cz,70
+IGN Italia,70
+Gameblog.fr,70
+PC Gamer UK,69
+PC PowerPlay,60
+Eurogamer Poland,60
+Shacknews,60
+Game Informer,60
+Riot Pixels,40

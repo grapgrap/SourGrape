@@ -1,0 +1,51 @@
+Detroit Free Press,100
+GamePro,90
+GamerFeed,90
+Gamezilla!,90
+Quandary,90
+AceGamez,90
+Gaming Illustrated,90
+eToychest,88
+GamingTrend,88
+VGPub,88
+PC Gamer,87
+Gaming Nexus,86
+My Gamer,86
+RPG Fan,86
+Game Chronicles,86
+IGN,85
+DailyGame,85
+Inside Gamer Online,84
+PC Format,84
+Pelit (Finland),84
+GameZone,83
+GameShark,83
+Gamer's Hell,82
+Worth Playing,82
+FiringSquad,82
+Play Magazine,80
+ActionTrip,80
+Cheat Code Central,80
+Yahoo!,80
+GameSpy,80
+Game Over Online,80
+Computer and Video Games,80
+G4 TV,80
+Times Online,80
+Eurogamer,80
+Computer Games Online RO,80
+PC Gameworld,80
+Game Informer,80
+GamesRadar+,80
+GameSpot,79
+XGP Gaming,79
+PALGN,75
+1UP,70
+Sydney Morning Herald,70
+Total Video Games,70
+Armchair Empire,70
+Computer Gaming World,70
+Computer Games Magazine,70
+Adrenaline Vault,70
+Game Revolution,58
+Next Level Gaming,56

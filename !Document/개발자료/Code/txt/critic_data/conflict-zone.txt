@@ -1,0 +1,10 @@
+TotalGames.net,83
+Computer Games Magazine,80
+ActionTrip,78
+IGN,67
+PC Gamer,60
+Yahoo!,60
+Electric Playground,58
+GameSpy,50
+GameSpot,44
+Computer Gaming World,30

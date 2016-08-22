@@ -1,0 +1,9 @@
+GameZone,80
+IGN,77
+netjak,70
+Game Over Online,70
+PC Gameworld,70
+GameSpot,70
+GameSpy,58
+Computer Games Magazine,50
+Computer Gaming World,30

@@ -1,0 +1,7 @@
+ActionTrip,79
+Game Informer,78
+GameZone,77
+GameSpot,75
+Gamers' Temple,68
+Media and Games Online Network,60
+Yahoo!,50

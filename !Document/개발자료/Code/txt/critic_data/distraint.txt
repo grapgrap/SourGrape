@@ -1,0 +1,8 @@
+ICXM,85
+GamingTrend,80
+COGconnected,80
+Twinfinite,80
+Ragequit.gr,80
+Games.cz,70
+DarkZero,70
+Adventure Gamers,60

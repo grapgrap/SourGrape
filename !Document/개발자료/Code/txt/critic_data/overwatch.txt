@@ -1,0 +1,62 @@
+LEVEL (Czech Republic),100
+Telegraph,100
+Guardian,100
+We Got This Covered,100
+Forbes,100
+Game Informer,100
+Destructoid,100
+Twinfinite,100
+USgamer,100
+The Escapist,100
+GamesBeat,98
+COGconnected,98
+Game World Navigator Magazine,95
+Riot Pixels,95
+ZTGD,95
+GameWatcher,95
+LevelUp,95
+GamingTrend,95
+Arcade Sushi,95
+IGN,94
+The Digital Fix,90
+PC PowerPlay,90
+Games.cz,90
+PLAY! Zine,90
+Hooked Gamers,90
+GameSpew,90
+IBTimes UK,90
+3DJuegos,90
+ActionTrip,90
+Gamer.no,90
+Meristation,90
+Multiplayer.it,90
+Eurogamer Poland,90
+XGN,90
+The Daily Dot,90
+Lazygamer,90
+Vandal Online,90
+Gameblog.fr,90
+Hardcore Gamer,90
+Game Revolution,90
+Attack of the Fanboy,90
+GamesRadar+,90
+GameSpot,90
+IGN Sweden,88
+PC Gamer,88
+Ragequit.gr,87
+GameStar,86
+4Players.de,85
+JeuxActu,85
+GameCrate,85
+Everyeye.it,85
+The Games Machine,82
+Polygon,80
+M3,80
+CGMagazine,80
+GameCritics,75
+Gamers' Temple,74
+PC Invasion,70
+Ars Technica,
+Rock, Paper, Shotgun,
+The A.V. Club,
+Wired,

@@ -1,0 +1,5 @@
+GameZone,90
+Game Over Online,80
+GameSpot,51
+IGN,50
+Daily Radar,50

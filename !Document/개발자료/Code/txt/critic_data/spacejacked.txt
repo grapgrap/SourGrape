@@ -1,0 +1,6 @@
+CGMagazine,75
+GameSpew,70
+GameCritics,70
+Brash Games,70
+Twinfinite,70
+IGN Sweden,50

@@ -1,0 +1,13 @@
+GameSpy,92
+GameSpot,82
+Yahoo!,80
+Computer Games Magazine,80
+PC Gamer,78
+Happy Puppy,75
+GamePower,75
+IGN,75
+ActionTrip,72
+Game Over Online,70
+Game Revolution,67
+Eurogamer,60
+GameZone,30

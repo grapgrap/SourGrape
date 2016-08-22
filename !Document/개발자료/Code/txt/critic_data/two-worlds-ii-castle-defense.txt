@@ -1,0 +1,3 @@
+IGN,65
+GameStar,52
+GameOver.gr,50

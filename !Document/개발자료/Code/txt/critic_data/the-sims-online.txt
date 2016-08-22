@@ -1,0 +1,23 @@
+Maxim Online,100
+Game Informer,90
+GamePro,90
+GMR Magazine,90
+G4 TV,80
+Computer Games Magazine,80
+Armchair Empire,80
+GameNow,75
+GameZone,73
+IGN,72
+TotalGames.net,70
+Gamers' Temple,69
+PC Gamer,68
+Gaming Age,67
+GameSpot,67
+PC Gameworld,63
+Computer Gaming World,60
+GameSpy,60
+All Game Guide,60
+Yahoo!,60
+Adrenaline Vault,60
+FiringSquad,59
+Game Revolution,42

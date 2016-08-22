@@ -1,0 +1,44 @@
+GameCritics,100
+GamerNode,100
+GameShark,100
+BigPond GameArena,95
+Game Informer,93
+Computer Games Online RO,93
+Gamers' Temple,92
+XGN,90
+Thunderbolt,90
+Worth Playing,90
+PC Format,90
+Adventure Gamers,90
+Destructoid,90
+ActionTrip,90
+Gamer Limit,90
+LEVEL (Czech Republic),90
+PALGN,90
+Telegraph,90
+Cheat Code Central,90
+MEGamers,88
+PC Gamer UK,88
+Everyeye.it,87
+IGN,85
+Multiplayer.it,85
+GameSpot,85
+Vandal Online,85
+Absolute Games,83
+SpazioGames,82
+Video Game Talk,80
+Gamereactor Sweden,80
+Joystiq,80
+Metro GameCentral,80
+PC PowerPlay,80
+Level7.nu,80
+Eurogamer Italy,80
+Gameblog.fr,80
+Gamereactor Denmark,80
+Gamekult,80
+Eurogamer,80
+Gamer.no,80
+games(TM),80
+GameZone,75
+AceGamez,70
+Meristation,60

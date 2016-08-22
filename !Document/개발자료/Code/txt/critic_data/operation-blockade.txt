@@ -1,0 +1,10 @@
+PC Gameworld,80
+GameZone,75
+Gamers' Temple,72
+All Game Guide,60
+Computer Games Magazine,60
+Gamer's Pulse,44
+IGN,40
+Game Over Online,40
+GameSpy,23
+GamePen,10

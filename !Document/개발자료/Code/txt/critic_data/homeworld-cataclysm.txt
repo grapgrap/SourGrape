@@ -1,0 +1,25 @@
+Evil Avatar,100
+Adrenaline Vault,100
+ActionTrip,95
+FiringSquad,93
+Antagonist,93
+IGN,92
+GameSpy,91
+Gaming Age,91
+PC Gamer,91
+Gamers' Temple,90
+Game Over Online,90
+GamePro,90
+All Game Guide,90
+CNET Gamecenter,90
+Happy Puppy,90
+Electric Playground,90
+GameSpot,89
+TotalGames.net,88
+Games Radar,88
+Spank!,86
+GameZone,85
+GamerWeb PC,85
+Da Gameboyz,82
+Eurogamer,80
+Daily Radar,75

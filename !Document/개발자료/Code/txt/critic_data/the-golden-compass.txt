@@ -1,0 +1,6 @@
+Play (Poland),40
+IGN,35
+PC PowerPlay,30
+PC Zone UK,23
+PC Gamer UK,17
+Game Revolution,0

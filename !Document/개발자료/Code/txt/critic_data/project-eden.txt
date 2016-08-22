@@ -1,0 +1,15 @@
+IGN,90
+Gamer's Pulse,83
+GameSpy,81
+Electric Playground,80
+GameZone,78
+GameSpot,78
+ActionTrip,76
+Four Fat Chicks,75
+Yahoo!,70
+Adrenaline Vault,70
+Computer Games Magazine,70
+Game Revolution,67
+Next Generation Magazine,60
+PC Gamer,59
+Computer Gaming World,30

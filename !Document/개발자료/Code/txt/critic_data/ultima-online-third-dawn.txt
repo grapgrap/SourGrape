@@ -1,0 +1,10 @@
+GameZone,80
+Total Video Games,80
+PC Gamer,78
+IGN,77
+GamePower,75
+GameSpot,69
+Gamezilla!,65
+Da Gameboyz,62
+GameSpy,60
+Game Revolution,42

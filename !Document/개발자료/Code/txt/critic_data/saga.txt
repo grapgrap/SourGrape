@@ -1,0 +1,4 @@
+GameWatcher,80
+PC Gamer UK,74
+CPUGamer,60
+IGN,50

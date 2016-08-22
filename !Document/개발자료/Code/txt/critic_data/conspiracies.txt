@@ -1,0 +1,12 @@
+Just Adventure,100
+Quandary,80
+Four Fat Chicks,75
+Adventure Gamers,70
+Gamer's Hell,60
+GameZone,60
+Game Chronicles,50
+Game Over Online,44
+PC Gameworld,40
+Worth Playing,35
+PC Gamer,23
+Computer Gaming World,20

@@ -1,0 +1,4 @@
+LEVEL (Czech Republic),90
+Eurogamer,80
+Gaming Nexus,50
+PC PowerPlay,40

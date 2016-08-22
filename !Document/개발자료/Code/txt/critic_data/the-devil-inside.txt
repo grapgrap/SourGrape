@@ -1,0 +1,9 @@
+Hot Games,90
+Daily Radar,88
+IGN,81
+GameZone,75
+Eurogamer,70
+Computer Games Magazine,70
+Game Over Online,69
+GameSpot,68
+CNET Gamecenter,60

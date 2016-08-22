@@ -1,0 +1,19 @@
+Worth Playing,72
+PC Gamer,70
+GamePro,70
+Game Informer,65
+Computer Games Online RO,60
+Edge Magazine,60
+IGN,60
+Absolute Games,58
+1UP,58
+GameFocus,50
+GamesRadar+,50
+GameShark,50
+Gaming Nexus,42
+GamerNode,40
+GameSpot,40
+LEVEL (Czech Republic),40
+Gamekult,30
+GameZone,30
+Multiplayer.it,30

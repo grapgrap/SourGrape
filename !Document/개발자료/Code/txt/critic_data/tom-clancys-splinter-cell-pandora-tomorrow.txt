@@ -1,0 +1,28 @@
+Gamers Depot,100
+Frictionless Insight,100
+Australian GamePro,100
+Playboy,100
+Stuff,100
+Times Online,100
+GameZone,97
+1UP,95
+IGN,95
+PGNx Media,95
+Game Chronicles,95
+Game Over Online,93
+GameSpot,91
+Gamer's Hell,91
+Yahoo!,90
+games(TM),90
+PC Gamer,90
+Computer and Video Games,89
+GameSpy,85
+TotalGames.net,85
+ActionTrip,82
+Edge Magazine,80
+Gamer.tv,80
+PC Gameworld,79
+PC Format,71
+GamerFeed,70
+Computer Gaming World,70
+Computer Games Magazine,60

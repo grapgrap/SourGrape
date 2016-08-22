@@ -1,0 +1,12 @@
+GameShark,100
+Eurogamer,90
+GamesRadar+,90
+RPG Fan,88
+GameCritics,85
+Multiplayer.it,85
+PALGN,80
+Metro GameCentral,80
+PC Gamer,76
+IGN,75
+LEVEL (Czech Republic),70
+RPGamer,70

@@ -1,0 +1,11 @@
+IGN,80
+PC Gamer,79
+GameZone,73
+ActionTrip,60
+Computer Games Magazine,60
+GameSpot,56
+GameSpy,52
+Adrenaline Vault,50
+Gamers' Temple,50
+Computer Gaming World,50
+G4 TV,40

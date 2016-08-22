@@ -1,0 +1,20 @@
+CD-Action,90
+Meristation,85
+Multiplayer.it,85
+GamingXP,85
+PC Games (Germany),84
+SpazioGames,83
+Gamers.at,81
+PC Games (Russia),80
+Eurogamer Italy,80
+LEVEL (Czech Republic),80
+Adventure Gamers,80
+PC Format,78
+Hardcore Gamer,70
+Eurogamer Portugal,70
+Everyeye.it,68
+Absolute Games,65
+GameSpot,65
+games(TM),60
+Destructoid,40
+Gamer.no,40

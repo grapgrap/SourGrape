@@ -1,0 +1,13 @@
+Adrenaline Vault,80
+IGN,70
+Computer Games Magazine,70
+Yahoo!,70
+Computer Gaming World,70
+GameZone,68
+Electric Playground,65
+ActionTrip,65
+PC Gamer,63
+GameSpot,61
+GamePen,60
+G4 TV,60
+GameSpy,60

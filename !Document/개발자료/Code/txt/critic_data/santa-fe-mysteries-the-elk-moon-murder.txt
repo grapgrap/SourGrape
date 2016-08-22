@@ -1,0 +1,6 @@
+All Game Guide,90
+Computer Games Magazine,80
+PC Gamer,68
+Just Adventure,58
+Adventure Gamers,50
+GameSpot,40

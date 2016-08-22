@@ -1,0 +1,41 @@
+GameWatcher,92
+Pelit (Finland),90
+Game Chronicles,90
+ActionTrip,85
+PALGN,85
+Worth Playing,85
+Digital Entertainment News,85
+GamePro,85
+eToychest,84
+Game Informer,83
+The New York Times,83
+GameSpot,82
+Jolt Online Gaming UK,82
+PC Format,82
+RewiredMind,80
+GamesRadar+,80
+Eurogamer,80
+PC Zone UK,80
+VideoGamer,80
+GameBiz,80
+GameZone,80
+GamerFeed,80
+Game Over Online,80
+Sydney Morning Herald,80
+AtomicGamer,80
+IGN,78
+Gamers' Temple,78
+Games Master UK,76
+GameCritics,75
+PC Gamer,74
+PC Gamer UK,74
+Yahoo!,70
+GameSpy,70
+Total Video Games,70
+games(TM),70
+WHAM! Gaming,68
+Game Revolution,67
+Cheat Code Central,66
+G4 TV,60
+Computer Games Magazine,60
+1UP,50

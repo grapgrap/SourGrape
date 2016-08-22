@@ -1,0 +1,46 @@
+AceGamez,100
+G4 TV,100
+Just Adventure,100
+BonusStage,95
+Gaming Target,95
+Play.tm,95
+Deeko,95
+The A.V. Club,91
+CPUGamer,91
+Gaming Age,91
+1UP,90
+Computer Gaming World,90
+Yahoo!,90
+eToychest,90
+Total Video Games,90
+Games Radar,90
+PC Format,90
+Eurogamer,90
+Gamer's Hell,90
+My Gamer,90
+GameZone,90
+IGN,88
+Armchair Empire,88
+Pelit (Finland),86
+Worth Playing,86
+Game Power Australia,85
+Play Magazine,85
+GameSpot,85
+PC Gamer,82
+Boomtown,80
+NTSC-uk,80
+AltGaming,80
+Gamers Europe,80
+Cheat Code Central,80
+Next Level Gaming,78
+netjak,76
+PALGN,75
+Game Informer,75
+Edge Magazine,70
+GameShark,70
+games(TM),70
+Game Chronicles,70
+Digital Entertainment News,65
+GamesRadar+,60
+Jolt Online Gaming UK,59
+Game Revolution,58

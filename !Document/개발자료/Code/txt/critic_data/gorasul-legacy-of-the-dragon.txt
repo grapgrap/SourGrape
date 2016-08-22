@@ -1,0 +1,13 @@
+GameZone,65
+GameSpot,64
+Game Over Online,63
+Computer Games Magazine,60
+GameSpy,60
+Pregaming,60
+FHM,60
+PC Gamer,54
+Electric Playground,50
+Computer Gaming World,40
+Yahoo!,40
+ActionTrip,39
+Game Revolution,33

@@ -1,0 +1,4 @@
+GameZone,75
+GameSpot,71
+AceGamez,70
+IGN,60

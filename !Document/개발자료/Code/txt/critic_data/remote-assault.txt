@@ -1,0 +1,8 @@
+TotalGames.net,80
+GameZone,78
+PC Gamer,71
+Yahoo!,70
+Gamezilla!,65
+Computer Games Magazine,60
+IGN,53
+Adrenaline Vault,50

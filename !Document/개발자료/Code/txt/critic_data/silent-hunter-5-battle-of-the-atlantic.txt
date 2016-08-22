@@ -1,0 +1,26 @@
+3DJuegos,85
+9Lives,81
+PC Format,81
+Pelit (Finland),79
+Vandal Online,77
+PC Gamer UK,77
+Multiplayer.it,70
+Gamers.at,70
+PC PowerPlay,70
+GameStar,68
+InsideGamer.nl,65
+GamingXP,65
+BigPond GameArena,60
+Everyeye.it,60
+IGN,57
+PC Gamer,55
+GameWatcher,53
+Eurogamer,50
+GameSpot,50
+GameZone,50
+Eurogamer Italy,50
+Impulsegamer,50
+LEVEL (Czech Republic),50
+Cynamite,50
+PC Zone UK,49
+Eurogamer Portugal,40

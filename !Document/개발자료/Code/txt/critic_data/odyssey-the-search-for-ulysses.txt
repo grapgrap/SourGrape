@@ -1,0 +1,7 @@
+GameSpot,72
+Electric Playground,65
+Eurogamer,60
+IGN,51
+GameZone,50
+Quandary,50
+All Game Guide,40

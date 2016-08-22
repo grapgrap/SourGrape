@@ -1,0 +1,9 @@
+GameShark,100
+Computer Games Magazine,100
+GameSpy,90
+PC Format,82
+Computer Gaming World,80
+GameSpot,79
+PC Gamer,79
+games(TM),60
+G4 TV,60

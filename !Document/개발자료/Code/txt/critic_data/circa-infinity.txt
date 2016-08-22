@@ -1,0 +1,6 @@
+DarkStation,90
+Destructoid,90
+Twinfinite,80
+Vandal Online,80
+We Got This Covered,70
+CGMagazine,60

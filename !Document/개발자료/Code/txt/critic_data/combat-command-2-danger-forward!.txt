@@ -1,0 +1,7 @@
+Computer Games Magazine,80
+GameZone,80
+CNET Gamecenter,70
+GameSpot,62
+Yahoo!,60
+Computer Gaming World,60
+GamePower,50

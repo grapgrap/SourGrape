@@ -1,0 +1,9 @@
+Kill Screen,69
+GameCritics,65
+COGconnected,60
+GameCrate,55
+Vandal Online,50
+DarkStation,40
+Everyeye.it,40
+Destructoid,40
+Hardcore Gamer,30

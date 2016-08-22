@@ -1,0 +1,47 @@
+Times Online,100
+PGNx Media,93
+Warcry,91
+GameSpy,90
+Game Chronicles,90
+eToychest,90
+Da Gameboyz,89
+VideoGamesLife,88
+Gamers' Temple,88
+GameZone,88
+IGN,88
+3DAvenue,86
+Game Over Online,86
+Gamer's Hell,85
+Game Informer,85
+Jolt Online Gaming UK,85
+GameSpot,85
+PC Gamer,84
+Computer and Video Games,84
+RealGamer,84
+Game Revolution,83
+IncGamers,82
+Gamer's Pulse,82
+PC Format,82
+Gaming Illustrated,82
+Gamers Depot,80
+GamePro,80
+Boomtown,80
+GamerArchive,80
+PC Gamer UK,80
+ActionTrip,80
+GamerFeed,80
+Computer Gaming World,80
+Yahoo!,80
+Next Level Gaming,80
+Adrenaline Vault,80
+Worth Playing,79
+CPUGamer,78
+PC Gameworld,75
+FiringSquad,74
+GMR Magazine,70
+Armchair Empire,70
+The New York Times,70
+Eurogamer,70
+GameShark,60
+games(TM),50
+Computer Games Magazine,40

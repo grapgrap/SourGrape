@@ -1,0 +1,58 @@
+Stuff,100
+Adrenaline Vault,100
+GamerFeed,100
+Game Chronicles,95
+Gamers Europe,95
+Gamezilla!,94
+Xequted,94
+Gaming Age,91
+GamesRadar+,90
+ActionTrip,90
+IncGamers,90
+GameShark,90
+Eurogamer,90
+netjak,90
+GameSpy,90
+Computer Gaming World,90
+GamePro,90
+Boomtown,90
+eToychest,90
+Computer Games Magazine,90
+Game Informer,90
+Armchair Empire,89
+Gaming Illustrated,88
+Gaming Nexus,88
+Warcry,87
+Gamers' Temple,87
+AtomicGamer,86
+PC Gameworld,86
+Computer Games Online RO,85
+Pelit (Finland),85
+Worth Playing,85
+FiringSquad,85
+IC-Games,84
+Games Radar,84
+GameZone,84
+GameSpot,84
+IGN,84
+Play.tm,83
+Play Magazine,83
+My Gamer,82
+PC Format,82
+PC Gamer,81
+1UP,80
+GMR Magazine,80
+Frictionless Insight,80
+Edge Magazine,80
+Cheat Code Central,80
+Electric Playground,80
+games(TM),80
+Yahoo!,80
+Maxim Online,80
+Times Online,80
+VideoGamesLife,76
+Game Revolution,75
+TotalGames.net,75
+Gamer's Hell,72
+Gamer's Pulse,66
+G4 TV,60

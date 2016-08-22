@@ -1,0 +1,7 @@
+GamingTrend,85
+Eurogamer Italy,70
+Vandal Online,70
+GameGrin,65
+Areajugones,65
+PLAY! Zine,60
+GameCritics,60

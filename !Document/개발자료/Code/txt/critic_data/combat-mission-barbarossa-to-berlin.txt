@@ -1,0 +1,12 @@
+PC Gameworld,95
+GameSpy,94
+GameSpot,91
+GamerFeed,90
+Computer Gaming World,90
+Computer Games Magazine,90
+PC Gamer,90
+IGN,90
+GameZone,86
+FiringSquad,85
+Pregaming,80
+TotalGames.net,70

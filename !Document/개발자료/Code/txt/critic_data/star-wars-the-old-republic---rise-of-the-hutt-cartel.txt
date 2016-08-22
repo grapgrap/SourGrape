@@ -1,0 +1,4 @@
+IGN,76
+GameSpot,75
+CD-Action,70
+PC Gamer,63

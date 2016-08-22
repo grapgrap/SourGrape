@@ -1,0 +1,13 @@
+GameStar,39
+4Players.de,36
+PC Gamer,30
+IGN,30
+Eurogamer,30
+Multiplayer.it,25
+GameSpot,20
+PC Games (Germany),20
+MMORPG.com,17
+IncGamers,10
+Metro GameCentral,10
+GameSpy,10
+PC PowerPlay,0

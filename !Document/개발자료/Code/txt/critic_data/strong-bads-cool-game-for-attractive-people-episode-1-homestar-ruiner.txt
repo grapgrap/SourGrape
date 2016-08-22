@@ -1,0 +1,29 @@
+GamePro,95
+1UP,91
+GameShark,91
+GameCritics,90
+GameZone,85
+Armchair Empire,85
+GamingTrend,84
+Game Over Online,83
+IGN,81
+Wired,80
+PC Gamer,80
+PC Zone UK,80
+PC Gamer UK,80
+Jolt Online Gaming UK,78
+Cheat Code Central,78
+Just Adventure,75
+Adventure Gamers,70
+Gamervision,70
+PALGN,70
+Game Chronicles,70
+GameSpy,70
+Gaming Nexus,67
+Thunderbolt,60
+Giant Bomb,60
+DarkZero,60
+GameSpot,50
+games(TM),50
+LEVEL (Czech Republic),50
+Edge Magazine,40

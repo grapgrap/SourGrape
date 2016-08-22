@@ -1,0 +1,8 @@
+Gamestyle,80
+SpazioGames,70
+COGconnected,70
+PC PowerPlay,70
+Multiplayer.it,70
+CD-Action,65
+IGN Spain,65
+GamingTrend,55

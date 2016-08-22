@@ -1,0 +1,18 @@
+IGN,100
+The Games Machine,93
+PC Games (Germany),91
+GRYOnline.pl,90
+Game Debate,90
+Slant Magazine,90
+DarkZero,90
+PC Invasion,90
+Hooked Gamers,89
+Ragequit.gr,89
+Riot Pixels,85
+PLAY! Zine,85
+GameCrate,83
+WCCFtech,80
+ZTGD,80
+PC Gamer,76
+Quarter to Three,60
+Rock, Paper, Shotgun,

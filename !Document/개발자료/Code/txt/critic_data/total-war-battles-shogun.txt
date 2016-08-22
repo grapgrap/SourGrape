@@ -1,0 +1,5 @@
+LEVEL (Czech Republic),70
+IGN,70
+Gameplanet,70
+Everyeye.it,65
+GameSpy,30

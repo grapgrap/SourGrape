@@ -1,0 +1,9 @@
+3DJuegos,26
+GameStar,23
+CD-Action,20
+Eurogamer Italy,20
+GRYOnline.pl,20
+Eurogamer Germany,20
+PC Games (Germany),12
+GameSpot,10
+Eurogamer,10

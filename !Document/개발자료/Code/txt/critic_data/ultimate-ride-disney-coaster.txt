@@ -1,0 +1,4 @@
+GameZone,75
+IGN,75
+Cincinnati Enquirer,70
+PC Gamer,65

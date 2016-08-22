@@ -1,0 +1,12 @@
+Computer Games Magazine,100
+Hot Games,100
+GameSpot,91
+Electric Playground,90
+IGN,90
+ActionTrip,90
+Happy Puppy,90
+Daily Radar,88
+PC Gamer,83
+CNET Gamecenter,80
+Game Over Online,70
+Adrenaline Vault,70

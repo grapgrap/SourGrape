@@ -1,0 +1,6 @@
+Gamestyle,90
+GameCritics,70
+Brash Games,70
+4Players.de,70
+Kill Screen,55
+games(TM),50

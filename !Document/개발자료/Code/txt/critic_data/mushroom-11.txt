@@ -1,0 +1,22 @@
+GameCrate,98
+GamingTrend,90
+Twinfinite,90
+IGN Italia,90
+IGN,90
+PC Gamer,85
+4Players.de,83
+Brash Games,80
+GameOver.gr,80
+We Got This Covered,80
+Hardcore Gamer,80
+Game Revolution,80
+IGN Spain,78
+Vandal Online,75
+Kill Screen,75
+Eurogamer Italy,70
+Destructoid,70
+GameSpot,60
+GameCritics,55
+DarkStation,40
+Rock, Paper, Shotgun,
+The A.V. Club,

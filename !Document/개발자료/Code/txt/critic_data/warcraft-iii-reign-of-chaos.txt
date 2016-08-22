@@ -1,0 +1,40 @@
+Maxim Online,100
+GamePro,100
+Gamer's Pulse,100
+CPUGamer,100
+Entertainment Weekly,100
+Adrenaline Vault,100
+Pregaming,100
+Cinescape,100
+GamesRadar+,100
+GameZone,97
+Gamers' Temple,96
+Gamezilla!,96
+Game Informer,95
+Playboy,95
+Armchair Empire,95
+Electric Playground,95
+ActionTrip,95
+GamerWeb PC,95
+PC Gamer,94
+GameSpot,93
+IGN,93
+GameSpy,92
+AtomicGamer,92
+PC Gameworld,91
+Game Revolution,91
+Media and Games Online Network,91
+FiringSquad,91
+Game Over Online,90
+Cincinnati Enquirer,90
+Eurogamer,90
+Total Video Games,90
+Games Radar,90
+GameCritics,85
+Computer Gaming World,80
+Yahoo!,80
+G4 TV,80
+Computer Games Magazine,80
+GamePen,80
+All Game Guide,80
+netjak,79

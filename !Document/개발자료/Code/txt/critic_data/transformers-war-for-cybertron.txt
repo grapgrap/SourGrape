@@ -1,0 +1,20 @@
+IGN,90
+GamingXP,82
+VideoGamer,80
+InsideGamer.nl,80
+Gamer.nl,80
+Cynamite,80
+PC Gamer UK,78
+PC Zone UK,76
+GamingExcellence,76
+Cheat Code Central,76
+Meristation,75
+Computer Games Online RO,75
+PC Games (Germany),74
+PC Format,74
+Absolute Games,71
+PC PowerPlay,70
+LEVEL (Czech Republic),70
+GameSpot,65
+Gamekult,60
+Giant Bomb,60

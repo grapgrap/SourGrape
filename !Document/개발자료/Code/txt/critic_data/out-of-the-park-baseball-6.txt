@@ -1,0 +1,6 @@
+Operation Sports,100
+GameSpy,90
+Computer Games Magazine,90
+GameSpot,86
+PC Gamer,86
+Worth Playing,72

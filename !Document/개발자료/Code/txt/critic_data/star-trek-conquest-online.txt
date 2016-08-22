@@ -1,0 +1,10 @@
+GameSpot,79
+IGN,78
+GamePro,70
+GameZone,70
+Adrenaline Vault,70
+CNET Gamecenter,70
+Da Gameboyz,68
+Game Over Online,60
+Computer Games Magazine,30
+Happy Puppy,30

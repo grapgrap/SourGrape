@@ -1,0 +1,5 @@
+DarkStation,90
+GameSpot,85
+DarkZero,70
+XGN,70
+PC Gamer,63

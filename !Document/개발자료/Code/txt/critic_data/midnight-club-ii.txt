@@ -1,0 +1,15 @@
+Gaming Age,91
+GamerFeed,90
+Game Chronicles,90
+PC Gamer,88
+GameSpy,88
+IGN,88
+AtomicGamer,87
+Gamers' Temple,86
+GameZone,84
+ActionTrip,81
+Cheat Code Central,80
+Armchair Empire,80
+GameSpot,72
+Computer Gaming World,70
+Computer Games Magazine,60

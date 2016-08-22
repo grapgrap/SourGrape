@@ -1,0 +1,12 @@
+Everyeye.it,80
+CGMagazine,80
+Destructoid,75
+PC Gamer,72
+Gamer.nl,70
+4Players.de,70
+Game Informer,65
+Multiplayer.it,63
+Edge Magazine,60
+IGN,60
+games(TM),50
+GameSpot,50

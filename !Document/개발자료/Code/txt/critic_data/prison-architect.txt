@@ -1,0 +1,37 @@
+Quarter to Three,100
+Guardian,100
+GamingTrend,95
+GamesBeat,92
+Games.cz,90
+Eurogamer Italy,90
+Gaming Nexus,88
+PC Gamer,87
+GameStar,87
+Riot Pixels,85
+GameWatcher,85
+JeuxActu,85
+COGconnected,85
+Everyeye.it,83
+PC Games (Germany),83
+IGN,83
+4Players.de,82
+Game World Navigator Magazine,81
+CD-Action,80
+PCWorld,80
+Edge Magazine,80
+GameCritics,80
+Eurogamer Poland,80
+Hardcore Gamer,80
+CGMagazine,80
+Metro GameCentral,80
+God is a Geek,80
+GRYOnline.pl,80
+Twinfinite,80
+Hooked Gamers,80
+TheSixthAxis,80
+Game Informer,80
+Games Master UK,78
+ZTGD,75
+GameSpot,70
+Kill Screen,55
+Rock, Paper, Shotgun,

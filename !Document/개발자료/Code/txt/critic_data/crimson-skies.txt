@@ -1,0 +1,32 @@
+Daily Radar,100
+Antagonist,96
+Gamer's Pulse,94
+Gamezilla!,92
+Game Revolution,91
+Adrenaline Vault,90
+Total Video Games,90
+PC Gameworld,90
+Evil Avatar,90
+Hot Games,90
+GamePro,90
+IGN,88
+ActionTrip,88
+Games Radar,88
+Cincinnati Enquirer,88
+Spank!,87
+PC Gamer,85
+GameSpy,84
+Gaming Age,83
+Electric Playground,80
+Eurogamer,80
+CPUGamer,80
+Da Gameboyz,80
+FiringSquad,79
+GameSpot,77
+Happy Puppy,75
+Game Over Online,74
+Computer Games Magazine,70
+CNET Gamecenter,70
+CheckOut,70
+GamerWeb PC,60
+GameZone,50

@@ -1,0 +1,40 @@
+GamingTrend,87
+D+PAD Magazine,80
+Gaming Nexus,80
+Telegraph,80
+Multiplayer.it,80
+Vandal Online,80
+3DJuegos,78
+IGN Italia,75
+Destructoid,75
+GameSpot,75
+IGN,75
+Meristation,74
+Hooked Gamers,72
+PC Games (Germany),72
+IncGamers,71
+PC PowerPlay,70
+The Escapist,70
+DarkZero,70
+SpazioGames,70
+GameFront,70
+Eurogamer Germany,70
+Game Revolution,70
+GameSpy,70
+GameStar,69
+CD-Action,65
+Everyeye.it,65
+COGconnected,65
+Polygon,65
+GameWatcher,65
+PC Gamer,62
+PC Master (Greece),60
+Games.cz,60
+Eurogamer Italy,60
+Gameblog.fr,60
+Edge Magazine,60
+GamesRadar+,60
+Gaming Age,58
+Metro GameCentral,40
+Digital Spy,40
+Eurogamer,30

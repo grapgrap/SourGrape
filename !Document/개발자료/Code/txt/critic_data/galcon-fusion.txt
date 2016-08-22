@@ -1,0 +1,8 @@
+PC Format,90
+PC Zone UK,83
+PC Gamer UK,73
+GameZone,70
+AceGamez,65
+DarkZero,60
+Destructoid,50
+LEVEL (Czech Republic),40

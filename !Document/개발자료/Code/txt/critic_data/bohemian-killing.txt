@@ -1,0 +1,4 @@
+COGconnected,65
+GRYOnline.pl,40
+Areajugones,40
+GameSpew,30

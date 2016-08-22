@@ -1,0 +1,5 @@
+GameSpew,80
+PLAY! Zine,60
+COGconnected,60
+DarkZero,50
+Hooked Gamers,49

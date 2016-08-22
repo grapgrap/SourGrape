@@ -1,0 +1,6 @@
+GameSpot,70
+GameZone,70
+IGN,65
+Adrenaline Vault,40
+Gamers' Temple,40
+GamePower,25

@@ -1,0 +1,12 @@
+GameZone,80
+Gaming Target,60
+GameSpot,56
+Game Chronicles,48
+Gamer 2.0,41
+IGN,33
+The A.V. Club,33
+ActionTrip,32
+PC Gamer,30
+Computer Games Magazine,30
+Edge Magazine,20
+Computer Gaming World,20

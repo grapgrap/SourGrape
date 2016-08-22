@@ -1,0 +1,8 @@
+GameZone,90
+Computer Games Magazine,90
+Gaming Nexus,87
+eToychest,85
+PC Gamer,83
+GameSpot,82
+Yahoo!,80
+PC Gamer UK,65

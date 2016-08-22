@@ -1,0 +1,7 @@
+Destructoid,90
+LevelUp,88
+Telegraph,80
+GameSpot,80
+Kill Screen,77
+Game Informer,68
+Polygon,

@@ -1,0 +1,30 @@
+PLAY! Zine,100
+Destructoid,95
+The Jimquisition,95
+PC Gamer,91
+Brash Games,90
+Everyeye.it,90
+IGN,90
+God is a Geek,90
+Hardcore Gamer,90
+SpazioGames,90
+Metro GameCentral,90
+VideoGamer,90
+4Players.de,88
+Games Master UK,85
+GameCrate,85
+GameOver.gr,85
+InsideGamer.nl,85
+Multiplayer.it,85
+Gamer.nl,85
+Softpedia,85
+Pelit (Finland),84
+GameStar,82
+CD-Action,80
+3DJuegos,80
+Vandal Online,80
+The Escapist,80
+Game Informer,75
+IGN Italia,75
+games(TM),70
+Rock, Paper, Shotgun,

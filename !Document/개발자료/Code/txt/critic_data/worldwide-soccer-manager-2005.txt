@@ -1,0 +1,18 @@
+Times Online,100
+Thunderbolt,100
+IC-Games,96
+3DAvenue,95
+Jolt Online Gaming UK,91
+PC Format,90
+Eurogamer,90
+games(TM),90
+Games Radar,90
+Computer and Video Games,90
+GamerArchive,90
+Pelit (Finland),89
+GameBiz,88
+RealGamer,88
+GameSpot,86
+Gamers Europe,85
+Gaming Age,83
+Total Video Games,80

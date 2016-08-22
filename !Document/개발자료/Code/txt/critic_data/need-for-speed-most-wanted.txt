@@ -1,0 +1,19 @@
+Stuff,90
+ActionTrip,90
+Computer Gaming World,90
+The New York Times,87
+PC Gamer,86
+IGN,85
+1UP,85
+GameSpot,84
+Computer Games Online RO,83
+PC Gameworld,82
+Pelit (Finland),81
+Gamer 2.0,81
+GameSpy,80
+Sydney Morning Herald,80
+AceGamez,80
+Play.tm,77
+Boomtown,70
+Computer Games Magazine,70
+games(TM),60

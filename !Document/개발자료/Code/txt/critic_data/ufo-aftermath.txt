@@ -1,0 +1,23 @@
+GameZone,85
+Game Informer,83
+Worth Playing,80
+Next Level Gaming,80
+Four Fat Chicks,80
+PC Format,77
+ActionTrip,77
+IncGamers,75
+IGN,75
+Gamer's Hell,75
+netjak,73
+GameBiz,73
+Gamer.tv,72
+GameSpot,64
+PC Gamer,63
+PC Gameworld,62
+Computer Gaming World,60
+GameSpy,60
+Game Over Online,59
+Armchair Empire,59
+Yahoo!,50
+Computer Games Magazine,50
+games(TM),40

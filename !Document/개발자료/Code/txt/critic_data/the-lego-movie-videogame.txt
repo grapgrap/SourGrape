@@ -1,0 +1,7 @@
+DarkStation,80
+LEVEL (Czech Republic),80
+GRYOnline.pl,75
+GameStar,73
+IGN,65
+CD-Action,60
+PC Gamer,50

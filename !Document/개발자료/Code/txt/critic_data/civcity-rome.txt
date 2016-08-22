@@ -1,0 +1,46 @@
+IGN,82
+PC Zone UK,81
+Computer Games Online RO,81
+Game Informer,80
+G4 TV,80
+ActionTrip,80
+Game Over Online,78
+PC Format,76
+Next Level Gaming,75
+Pelit (Finland),75
+IC-Games,75
+PC Gameworld,75
+GamingTrend,73
+Game Chronicles,70
+Armchair Empire,70
+WHAM! Gaming,70
+GameSpy,70
+Yahoo!,70
+Total Video Games,70
+games(TM),70
+GameZone,69
+Worth Playing,69
+eToychest,69
+Gamer 2.0,69
+GameShark,67
+Gamers' Temple,66
+GameSpot,66
+Jolt Online Gaming UK,66
+Gamezilla!,65
+PC Gamer UK,65
+Play.tm,63
+Digital Entertainment News,62
+Sydney Morning Herald,60
+CPUGamer,60
+AceGamez,60
+Times Online,60
+GamesRadar+,60
+VideoGamer,60
+GamingExcellence,55
+Computer Games Magazine,50
+1UP,50
+Eurogamer,50
+GamePro,50
+PALGN,50
+Game Revolution,42
+GamerFeed,40

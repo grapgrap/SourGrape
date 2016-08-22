@@ -1,0 +1,11 @@
+GameWatcher,85
+GameCritics,80
+Multiplayer.it,80
+Joystiq,80
+Hooked Gamers,80
+Polygon,80
+3DJuegos,75
+Games.cz,70
+SpazioGames,70
+Destructoid,70
+GameSpot,70

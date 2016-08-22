@@ -1,0 +1,10 @@
+GamePro,85
+AceGamez,80
+Digital Entertainment News,76
+Play Magazine,70
+VGPub,67
+Yahoo!,60
+IGN,51
+GamesRadar+,50
+G4 TV,40
+1UP,35

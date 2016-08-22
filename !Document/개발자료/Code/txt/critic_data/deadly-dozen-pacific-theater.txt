@@ -1,0 +1,8 @@
+GameZone,90
+Game Over Online,85
+GameSpot,83
+IGN,81
+Gamers' Temple,78
+GameSpy,72
+Computer Gaming World,70
+Gamer's Pulse,70

@@ -1,0 +1,9 @@
+Gamer's Pulse,80
+PC Gamer,71
+Gamers' Temple,68
+GameSpy,68
+GameZone,65
+Computer Gaming World,60
+Adrenaline Vault,50
+IGN,45
+Yahoo!,40

@@ -1,0 +1,30 @@
+Game Chronicles,92
+ActionTrip,90
+Gamezilla!,85
+GameZone,85
+Electric Playground,85
+PC Gamer,85
+IGN,83
+PC Gameworld,82
+GamePro,80
+Maxim Online,80
+G4 TV,80
+GMR Magazine,80
+GameSpot,79
+PC Format,79
+Game Revolution,75
+Game Informer,75
+Game Over Online,75
+GameSpy,72
+Cincinnati Enquirer,70
+All Game Guide,70
+Eurogamer,70
+PC Arena,60
+Yahoo!,50
+Computer Games Magazine,50
+Entertainment Weekly,50
+Adrenaline Vault,50
+Computer Gaming World,50
+TotalGames.net,50
+Edge Magazine,50
+Armchair Empire,40

@@ -1,0 +1,15 @@
+GameZone,95
+IGN,78
+ActionTrip,78
+GameSpy,76
+GamePower,75
+GameSpot,70
+Gamers' Temple,62
+Adrenaline Vault,60
+Game Over Online,59
+Daily Radar,50
+Happy Puppy,50
+All Game Guide,50
+Yahoo!,40
+PC Gamer,40
+Computer Games Magazine,40

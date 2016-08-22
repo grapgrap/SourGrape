@@ -1,0 +1,2 @@
+COGconnected,80
+XGN,75

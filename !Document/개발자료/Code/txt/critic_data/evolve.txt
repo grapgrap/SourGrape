@@ -1,0 +1,40 @@
+IGN,90
+The Escapist,90
+PC Games (Germany),86
+Ragequit.gr,85
+4Players.de,85
+Game Informer,85
+JeuxActu,85
+PC Gamer,83
+Vandal Online,83
+GameStar,82
+Ten Ton Hammer,80
+PC PowerPlay,80
+Games.cz,80
+Hooked Gamers,80
+SpazioGames,80
+Multiplayer.it,80
+Game Revolution,80
+Polygon,80
+Twinfinite,80
+PCGamesN,80
+3DJuegos,80
+Meristation,80
+GameSpot,80
+Game World Navigator Magazine,79
+Pelit (Finland),79
+GamesBeat,72
+Games Master UK,71
+CD-Action,70
+ActionTrip,70
+GameWatcher,70
+GRYOnline.pl,70
+Hardcore Gamer,70
+GamesRadar+,70
+Riot Pixels,67
+LEVEL (Czech Republic),60
+We Got This Covered,60
+IncGamers,60
+Destructoid,60
+The Jimquisition,60
+Ars Technica,

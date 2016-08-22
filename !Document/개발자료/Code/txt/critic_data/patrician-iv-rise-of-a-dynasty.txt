@@ -1,0 +1,4 @@
+CPUGamer,80
+CD-Action,75
+PC Games (Russia),65
+GameStar,58

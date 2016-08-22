@@ -1,0 +1,17 @@
+Gamer Limit,90
+GamePro,90
+GameShark,83
+Worth Playing,82
+PC Zone UK,82
+Eurogamer,80
+IGN,80
+Destructoid,80
+Total PC Gaming,80
+Edge Magazine,80
+AceGamez,80
+Impulsegamer,80
+PC Format,77
+PC Gamer UK,73
+Thunderbolt,70
+PC Gamer,63
+GamingXP,60

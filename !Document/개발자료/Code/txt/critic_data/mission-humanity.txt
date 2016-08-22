@@ -1,0 +1,5 @@
+Game Over Online,49
+Adrenaline Vault,40
+GameSpot,20
+Computer Games Magazine,20
+Yahoo!,20

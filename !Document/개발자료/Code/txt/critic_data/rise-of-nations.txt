@@ -1,0 +1,30 @@
+Yahoo!,100
+Play Magazine,100
+G4 TV,100
+Gamers' Temple,95
+GameZone,95
+Gamezilla!,94
+GameSpot,93
+PC Gamer,93
+PC Format,93
+netjak,93
+Game Over Online,92
+Entertainment Weekly,91
+Armchair Empire,90
+Game Informer,90
+Eurogamer,90
+ActionTrip,90
+TotalGames.net,90
+PC Arena,90
+GameSpy,90
+AtomicGamer,90
+Adrenaline Vault,90
+FiringSquad,88
+Gamer's Pulse,88
+Game Revolution,83
+IGN,82
+GMR Magazine,80
+Maxim Online,80
+Computer Gaming World,80
+Computer Games Magazine,80
+GamePro,80

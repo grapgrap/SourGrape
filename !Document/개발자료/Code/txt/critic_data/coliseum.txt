@@ -1,0 +1,9 @@
+GameZone,54
+Frictionless Insight,50
+Game Over Online,48
+Computer Games Magazine,40
+GameSpot,38
+PC Gamer,37
+Cheat Code Central,30
+IGN,20
+PC Gameworld,2

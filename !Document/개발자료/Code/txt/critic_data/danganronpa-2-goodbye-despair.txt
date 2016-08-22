@@ -1,0 +1,5 @@
+GamingTrend,95
+CD-Action,90
+Brash Games,80
+Metro GameCentral,80
+Twinfinite,80

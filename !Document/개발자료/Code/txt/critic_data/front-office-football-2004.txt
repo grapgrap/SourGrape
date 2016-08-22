@@ -1,0 +1,5 @@
+Operation Sports,94
+3DAvenue,90
+Gamenikki,80
+GameSpot,78
+Computer Games Magazine,70

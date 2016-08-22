@@ -1,0 +1,3 @@
+GamingTrend,95
+3DJuegos,80
+Vandal Online,70

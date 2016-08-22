@@ -1,0 +1,18 @@
+PC Gameworld,100
+Game Chronicles,97
+Operation Sports,97
+GameZone,95
+PC Gamer,95
+Sports Gaming Network,94
+IGN,93
+GameSpy,92
+Computer Games Magazine,90
+GMR Magazine,90
+GameSpot,88
+FiringSquad,87
+Gamezilla!,86
+Gamers' Temple,84
+Play Magazine,80
+G4 TV,80
+Yahoo!,70
+Computer Gaming World,70

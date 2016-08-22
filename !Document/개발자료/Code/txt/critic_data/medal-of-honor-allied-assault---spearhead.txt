@@ -1,0 +1,21 @@
+GamePro,90
+GameZone,90
+Armchair Empire,85
+IGN,84
+PC Gameworld,83
+Game Informer,83
+GameSpot,81
+G4 TV,80
+PC Gamer,80
+XGP Gaming,76
+AtomicGamer,76
+Game Revolution,75
+Electric Playground,75
+GameSpy,70
+Computer Gaming World,70
+Eurogamer,70
+GMR Magazine,70
+All Game Guide,60
+Thunderbolt,50
+ActionTrip,48
+Computer Games Magazine,30

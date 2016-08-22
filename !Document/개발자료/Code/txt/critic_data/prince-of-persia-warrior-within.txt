@@ -1,0 +1,29 @@
+Four Fat Chicks,100
+BonusStage,98
+GameZone,91
+1UP,90
+Yahoo!,90
+GMR Magazine,90
+games(TM),90
+ActionTrip,87
+IGN,86
+GameSpot,86
+WHAM! Gaming,86
+PC Gameworld,84
+Jolt Online Gaming UK,84
+PC Gamer UK,84
+Game Over Online,83
+Computer Games Online RO,83
+Gamer.tv,80
+Total Video Games,80
+Sydney Morning Herald,80
+Computer Gaming World,80
+Inside Gamer Online,78
+PC Format,78
+GamingTrend,78
+eToychest,75
+Edge Magazine,70
+GameSpy,70
+Worth Playing,69
+My Gamer,68
+PC Gamer,64

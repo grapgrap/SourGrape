@@ -1,0 +1,5 @@
+ZTGD,85
+GameSpot,80
+Absolute Games,71
+IGN,70
+PC PowerPlay,60

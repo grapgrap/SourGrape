@@ -1,0 +1,22 @@
+GameShark,100
+GamePro,95
+PC Gameworld,90
+Armchair Empire,90
+GameZone,87
+My Gamer,84
+1UP,83
+IGN,82
+Cheat Code Central,82
+Thunderbolt,80
+Wired,80
+Giant Bomb,80
+Jolt Online Gaming UK,80
+PC Gamer UK,79
+Destructoid,78
+PC Zone UK,78
+Gaming Nexus,75
+PALGN,75
+PC Format,74
+Adventure Gamers,70
+GameSpot,70
+Game Chronicles,70

@@ -1,0 +1,17 @@
+Play Magazine,100
+Computer Games Magazine,90
+IGN,80
+ActionTrip,80
+Thunderbolt,80
+GameSpot,80
+eToychest,80
+Gamers' Temple,77
+GameSpy,75
+PC Gamer,74
+VideoGamesLife,72
+Yahoo!,70
+RealGamer,70
+Cheat Code Central,70
+Computer Gaming World,70
+GameZone,68
+Game Chronicles,55

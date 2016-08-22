@@ -1,0 +1,47 @@
+GameOver.gr,100
+Digital Spy,100
+Thunderbolt,100
+Game Revolution,100
+Joystiq,100
+USgamer,100
+Destructoid,100
+Multiplayer.it,95
+Everyeye.it,95
+GameTrailers,92
+Games Master UK,90
+Telegraph,90
+Games.cz,90
+Edge Magazine,90
+SpazioGames,90
+Gameplanet,90
+Eurogamer Germany,90
+AtomicGamer,90
+Gamereactor Sweden,90
+PC Gamer,90
+3DJuegos,90
+Metro GameCentral,90
+4Players.de,90
+Digital Chumps,90
+Polygon,90
+GameSpot,90
+GameFront,90
+Hardcore Gamer,90
+Eurogamer,90
+Gamer.nl,90
+IGN,88
+Game Informer,85
+NowGamer,85
+Vandal Online,85
+Pelit (Finland),84
+games(TM),80
+Riot Pixels,80
+RPG Fan,80
+XGN,80
+GRYOnline.pl,80
+Gamer.no,80
+Eurogamer Italy,80
+Gameblog.fr,80
+Giant Bomb,80
+Slant Magazine,80
+CD-Action,75
+LEVEL (Czech Republic),60

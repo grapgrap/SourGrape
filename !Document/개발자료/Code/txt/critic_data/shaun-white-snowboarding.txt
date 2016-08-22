@@ -1,0 +1,8 @@
+PC Format,74
+GameStar,69
+LEVEL (Czech Republic),60
+PC PowerPlay,60
+Play (Poland),60
+PC Gamer UK,54
+Total PC Gaming,50
+PC Zone UK,50

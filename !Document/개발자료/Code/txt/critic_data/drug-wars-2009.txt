@@ -1,0 +1,9 @@
+GamerNode,60
+IGN,50
+Play (Poland),40
+PC Gamer,31
+PC Zone UK,30
+LEVEL (Czech Republic),30
+Multiplayer.it,30
+3DJuegos,26
+Absolute Games,3

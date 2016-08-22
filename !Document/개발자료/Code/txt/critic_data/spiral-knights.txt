@@ -1,0 +1,4 @@
+GamePro,80
+MMORPG.com,64
+CD-Action,60
+PC Gamer UK,51

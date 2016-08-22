@@ -1,0 +1,23 @@
+GamePro,80
+Thunderbolt,80
+Gaming Nexus,73
+GameBrink,71
+Gamezilla!,70
+GameZone,68
+GameSpot,66
+PC Zone UK,64
+Digital Entertainment News,63
+Yahoo!,60
+G4 TV,60
+GameShark,58
+IGN,55
+Games Master UK,55
+Worth Playing,55
+IncGamers,50
+PC Format,45
+PC Gamer UK,43
+Eurogamer,40
+1UP,40
+Computer Games Magazine,40
+PC Gamer,35
+Boomtown,30

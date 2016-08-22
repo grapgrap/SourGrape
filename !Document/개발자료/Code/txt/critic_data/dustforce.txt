@@ -1,0 +1,35 @@
+Gaming Age,91
+Game Chronicles,90
+PC Gamer,90
+Eurogamer Spain,90
+Game Revolution,90
+GameSpy,90
+PC Gamer UK,88
+Multiplayer.it,88
+Pelit (Finland),85
+Destructoid,85
+SpazioGames,85
+3DJuegos,85
+Games Master UK,81
+4Players.de,81
+Eurogamer Italy,80
+LEVEL (Czech Republic),80
+Gamer.nl,80
+Everyeye.it,80
+MEGamers,80
+Thunderbolt,80
+Eurogamer,80
+IncGamers,80
+VideoGamer,80
+IGN,80
+ZTGD,78
+GameSpot,75
+Meristation,75
+PC PowerPlay,70
+GameCritics,70
+BigPond GameArena,70
+Gamekult,70
+Metro GameCentral,70
+CD-Action,65
+Gameblog.fr,60
+Gaming Nexus,42

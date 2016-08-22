@@ -1,0 +1,3 @@
+Gamestyle,80
+PC Gamer,70
+Game Rant,70

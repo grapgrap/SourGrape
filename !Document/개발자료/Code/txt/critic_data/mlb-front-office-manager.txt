@@ -1,0 +1,4 @@
+IGN,66
+GameSpot,45
+Game Informer,30
+Gamers.at,30

@@ -1,0 +1,7 @@
+GamingTrend,75
+Gamer.nl,75
+ActionTrip,75
+CGMagazine,70
+Games.cz,70
+IGN,67
+GameSpot,50

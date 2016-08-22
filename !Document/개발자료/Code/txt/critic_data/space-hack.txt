@@ -1,0 +1,13 @@
+BonusStage,85
+eToychest,83
+PC Gameworld,70
+GameZone,68
+Gamer 2.0,66
+PC Gamer,65
+Worth Playing,65
+Computer Games Magazine,60
+Computer Gaming World,60
+Gaming Horizon,59
+GameSpot,58
+IGN,55
+Gamers' Temple,50

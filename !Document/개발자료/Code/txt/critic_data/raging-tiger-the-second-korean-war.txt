@@ -1,0 +1,6 @@
+GameZone,75
+Gaming Nexus,69
+Gamezilla!,65
+Computer Games Magazine,60
+PC Gameworld,40
+Computer Gaming World,40

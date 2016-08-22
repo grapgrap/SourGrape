@@ -1,0 +1,5 @@
+Gamer 2.0,75
+IGN,70
+GameSpot,70
+LEVEL (Czech Republic),60
+Gameblog.fr,40

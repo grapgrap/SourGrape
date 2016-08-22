@@ -1,0 +1,32 @@
+Gaming Nexus,88
+GamingTrend,85
+Worth Playing,83
+Pelit (Finland),82
+PC PowerPlay,80
+Softpedia,80
+COGconnected,80
+Game World Navigator Magazine,78
+InsideGamer.nl,78
+GameStar,77
+PC Gamer,76
+Gamer.nl,75
+PC Games (Germany),75
+Meristation,75
+GameOver.gr,70
+CD-Action,70
+Edge Magazine,70
+Ragequit.gr,70
+Post Arcade (National Post),70
+DarkStation,70
+GamesVillage.it,70
+PCGamesN,70
+The Jimquisition,70
+Multiplayer.it,70
+Riot Pixels,67
+Gamer.no,60
+Games.cz,60
+Eurogamer Poland,60
+Destructoid,60
+We Got This Covered,50
+Washington Post,40
+Ars Technica,

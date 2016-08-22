@@ -1,0 +1,24 @@
+Gamestyle,100
+The Jimquisition,95
+Gaming Age,91
+RPG Fan,90
+ActionTrip,90
+GamingTrend,90
+Pelit (Finland),88
+InsideGamer.nl,85
+CD-Action,80
+LEVEL (Czech Republic),80
+Games.cz,80
+The Digital Fix,80
+PC Games (Germany),80
+Arcade Sushi,80
+CGMagazine,80
+The Escapist,80
+IGN,80
+GameSpot,80
+Game World Navigator Magazine,75
+Kill Screen,72
+PC Gamer,71
+Slant Magazine,70
+GamesVillage.it,65
+Rock, Paper, Shotgun,

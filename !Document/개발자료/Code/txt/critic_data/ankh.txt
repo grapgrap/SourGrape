@@ -1,0 +1,22 @@
+Game Chronicles,88
+Play.tm,85
+GameShark,83
+Just Adventure,83
+Game Over Online,83
+Boomtown,80
+IncGamers,80
+GamesRadar+,80
+Quandary,80
+GameZone,78
+Gamer 2.0,76
+GamingExcellence,76
+GameSpot,73
+Worth Playing,72
+Gamers Europe,70
+AceGamez,70
+Adventure Gamers,70
+Gaming Nexus,70
+Gaming Target,69
+Computer and Video Games,68
+Eurogamer,60
+Computer Games Magazine,50

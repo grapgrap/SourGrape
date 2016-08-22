@@ -1,0 +1,2 @@
+DarkStation,40
+CD-Action,20

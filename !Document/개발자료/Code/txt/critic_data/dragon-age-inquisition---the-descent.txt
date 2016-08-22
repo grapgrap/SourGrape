@@ -1,0 +1,4 @@
+DarkStation,90
+Game Revolution,60
+PC Gamer,60
+Hardcore Gamer,60

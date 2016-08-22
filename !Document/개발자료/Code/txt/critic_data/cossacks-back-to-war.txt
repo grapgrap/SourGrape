@@ -1,0 +1,6 @@
+TotalGames.net,76
+GameSpy,68
+GameSpot,66
+IGN,65
+Computer Games Magazine,40
+Computer Gaming World,40

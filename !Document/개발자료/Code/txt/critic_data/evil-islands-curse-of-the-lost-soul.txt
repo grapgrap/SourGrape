@@ -1,0 +1,17 @@
+GamePro,90
+PC Gamer,90
+GamePower,88
+IGN,87
+Gamezilla!,84
+ActionTrip,84
+GameSpy,83
+Electric Playground,80
+Eurogamer,80
+Hot Games,80
+Game Over Online,71
+GameSpot,70
+Adrenaline Vault,70
+Yahoo!,60
+Games Radar,50
+Daily Radar,50
+Computer Games Magazine,40

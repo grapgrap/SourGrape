@@ -1,0 +1,10 @@
+IGN,83
+Hot Games,80
+Eurogamer,80
+CNET Gamecenter,70
+Adrenaline Vault,70
+Electric Playground,70
+Happy Puppy,70
+GameSpot,67
+Computer Games Magazine,60
+PC Gamer,55

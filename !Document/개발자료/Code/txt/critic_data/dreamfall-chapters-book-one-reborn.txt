@@ -1,0 +1,29 @@
+GamingTrend,90
+Vandal Online,85
+COGconnected,85
+Pelit (Finland),84
+GameCritics,80
+Hardcore Gamer,80
+LEVEL (Czech Republic),80
+Polygon,80
+Ragequit.gr,80
+GameStar,77
+Destructoid,75
+Multiplayer.it,73
+Merlin'in Kazan©¥ (Turkey),72
+GameSpot,70
+IncGamers,70
+PC PowerPlay,70
+The Digital Fix,70
+CD-Action,70
+CGMagazine,70
+DarkStation,70
+Digitally Downloaded,70
+Eurogamer Italy,70
+InsideGamer.nl,67
+IGN,65
+SpazioGames,65
+Games.cz,60
+IGN Italia,60
+Metro GameCentral,60
+Game World Navigator Magazine,60

@@ -1,0 +1,7 @@
+Gamezilla!,72
+GameZone,65
+PC Gamer,28
+IGN,24
+Computer Gaming World,20
+GameSpot,20
+Game Revolution,0

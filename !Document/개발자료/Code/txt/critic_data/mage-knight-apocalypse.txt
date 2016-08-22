@@ -1,0 +1,25 @@
+PC Gameworld,73
+PC Gamer UK,68
+GameShark,67
+RPG Fan,66
+Armchair Empire,65
+Edge Magazine,60
+Game Informer,60
+GameZone,58
+IGN,54
+VideoGamer,50
+GamerNode,50
+PALGN,45
+Computer Games Online RO,44
+GameSpot,44
+PC Zone UK,43
+GamePro,40
+GamesRadar+,40
+Worth Playing,40
+Eurogamer,40
+G4 TV,40
+PC Gamer,37
+PC Format,34
+GameSpy,30
+Computer Games Magazine,30
+Game Revolution,25

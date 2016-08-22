@@ -1,0 +1,26 @@
+Detroit Free Press,100
+CPUGamer,92
+Computer Games Online RO,91
+IGN,88
+Game Chronicles,88
+Computer and Video Games,87
+GameZone,84
+VGPub,84
+GamingTrend,84
+Cheat Code Central,80
+Yahoo!,80
+G4 TV,80
+Adventure Gamers,80
+Computer Games Magazine,80
+Quandary,80
+GameSpot,79
+The New York Times,79
+Game Informer,78
+1UP,75
+Just Adventure,75
+Worth Playing,75
+PC Format,73
+Total Video Games,70
+Computer Gaming World,70
+PC Gamer,68
+Eurogamer,60

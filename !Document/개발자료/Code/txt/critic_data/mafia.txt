@@ -1,0 +1,27 @@
+Four Fat Chicks,100
+GameSpot,93
+PC Gameworld,93
+GameZone,93
+Game Informer,93
+IGN,92
+Gamers' Temple,92
+PC Gamer,91
+PGNx Media,91
+GamerWeb PC,91
+GameSpy,91
+Game Revolution,91
+Computer Games Online RO,90
+PC Format,90
+Yahoo!,90
+Game Over Online,90
+Total Video Games,90
+AtomicGamer,90
+Media and Games Online Network,89
+Gamer's Pulse,88
+netjak,82
+Armchair Empire,80
+G4 TV,80
+Adrenaline Vault,80
+All Game Guide,80
+ActionTrip,79
+Computer Gaming World,70

@@ -1,0 +1,22 @@
+IGN,80
+GameZone,80
+Electric Playground,75
+ActionTrip,73
+Game Over Online,68
+Media and Games Online Network,67
+netjak,65
+Gamers' Temple,65
+GameSpy,64
+GameSpot,63
+Adrenaline Vault,60
+Pregaming,60
+Computer Games Magazine,60
+Yahoo!,50
+Armchair Empire,50
+FiringSquad,48
+PC Gamer,46
+Gaming Age,42
+GamePen,40
+G4 TV,40
+PC Gameworld,37
+Computer Gaming World,20

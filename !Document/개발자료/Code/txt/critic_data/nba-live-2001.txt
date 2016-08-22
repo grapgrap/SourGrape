@@ -1,0 +1,13 @@
+Daily Radar,100
+GameZone,95
+GamePower,88
+IGN,83
+ActionTrip,80
+GameSpot,80
+Game Over Online,80
+Sports Gaming Network,72
+Happy Puppy,70
+PC Gamer,65
+Computer Games Magazine,60
+Yahoo!,60
+Gaming Age,58

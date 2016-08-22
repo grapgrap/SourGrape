@@ -1,0 +1,4 @@
+Gameblog.fr,80
+Gamekult,50
+GameZone,45
+GamesRadar+,30

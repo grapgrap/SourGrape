@@ -1,0 +1,32 @@
+CPUGamer,100
+Gamers.at,92
+Vandal Online,92
+PC Games (Germany),91
+GameStar,91
+HellBored,90
+GameZone,90
+Cynamite,90
+Gamer.nl,90
+GamingXP,90
+Gameplanet,90
+PC Format,87
+InsideGamer.nl,85
+GameSpot,85
+Gamer Limit,85
+Computer Games Online RO,85
+3DJuegos,83
+IGN,82
+Eurogamer,80
+Everyeye.it,80
+Multiplayer.it,80
+Meristation,80
+Metro GameCentral,80
+Eurogamer Italy,80
+AceGamez,80
+LEVEL (Czech Republic),80
+PALGN,80
+Worth Playing,80
+GameShark,75
+PC Zone UK,72
+Total PC Gaming,70
+PC Gamer UK,61

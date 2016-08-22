@@ -1,0 +1,12 @@
+IGN,90
+Gamer's Hell,80
+GMR Magazine,80
+GameZone,80
+Computer Games Magazine,80
+Cincinnati Enquirer,80
+GameSpot,76
+GameSpy,75
+ActionTrip,65
+Four Fat Chicks,60
+PC Gamer,57
+Computer Gaming World,30

@@ -1,0 +1,7 @@
+PC Format,73
+PC Gamer,65
+GameZone,50
+IGN,30
+Cheat Code Central,20
+GameSpot,17
+Computer Gaming World,0

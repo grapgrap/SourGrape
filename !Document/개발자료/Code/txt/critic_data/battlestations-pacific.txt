@@ -1,0 +1,31 @@
+GameFocus,90
+PC Format,85
+GameShark,83
+Gaming Age,83
+Cheat Code Central,82
+VideoGamer,80
+Metro GameCentral,80
+Total Video Games,80
+Vandal Online,80
+GameSpot,80
+InsideGamer.nl,80
+PC Gamer UK,80
+Game Over Online,79
+Absolute Games,78
+Gamers' Temple,78
+IGN,77
+PC Games (Germany),77
+Gamers.at,76
+Meristation,75
+PC Zone UK,72
+Total PC Gaming,70
+Cynamite,70
+Gamer.nl,70
+Computer Games Online RO,70
+Eurogamer Spain,70
+Eurogamer Portugal,70
+GameStar,68
+Giant Bomb,60
+LEVEL (Czech Republic),60
+Game Informer,60
+GamingXP,59

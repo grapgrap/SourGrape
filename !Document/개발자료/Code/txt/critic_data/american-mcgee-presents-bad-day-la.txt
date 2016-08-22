@@ -1,0 +1,24 @@
+CPUGamer,64
+Worth Playing,50
+PC Gamer UK,43
+Edge Magazine,40
+Gaming Nexus,40
+Gamer 2.0,38
+Gamers' Temple,38
+GamerNode,32
+Jolt Online Gaming UK,30
+GameSpot,30
+GameSpy,30
+Digital Entertainment News,30
+IGN,27
+GameShark,25
+Game Revolution,25
+GamesRadar+,20
+GameDaily,20
+PC Gamer,20
+G4 TV,20
+Computer Games Magazine,20
+PC Zone UK,19
+eToychest,15
+GamingExcellence,12
+1UP,10

@@ -1,0 +1,4 @@
+PC Arena,80
+GameSpot,73
+GameZone,72
+PC Gamer,71

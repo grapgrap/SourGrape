@@ -1,0 +1,8 @@
+PC Gameworld,90
+Computer Games Magazine,90
+Gaming Nexus,89
+The A.V. Club,83
+PC Format,80
+The New York Times,80
+PC Gamer UK,80
+PC Gamer,58

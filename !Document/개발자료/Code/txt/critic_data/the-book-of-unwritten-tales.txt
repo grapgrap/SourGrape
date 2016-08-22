@@ -1,0 +1,32 @@
+The Escapist,100
+GameOver.gr,95
+CD-Action,90
+IGN,90
+Eurogamer Spain,90
+Adventure Gamers,90
+GamingXP,89
+Cheat Code Central,88
+Gamers.at,87
+GRYOnline.pl,85
+Gaming Nexus,85
+XGN,85
+Everyeye.it,85
+Multiplayer.it,85
+Meristation,85
+Destructoid,85
+GameStar,85
+PC Games (Germany),85
+NZGamer,84
+Pelit (Finland),84
+Game Over Online,82
+SpazioGames,82
+Games Master UK,81
+DarkStation,80
+MEGamers,80
+GameSpot,80
+LEVEL (Czech Republic),80
+Absolute Games,77
+PC PowerPlay,70
+GameSpy,70
+GamePro,70
+GameCritics,50

@@ -1,0 +1,9 @@
+Four Fat Chicks,100
+GamePower,88
+Yahoo!,80
+IGN,75
+GameSpot,70
+Gamezilla!,65
+GameZone,65
+Computer Games Magazine,60
+Adrenaline Vault,60

@@ -1,0 +1,2 @@
+CD-Action,80
+GameStar,78

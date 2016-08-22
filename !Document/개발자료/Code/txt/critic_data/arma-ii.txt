@@ -1,0 +1,38 @@
+GamingXP,92
+PC Format,91
+Meristation,90
+Vandal Online,90
+Eurogamer Italy,90
+Eurogamer Spain,90
+Impulsegamer,88
+Everyeye.it,85
+Pelit (Finland),84
+PC Gamer UK,83
+Multiplayer.it,82
+Eurogamer,80
+SpazioGames,80
+VideoGamer,80
+GamesNation,80
+GameSpot,80
+AceGamez,80
+Gamer.nl,80
+Armchair Empire,80
+IGN,78
+3DJuegos,77
+Absolute Games,75
+Gamer Limit,75
+GameZone,74
+Gamers.at,72
+LEVEL (Czech Republic),70
+PC Zone UK,70
+Metro GameCentral,70
+Eurogamer Portugal,70
+Edge Magazine,70
+GameTrailers,70
+Total PC Gaming,70
+Boomtown,70
+PC PowerPlay,70
+GameShark,67
+Gaming Nexus,67
+GameStar,66
+Worth Playing,66

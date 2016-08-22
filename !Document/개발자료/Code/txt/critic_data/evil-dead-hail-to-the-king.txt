@@ -1,0 +1,9 @@
+PC Gamer,61
+Happy Puppy,50
+Computer Games Magazine,40
+ActionTrip,40
+IGN,38
+GameSpot,34
+PC Gameworld,33
+Game Over Online,32
+Yahoo!,20

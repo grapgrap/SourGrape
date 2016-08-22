@@ -1,0 +1,6 @@
+3DJuegos,72
+Gamer.no,70
+PC Gamer,65
+Absolute Games,65
+CD-Action,60
+GameWatcher,55

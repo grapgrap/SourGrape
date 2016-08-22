@@ -1,0 +1,3 @@
+GameSpy,80
+ActionTrip,70
+Computer Gaming World,40

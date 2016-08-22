@@ -1,0 +1,4 @@
+Eurogamer,80
+GamerNode,80
+MEGamers,70
+GameSpot,70

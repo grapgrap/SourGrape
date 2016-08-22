@@ -1,0 +1,11 @@
+IncGamers,81
+PC PowerPlay,80
+Eurogamer,80
+Absolute Games,78
+CPUGamer,75
+Multiplayer.it,75
+Destructoid,65
+PC Gamer UK,61
+Gaming Nexus,58
+Gamer.nl,50
+GamerNode,40

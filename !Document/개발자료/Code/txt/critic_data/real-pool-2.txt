@@ -1,0 +1,4 @@
+GameZone,70
+GameSpot,55
+IGN,30
+GamePen,30

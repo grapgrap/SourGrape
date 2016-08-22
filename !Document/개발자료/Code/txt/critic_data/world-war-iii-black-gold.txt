@@ -1,0 +1,14 @@
+Gamer's Pulse,90
+GameSpy,85
+GameSpot,84
+TotalGames.net,82
+Yahoo!,80
+Computer Games Magazine,80
+Total Video Games,80
+Game Over Online,74
+GameZone,70
+Adrenaline Vault,70
+Game Revolution,67
+IGN,62
+Computer Gaming World,50
+PC Gamer,40

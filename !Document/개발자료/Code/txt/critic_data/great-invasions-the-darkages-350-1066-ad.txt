@@ -1,0 +1,16 @@
+IncGamers,85
+PC Zone UK,74
+Worth Playing,65
+Gamer's Hell,65
+GameZone,60
+GameSpot,58
+Game Chronicles,57
+GameDaily,50
+GamerNode,50
+Armchair Empire,50
+PC Gamer UK,47
+PC Gameworld,45
+Gamers' Temple,45
+PC Format,35
+PC Gamer,35
+GamingExcellence,30

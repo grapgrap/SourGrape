@@ -1,0 +1,28 @@
+IC-Games,82
+GameZone,76
+BonusStage,75
+Cheat Code Central,70
+eToychest,69
+GameSpot,68
+Computer and Video Games,67
+Worth Playing,64
+G4 TV,60
+GameCritics,60
+Gaming Nexus,59
+Game Over Online,57
+Thunderbolt,50
+IGN,45
+PC Gamer,45
+PC Format,43
+Gamer's Hell,40
+PC Gameworld,40
+Game Informer,40
+GameShark,40
+GamerFeed,40
+GameSpy,30
+1UP,30
+Boomtown,30
+CPUGamer,24
+Computer Games Magazine,20
+ActionTrip,10
+Computer Gaming World,0

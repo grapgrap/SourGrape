@@ -1,0 +1,5 @@
+Computer Games Magazine,100
+AtomicGamer,85
+GameZone,65
+AceGamez,60
+Gaming Age,33

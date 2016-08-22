@@ -1,0 +1,6 @@
+GameZone,89
+Warcry,86
+Gamezilla!,80
+Worth Playing,80
+PC Format,79
+PC Gamer,70

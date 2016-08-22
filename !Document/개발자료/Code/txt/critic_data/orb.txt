@@ -1,0 +1,13 @@
+GameSpy,87
+Armchair Empire,80
+GameSpot,75
+GameZone,75
+IGN,74
+Computer Games Magazine,70
+Adrenaline Vault,70
+ActionTrip,70
+Gamer's Pulse,66
+G4 TV,60
+FiringSquad,58
+PC Gamer,56
+Computer Gaming World,40

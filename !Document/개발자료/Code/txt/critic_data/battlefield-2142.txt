@@ -1,0 +1,48 @@
+GameDaily,90
+GameWatcher,90
+GamerNode,90
+Worth Playing,89
+AtomicGamer,89
+Game Chronicles,88
+PGNx Media,87
+PC Zone UK,86
+PC Gameworld,86
+PC Gamer,86
+Game Informer,85
+ActionTrip,85
+Pelit (Finland),85
+GamingTrend,85
+IGN,84
+GameTrailers,84
+Gamers' Temple,84
+GamingExcellence,83
+PC Gamer UK,83
+Game Revolution,83
+Jolt Online Gaming UK,82
+Games Master UK,82
+GameSpot,81
+GamesRadar+,80
+Yahoo!,80
+Game Over Online,80
+Play Magazine,80
+Edge Magazine,80
+3DAvenue,80
+Deeko,80
+VideoGamer,80
+AceGamez,80
+GameZone,80
+Computer Games Magazine,80
+Gamer 2.0,80
+Gaming Nexus,79
+PC Format,78
+eToychest,78
+GamePro,75
+PALGN,75
+GameCritics,75
+FiringSquad,73
+Play.tm,72
+Eurogamer,70
+Digital Entertainment News,65
+CPUGamer,65
+1UP,60
+games(TM),50

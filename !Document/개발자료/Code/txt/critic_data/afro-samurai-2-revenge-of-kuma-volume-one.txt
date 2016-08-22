@@ -1,0 +1,2 @@
+3DJuegos,30
+Gamestyle,0

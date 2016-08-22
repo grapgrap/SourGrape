@@ -1,0 +1,6 @@
+GameWatcher,73
+PC Gamer,70
+PC Gamer UK,69
+PC Zone UK,64
+GameSpot,60
+1UP,50

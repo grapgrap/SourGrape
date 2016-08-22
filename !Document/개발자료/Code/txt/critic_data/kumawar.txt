@@ -1,0 +1,15 @@
+Thunderbolt,70
+GamerFeed,70
+Cheat Code Central,70
+Gaming Nexus,65
+PC Gameworld,65
+IGN,63
+GameZone,57
+Armchair Empire,55
+Gamers' Temple,55
+Gamer's Hell,49
+GameSpot,41
+PC Gamer,39
+Computer Gaming World,30
+PC Format,25
+eToychest,15

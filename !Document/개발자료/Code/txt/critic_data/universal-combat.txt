@@ -1,0 +1,16 @@
+GameZone,77
+PC Gamer,75
+Computer Games Magazine,60
+Gamer's Hell,60
+Adrenaline Vault,60
+GameSpot,59
+IGN,59
+Cheat Code Central,50
+Computer Gaming World,50
+Yahoo!,50
+Game Chronicles,50
+ActionTrip,48
+PC Gameworld,45
+Worth Playing,30
+Computer and Video Games,22
+eToychest,20

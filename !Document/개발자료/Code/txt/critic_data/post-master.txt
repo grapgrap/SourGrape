@@ -1,0 +1,2 @@
+XGN,30
+GameWatcher,20

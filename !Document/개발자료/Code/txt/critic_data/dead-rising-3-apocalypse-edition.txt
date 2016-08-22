@@ -1,0 +1,44 @@
+DarkStation,90
+Slant Magazine,90
+Gaming Nexus,85
+GamingTrend,85
+Hooked Gamers,85
+IGN,83
+Ragequit.gr,82
+IGN Italia,81
+GameWatcher,80
+NZGamer,80
+Hardcore Gamer,80
+Shacknews,80
+Multiplayer.it,79
+PC Gamer,79
+Merlin'in Kazan©¥ (Turkey),78
+COGconnected,77
+Everyeye.it,77
+Impulsegamer,76
+Vandal Online,76
+GameCritics,75
+LevelUp,75
+Meristation,73
+Gamer.nl,70
+Digitally Downloaded,70
+PC PowerPlay,70
+SpazioGames,70
+Games.cz,70
+IncGamers,70
+Eurogamer Italy,70
+Gameblog.fr,70
+Gaming Age,67
+Worth Playing,65
+Riot Pixels,65
+ZTGD,65
+Thunderbolt,60
+LEVEL (Czech Republic),60
+Game Revolution,60
+Gameplanet,60
+GRYOnline.pl,60
+XGN,60
+CD-Action,55
+USgamer,50
+Digital Chumps,44
+GameSpot,30

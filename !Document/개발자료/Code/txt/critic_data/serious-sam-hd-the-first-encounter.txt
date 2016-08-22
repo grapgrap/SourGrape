@@ -1,0 +1,35 @@
+Gaming Nexus,100
+Destructoid,80
+Play.tm,80
+GamingExcellence,80
+Armchair Empire,80
+PC PowerPlay,80
+PC Gamer,76
+1UP,75
+Multiplayer.it,75
+IGN,75
+PALGN,75
+SpazioGames,75
+Games Master UK,74
+Gamers' Temple,74
+GamingXP,73
+Eurogamer,70
+VideoGamer,70
+GamePro,70
+LEVEL (Czech Republic),70
+PC Games (Germany),70
+Cynamite,70
+Digital Chumps,68
+PC Zone UK,67
+3DJuegos,63
+Gamers.at,62
+GameStar,60
+Meristation,60
+Absolute Games,60
+Eurogamer Portugal,60
+Metro GameCentral,60
+Total PC Gaming,60
+Giant Bomb,60
+AceGamez,51
+GameSpot,50
+PC Format,32

@@ -1,0 +1,5 @@
+CD-Action,75
+IGN Spain,70
+Brash Games,70
+games(TM),60
+PC Gamer,32

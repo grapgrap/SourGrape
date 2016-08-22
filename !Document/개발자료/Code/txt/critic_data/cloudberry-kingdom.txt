@@ -1,0 +1,6 @@
+Multiplayer.it,80
+IGN Italia,75
+IncGamers,70
+GameStar,66
+PC Gamer,60
+GameWatcher,60

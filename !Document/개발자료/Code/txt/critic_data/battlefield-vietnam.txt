@@ -1,0 +1,48 @@
+GamePro,100
+3DAvenue,92
+Gamezilla!,92
+Cheat Code Central,90
+PC Gameworld,90
+PC Gamer,90
+GameZone,90
+GMR Magazine,90
+Gamers Depot,90
+Computer Games Magazine,90
+VideoGamesLife,89
+Playboy,88
+XGP Gaming,88
+Computer and Video Games,87
+Gamer's Hell,87
+GameSpot AU,86
+Next Level Gaming,85
+Stuff,85
+GameBiz,85
+eToychest,85
+GameSpot,85
+GameSpy,85
+PC Format,84
+Game Revolution,83
+ActionTrip,83
+Games Radar,82
+IGN,82
+Inside Gamer Online,82
+CPUGamer,80
+Game Informer,80
+VIA Gamers Arena,80
+GamerFeed,80
+Boomtown,80
+GameShark,80
+Australian GamePro,80
+PC Arena,80
+Edge Magazine,80
+RealGamer,80
+Computer Gaming World,80
+Maxim Online,80
+Worth Playing,80
+G4 TV,80
+Yahoo!,80
+FiringSquad,80
+Xequted,78
+games(TM),70
+1UP,70
+Gaming Nexus,65

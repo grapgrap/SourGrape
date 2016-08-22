@@ -1,0 +1,3 @@
+Gamestyle,90
+Softpedia,80
+Hooked Gamers,68

@@ -1,0 +1,30 @@
+G4 TV,100
+CPUGamer,100
+PC Arena,100
+Computer Gaming World,100
+All Game Guide,100
+GMR Magazine,100
+GameNow,100
+Yahoo!,100
+PC Gameworld,96
+Gamezilla!,96
+Gamers' Temple,96
+FiringSquad,95
+GameZone,95
+PC Format,94
+Game Chronicles,94
+AtomicGamer,94
+GameSpot,93
+Game Over Online,93
+Games Radar,93
+IGN,93
+ActionTrip,93
+GameSpy,93
+Armchair Empire,92
+RealGamer,92
+PC Gamer,92
+Eurogamer,90
+Pregaming,90
+Computer Games Magazine,90
+Computer Games Online RO,89
+Cheat Code Central,80

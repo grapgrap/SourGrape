@@ -1,0 +1,5 @@
+Riot Pixels,80
+XGN,65
+PC Gamer,62
+Game Revolution,50
+PC PowerPlay,30

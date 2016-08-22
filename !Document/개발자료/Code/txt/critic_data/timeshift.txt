@@ -1,0 +1,30 @@
+Worth Playing,90
+GameTrailers,82
+PC Format,80
+GameStar,80
+AceGamez,80
+GotNext,80
+YouGamers,80
+Game Informer,78
+GameZone,78
+PC Gamer UK,78
+PC Zone UK,78
+Jolt Online Gaming UK,77
+IGN,76
+GamerNode,75
+Computer Games Online RO,75
+Gaming Target,72
+GamesRadar+,70
+Game Over Online,70
+GameDaily,70
+Play Magazine,70
+PC Gamer,70
+GamingExcellence,69
+Cheat Code Central,66
+GameSpot,65
+PTGamers,65
+ActionTrip,61
+PC PowerPlay,60
+1UP,50
+Game Revolution,50
+Thunderbolt,50

@@ -1,0 +1,6 @@
+GamerFeed,80
+Australian GamePro,80
+IncGamers,75
+Computer Gaming World,70
+GameZone,70
+PC Gamer,60

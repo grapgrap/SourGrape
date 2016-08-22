@@ -1,0 +1,17 @@
+GamingTrend,85
+CGMagazine,85
+Brash Games,80
+Multiplayer.it,80
+Softpedia,80
+GameCrate,78
+Vandal Online,75
+Games.cz,70
+SpazioGames,70
+Gamer.nl,70
+COGconnected,70
+games(TM),60
+USgamer,60
+Destructoid,60
+Gamers' Temple,58
+Twinfinite,40
+GameCritics,20

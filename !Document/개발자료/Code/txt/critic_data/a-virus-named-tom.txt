@@ -1,0 +1,9 @@
+LEVEL (Czech Republic),70
+ZTGD,70
+IGN,70
+GameSpy,70
+Gamer.nl,65
+Vandal Online,65
+PC PowerPlay,60
+NZGamer,60
+PC Gamer UK,55

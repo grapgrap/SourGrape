@@ -1,0 +1,11 @@
+GameZone,92
+Boomtown,90
+Cheat Code Central,86
+IGN,82
+GameSpy,80
+PC Gamer,78
+GameSpot,76
+Computer and Video Games,75
+Eurogamer,70
+Computer Games Magazine,70
+GamesRadar+,70

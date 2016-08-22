@@ -1,0 +1,20 @@
+GameZone,90
+Eurogamer,80
+Hot Games,70
+GamePro,70
+Electric Playground,65
+IGN,64
+Da Gameboyz,62
+Game Over Online,58
+PC Gamer,52
+Happy Puppy,50
+Gaming Age,50
+Daily Radar,50
+All Game Guide,50
+Game Revolution,42
+ActionTrip,42
+GameSpot,42
+Adrenaline Vault,40
+GameSpy,35
+CNET Gamecenter,30
+Computer Games Magazine,30

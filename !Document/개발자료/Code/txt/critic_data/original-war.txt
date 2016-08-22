@@ -1,0 +1,9 @@
+GameSpy,88
+PC Gamer,80
+Game Over Online,80
+GamePen,70
+GameZone,70
+Computer Gaming World,60
+Computer Games Magazine,50
+GameSpot,50
+IGN,45

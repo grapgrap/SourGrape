@@ -1,0 +1,21 @@
+G4 TV,80
+GamerFeed,70
+GameZone,70
+Inside Gamer Online,70
+Gamers' Temple,70
+1UP,65
+PC Gameworld,64
+GamingTrend,63
+Game Chronicles,62
+Cheat Code Central,60
+GameSpot,56
+Worth Playing,53
+Game Over Online,51
+PC Gamer,50
+GameSpy,40
+Computer Games Magazine,40
+My Gamer,36
+Computer Gaming World,30
+Game Revolution,25
+Detroit Free Press,25
+Gaming Age,16

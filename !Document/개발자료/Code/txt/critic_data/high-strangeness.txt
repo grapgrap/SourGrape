@@ -1,0 +1,3 @@
+Destructoid,70
+NZGamer,60
+GameCritics,50

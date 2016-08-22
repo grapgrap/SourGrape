@@ -1,0 +1,8 @@
+ActionTrip,77
+GameSpot,73
+Computer Games Magazine,70
+IGN,68
+FiringSquad,62
+PC Gamer,61
+Yahoo!,60
+PC Gameworld,59

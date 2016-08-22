@@ -1,0 +1,3 @@
+GameGrin,70
+Hardcore Gamer,60
+Digitally Downloaded,40

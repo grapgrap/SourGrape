@@ -1,0 +1,14 @@
+GameSpy,89
+GameSpot,88
+ActionTrip,85
+PC Gamer,81
+Game Over Online,80
+GameZone,80
+IGN,80
+G4 TV,80
+Yahoo!,80
+PC Gameworld,79
+PC Format,78
+Game Chronicles,76
+Computer Games Magazine,70
+Computer Gaming World,20

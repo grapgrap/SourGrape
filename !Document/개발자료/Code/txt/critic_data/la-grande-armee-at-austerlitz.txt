@@ -1,0 +1,4 @@
+GameSpy,82
+GameSpot,71
+PC Gamer,54
+Yahoo!,50

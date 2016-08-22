@@ -1,0 +1,4 @@
+GamingXP,75
+PC PowerPlay,70
+GameZone,70
+Game Revolution,42

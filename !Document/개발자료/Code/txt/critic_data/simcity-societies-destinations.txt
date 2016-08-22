@@ -1,0 +1,6 @@
+GameZone,78
+GameSpot,70
+IGN,67
+1UP,58
+PC Gamer UK,54
+Gamer.nl,30

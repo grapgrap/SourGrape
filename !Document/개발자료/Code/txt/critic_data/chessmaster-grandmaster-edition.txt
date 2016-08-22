@@ -1,0 +1,5 @@
+PC Gamer,85
+GamingTrend,80
+PC PowerPlay,80
+Game Almighty,75
+GamesRadar+,50

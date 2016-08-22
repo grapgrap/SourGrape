@@ -1,0 +1,4 @@
+GameFocus,82
+Gamer Limit,75
+GameCritics,70
+PC Gamer UK,54

@@ -1,0 +1,2 @@
+CGMagazine,80
+Kill Screen,40

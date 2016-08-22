@@ -1,0 +1,29 @@
+DarkStation,100
+IGN Italia,90
+PC PowerPlay,90
+Gamer.nl,90
+Gamereactor Sweden,90
+Vandal Online,85
+Eurogamer,80
+Hardcore Gamer,80
+Pelit (Finland),79
+Level7.nu,70
+Everyeye.it,70
+CD-Action,70
+Digital Chumps,70
+GameFront,70
+SpazioGames,70
+GameSpot,70
+Thunderbolt,70
+Edge Magazine,70
+Hooked Gamers,68
+Games.cz,60
+ActionTrip,60
+Riot Pixels,59
+4Players.de,59
+GameCritics,55
+XGN,55
+DarkZero,50
+Gameblog.fr,50
+LEVEL (Czech Republic),40
+Joystiq,40

@@ -1,0 +1,6 @@
+GameZone,75
+PC Gameworld,68
+Game Chronicles,66
+Adrenaline Vault,60
+GameSpot,51
+Quandary,50

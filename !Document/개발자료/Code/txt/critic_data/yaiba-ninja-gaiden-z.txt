@@ -1,0 +1,7 @@
+GameStar,69
+Game Informer,65
+Ragequit.gr,50
+Thunderbolt,50
+LevelUp,50
+Polygon,30
+GameWatcher,20

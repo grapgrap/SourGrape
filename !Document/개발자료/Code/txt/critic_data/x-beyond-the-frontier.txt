@@ -1,0 +1,17 @@
+ActionTrip,81
+GameSpot,81
+PC Gameworld,78
+IGN,77
+TotalGames.net,74
+FiringSquad,71
+Yahoo!,70
+PC Gamer,70
+GameSpy,68
+GameZone,65
+Adrenaline Vault,60
+Electric Playground,60
+Computer Games Magazine,60
+Gaming Age,50
+GamePro,50
+All Game Guide,40
+Eurogamer,30

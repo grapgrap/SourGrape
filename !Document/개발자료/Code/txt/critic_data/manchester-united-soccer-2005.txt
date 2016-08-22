@@ -1,0 +1,9 @@
+IGN,77
+Computer Games Magazine,60
+GameZone,58
+Gamer's Hell,56
+Game Chronicles,55
+GameSpot,55
+Computer Gaming World,40
+G4 TV,40
+Operation Sports,20

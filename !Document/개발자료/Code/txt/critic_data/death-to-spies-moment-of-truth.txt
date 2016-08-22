@@ -1,0 +1,6 @@
+Meristation,80
+GamingXP,79
+GamingExcellence,75
+PC Format,75
+LEVEL (Czech Republic),70
+GameSpot,65

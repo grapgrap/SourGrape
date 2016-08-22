@@ -1,0 +1,25 @@
+Guardian,100
+Cheat Code Central,92
+Ten Ton Hammer,90
+IGN,90
+PC Master (Greece),89
+GamingXP,86
+NZGamer,85
+Gamer.nl,85
+GRYOnline.pl,85
+PC Games (Germany),81
+CPUGamer,80
+LEVEL (Czech Republic),80
+RPG Fan,80
+Computer Games Online RO,80
+DarkStation,80
+GameWatcher,80
+AtomicGamer,80
+GameSpy,80
+GameStar,80
+Absolute Games,79
+Everyeye.it,77
+GameSpot,75
+PC Gamer,74
+Thunderbolt,70
+PC PowerPlay,60

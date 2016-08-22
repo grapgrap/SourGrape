@@ -1,0 +1,39 @@
+Hyper Magazine,100
+Ragequit.gr,90
+Gameplanet,90
+Digital Chumps,90
+ActionTrip,82
+SpazioGames,80
+IGN,80
+Merlin'in Kazan©¥ (Turkey),79
+ZTGD,76
+IGN Italia,76
+Multiplayer.it,75
+NZGamer,70
+God is a Geek,70
+Eurogamer Germany,70
+Lazygamer,70
+Eurogamer,70
+Games Master UK,66
+Gamer.nl,65
+Hooked Gamers,65
+games(TM),60
+Toronto Sun,60
+Gamereactor Sweden,60
+Eurogamer Italy,60
+Post Arcade (National Post),60
+PCGamesN,60
+LevelUp,60
+The Escapist,60
+InsideGamer.nl,55
+JeuxActu,55
+The Digital Fix,50
+Level7.nu,50
+GRYOnline.pl,50
+Game Revolution,50
+Game Informer,50
+CD-Action,40
+Pelit (Finland),40
+Digitally Downloaded,40
+PC Gamer,30
+Guardian,20

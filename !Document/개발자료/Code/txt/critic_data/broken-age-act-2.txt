@@ -1,0 +1,35 @@
+Game Informer,93
+CD-Action,90
+Adventure Gamers,90
+GamesBeat,90
+IGN,90
+Games Master UK,85
+Edge Magazine,80
+Meristation,80
+IncGamers,80
+IGN Spain,80
+Destructoid,80
+Hobby Consolas,76
+SpazioGames,75
+GameWatcher,75
+ActionTrip,75
+4Players.de,74
+PLAY! Zine,70
+games(TM),70
+Level7.nu,70
+Eurogamer Italy,70
+Hardcore Gamer,70
+CGMagazine,70
+TheSixthAxis,70
+GameTrailers,70
+Cheat Code Central,68
+Games.cz,60
+Gameplanet,60
+Everyeye.it,60
+GameSpot,60
+PCWorld,50
+USgamer,50
+Ragequit.gr,40
+Digital Spy,40
+Post Arcade (National Post),40
+Ars Technica,

@@ -1,0 +1,23 @@
+Hot Games,90
+Gamer's Pulse,85
+Happy Puppy,80
+Electric Playground,80
+ActionTrip,70
+All Game Guide,70
+GameSpy,65
+Antagonist,63
+IGN,62
+Gamezilla!,60
+GamePro,60
+PC Gamer,55
+Eurogamer,50
+Evil Avatar,40
+GameSpot,40
+Yahoo!,40
+Adrenaline Vault,40
+GameZone,40
+CNET Gamecenter,40
+Game Over Online,35
+Gaming Age,33
+Game Revolution,25
+Daily Radar,0

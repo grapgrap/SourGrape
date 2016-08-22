@@ -1,0 +1,21 @@
+ZTGD,95
+Game Revolution,91
+Game Chronicles,90
+IGN,85
+Gamers.at,83
+PC Games (Russia),80
+MEGamers,80
+GameSpot,75
+Everyeye.it,75
+Vandal Online,75
+Meristation,75
+PALGN,75
+PC Gamer,70
+SpazioGames,70
+Multiplayer.it,70
+Adventure Gamers,70
+PC Gamer UK,68
+Cheat Code Central,66
+Gamer.no,60
+Gamekult,50
+Gameblog.fr,40

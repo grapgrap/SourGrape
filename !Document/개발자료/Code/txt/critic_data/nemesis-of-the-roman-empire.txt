@@ -1,0 +1,17 @@
+GameSpy,90
+Worth Playing,90
+GameZone,80
+IGN,80
+GameSpot,80
+Game Chronicles,79
+DailyGame,78
+Gamers' Temple,78
+Game Informer,78
+Yahoo!,70
+AceGamez,70
+Gamer's Hell,70
+IncGamers,70
+PC Gamer,68
+Computer and Video Games,64
+Computer Gaming World,50
+Computer Games Magazine,50

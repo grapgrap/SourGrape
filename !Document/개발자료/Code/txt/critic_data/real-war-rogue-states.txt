@@ -1,0 +1,10 @@
+ActionTrip,82
+IGN,70
+G4 TV,60
+GameSpy,58
+Computer Gaming World,50
+Adrenaline Vault,50
+Armchair Empire,50
+GameSpot,46
+Computer Games Magazine,40
+PC Gamer,29

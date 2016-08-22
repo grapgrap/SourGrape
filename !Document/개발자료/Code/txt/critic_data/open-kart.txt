@@ -1,0 +1,4 @@
+IGN,68
+GameSpot,62
+Yahoo!,40
+PC Gamer,32

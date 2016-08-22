@@ -1,0 +1,19 @@
+LEVEL (Czech Republic),80
+Games.cz,80
+Adventure Gamers,80
+XGN,75
+4Players.de,72
+GameStar,70
+Eurogamer Italy,70
+Vandal Online,70
+GameSpot,70
+COGconnected,68
+Riot Pixels,63
+Gameblog.fr,60
+Lazygamer,60
+Hooked Gamers,54
+PCGamesN,50
+CD-Action,50
+GameOver.gr,50
+GameWatcher,40
+Hardcore Gamer,40

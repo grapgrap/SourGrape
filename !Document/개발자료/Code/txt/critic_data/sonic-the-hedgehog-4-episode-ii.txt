@@ -1,0 +1,5 @@
+Thunderbolt,70
+Absolute Games,60
+CD-Action,60
+GameSpot,60
+PC Gamer,34

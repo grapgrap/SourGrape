@@ -1,0 +1,4 @@
+ActionTrip,80
+Gamers' Temple,54
+PC Gamer,51
+GameSpot,48

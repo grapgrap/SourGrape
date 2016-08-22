@@ -1,0 +1,11 @@
+CD-Action,70
+Eurogamer Sweden,70
+Gaming Nexus,70
+PC Gamer,66
+Meristation,65
+Games.cz,60
+Destructoid,60
+The Escapist,60
+Gamer.no,50
+GameSpy,50
+GameWatcher,40

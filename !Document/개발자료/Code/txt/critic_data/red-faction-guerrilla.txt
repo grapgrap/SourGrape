@@ -1,0 +1,29 @@
+GamePro,100
+1UP,100
+GameFocus,92
+GameSpy,90
+VideoGamer,90
+PC Gamer UK,88
+PC Format,88
+DailyGame,85
+GameWatcher,85
+Vandal Online,85
+GameSpot,85
+9Lives,85
+3DJuegos,84
+InsideGamer.nl,83
+GameStar,83
+GamingXP,83
+Gamers.at,82
+IGN,80
+Total PC Gaming,80
+AceGamez,80
+Thunderbolt,80
+AtomicGamer,79
+Worth Playing,79
+Multiplayer.it,78
+Gameplanet,75
+PC Zone UK,73
+CPUGamer,70
+Absolute Games,60
+PC PowerPlay,60

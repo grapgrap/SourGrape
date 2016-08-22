@@ -1,0 +1,5 @@
+IGN,80
+PC Gameworld,77
+PC Gamer,67
+GameSpot,67
+Cheat Code Central,60

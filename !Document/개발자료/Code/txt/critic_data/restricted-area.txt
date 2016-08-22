@@ -1,0 +1,24 @@
+BonusStage,82
+Gamezilla!,74
+Game Over Online,71
+Game Chronicles,70
+DailyGame,70
+IC-Games,68
+Computer Games Online RO,68
+GameSpot,67
+Gaming Nexus,65
+Jolt Online Gaming UK,64
+Next Level Gaming,62
+GameZone,61
+IGN,60
+Gaming Age,50
+Computer and Video Games,48
+IncGamers,45
+Game Revolution,42
+Eurogamer,40
+Computer Games Magazine,40
+Computer Gaming World,30
+PC Format,28
+GameShark,25
+GameSpy,20
+PC Gamer,15

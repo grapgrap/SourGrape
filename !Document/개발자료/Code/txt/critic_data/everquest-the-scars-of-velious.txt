@@ -1,0 +1,9 @@
+GMR Magazine,90
+Computer Games Magazine,90
+GameSpy,88
+IGN,85
+GameSpot,81
+CNET Gamecenter,80
+All Game Guide,70
+Yahoo!,70
+PC Gamer,68

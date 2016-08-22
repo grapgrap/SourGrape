@@ -1,0 +1,15 @@
+IGN,86
+Da Gameboyz,84
+GameSpy,82
+Computer Games Magazine,80
+Adrenaline Vault,80
+Daily Radar,75
+GamePower,75
+Electric Playground,75
+Gamezilla!,72
+PC Gamer,72
+ActionTrip,72
+All Game Guide,70
+Happy Puppy,70
+Yahoo!,60
+GameSpot,57

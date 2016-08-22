@@ -1,0 +1,4 @@
+GamingXP,75
+GameStar,70
+Gamer.nl,60
+LEVEL (Czech Republic),50

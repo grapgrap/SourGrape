@@ -1,0 +1,5 @@
+BonusStage,85
+GamePro,70
+AceGamez,70
+IGN,66
+Stuff,65

@@ -1,0 +1,22 @@
+G4 TV,100
+GameShark,100
+GameSpy,100
+Gaming Nexus,97
+Gamers' Temple,95
+PC Gameworld,95
+Next Level Gaming,94
+GameSpot,91
+Worth Playing,91
+GamingTrend,90
+Da Gameboyz,90
+GamingExcellence,90
+1UP,90
+PC Gamer,90
+Computer Games Online RO,90
+IGN,90
+GameWatcher,90
+FiringSquad,89
+PC Gamer UK,89
+GameZone,85
+GameDaily,80
+GamesRadar+,80

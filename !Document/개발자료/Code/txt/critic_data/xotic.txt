@@ -1,0 +1,7 @@
+BigPond GameArena,80
+Destructoid,80
+Game Chronicles,78
+DarkZero,70
+Bit-Gamer,70
+GameSpot,65
+Absolute Games,52

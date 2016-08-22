@@ -1,0 +1,9 @@
+GameSpy,88
+IGN,78
+GamePower,75
+ActionTrip,71
+Electric Playground,70
+GameSpot,68
+GameZone,66
+Gaming Age,50
+All Game Guide,40

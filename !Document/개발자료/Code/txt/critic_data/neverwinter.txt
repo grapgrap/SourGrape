@@ -1,0 +1,35 @@
+PC PowerPlay,90
+Ten Ton Hammer,89
+Gaming Nexus,88
+Games Master UK,86
+Everyeye.it,85
+Impulsegamer,82
+SpazioGames,80
+Machinima,80
+Polygon,80
+Eurogamer Italy,80
+GamesRadar+,80
+GamingTrend,80
+The Escapist,80
+GameStar,80
+Multiplayer.it,78
+IGN Italia,75
+Vandal Online,75
+ZTGD,75
+Worth Playing,70
+GameFront,70
+Eurogamer Germany,70
+GRYOnline.pl,70
+NZGamer,70
+Game Revolution,70
+GamesBeat,70
+MMORPG.com,70
+IGN,68
+CD-Action,65
+PC Gamer,62
+The Digital Fix,60
+Eurogamer,60
+GameSpot,60
+GameWatcher,60
+Gameblog.fr,60
+XGN,55

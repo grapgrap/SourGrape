@@ -1,0 +1,16 @@
+GameStar,93
+PC Games (Germany),90
+Cynamite,90
+GamingXP,85
+PC Format,81
+3DJuegos,80
+Vandal Online,80
+LEVEL (Czech Republic),80
+InsideGamer.nl,80
+Multiplayer.it,80
+Everyeye.it,75
+GameSpot,70
+Gamer.nl,70
+Play.tm,70
+IGN,65
+Gamer.no,60

@@ -1,0 +1,9 @@
+IGN,92
+GameZone,92
+Gamer's Hell,91
+GameSpy,89
+PC Gamer,88
+GameSpot,87
+AtomicGamer,87
+ActionTrip,82
+Computer Gaming World,80

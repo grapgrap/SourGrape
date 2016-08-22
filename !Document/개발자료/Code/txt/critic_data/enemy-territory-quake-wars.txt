@@ -1,0 +1,55 @@
+GameShark,100
+Game Chronicles,94
+GameZone,90
+GamePro,90
+Yahoo!,90
+PGNx Media,90
+1UP,90
+Gaming Target,90
+Pelit (Finland),89
+PC Format,89
+PC Gamer UK,88
+Gamers' Temple,88
+PC Zone UK,87
+Jolt Online Gaming UK,87
+GameTrailers,87
+AtomicGamer,87
+Cheat Code Central,86
+NZGamer,86
+GameSpot,85
+Game Informer,85
+IGN,85
+PALGN,85
+GamerNode,85
+Play Magazine,85
+Gaming Nexus,85
+Worth Playing,84
+PC Gamer,84
+Computer Games Online RO,84
+Gamer 2.0,83
+FiringSquad,83
+GamingTrend,83
+ActionTrip,81
+Games Master UK,81
+GameDaily,80
+Edge Magazine,80
+Eurogamer,80
+Total Video Games,80
+Gamer's Hell,80
+VideoGamer,80
+Game Almighty,80
+GameSpy,80
+games(TM),80
+GameTap,80
+Da Gameboyz,80
+Game Over Online,80
+Play.tm,80
+G4 TV,80
+AceGamez,80
+GamingExcellence,80
+Boomtown,80
+GotNext,80
+Play (Poland),80
+GameStar,79
+Thunderbolt,70
+Game Revolution,67

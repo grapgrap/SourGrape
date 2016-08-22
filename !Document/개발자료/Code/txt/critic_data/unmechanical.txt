@@ -1,0 +1,24 @@
+IncGamers,90
+Gaming Nexus,89
+GameOver.gr,85
+4Players.de,80
+Gamers' Temple,80
+Hardcore Gamer,80
+Gameblog.fr,80
+Impulsegamer,80
+Vandal Online,80
+PC Gamer,77
+CD-Action,75
+Everyeye.it,75
+GRYOnline.pl,75
+Multiplayer.it,72
+Gamer.no,70
+PC PowerPlay,70
+LEVEL (Czech Republic),70
+DarkStation,70
+GameSpot,70
+Eurogamer Sweden,70
+DarkZero,70
+SpazioGames,65
+GameCritics,60
+Absolute Games,55

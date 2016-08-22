@@ -1,0 +1,22 @@
+Daily Radar,100
+GamePro,100
+GameZone,100
+Gamer's Pulse,97
+Armchair Empire,96
+Electric Playground,95
+Da Gameboyz,95
+PC Gamer,92
+IGN,91
+GamerWeb PC,90
+All Game Guide,90
+CNET Gamecenter,90
+Total Video Games,90
+CheckOut,90
+GameSpy,89
+Games Radar,88
+GameSpot,88
+Game Over Online,87
+Sports Gaming Network,87
+Happy Puppy,80
+Computer Games Magazine,80
+Adrenaline Vault,80

@@ -1,0 +1,15 @@
+GameZone,80
+Just Adventure,75
+Four Fat Chicks,75
+Quandary,70
+Game Over Online,68
+GameSpy,64
+Adrenaline Vault,50
+ActionTrip,50
+GameSpot,44
+Adventure Gamers,40
+IGN,22
+Computer Gaming World,20
+PC Gamer,20
+Computer Games Magazine,20
+Game Revolution,16

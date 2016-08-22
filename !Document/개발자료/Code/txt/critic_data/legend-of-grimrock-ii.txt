@@ -1,0 +1,38 @@
+LEVEL (Czech Republic),100
+Destructoid,95
+RPG Fan,95
+Pelit (Finland),92
+Hooked Gamers,92
+Games.cz,90
+GRYOnline.pl,90
+GameOver.gr,90
+GameSpot,90
+3DJuegos,90
+Eurogamer Italy,90
+Gamer.no,90
+Eurogamer,90
+Softpedia,90
+Multiplayer.it,90
+Eurogamer Germany,90
+4Players.de,88
+Vandal Online,88
+IGN Italia,88
+Ragequit.gr,87
+Meristation,86
+IGN,86
+SpazioGames,85
+PC Gamer,85
+Gameplanet,85
+PC Games (Germany),85
+Game World Navigator Magazine,81
+CD-Action,80
+PC PowerPlay,80
+Digitally Downloaded,80
+DarkZero,80
+Gameblog.fr,80
+Metro GameCentral,80
+GameStar,80
+GameFront,80
+Games Master UK,79
+Game Informer,78
+Riot Pixels,65

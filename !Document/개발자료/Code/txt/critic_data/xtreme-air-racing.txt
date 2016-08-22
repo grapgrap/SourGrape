@@ -1,0 +1,5 @@
+Computer Games Magazine,90
+GameSpot,83
+GameSpy,82
+Computer Gaming World,80
+Yahoo!,80

@@ -1,0 +1,9 @@
+GameZone,71
+Armchair Empire,70
+PC Gamer,59
+Game Over Online,53
+PC Gameworld,35
+GameSpot,30
+Gamers' Temple,29
+Computer Gaming World,20
+Computer Games Magazine,20

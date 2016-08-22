@@ -1,0 +1,46 @@
+Gaming Age,91
+Games.cz,90
+The Escapist,90
+IncGamers,90
+PCGamesN,90
+GamingTrend,90
+GameOver.gr,85
+Game Over Online,85
+PC Gamer,82
+COGconnected,80
+Pelit (Finland),80
+Eurogamer Italy,80
+Worth Playing,80
+CD-Action,80
+The Digital Fix,80
+GameCritics,80
+Gaming Nexus,80
+Hardcore Gamer,80
+Shacknews,80
+DarkZero,80
+3DJuegos,80
+Ragequit.gr,80
+GameSpot,80
+Eurogamer Poland,80
+GameWatcher,80
+Eurogamer Germany,80
+Twinfinite,80
+Multiplayer.it,78
+Hooked Gamers,78
+IGN,76
+ZTGD,75
+IGN Spain,75
+GRYOnline.pl,75
+4Players.de,75
+Game World Navigator Magazine,74
+GameStar,73
+PC Games (Germany),72
+Destructoid,70
+Meristation,70
+We Got This Covered,70
+Metro GameCentral,70
+Riot Pixels,65
+Gameblog.fr,60
+CGMagazine,60
+Quarter to Three,40
+Ars Technica,

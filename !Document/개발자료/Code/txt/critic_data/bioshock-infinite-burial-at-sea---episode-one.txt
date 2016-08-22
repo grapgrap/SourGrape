@@ -1,0 +1,34 @@
+games(TM),90
+3DJuegos,85
+LEVEL (Czech Republic),80
+GameWatcher,80
+JeuxActu,80
+GRYOnline.pl,80
+Eurogamer Germany,80
+Game Informer,80
+Gamer.nl,75
+SpazioGames,75
+Gaming Nexus,74
+PC Gamer,74
+GameTrailers,73
+GamesBeat,71
+Games.cz,70
+Riot Pixels,70
+Thunderbolt,70
+DarkStation,70
+God is a Geek,70
+Polygon,70
+USgamer,70
+The Escapist,70
+IGN,70
+Gameblog.fr,70
+Eurogamer,70
+InsideGamer.nl,68
+Destructoid,65
+DarkZero,60
+IncGamers,60
+Cheat Code Central,60
+PCGamesN,60
+PC PowerPlay,50
+GameFront,50
+GameSpot,50

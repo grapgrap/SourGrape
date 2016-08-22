@@ -1,0 +1,40 @@
+GamingTrend,95
+Vandal Online,90
+IGN Italia,90
+Game Informer,90
+Gaming Nexus,90
+GameSpot,90
+PC Games (Germany),88
+Arcade Sushi,85
+Everyeye.it,85
+Post Arcade (National Post),85
+GameWatcher,85
+Multiplayer.it,84
+GameStar,83
+LEVEL (Czech Republic),80
+Eurogamer Poland,80
+Eurogamer Italy,80
+The Daily Dot,80
+Games.cz,80
+Atomix,80
+Game Over Online,80
+3DJuegos,80
+Gamer.nl,80
+LevelUp,80
+Game Revolution,80
+The Escapist,80
+XGN,75
+Softpedia,75
+Meristation,75
+IGN Spain,75
+PC Gamer,73
+IGN,71
+ZTGD,70
+Metro GameCentral,70
+JeuxActu,70
+Hardcore Gamer,70
+We Got This Covered,70
+Riot Pixels,68
+CD-Action,65
+Yahoo!,60
+Rock, Paper, Shotgun,

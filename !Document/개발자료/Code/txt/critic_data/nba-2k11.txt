@@ -1,0 +1,6 @@
+GameWatcher,90
+PC Gamer,90
+Absolute Games,86
+GamingXP,85
+IGN,80
+LEVEL (Czech Republic),70

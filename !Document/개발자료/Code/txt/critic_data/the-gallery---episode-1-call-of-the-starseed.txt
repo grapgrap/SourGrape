@@ -1,0 +1,4 @@
+GameCrate,90
+Destructoid,90
+Metro GameCentral,70
+Wired,

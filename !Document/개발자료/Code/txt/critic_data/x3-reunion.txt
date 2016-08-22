@@ -1,0 +1,32 @@
+AceGamez,100
+GamerFeed,100
+Computer and Video Games,92
+GameZone,90
+eToychest,88
+Cheat Code Central,88
+Worth Playing,87
+Pelit (Finland),86
+BonusStage,85
+GamingExcellence,83
+Boomtown,80
+Total Video Games,80
+IGN,80
+games(TM),80
+G4 TV,80
+PC Gamer,79
+Jolt Online Gaming UK,78
+Game Chronicles,78
+Next Level Gaming,76
+PALGN,75
+IncGamers,75
+GameBiz,75
+Gamer 2.0,72
+GameSpot,72
+Eurogamer,70
+PC Format,68
+GameShark,58
+RewiredMind,50
+Gaming Age,33
+Computer Games Magazine,30
+Computer Gaming World,30
+GameSpy,30

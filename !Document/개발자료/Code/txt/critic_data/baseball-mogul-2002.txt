@@ -1,0 +1,5 @@
+IGN,87
+GameSpy,80
+Computer Gaming World,80
+GameSpot,73
+Computer Games Magazine,50

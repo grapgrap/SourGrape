@@ -1,0 +1,5 @@
+GameShark,100
+Armchair Empire,75
+Edge Magazine,70
+Eurogamer,70
+Hardcore Gamer,70

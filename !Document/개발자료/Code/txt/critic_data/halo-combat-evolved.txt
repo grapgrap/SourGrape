@@ -1,0 +1,40 @@
+Play Magazine,100
+Next Level Gaming,98
+GameSpy,95
+GameZone,92
+Gamezilla!,91
+Game Revolution,91
+GameSpot,90
+Edge Magazine,90
+PC Format,90
+PC Arena,90
+Eurogamer,90
+Yahoo!,90
+Adrenaline Vault,90
+Gaming Nexus,90
+Game Informer,88
+Gamer's Pulse,88
+PC Gameworld,88
+Game Chronicles,88
+AtomicGamer,88
+ActionTrip,87
+PC Gamer,85
+Game Over Online,83
+Armchair Empire,82
+IGN,82
+G4 TV,80
+GamePro,80
+FiringSquad,80
+Cheat Code Central,80
+Total Video Games,80
+Gamer's Hell,80
+Cincinnati Enquirer,80
+GMR Magazine,80
+Computer Games Magazine,80
+1UP,80
+Gamers Europe,80
+Computer Gaming World,70
+Gaming Age,67
+Maxim Online,60
+GameNow,58
+GameReviewer,48

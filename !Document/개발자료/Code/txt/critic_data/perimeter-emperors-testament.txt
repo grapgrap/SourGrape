@@ -1,0 +1,15 @@
+GameZone,85
+Pelit (Finland),82
+Armchair Empire,80
+Game Over Online,78
+IGN,76
+PC Gamer UK,75
+GameSpot,73
+Gamers' Temple,73
+PC Zone UK,72
+Gaming Nexus,71
+Boomtown,70
+PC Gamer,70
+GameWatcher,68
+Computer Games Magazine,50
+GamingExcellence,49

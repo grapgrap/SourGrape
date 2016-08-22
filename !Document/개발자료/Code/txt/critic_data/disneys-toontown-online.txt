@@ -1,0 +1,7 @@
+Computer Games Magazine,100
+GameZone,90
+Games Radar,89
+Game Chronicles,85
+Worth Playing,78
+PC Format,75
+PC Gamer,58

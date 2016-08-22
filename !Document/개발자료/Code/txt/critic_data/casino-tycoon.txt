@@ -1,0 +1,4 @@
+IGN,62
+Adrenaline Vault,50
+Computer Gaming World,40
+Yahoo!,40

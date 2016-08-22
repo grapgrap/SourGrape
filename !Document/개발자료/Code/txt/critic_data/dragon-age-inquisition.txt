@@ -1,0 +1,45 @@
+GameOver.gr,100
+DarkStation,100
+The Escapist,100
+Hardcore Gamer,100
+Gamer.nl,95
+GRYOnline.pl,95
+XGN,95
+Game Informer,95
+InsideGamer.nl,93
+Everyeye.it,93
+ActionTrip,92
+AusGamers,92
+Hyper Magazine,90
+The Digital Fix,90
+PC PowerPlay,90
+Games.cz,90
+SpazioGames,90
+Eurogamer Germany,90
+Gameblog.fr,90
+GameFront,89
+PC Games (Germany),89
+Multiplayer.it,88
+IGN,88
+PC Gamer,87
+MMORPG.com,86
+GameWatcher,85
+Gameplanet,85
+Vandal Online,85
+GameStar,85
+Softpedia,85
+Ragequit.gr,84
+Game World Navigator Magazine,83
+Eurogamer Portugal,80
+Edge Magazine,80
+CD-Action,80
+LEVEL (Czech Republic),80
+Game Over Online,80
+Giant Bomb,80
+Guardian,80
+Eurogamer,80
+Riot Pixels,70
+Gaming Age,67
+GameCritics,65
+IncGamers,60
+4Players.de,59

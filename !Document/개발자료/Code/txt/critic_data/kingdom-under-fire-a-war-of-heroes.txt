@@ -1,0 +1,22 @@
+All Game Guide,90
+ActionTrip,84
+TotalGames.net,83
+GameSpy,75
+IGN,72
+Happy Puppy,70
+GameZone,70
+PC Gamer,70
+Da Gameboyz,66
+FiringSquad,60
+Eurogamer,60
+Game Over Online,60
+Armchair Empire,55
+GameSpot,55
+GamePower,50
+Daily Radar,50
+Game Revolution,50
+Yahoo!,40
+Computer Games Magazine,40
+Electric Playground,40
+CNET Gamecenter,40
+Adrenaline Vault,30

@@ -1,0 +1,33 @@
+PCWorld,100
+DarkZero,100
+PC PowerPlay,100
+Quarter to Three,100
+DarkStation,100
+GameSpot,100
+Hooked Gamers,100
+Ragequit.gr,100
+LevelUp,100
+Gaming Nexus,98
+GamingTrend,95
+GameWatcher,95
+GRYOnline.pl,95
+Riot Pixels,95
+IGN,93
+PC Gamer,92
+GameStar,92
+PC Games (Germany),92
+Gaming Age,91
+RPGamer,90
+Ten Ton Hammer,90
+PLAY! Zine,90
+Digital Chumps,90
+Washington Post,90
+MMORPG.com,90
+PCGamesN,90
+Gamestyle,90
+Attack of the Fanboy,90
+Softpedia,90
+GameCrate,88
+PC Invasion,80
+GameCritics,75
+Ars Technica,

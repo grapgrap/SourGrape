@@ -1,0 +1,42 @@
+The Escapist,100
+Multiplayer.it,91
+Eurogamer Sweden,90
+Eurogamer Portugal,90
+NZGamer,90
+CD-Action,90
+GameOver.gr,90
+GRYOnline.pl,90
+G4 TV,90
+Eurogamer Italy,90
+GamingXP,89
+GameTrailers,88
+IGN,87
+PC Master (Greece),86
+Impulsegamer,85
+Pelit (Finland),84
+Cheat Code Central,84
+Games Master UK,83
+4Players.de,83
+Meristation,82
+PC Gamer,82
+MMORPG.com,81
+3DJuegos,81
+Games.cz,80
+Gamer.nl,80
+LEVEL (Czech Republic),80
+AusGamers,80
+Gamereactor Denmark,80
+GameSpy,80
+Digital Spy,80
+GamesRadar+,80
+Eurogamer,80
+Ten Ton Hammer,80
+Gameblog.fr,80
+Everyeye.it,75
+GameSpot,75
+XGN,75
+Vandal Online,75
+Hyper Magazine,70
+PC PowerPlay,70
+Gameplanet,70
+GameWatcher,70

@@ -1,0 +1,3 @@
+ActionTrip,69
+GameSpot,54
+PC Gamer,40

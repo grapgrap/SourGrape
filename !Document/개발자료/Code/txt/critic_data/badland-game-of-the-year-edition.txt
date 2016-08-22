@@ -1,0 +1,4 @@
+GamingTrend,80
+We Got This Covered,80
+COGconnected,78
+GameStar,78

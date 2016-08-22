@@ -1,0 +1,6 @@
+PC Gameworld,90
+PC Gamer,82
+Game Chronicles,70
+My Gamer,62
+Digital Entertainment News,60
+Computer Games Magazine,60

@@ -1,0 +1,42 @@
+DarkStation,90
+Brash Games,90
+God is a Geek,90
+NZGamer,85
+Pelit (Finland),83
+Gaming Age,83
+GameSpew,80
+GameWatcher,80
+DarkZero,80
+Softpedia,80
+Game Rant,80
+Ragequit.gr,78
+GameCrate,78
+ICXM,75
+4Players.de,75
+Lazygamer,74
+GameCritics,70
+Hooked Gamers,70
+WCCFtech,70
+Arcade Sushi,70
+Game Informer,70
+The Escapist,70
+Destructoid,70
+We Got This Covered,70
+IGN,70
+RPG Fan,69
+Everyeye.it,68
+IGN Spain,66
+3DJuegos,65
+Gameplanet,65
+CD-Action,60
+Games.cz,60
+Eurogamer Poland,60
+The Games Machine,60
+Post Arcade (National Post),60
+Hardcore Gamer,60
+GameSpot,60
+Game World Navigator Magazine,55
+VideoGamer,50
+PC Invasion,50
+Attack of the Fanboy,50
+Digital Spy,40

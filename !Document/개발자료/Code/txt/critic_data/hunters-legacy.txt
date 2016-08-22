@@ -1,0 +1,9 @@
+GameSpew,80
+COGconnected,70
+Twinfinite,70
+GamingTrend,65
+Brash Games,60
+Areajugones,50
+Digitally Downloaded,50
+Lazygamer,40
+LevelUp,30

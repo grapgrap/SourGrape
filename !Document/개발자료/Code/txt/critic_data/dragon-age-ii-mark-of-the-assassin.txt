@@ -1,0 +1,5 @@
+CPUGamer,90
+IGN,85
+PC Games (Russia),80
+Absolute Games,80
+Pelit (Finland),78

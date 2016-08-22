@@ -1,0 +1,23 @@
+GameFocus,87
+GameSpot,80
+Vandal Online,78
+3DJuegos,76
+GameStar,76
+Multiplayer.it,75
+GameZone,72
+Gamers.at,71
+VideoGamer,70
+Play (Poland),70
+LEVEL (Czech Republic),70
+Computer Games Online RO,70
+AceGamez,70
+PC Gamer UK,69
+IGN,68
+1UP,67
+GamingTrend,65
+RPGamer,60
+PC Format,57
+PC Zone UK,52
+Absolute Games,50
+Thunderbolt,40
+Total PC Gaming,30

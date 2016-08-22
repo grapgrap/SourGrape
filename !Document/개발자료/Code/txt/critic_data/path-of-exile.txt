@@ -1,0 +1,27 @@
+RPGamer,100
+PC PowerPlay,100
+GRYOnline.pl,95
+NZGamer,94
+Destructoid,90
+CD-Action,90
+GameSpot,90
+SpazioGames,90
+Eurogamer Italy,90
+Meristation,90
+Pelit (Finland),88
+RPG Fan,88
+IGN,88
+PC Games (Germany),85
+Vandal Online,85
+3DJuegos,85
+Multiplayer.it,85
+PC Gamer,84
+GameStar,84
+Games.cz,80
+IncGamers,80
+LEVEL (Czech Republic),80
+Game Informer,80
+Gamer.nl,80
+MMORPG.com,80
+Everyeye.it,70
+Eurogamer,70

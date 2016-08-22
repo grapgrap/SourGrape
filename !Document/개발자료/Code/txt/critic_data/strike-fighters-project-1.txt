@@ -1,0 +1,8 @@
+PC Format,88
+PC Gameworld,70
+GameZone,69
+GameSpot,66
+PC Gamer,62
+GameSpy,60
+Armchair Empire,60
+Computer Gaming World,40

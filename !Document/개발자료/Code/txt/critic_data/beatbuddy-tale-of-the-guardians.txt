@@ -1,0 +1,20 @@
+PC PowerPlay,90
+Hyper Magazine,90
+Hardcore Gamer,90
+Everyeye.it,85
+SpazioGames,85
+Hooked Gamers,83
+Worth Playing,80
+ZTGD,80
+GameStar,80
+Game Revolution,80
+Digital Spy,80
+GameSpot,75
+Vandal Online,75
+Gaming Nexus,70
+GameOver.gr,70
+Destructoid,60
+Joystiq,60
+4Players.de,60
+Thunderbolt,50
+DarkStation,40

@@ -1,0 +1,31 @@
+Maxim Online,100
+Entertainment Weekly,100
+Game Informer,93
+Games Radar,93
+PC Format,92
+Gamezilla!,91
+GamePro,90
+Game Chronicles,90
+Computer Games Magazine,90
+Yahoo!,90
+GameShark,90
+GameZone,90
+Adrenaline Vault,90
+Gamer's Pulse,88
+AtomicGamer,87
+IncGamers,85
+FiringSquad,84
+Play Magazine,83
+Game Over Online,82
+G4 TV,80
+Gamers Europe,80
+PC Gamer,80
+GameSpot,79
+ActionTrip,78
+IGN,77
+GameSpy,75
+Game Revolution,75
+Eurogamer,70
+Cheat Code Central,60
+GameNow,58
+GMR Magazine,50

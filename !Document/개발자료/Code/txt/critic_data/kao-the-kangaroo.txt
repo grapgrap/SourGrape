@@ -1,0 +1,4 @@
+GameSpot,74
+Happy Puppy,60
+IGN,52
+Computer Games Magazine,50

@@ -1,0 +1,8 @@
+TotalGames.net,92
+PC Gamer,82
+GameSpot,68
+Yahoo!,50
+All Game Guide,40
+Computer Games Magazine,30
+Just Adventure,25
+Quandary,10

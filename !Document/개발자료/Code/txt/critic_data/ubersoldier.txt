@@ -1,0 +1,32 @@
+Gamer 2.0,81
+BonusStage,80
+VGPub,75
+Pelit (Finland),74
+GamerNode,72
+IncGamers,70
+Next Level Gaming,70
+DailyGame,70
+Gaming Horizon,67
+PC Gamer,62
+GameZone,61
+Boomtown,60
+AceGamez,60
+GameSpy,60
+IGN,60
+Worth Playing,60
+G4 TV,60
+3DAvenue,60
+eToychest,60
+PC Gamer UK,60
+Play.tm,57
+PC Format,56
+Eurogamer,50
+GamerFeed,50
+PALGN,50
+VideoGamer,50
+Digital Entertainment News,49
+GameSpot,46
+PC Gameworld,40
+Computer Games Magazine,40
+Jolt Online Gaming UK,33
+PC Zone UK,24

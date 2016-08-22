@@ -1,0 +1,3 @@
+CD-Action,60
+DarkStation,60
+Adventure Gamers,50

@@ -1,0 +1,4 @@
+Gaming Target,89
+Eurogamer,80
+GameShark,75
+PC Gamer UK,50

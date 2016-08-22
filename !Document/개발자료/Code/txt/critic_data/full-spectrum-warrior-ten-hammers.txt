@@ -1,0 +1,23 @@
+IGN,82
+GameWatcher,82
+Game Chronicles,81
+PC Gamer,78
+Cheat Code Central,76
+PC Zone UK,75
+Game Informer,73
+GameSpot,73
+Edge Magazine,70
+games(TM),70
+GameSpy,70
+PC Format,70
+Sydney Morning Herald,70
+AceGamez,70
+3DAvenue,70
+Jolt Online Gaming UK,69
+Computer Games Magazine,60
+VideoGamer,60
+Times Online,60
+Boomtown,60
+Eurogamer,60
+PC Gamer UK,55
+1UP,50

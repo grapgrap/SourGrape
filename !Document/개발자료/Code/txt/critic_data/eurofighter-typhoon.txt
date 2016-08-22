@@ -1,0 +1,10 @@
+GameZone,90
+IGN,83
+GameSpy,82
+Next Generation Magazine,80
+Gamezilla!,78
+GameSpot,66
+Adrenaline Vault,60
+Yahoo!,60
+Computer Games Magazine,50
+PC Zone UK,45

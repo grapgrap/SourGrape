@@ -1,0 +1,28 @@
+GameSpy,100
+Gamer 2.0,91
+PTGamers,90
+3DJuegos,90
+GameSpot,90
+Boomtown,90
+Total PC Gaming,90
+Gamers.at,90
+Cynamite,90
+Thunderbolt,90
+GameZone,89
+PC Games (Germany),88
+Absolute Games,88
+IGN,87
+GameStar,87
+PC Gamer UK,86
+Computer Games Online RO,86
+Gameplanet,85
+Meristation,85
+The A.V. Club,83
+PC Zone UK,81
+PC Gamer,81
+PC Format,81
+LEVEL (Czech Republic),80
+Total Video Games,80
+Gamer.nl,80
+CPUGamer,80
+PC PowerPlay,70

@@ -1,0 +1,13 @@
+ActionTrip,88
+PC Gamer,80
+GameZone,75
+IGN,74
+GameSpy,70
+AceGamez,70
+Game Over Online,58
+GameSpot,53
+Computer Games Magazine,50
+Gamers' Temple,50
+Computer Gaming World,40
+Adrenaline Vault,40
+Eurogamer,40

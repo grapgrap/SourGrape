@@ -1,0 +1,12 @@
+ActionTrip,80
+PC Gamer,80
+GameSpy,77
+GameZone,75
+IGN,74
+GameSpot,70
+Gaming Age,67
+Four Fat Chicks,50
+Gamer's Pulse,48
+PC Gameworld,42
+netjak,33
+Computer Gaming World,30

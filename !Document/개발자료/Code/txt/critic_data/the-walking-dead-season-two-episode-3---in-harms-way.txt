@@ -1,0 +1,39 @@
+Gaming Age,100
+Cheat Code Central,98
+IGN Italia,94
+GameFront,90
+AusGamers,90
+VideoGamer,90
+RPG Fan,90
+Vandal Online,90
+God is a Geek,90
+Joystiq,90
+IGN,90
+Ragequit.gr,89
+Merlin'in Kazan©¥ (Turkey),87
+Post Arcade (National Post),85
+4Players.de,85
+ZTGD,85
+GamesBeat,85
+Destructoid,85
+Polygon,85
+Game Informer,85
+NZGamer,83
+The Digital Fix,80
+LEVEL (Czech Republic),80
+Games.cz,80
+SpazioGames,80
+Multiplayer.it,80
+GameSpot,80
+Hardcore Gamer,80
+Eurogamer,80
+The Escapist,80
+PC Gamer,80
+Hooked Gamers,75
+GameWatcher,70
+IncGamers,70
+Eurogamer Italy,70
+GameTrailers,65
+Adventure Gamers,60
+Metro GameCentral,60
+Riot Pixels,57

@@ -1,0 +1,9 @@
+Media and Games Online Network,80
+IGN,77
+GameSpy,72
+GameSpot,71
+Electric Playground,70
+All Game Guide,60
+Adrenaline Vault,60
+PC Gamer,57
+Computer Gaming World,50

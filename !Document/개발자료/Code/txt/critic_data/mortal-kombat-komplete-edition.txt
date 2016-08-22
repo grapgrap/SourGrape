@@ -1,0 +1,18 @@
+GamingTrend,93
+ZTGD,90
+Digital Chumps,86
+Worth Playing,85
+Armchair Empire,85
+Gaming Nexus,85
+GameSpot,85
+Riot Pixels,83
+DarkStation,80
+LEVEL (Czech Republic),80
+Everyeye.it,80
+SpazioGames,80
+GRYOnline.pl,80
+Multiplayer.it,80
+CD-Action,75
+IGN Italia,75
+Eurogamer Italy,70
+PC Gamer,67

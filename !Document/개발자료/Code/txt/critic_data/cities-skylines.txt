@@ -1,0 +1,60 @@
+DarkStation,100
+Ragequit.gr,100
+The Escapist,100
+CalmDownTom,100
+IncGamers,100
+Gaming Nexus,95
+Pelit (Finland),91
+games(TM),90
+NZGamer,90
+Game Rant,90
+The Digital Fix,90
+Gamer.nl,90
+3DJuegos,90
+Attack of the Fanboy,90
+GamesVillage.it,90
+ActionTrip,90
+God is a Geek,90
+Gamestyle,90
+Hooked Gamers,90
+Destructoid,90
+PCGamesN,90
+Multiplayer.it,90
+Everyeye.it,90
+IGN Spain,88
+Merlin'in Kazan©¥ (Turkey),88
+GameStar,88
+Game Informer,88
+AusGamers,87
+PC Games (Germany),87
+PC Gamer,86
+GamingTrend,85
+CD-Action,85
+LevelUp,85
+IGN Italia,85
+IGN,85
+GameWatcher,85
+4Players.de,83
+Vandal Online,82
+PCWorld,80
+Eurogamer Italy,80
+Gameblog.fr,80
+SpazioGames,80
+Games.cz,80
+DarkZero,80
+InsideGamer.nl,80
+Level7.nu,80
+Dealspwn,80
+Metro GameCentral,80
+Softpedia,80
+Eurogamer Poland,80
+Gamer.no,80
+USgamer,80
+Digital Spy,80
+GameSpot,80
+Meristation,80
+TheSixthAxis,80
+Game World Navigator Magazine,75
+Riot Pixels,75
+Shacknews,70
+Quarter to Three,60

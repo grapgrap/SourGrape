@@ -1,0 +1,4 @@
+TheSixthAxis,80
+Hardcore Gamer,70
+Hooked Gamers,60
+Quarter to Three,40

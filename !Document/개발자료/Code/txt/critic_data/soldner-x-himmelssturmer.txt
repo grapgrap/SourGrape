@@ -1,0 +1,3 @@
+GamerNode,80
+Play Magazine,75
+games(TM),50

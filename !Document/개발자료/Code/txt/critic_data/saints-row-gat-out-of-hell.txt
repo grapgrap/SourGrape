@@ -1,0 +1,24 @@
+GameOver.gr,80
+Softpedia,80
+Power Unlimited,80
+The Escapist,80
+GameWatcher,80
+GameStar,79
+PC Games (Germany),74
+Hooked Gamers,74
+Thunderbolt,70
+PC PowerPlay,70
+games(TM),70
+IGN,70
+GRYOnline.pl,70
+PC Gamer,67
+InsideGamer.nl,65
+DarkZero,60
+Polygon,60
+God is a Geek,60
+Gamer.nl,60
+Eurogamer Poland,60
+Eurogamer,60
+Games.cz,50
+Riot Pixels,40
+CD-Action,40

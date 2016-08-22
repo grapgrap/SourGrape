@@ -1,0 +1,8 @@
+PC Gameworld,91
+GameSpy,83
+GameSpot,83
+GameZone,80
+Armchair Empire,75
+Game Informer,73
+Computer Gaming World,70
+ActionTrip,60

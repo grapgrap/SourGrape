@@ -1,0 +1,28 @@
+Antagonist,96
+GameSpy,92
+Eurogamer,90
+Adrenaline Vault,90
+Game Over Online,85
+FiringSquad,85
+Happy Puppy,85
+Gaming Age,83
+GameZone,83
+PC Gameworld,80
+Maxim Online,80
+Electric Playground,80
+Da Gameboyz,80
+GamePro,80
+Spank!,78
+Game Revolution,75
+GameSpot,71
+Computer Games Magazine,70
+CNET Gamecenter,70
+All Game Guide,70
+Armchair Empire,69
+IGN,68
+CheckOut,60
+ActionTrip,59
+Gamer's Pulse,56
+GamerWeb PC,50
+Daily Radar,50
+Games Radar,50

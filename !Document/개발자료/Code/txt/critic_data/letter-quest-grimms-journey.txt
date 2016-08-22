@@ -1,0 +1,4 @@
+Gamers' Temple,90
+Twinfinite,80
+Hardcore Gamer,80
+DarkStation,40

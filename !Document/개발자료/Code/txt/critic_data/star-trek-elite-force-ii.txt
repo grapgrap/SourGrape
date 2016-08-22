@@ -1,0 +1,28 @@
+PC Arena,90
+Game Chronicles,88
+PC Gamer,86
+AtomicGamer,86
+Game Informer,85
+GameZone,84
+IGN,84
+GameNow,83
+Game Revolution,83
+Gaming Age,83
+Play Magazine,83
+GameSpy,82
+GMR Magazine,80
+Pregaming,80
+Adrenaline Vault,80
+Yahoo!,80
+Game Over Online,80
+Gamezilla!,80
+ActionTrip,80
+GameSpot,79
+Armchair Empire,75
+PC Format,71
+Eurogamer,70
+Cheat Code Central,70
+Computer Gaming World,70
+VIA Gamers Arena,69
+G4 TV,60
+Computer Games Magazine,50

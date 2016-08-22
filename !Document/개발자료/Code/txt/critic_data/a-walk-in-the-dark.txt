@@ -1,0 +1,4 @@
+PC PowerPlay,80
+GameWatcher,80
+Hooked Gamers,71
+Gameblog.fr,40

@@ -1,0 +1,9 @@
+Just Adventure,100
+PC Gamer,95
+Gamezilla!,95
+GameSpot,90
+Computer Games Magazine,90
+Just RPG,85
+Adrenaline Vault,80
+All Game Guide,80
+Adventure Gamers,70

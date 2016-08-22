@@ -1,0 +1,16 @@
+GamesNation,85
+GameFocus,84
+IGN,84
+IncGamers,80
+GamesRadar+,80
+GamingXP,78
+Cheat Code Central,72
+PC Gamer UK,70
+PC PowerPlay,70
+Multiplayer.it,65
+PC Zone UK,65
+GameZone,65
+Eurogamer,60
+DarkZero,60
+AceGamez,56
+GameSpot,55

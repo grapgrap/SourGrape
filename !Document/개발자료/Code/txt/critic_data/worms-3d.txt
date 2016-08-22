@@ -1,0 +1,15 @@
+Games Radar,90
+Adrenaline Vault,90
+Gamer's Hell,85
+PC Arena,80
+Computer Games Magazine,80
+Yahoo!,80
+Eurogamer,80
+Game Informer,80
+GameSpot,78
+Play Magazine,75
+PC Gamer,70
+Edge Magazine,70
+1UP,70
+Computer Gaming World,60
+games(TM),40

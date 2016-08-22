@@ -1,0 +1,10 @@
+GameWatcher,90
+Game Informer,88
+Worth Playing,86
+GameStar,80
+PC Games (Germany),80
+IGN,75
+DarkZero,70
+PC Gamer,70
+Game Revolution,70
+IncGamers,60

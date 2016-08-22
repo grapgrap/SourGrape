@@ -1,0 +1,23 @@
+ActionTrip,91
+GameZone,90
+GamePro,90
+Electric Playground,90
+GMR Magazine,90
+Daily Radar,88
+TotalGames.net,86
+GamerWeb PC,85
+PC Gamer,85
+Spank!,83
+Gamers' Temple,82
+Gamezilla!,82
+GameSpy,82
+GameSpot,81
+CNET Gamecenter,80
+CheckOut,80
+Game Over Online,80
+Maxim Online,80
+Adrenaline Vault,80
+Happy Puppy,80
+Game Revolution,75
+IGN,75
+Computer Games Magazine,60

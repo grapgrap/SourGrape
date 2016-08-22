@@ -1,0 +1,75 @@
+Cynamite,100
+GameShark,100
+Armchair Empire,95
+Gamer 2.0,94
+PC Zone UK,92
+PC Gamer,92
+GamingTrend,91
+Pelit (Finland),91
+The A.V. Club,91
+PC Format,91
+Multiplayer.it,91
+YouGamers,91
+Thunderbolt,90
+DarkZero,90
+GameStar,90
+GameSpot,90
+GameSpy,90
+GameTrailers,90
+NZGamer,90
+Gameplanet,90
+D+PAD Magazine,90
+Gamer.nl,90
+IGN UK,90
+GameDaily,90
+Level7.nu,90
+PC Gamer UK,90
+GameZone,90
+Kikizo,90
+Gameplayer Sweden,90
+Vandal Online,90
+games(TM),90
+Game Informer,90
+Cheat Code Central,90
+BigPond GameArena,90
+Game Positive,90
+AceGamez,90
+Gamervision,90
+GamerNode,90
+RealGamer,90
+IGN,89
+Worth Playing,87
+Impulsegamer,87
+Absolute Games,86
+Computer Games Online RO,85
+Meristation,85
+Games Master UK,85
+Play.tm,85
+InsideGamer.nl,85
+PALGN,85
+Gamers.at,84
+GamingXP,84
+Game Revolution,83
+3DJuegos,83
+1UP,83
+GamesNation,81
+Eurogamer,80
+GamePro,80
+Edge Magazine,80
+Total Video Games,80
+Boomtown,80
+Total PC Gaming,80
+Telegraph,80
+LEVEL (Czech Republic),80
+Metro GameCentral,80
+SpazioGames,80
+Everyeye.it,80
+ActionTrip,80
+PC PowerPlay,80
+Eurogamer Italy,80
+Eurogamer Spain,80
+Eurogamer Portugal,80
+Giant Bomb,80
+ZTGD,78
+CPUGamer,75
+VideoGamer,70

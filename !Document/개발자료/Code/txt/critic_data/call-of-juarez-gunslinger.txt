@@ -1,0 +1,23 @@
+Polygon,90
+AusGamers,90
+Hooked Gamers,86
+ZTGD,85
+Destructoid,85
+IGN Italia,85
+PC Gamer,84
+GameStar,82
+GameCritics,80
+LEVEL (Czech Republic),80
+Everyeye.it,80
+DarkStation,80
+Thunderbolt,80
+Games.cz,80
+GRYOnline.pl,80
+Eurogamer Italy,80
+Riot Pixels,72
+Eurogamer Germany,70
+Joystiq,70
+Gamereactor Sweden,70
+PC Games (Germany),70
+GameFront,69
+IncGamers,50

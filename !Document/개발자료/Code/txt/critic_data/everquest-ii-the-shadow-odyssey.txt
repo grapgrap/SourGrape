@@ -1,0 +1,4 @@
+Thunderbolt,90
+GameFocus,88
+GameZone,85
+IGN,70

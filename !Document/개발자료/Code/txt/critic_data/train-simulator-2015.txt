@@ -1,0 +1,4 @@
+CalmDownTom,80
+GameStar,75
+SpazioGames,70
+Hooked Gamers,65

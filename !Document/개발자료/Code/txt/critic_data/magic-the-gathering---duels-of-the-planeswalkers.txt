@@ -1,0 +1,9 @@
+PC Format,81
+GameCritics,80
+PC Gamer,80
+IGN,75
+Gamervision,75
+Multiplayer.it,75
+Gamekult,70
+LEVEL (Czech Republic),50
+PC Gamer UK,43

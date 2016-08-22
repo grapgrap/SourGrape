@@ -1,0 +1,6 @@
+CD-Action,80
+GameSpot,80
+Quarter to Three,80
+Game Informer,68
+PC Gamer UK,58
+GamingTrend,40

@@ -1,0 +1,33 @@
+Gameblog.fr,90
+Gamer Limit,90
+GamingXP,85
+GRYOnline.pl,85
+Game Over Online,84
+Joystiq,80
+Destructoid,80
+Meristation,80
+Adventure Gamers,80
+PC Games (Germany),77
+Multiplayer.it,75
+Machinima,75
+Vandal Online,75
+PC Master (Greece),70
+LEVEL (Czech Republic),70
+Eurogamer Italy,70
+Games.cz,70
+Eurogamer Spain,70
+Computer Games Online RO,67
+Gamer.nl,65
+Gamer.no,60
+DarkZero,60
+GameSpot,60
+Thunderbolt,60
+IncGamers,60
+Pelit (Finland),55
+PC Gamer UK,52
+Absolute Games,50
+GameOver.gr,50
+GamesRadar+,50
+CD-Action,40
+GameWatcher,40
+GameSpy,30

@@ -1,0 +1,28 @@
+Total Video Games,90
+PC Gamer,90
+PC Gameworld,89
+IGN,85
+AltGaming,80
+GameZone,80
+G4 TV,80
+Worth Playing,80
+PC Format,79
+Pelit (Finland),78
+VGPub,75
+Games Radar,72
+Game Over Online,72
+Yahoo!,70
+eToychest,70
+GameSpot,67
+PALGN,65
+PC Gamer UK,64
+Eurogamer,60
+GameSpy,60
+Game Chronicles,60
+1UP,60
+GamerFeed,60
+ActionTrip,57
+Computer Gaming World,50
+Computer Games Magazine,50
+Pelaaja (Finland),40
+Next Level Gaming,32

@@ -1,0 +1,16 @@
+Stuff,90
+PC Gameworld,90
+GameSpot,85
+GameZone,82
+Play.tm,82
+Times Online,80
+IGN,80
+PC Gamer,80
+eToychest,80
+Computer and Video Games,79
+Computer Games Magazine,70
+PC Format,70
+G4 TV,60
+Australian GamePro,60
+Worth Playing,60
+games(TM),50

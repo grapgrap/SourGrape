@@ -1,0 +1,6 @@
+Destructoid,100
+GameSpot,90
+Ragequit.gr,90
+IGN,85
+Kill Screen,81
+Rock, Paper, Shotgun,

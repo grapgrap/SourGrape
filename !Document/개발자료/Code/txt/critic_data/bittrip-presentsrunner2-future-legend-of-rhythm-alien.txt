@@ -1,0 +1,23 @@
+Machinima,95
+GamingTrend,90
+Vandal Online,90
+Eurogamer Germany,90
+Eurogamer Italy,90
+GameSpot,90
+Destructoid,90
+SpazioGames,90
+Game Informer,90
+Hooked Gamers,89
+CD-Action,85
+PC Gamer,85
+GameCritics,85
+Polygon,85
+DarkZero,80
+GameStar,80
+IncGamers,80
+GameOver.gr,80
+Cheat Code Central,80
+Gamereactor Sweden,80
+Post Arcade (National Post),80
+Joystiq,80
+ZTGD,78

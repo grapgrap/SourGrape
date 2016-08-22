@@ -1,0 +1,5 @@
+RPGamer,100
+RPG Fan,92
+Hooked Gamers,90
+GamingTrend,85
+GameCritics,70

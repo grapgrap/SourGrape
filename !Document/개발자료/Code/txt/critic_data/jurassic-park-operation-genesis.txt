@@ -1,0 +1,15 @@
+Entertainment Weekly,91
+Gamezilla!,85
+PC Gameworld,82
+PC Format,82
+G4 TV,80
+ActionTrip,75
+GameSpot,72
+PC Gamer,70
+Adrenaline Vault,70
+Computer Gaming World,70
+Game Over Online,68
+Gamers' Temple,66
+GameZone,63
+Computer Games Magazine,60
+Yahoo!,30

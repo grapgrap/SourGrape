@@ -1,0 +1,9 @@
+LEVEL (Czech Republic),80
+GRYOnline.pl,80
+IGN Spain,80
+Quarter to Three,80
+PC Gamer UK,74
+Brash Games,70
+CD-Action,65
+Games.cz,60
+The Digital Fix,50

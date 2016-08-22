@@ -1,0 +1,2 @@
+GamingTrend,30
+DarkStation,10

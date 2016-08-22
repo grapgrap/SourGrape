@@ -1,0 +1,11 @@
+CD-Action,90
+GamingTrend,90
+Digital Chumps,88
+COGconnected,84
+ZTGD,80
+Destructoid,80
+GameCrate,78
+Everyeye.it,75
+Gaming Nexus,74
+Hardcore Gamer,70
+GameSpot,50

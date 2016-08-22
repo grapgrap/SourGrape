@@ -1,0 +1,29 @@
+LEVEL (Czech Republic),100
+RPGamer,90
+Games.cz,90
+Hardcore Gamer,90
+Pelit (Finland),88
+RPG Fan,87
+IGN Italia,87
+Ragequit.gr,87
+NZGamer,85
+Gameplanet,85
+Softpedia,85
+Games Master UK,82
+PCWorld,80
+CD-Action,80
+SpazioGames,80
+PC PowerPlay,80
+GameSpot,80
+IGN,80
+Eurogamer Poland,80
+Brash Games,80
+GameStar,80
+Game World Navigator Magazine,77
+Riot Pixels,77
+Kill Screen,75
+Game Informer,75
+Everyeye.it,70
+DarkStation,70
+PC Gamer,70
+Rock, Paper, Shotgun,

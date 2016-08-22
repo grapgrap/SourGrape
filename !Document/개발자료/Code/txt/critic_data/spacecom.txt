@@ -1,0 +1,8 @@
+GamingTrend,90
+Vandal Online,80
+Game Revolution,80
+CD-Action,75
+Riot Pixels,67
+Games.cz,60
+IncGamers,60
+GameSpot,50

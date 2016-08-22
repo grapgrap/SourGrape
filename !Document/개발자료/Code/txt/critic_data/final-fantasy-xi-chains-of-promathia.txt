@@ -1,0 +1,13 @@
+IC-Games,85
+Warcry,85
+Edge Magazine,80
+G4 TV,80
+PC Gameworld,80
+IGN,75
+PC Gamer,75
+RealGamer,72
+Game Chronicles,72
+GMR Magazine,70
+Computer Games Magazine,70
+GameSpot,68
+GameSpy,60

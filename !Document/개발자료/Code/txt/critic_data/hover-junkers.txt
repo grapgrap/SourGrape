@@ -1,0 +1,4 @@
+GameCrate,90
+PC Gamer,82
+GamingTrend,80
+Metro GameCentral,70

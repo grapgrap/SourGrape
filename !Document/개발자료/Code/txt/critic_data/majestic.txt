@@ -1,0 +1,8 @@
+Gamezilla!,92
+GameSpy,81
+IGN,75
+GameZone,75
+GameSpot,67
+Yahoo!,50
+PC Gamer,50
+Computer Games Magazine,40

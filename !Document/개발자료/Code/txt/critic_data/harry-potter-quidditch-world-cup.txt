@@ -1,0 +1,13 @@
+GameZone,81
+PC Gamer,80
+GMR Magazine,80
+GameSpy,75
+Gamer.tv,74
+IGN,72
+PC Gameworld,70
+Eurogamer,70
+Yahoo!,70
+GameNow,67
+GameSpot,65
+Play.tm,60
+Computer Games Magazine,40

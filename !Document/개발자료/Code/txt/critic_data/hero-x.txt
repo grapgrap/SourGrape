@@ -1,0 +1,5 @@
+GameZone,69
+Adrenaline Vault,60
+GamerWeb PC,50
+GameSpot,39
+PC Gamer,33

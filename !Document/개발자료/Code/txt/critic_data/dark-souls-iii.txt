@@ -1,0 +1,60 @@
+LEVEL (Czech Republic),100
+ZTGD,100
+Forbes,100
+Meristation,100
+Examiner,100
+Eurogamer Poland,100
+USgamer,100
+Ragequit.gr,99
+GameGrin,95
+Atomix,95
+Softpedia,95
+AusGamers,95
+IGN,95
+Pelit (Finland),94
+PC Gamer,94
+Multiplayer.it,92
+WCCFtech,92
+ActionTrip,91
+Merlin'in Kazan©¥ (Turkey),91
+PC PowerPlay,90
+GameCritics,90
+GameSpew,90
+PCGamesN,90
+Game Debate,90
+GRYOnline.pl,90
+PC Invasion,90
+GameWatcher,90
+Cheat Code Central,90
+GamesRadar+,90
+Everyeye.it,90
+DarkStation,90
+RPG Site,90
+Hardcore Gamer,90
+The Jimquisition,90
+COGconnected,90
+PC Games (Germany),89
+MMORPG.com,88
+Game World Navigator Magazine,87
+Kill Screen,86
+LevelUp,86
+CD-Action,85
+Gaming Nexus,85
+GameStar,85
+Destructoid,85
+Hooked Gamers,84
+Riot Pixels,82
+Games.cz,80
+Worth Playing,80
+RPGamer,80
+Washington Post,80
+Giant Bomb,80
+Attack of the Fanboy,80
+GameSpot,80
+GameCrate,73
+Gameplanet,70
+Ars Technica,
+Mashable,
+PCWorld,
+Rock, Paper, Shotgun,
+The A.V. Club,

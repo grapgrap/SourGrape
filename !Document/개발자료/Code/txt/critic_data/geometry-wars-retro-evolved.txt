@@ -1,0 +1,7 @@
+AceGamez,90
+1UP,90
+PC Zone UK,80
+PC Gamer UK,75
+GamerNode,73
+Eurogamer,70
+GameSpot,67

@@ -1,0 +1,10 @@
+GameStar,74
+GamingXP,70
+Multiplayer.it,70
+IGN,70
+Absolute Games,60
+Eurogamer Italy,60
+Game Revolution,58
+GameSpot,45
+PC Gamer,40
+CD-Action,40

@@ -1,0 +1,13 @@
+Hot Games,100
+IGN,90
+PC Gameworld,89
+Sports Gaming Network,88
+GameSpy,88
+Adrenaline Vault,80
+PC Gamer,80
+Game Over Online,78
+GameSpot,75
+Daily Radar,75
+Computer Games Magazine,70
+CNET Gamecenter,70
+All Game Guide,50

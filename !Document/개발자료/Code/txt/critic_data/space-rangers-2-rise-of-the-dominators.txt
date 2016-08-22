@@ -1,0 +1,30 @@
+GamingTrend,96
+eToychest,95
+Pelit (Finland),93
+CPUGamer,93
+Computer Games Online RO,93
+PC Gamer,92
+Computer Games Magazine,90
+netjak,90
+GameSpy,90
+GamesRadar+,90
+Gamezilla!,90
+Gamer 2.0,90
+GameZone,88
+Armchair Empire,88
+Deeko,85
+Game Chronicles,85
+Cheat Code Central,84
+PGNx Media,84
+IC-Games,83
+Next Level Gaming,83
+Just RPG,83
+VGPub,82
+GameSpot,81
+GamerFeed,80
+IGN,80
+1UP,80
+G4 TV,80
+Worth Playing,75
+Jolt Online Gaming UK,73
+PC Format,51

@@ -1,0 +1,4 @@
+GameGrin,60
+GameSpew,50
+Hardcore Gamer,30
+Twinfinite,20

@@ -1,0 +1,19 @@
+Cinescape,91
+IGN,88
+Game Informer,88
+Media and Games Online Network,85
+PC Gamer,85
+Gamezilla!,83
+GameZone,80
+Game Over Online,80
+Yahoo!,80
+Adrenaline Vault,80
+GameSpot,79
+Voodoo Extreme,79
+Game Revolution,75
+Electric Playground,71
+All Game Guide,70
+FiringSquad,68
+Computer Games Magazine,60
+Next Generation Magazine,60
+Thunderbolt,50

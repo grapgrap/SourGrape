@@ -1,0 +1,10 @@
+GameZone,91
+Computer Games Magazine,90
+Eurogamer,90
+Game Over Online,87
+IGN,87
+GameSpy,86
+Da Gameboyz,85
+PC Gamer,84
+GameSpot,82
+Computer Gaming World,70

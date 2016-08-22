@@ -1,0 +1,22 @@
+GamingTrend,91
+PGNx Media,90
+Game Chronicles,87
+YouGamers,87
+GameZone,83
+Gamers' Temple,82
+Computer Games Online RO,82
+Cynamite,80
+GamingExcellence,80
+PC Gamer UK,79
+IGN,78
+Absolute Games,77
+FiringSquad,76
+Gamer 2.0,76
+Cheat Code Central,74
+GameStar,74
+VideoGamer,70
+InsideGamer.nl,70
+GameSpot,70
+LEVEL (Czech Republic),70
+GameShark,67
+Worth Playing,67

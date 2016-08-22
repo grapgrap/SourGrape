@@ -1,0 +1,6 @@
+GamingXP,90
+IGN,75
+LEVEL (Czech Republic),70
+GameStar,70
+MMORPG.com,64
+PC Gamer,59

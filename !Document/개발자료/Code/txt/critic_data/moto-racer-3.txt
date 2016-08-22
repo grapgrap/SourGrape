@@ -1,0 +1,10 @@
+Armchair Empire,75
+GameSpot,72
+GameSpy,70
+IGN,69
+Media and Games Online Network,68
+PC Gameworld,68
+Gamers' Temple,65
+GameZone,55
+PC Gamer,52
+Yahoo!,50

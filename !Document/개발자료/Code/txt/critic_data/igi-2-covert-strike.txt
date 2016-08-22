@@ -1,0 +1,22 @@
+PC Format,86
+Entertainment Weekly,83
+Gamer.tv,82
+IGN,80
+ActionTrip,80
+Eurogamer,80
+Adrenaline Vault,80
+Gamezilla!,79
+Four Fat Chicks,75
+GameZone,75
+Game Informer,73
+IC-Games,73
+G4 TV,60
+Yahoo!,60
+Computer Games Magazine,60
+PC Gamer,59
+GameSpot,56
+FiringSquad,55
+Edge Magazine,50
+Game Revolution,42
+Computer Gaming World,30
+GMR Magazine,20

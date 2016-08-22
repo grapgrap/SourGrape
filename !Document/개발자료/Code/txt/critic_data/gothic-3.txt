@@ -1,0 +1,39 @@
+PC Zone UK,85
+Computer Games Online RO,85
+Pelit (Finland),85
+Jolt Online Gaming UK,81
+Eurogamer,80
+AceGamez,80
+Games Master UK,80
+PC Gamer,80
+ActionTrip,79
+GameWatcher,78
+GameZone,77
+GameSpot,76
+Gamer's Hell,75
+Digital Entertainment News,72
+PC Gamer UK,71
+Gamers Europe,70
+Computer Games Magazine,70
+Game Chronicles,69
+PC Gameworld,68
+GamingExcellence,66
+PC Format,65
+GamerNode,65
+AtomicGamer,61
+VideoGamer,60
+GamesRadar+,60
+PALGN,60
+Yahoo!,60
+G4 TV,60
+Gamers' Temple,54
+Gaming Nexus,51
+1UP,50
+Game Informer,50
+IGN,49
+Worth Playing,45
+VGPub,42
+games(TM),40
+GameSpy,30
+Game Revolution,25
+RewiredMind,20

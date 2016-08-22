@@ -1,0 +1,9 @@
+IGN,90
+GameZone,84
+PC Format,82
+Maxim Online,80
+PC Gamer,78
+PC Gameworld,70
+Computer Gaming World,70
+GameSpy,50
+Computer Games Magazine,30

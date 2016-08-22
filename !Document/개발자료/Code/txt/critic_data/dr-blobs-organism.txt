@@ -1,0 +1,3 @@
+GameShark,80
+PC Gameworld,80
+GameCritics,40

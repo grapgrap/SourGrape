@@ -1,0 +1,6 @@
+ActionTrip,80
+IGN,62
+GameZone,60
+Game Over Online,54
+Electric Playground,50
+GamePower,38

@@ -1,0 +1,9 @@
+IGN,83
+GameZone,80
+Adrenaline Vault,70
+Gamer's Pulse,70
+GameSpy,70
+GameSpot,68
+Computer Gaming World,60
+Computer Games Magazine,60
+PC Gamer,56

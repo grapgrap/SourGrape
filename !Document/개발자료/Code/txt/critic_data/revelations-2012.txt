@@ -1,0 +1,3 @@
+GameSpot,15
+Destructoid,10
+Gamer.nl,10

@@ -1,0 +1,28 @@
+GameWatcher,90
+Gameplanet,90
+Thunderbolt,90
+Worth Playing,90
+IGN,85
+Vandal Online,85
+SpazioGames,85
+GamingTrend,83
+Gaming Nexus,83
+Computer Games Online RO,82
+Cheat Code Central,82
+Gamers.at,81
+GameZone,80
+AtomicGamer,80
+DarkZero,80
+Eurogamer Italy,80
+GameSpot,80
+GamingXP,80
+RealGamer,80
+Play.tm,79
+My Gamer,78
+AceGamez,75
+Meristation,75
+Game Revolution,75
+3DJuegos,74
+PC Gamer UK,74
+GamerNode,60
+LEVEL (Czech Republic),60

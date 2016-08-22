@@ -1,0 +1,4 @@
+Gamer Limit,80
+PC Gamer UK,70
+GameFocus,60
+PC Zone UK,52

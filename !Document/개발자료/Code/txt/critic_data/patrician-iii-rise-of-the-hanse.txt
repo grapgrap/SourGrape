@@ -1,0 +1,8 @@
+IGN,91
+Worth Playing,90
+Gamer's Hell,80
+GameZone,79
+GameSpot,72
+Game Informer,70
+PC Gamer,70
+Computer Gaming World,50

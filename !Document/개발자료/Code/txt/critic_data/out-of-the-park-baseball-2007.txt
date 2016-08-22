@@ -1,0 +1,5 @@
+GameSpy,100
+GameShark,100
+Operation Sports,100
+PC Gamer,92
+AceGamez,90

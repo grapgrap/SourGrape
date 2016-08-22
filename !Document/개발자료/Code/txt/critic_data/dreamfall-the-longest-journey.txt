@@ -1,0 +1,45 @@
+GameSpy,100
+AceGamez,100
+Quandary,100
+Just Adventure,100
+Yahoo!,90
+Gamer 2.0,90
+Cheat Code Central,86
+GameZone,86
+Computer Games Online RO,84
+Jolt Online Gaming UK,83
+ActionTrip,83
+GamingExcellence,83
+GameSpot,81
+Adventure Gamers,80
+Deeko,80
+Game Informer,80
+Adrenaline Vault,80
+Pelit (Finland),80
+G4 TV,80
+Gaming Horizon,80
+Computer Games Magazine,80
+Gamers Europe,80
+RPG Fan,78
+PC Gamer UK,77
+The A.V. Club,75
+PC Format,75
+Worth Playing,74
+IGN,74
+PC Gamer,73
+Game Over Online,73
+GamesRadar+,70
+Edge Magazine,70
+PC Gameworld,70
+Boomtown,70
+games(TM),70
+Sydney Morning Herald,70
+The New York Times,69
+PC Zone UK,67
+PALGN,65
+Total Video Games,60
+Game Revolution,58
+Detroit Free Press,50
+VideoGamer,50
+1UP,40
+Play Magazine,35

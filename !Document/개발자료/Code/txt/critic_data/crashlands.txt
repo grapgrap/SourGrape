@@ -1,0 +1,10 @@
+GamingTrend,95
+High-Def Digest,90
+Hooked Gamers,89
+Multiplayer.it,88
+Game Rant,80
+Game Informer,75
+God is a Geek,75
+PC Gamer,73
+DarkStation,70
+GameGrin,50

@@ -1,0 +1,4 @@
+CalmDownTom,100
+Softpedia,85
+PC Gamer,76
+GameWatcher,65

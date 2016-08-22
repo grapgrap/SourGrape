@@ -1,0 +1,81 @@
+CPUGamer,100
+Playboy,100
+GameSpy,100
+GamerArchive,100
+Cincinnati Enquirer,100
+eToychest,100
+Adrenaline Vault,100
+Gamer.tv,100
+GamerFeed,100
+Thunderbolt,100
+Eurogamer,100
+Xequted,100
+G4 TV,100
+GamePro,100
+Times Online,100
+Computer Games Magazine,100
+Sydney Morning Herald,100
+Just Adventure,100
+Four Fat Chicks,100
+Frictionless Insight,100
+Gaming Age,100
+Boomtown,100
+Total Video Games,100
+Edge Magazine,100
+Play Magazine,100
+Yahoo!,100
+Gamers Depot,100
+Armchair Empire,100
+The New York Times,100
+GMR Magazine,100
+Australian GamePro,100
+Game Chronicles,99
+Inside Gamer Online,98
+VIA Gamers Arena,98
+IC-Games,98
+PC Gamer,98
+Jolt Online Gaming UK,98
+Gaming Horizon,98
+IGN,97
+Computer and Video Games,97
+Game Over Online,97
+Gamezilla!,97
+Worth Playing,97
+GameBiz,97
+PGNx Media,97
+AtomicGamer,97
+Games Radar,96
+PC Format,96
+Gamer's Hell,96
+XGP Gaming,96
+Play.tm,95
+Game Informer,95
+3DAvenue,95
+Gamers Europe,95
+FiringSquad,95
+IncGamers,95
+Game Power Australia,95
+Next Level Gaming,95
+GamingTrend,95
+Computer Games Online RO,95
+Electric Playground,95
+GameZone,95
+GameSpot AU,95
+My Gamer,94
+WHAM! Gaming,94
+Gamers' Temple,94
+TotalGames.net,94
+ActionTrip,93
+Gaming Nexus,92
+PC Gameworld,92
+Warcry,92
+GameSpot,92
+Game Revolution,91
+Cheat Code Central,90
+1UP,90
+Computer Gaming World,90
+GameShark,90
+GameCritics,90
+Gamenikki,90
+VGPub,90
+netjak,85

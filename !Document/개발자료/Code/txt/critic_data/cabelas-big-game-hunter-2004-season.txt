@@ -1,0 +1,2 @@
+GameZone,70
+PC Gamer,62

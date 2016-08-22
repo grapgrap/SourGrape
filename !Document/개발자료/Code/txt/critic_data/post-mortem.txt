@@ -1,0 +1,25 @@
+Four Fat Chicks,100
+Cincinnati Enquirer,88
+ActionTrip,88
+PC Gameworld,87
+GameSpy,84
+Game Over Online,83
+Cheat Code Central,80
+Yahoo!,80
+Gamezilla!,79
+IGN,79
+Just Adventure,75
+GameZone,73
+Armchair Empire,73
+Quandary,70
+netjak,70
+Adrenaline Vault,70
+GameSpot,67
+Electric Playground,65
+G4 TV,60
+Computer Gaming World,60
+GameCritics,55
+Gamer's Pulse,52
+Game Revolution,42
+PC Gamer,40
+Adventure Gamers,40

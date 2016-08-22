@@ -1,0 +1,34 @@
+GameWatcher,90
+GameZone,86
+Cheat Code Central,84
+Games Master UK,84
+PC Gamer UK,83
+GameShark,83
+Pelit (Finland),83
+Play.tm,82
+PC Zone UK,81
+GameDaily,80
+GameSpy,80
+GamesRadar+,80
+Eurogamer,80
+Total Video Games,80
+Game Informer,80
+Game Almighty,80
+CPUGamer,80
+Game Chronicles,80
+Boomtown,80
+AtomicGamer,80
+Gamers' Temple,80
+PC Format,80
+GamingExcellence,80
+GameStar,80
+IC-Games,79
+IGN,75
+GameSpot,75
+YouGamers,75
+PC Gamer,72
+games(TM),70
+GamePro,70
+GameTap,70
+1UP,65
+Game Revolution,58

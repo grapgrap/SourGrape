@@ -1,0 +1,7 @@
+Adrenaline Vault,100
+GamePro,90
+PC Gamer,85
+Computer and Video Games,84
+GameSpot,80
+Gamezilla!,70
+Computer Games Magazine,60

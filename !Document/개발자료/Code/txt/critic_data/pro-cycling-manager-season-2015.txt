@@ -1,0 +1,7 @@
+Gameblog.fr,80
+Softpedia,80
+JeuxActu,75
+SpazioGames,65
+Multiplayer.it,60
+XGN,60
+Riot Pixels,49

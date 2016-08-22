@@ -1,0 +1,28 @@
+Yahoo!,100
+CPUGamer,100
+Worth Playing,95
+Game Informer,95
+Pelit (Finland),94
+PC Gamer,93
+GameShark,91
+Gaming Nexus,91
+GameTap,90
+PALGN,90
+1UP,90
+GameSpy,90
+GameZone,90
+Jolt Online Gaming UK,90
+IGN,89
+Game Almighty,86
+PC Zone UK,86
+GameSpot,85
+Gamer 2.0,84
+Game Chronicles,83
+Play.tm,82
+Eurogamer,80
+games(TM),80
+PC Format,80
+ActionTrip,78
+Game Revolution,75
+PC Gamer UK,74
+G4 TV,60

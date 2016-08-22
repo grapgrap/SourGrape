@@ -1,0 +1,18 @@
+GamePro,100
+GameShark,100
+Armchair Empire,90
+GameZone,88
+My Gamer,88
+GamingTrend,85
+IGN,85
+Cheat Code Central,82
+PC Zone UK,81
+PALGN,80
+PC Gamer UK,78
+Jolt Online Gaming UK,76
+Gaming Target,76
+Gaming Nexus,75
+1UP,75
+Game Chronicles,70
+Destructoid,55
+Adventure Gamers,50

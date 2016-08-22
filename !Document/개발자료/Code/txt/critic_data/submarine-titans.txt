@@ -1,0 +1,16 @@
+CheckOut,80
+Hot Games,80
+PC Gamer,79
+GameSpy,79
+Gamer's Pulse,77
+Daily Radar,75
+Da Gameboyz,72
+Adrenaline Vault,70
+IGN,70
+All Game Guide,70
+Gamers' Temple,68
+GameZone,60
+Electric Playground,60
+Computer Games Magazine,60
+GameSpot,52
+CNET Gamecenter,50

@@ -1,0 +1,10 @@
+Game Informer,65
+Times Online,60
+PC Gamer,60
+IGN,55
+GameTrailers,50
+GamerNode,48
+GameSpot,43
+Sydney Morning Herald,40
+GamesRadar+,40
+PC Zone UK,12

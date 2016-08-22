@@ -1,0 +1,12 @@
+DarkStation,80
+Hardcore Gamer,80
+PC Gamer UK,74
+GamingTrend,73
+Hooked Gamers,70
+Metro GameCentral,70
+GameSpot,70
+4Players.de,68
+IGN,66
+Multiplayer.it,65
+CD-Action,60
+Thunderbolt,60

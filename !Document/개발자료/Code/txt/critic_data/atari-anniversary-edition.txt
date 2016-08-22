@@ -1,0 +1,8 @@
+Hot Games,90
+IC-Games,85
+IGN,80
+Computer Games Magazine,80
+Gamezilla!,75
+Game Revolution,67
+GameSpot,63
+Computer Gaming World,50

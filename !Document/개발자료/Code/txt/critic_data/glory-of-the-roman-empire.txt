@@ -1,0 +1,34 @@
+PC Gameworld,90
+VGPub,82
+GameWatcher,80
+Next Level Gaming,80
+Pelit (Finland),80
+GamingExcellence,80
+IGN,76
+eToychest,75
+ActionTrip,72
+Gamer 2.0,72
+GameZone,70
+Boomtown,70
+Game Power Australia,70
+GamerFeed,70
+PC Gamer UK,70
+PC Format,68
+GameShark,67
+Gaming Horizon,66
+GamingTrend,66
+PC Zone UK,65
+Gaming Nexus,65
+Jolt Online Gaming UK,62
+Eurogamer,60
+Yahoo!,60
+GameSpy,60
+PALGN,60
+1UP,60
+G4 TV,60
+Worth Playing,60
+GameSpot,56
+GamesRadar+,50
+Sydney Morning Herald,50
+PC Gamer,50
+Computer Games Magazine,50

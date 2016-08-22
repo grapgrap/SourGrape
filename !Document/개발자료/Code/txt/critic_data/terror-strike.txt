@@ -1,0 +1,2 @@
+GameSpot,50
+GameZone,50

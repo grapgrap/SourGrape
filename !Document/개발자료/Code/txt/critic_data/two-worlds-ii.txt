@@ -1,0 +1,31 @@
+GamingXP,91
+Gamers.at,90
+PC Games (Germany),88
+SpazioGames,87
+PC Format,85
+GameFocus,85
+GameStar,85
+GamingTrend,83
+Vandal Online,83
+PC Gamer UK,82
+GameWatcher,80
+AtomicGamer,80
+Gamer.nl,80
+Eurogamer Italy,80
+Cheat Code Central,78
+Game Informer,78
+3DJuegos,78
+FiringSquad,76
+GameSpot,75
+GamePro,70
+PC PowerPlay,70
+Worth Playing,70
+Eurogamer,70
+GameZone,70
+LEVEL (Czech Republic),70
+Eurogamer Spain,70
+Gamereactor Sweden,70
+IncGamers,66
+IGN,60
+Gameblog.fr,60
+Absolute Games,58

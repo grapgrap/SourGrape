@@ -1,0 +1,61 @@
+GamesRadar+,100
+Gaming Age,100
+The A.V. Club,100
+G4 TV,100
+Four Fat Chicks,100
+Sydney Morning Herald,100
+Detroit Free Press,100
+GamerNode,94
+Worth Playing,93
+GamingTrend,92
+PC Zone UK,91
+Games Master UK,91
+Pelit (Finland),91
+Eurogamer,90
+GameSpy,90
+Yahoo!,90
+Boomtown,90
+VideoGamer,90
+GamerFeed,90
+Gamer 2.0,90
+Adrenaline Vault,90
+Armchair Empire,90
+Deeko,90
+WHAM! Gaming,90
+PC Gamer UK,90
+GameBiz,90
+NTSC-uk,90
+PC Format,90
+AceGamez,90
+Gaming Nexus,89
+VGPub,89
+PC Gameworld,88
+Game Over Online,88
+Cheat Code Central,88
+GameZone,88
+Game Informer,88
+AtomicGamer,88
+GameSpot,87
+Computer Games Online RO,87
+Jolt Online Gaming UK,86
+FiringSquad,86
+The New York Times,86
+GamingExcellence,86
+IGN,85
+GamePro,85
+PALGN,85
+PC Gamer,85
+GameWatcher,85
+My Gamer,84
+Play.tm,84
+GameShark,83
+CPUGamer,81
+ActionTrip,80
+1UP,80
+3DAvenue,80
+Thunderbolt,80
+Edge Magazine,80
+Game Revolution,75
+Game Almighty,65
+Computer Games Magazine,60
+GameCritics,60

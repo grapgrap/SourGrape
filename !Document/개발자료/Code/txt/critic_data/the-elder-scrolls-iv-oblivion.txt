@@ -1,0 +1,54 @@
+Entertainment Weekly,100
+Quandary,100
+GamesRadar+,100
+Yahoo!,100
+Sydney Morning Herald,100
+Boomtown,100
+GamePro,100
+The A.V. Club,100
+Times Online,100
+Computer Games Magazine,100
+Game Chronicles,99
+Cheat Code Central,98
+Worth Playing,98
+Gamer's Hell,98
+AtomicGamer,97
+Game Over Online,96
+Gamer 2.0,96
+IncGamers,96
+Game Power Australia,95
+GameZone,95
+GamerNode,95
+PC Gamer,95
+FiringSquad,95
+Game Informer,95
+PC Zone UK,95
+BonusStage,95
+Jolt Online Gaming UK,94
+ActionTrip,94
+netjak,94
+Just RPG,93
+IGN,93
+GameSpot,93
+PC Gamer UK,93
+DailyGame,93
+Games Master UK,93
+PC Format,93
+The New York Times,92
+GamingTrend,92
+Pelit (Finland),92
+Game Revolution,91
+GameShark,91
+AceGamez,90
+CPUGamer,90
+RPG Fan,90
+GamerFeed,90
+Total Video Games,90
+1UP,90
+My Gamer,90
+GameCritics,90
+VideoGamer,90
+games(TM),90
+Computer Games Online RO,84
+GameSpy,80
+Edge Magazine,80

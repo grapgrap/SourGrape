@@ -1,0 +1,10 @@
+IGN Italia,85
+PC Gamer,83
+GamingTrend,77
+IGN,73
+Ten Ton Hammer,68
+Multiplayer.it,65
+GameFront,60
+GameSpot,60
+GameTrailers,60
+MMORPG.com,54

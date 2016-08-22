@@ -1,0 +1,44 @@
+CPUGamer,90
+MEGamers,90
+DarkZero,90
+Game Chronicles,90
+YouGamers,87
+GameWatcher,85
+GameTrailers,85
+Gamers.at,82
+GRYOnline.pl,80
+Multiplayer.it,80
+Eurogamer,80
+LEVEL (Czech Republic),80
+Eurogamer Sweden,80
+GamePro,80
+Eurogamer Italy,80
+SpazioGames,80
+Gameblog.fr,80
+GamingXP,79
+PC Games (Russia),75
+Armchair Empire,75
+Computer Games Online RO,75
+RealGamer,75
+The A.V. Club,75
+GameZone,75
+Game Informer,75
+Meristation,75
+3DJuegos,74
+PC PowerPlay,70
+Edge Magazine,70
+Machinima,70
+Gamereactor Denmark,70
+Gamer.nl,70
+PALGN,70
+Gamekult,70
+GameSpot,70
+IGN,70
+PC Gamer UK,69
+Absolute Games,67
+GameShark,67
+Game Over Online,64
+GameStar,61
+GameOver.gr,60
+Gaming Nexus,58
+BigPond GameArena,30

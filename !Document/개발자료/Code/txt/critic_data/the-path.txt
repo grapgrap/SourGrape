@@ -1,0 +1,20 @@
+VideoGamer,100
+GameFocus,95
+MEGamers,92
+The A.V. Club,91
+PC Format,90
+Gamers.at,81
+Gamer.nl,80
+Eurogamer Spain,80
+GameSpot,80
+Absolute Games,79
+GameZone,78
+GamingXP,78
+IGN,77
+PC Gamer UK,75
+DarkZero,70
+Eurogamer,70
+AceGamez,70
+Eurogamer Italy,70
+Thunderbolt,70
+PC Zone UK,69

@@ -1,0 +1,10 @@
+Adrenaline Vault,60
+Game Chronicles,60
+GameZone,55
+PC Gamer,45
+IGN,43
+Cheat Code Central,40
+GameSpot,33
+Computer Games Magazine,30
+Deeko,30
+Worth Playing,25

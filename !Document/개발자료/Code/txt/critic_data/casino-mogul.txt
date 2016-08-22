@@ -1,0 +1,4 @@
+GameZone,75
+All Game Guide,70
+GameSpot,64
+PC Gamer,42

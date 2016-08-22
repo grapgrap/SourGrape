@@ -1,0 +1,11 @@
+GamePro,90
+GameFocus,90
+PC Gamer,90
+GameShark,83
+Gamervision,80
+IGN,80
+Gamers' Temple,80
+Thunderbolt,80
+GameStar,72
+PC Format,71
+Destructoid,70

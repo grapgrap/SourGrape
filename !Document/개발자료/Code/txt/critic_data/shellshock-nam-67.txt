@@ -1,0 +1,20 @@
+Stuff,80
+Total Video Games,70
+AceGamez,70
+3DAvenue,66
+GameShark,60
+Game Chronicles,60
+Gamer.tv,60
+IGN,58
+PC Format,56
+ActionTrip,56
+eToychest,55
+Game Over Online,55
+GameSpot,54
+Sydney Morning Herald,50
+GameSpy,40
+Edge Magazine,40
+Computer Gaming World,30
+Computer Games Magazine,30
+GameCritics,20
+PC Gamer,15

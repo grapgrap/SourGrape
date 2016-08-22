@@ -1,0 +1,2 @@
+GameWatcher,75
+Softpedia,70

@@ -1,0 +1,5 @@
+GameSpot,44
+Adrenaline Vault,40
+IGN,38
+Computer and Video Games,28
+PC Format,20

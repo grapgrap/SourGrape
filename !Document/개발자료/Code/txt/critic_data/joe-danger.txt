@@ -1,0 +1,3 @@
+3DJuegos,85
+PC Gamer,75
+Thunderbolt,70

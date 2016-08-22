@@ -1,0 +1,36 @@
+GameSpy,90
+IncGamers,89
+Game Over Online,88
+IC-Games,87
+IGN,85
+GameZone,85
+DailyGame,85
+eToychest,85
+PC Gamer,85
+Gaming Nexus,84
+Jolt Online Gaming UK,84
+Pelit (Finland),84
+GameSpot,83
+Times Online,80
+Total Video Games,80
+AceGamez,80
+Pelaaja (Finland),80
+Cheat Code Central,80
+Game Informer,80
+Boomtown,80
+PC Format,80
+Sydney Morning Herald,80
+VideoGamesLife,80
+Worth Playing,80
+G4 TV,80
+Computer Games Magazine,80
+Games Radar,79
+Gaming Horizon,78
+VGPub,76
+Gamers Europe,75
+PALGN,75
+Computer and Video Games,72
+games(TM),70
+GamerFeed,70
+Next Level Gaming,70
+Computer Gaming World,60

@@ -1,0 +1,2 @@
+Joystiq,40
+GameSpot,30

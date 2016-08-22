@@ -1,0 +1,7 @@
+Happy Puppy,80
+GameZone,70
+Computer Games Magazine,70
+GameSpot,65
+Game Over Online,58
+PC Gameworld,54
+IGN,50

@@ -1,0 +1,18 @@
+Gameblog.fr,100
+IGN,95
+PC Games (Russia),90
+CPUGamer,90
+Eurogamer Spain,90
+PC Gamer UK,90
+3DJuegos,87
+GameStar,86
+RealGamer,85
+GameZone,85
+GameSpot,85
+PC Format,81
+PC PowerPlay,80
+VideoGamer,80
+AtomicGamer,80
+Total Video Games,80
+Eurogamer,80
+Absolute Games,79

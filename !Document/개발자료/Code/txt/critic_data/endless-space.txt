@@ -1,0 +1,36 @@
+CPUGamer,90
+PC PowerPlay,90
+Absolute Games,90
+GRYOnline.pl,90
+Game Revolution,90
+JeuxActu,85
+COGconnected,85
+PC Master (Greece),84
+Pelit (Finland),83
+PC Gamer,82
+Cheat Code Central,82
+3DJuegos,82
+GameStar,82
+Games Master UK,81
+Gamer.no,80
+CD-Action,80
+GameWatcher,80
+Multiplayer.it,80
+The Escapist,80
+Gameblog.fr,80
+IncGamers,80
+GameSpot,80
+IGN,80
+Computer Games Online RO,79
+4Players.de,77
+XGN,75
+Destructoid,75
+Game Informer,73
+GameOver.gr,70
+DarkStation,70
+GamesRadar+,70
+Metro GameCentral,70
+Eurogamer,70
+GameSpy,70
+Games.cz,60
+LEVEL (Czech Republic),30

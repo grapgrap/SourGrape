@@ -1,0 +1,11 @@
+IGN,90
+Computer Games Magazine,90
+ActionTrip,89
+GameSpot,85
+GameSpy,83
+GameZone,80
+PC Gamer,80
+Gamer's Pulse,79
+Yahoo!,70
+Computer Gaming World,70
+GamerWeb PC,60

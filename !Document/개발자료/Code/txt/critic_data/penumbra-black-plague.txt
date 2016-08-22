@@ -1,0 +1,29 @@
+GamerNode,95
+Computer Games Online RO,91
+Pelit (Finland),87
+Cheat Code Central,86
+1UP,85
+The New York Times,83
+PC Gamer,83
+Jolt Online Gaming UK,81
+Game Chronicles,80
+Total Video Games,80
+GameSpot,80
+Adventure Gamers,80
+Game Positive,80
+Play (Poland),80
+PC Format,80
+CPUGamer,80
+GamingExcellence,78
+Destructoid,78
+IGN,77
+GameZone,76
+GameWatcher,75
+PC Gamer UK,74
+PC Zone UK,74
+Games Master UK,74
+AceGamez,70
+Eurogamer,70
+Edge Magazine,60
+GameSpy,60
+GameShark,58

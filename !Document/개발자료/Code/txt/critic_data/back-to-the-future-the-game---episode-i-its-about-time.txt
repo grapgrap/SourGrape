@@ -1,0 +1,39 @@
+Game Revolution,91
+1UP,91
+Game Chronicles,90
+ZTGD,90
+AtomicGamer,90
+Destructoid,90
+GamePro,90
+Joystiq,90
+GameZone,85
+IGN,85
+Gamers.at,83
+Multiplayer.it,80
+PC PowerPlay,80
+Game Informer,80
+Game Over Online,80
+SpazioGames,80
+Cheat Code Central,80
+Video Game Talk,80
+Adventure Gamers,80
+GamesRadar+,80
+PC Games (Russia),75
+Vandal Online,75
+GameSpot,75
+Thunderbolt,70
+DarkZero,70
+MEGamers,70
+Gamereactor Denmark,70
+Eurogamer Italy,70
+PALGN,70
+Eurogamer,70
+Meristation,70
+The A.V. Club,67
+LEVEL (Czech Republic),60
+Eurogamer Spain,60
+Guardian,60
+Metro GameCentral,50
+PC Gamer UK,45
+Gameblog.fr,40
+The Escapist,40

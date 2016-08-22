@@ -1,0 +1,3 @@
+DarkStation,60
+XGN,45
+Gaming Nexus,16

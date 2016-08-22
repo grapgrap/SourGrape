@@ -1,0 +1,21 @@
+PC Format,90
+GamingTrend,89
+Worth Playing,89
+CPUGamer,85
+Pelit (Finland),84
+Game Revolution,83
+AceGamez,80
+Armchair Empire,80
+PTGamers,80
+Gamers' Temple,79
+PC Gamer UK,79
+GameWatcher,78
+GameZone,77
+PC Zone UK,77
+IGN,76
+GameShark,75
+Game Chronicles,75
+Game Over Online,73
+PC Gamer,73
+Total PC Gaming,70
+Eurogamer,70

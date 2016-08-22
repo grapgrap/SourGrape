@@ -1,0 +1,10 @@
+IGN,80
+GameZone,73
+Game Chronicles,70
+Cheat Code Central,60
+G4 TV,40
+Computer Games Magazine,40
+GameSpy,38
+GameSpot,38
+PC Gamer,37
+Computer Gaming World,30

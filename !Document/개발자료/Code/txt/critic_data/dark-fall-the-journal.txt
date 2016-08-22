@@ -1,0 +1,23 @@
+Just Adventure,100
+Quandary,90
+Armchair Empire,86
+Game Over Online,82
+Gamers' Temple,80
+Computer Gaming World,80
+netjak,78
+Four Fat Chicks,75
+Gamer's Pulse,74
+Game Chronicles,71
+Adventure Gamers,70
+GameZone,70
+Computer Games Magazine,70
+Adrenaline Vault,70
+GameSpy,68
+GameSpot,64
+PC Gamer,61
+GameShark,60
+GameCritics,55
+Cheat Code Central,50
+Gamezilla!,50
+PC Gameworld,44
+GamerFeed,30

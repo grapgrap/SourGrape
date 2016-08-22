@@ -1,0 +1,7 @@
+GameSpy,83
+Adventure Gamers,80
+Quandary,80
+All Game Guide,60
+GameSpot,44
+Computer Games Magazine,40
+IGN,35

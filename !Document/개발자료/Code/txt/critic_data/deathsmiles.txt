@@ -1,0 +1,10 @@
+LevelUp,93
+CGMagazine,85
+GameCrate,83
+GameGrin,80
+PC PowerPlay,80
+Metro GameCentral,80
+COGconnected,75
+DarkZero,70
+Brash Games,70
+Destructoid,70

@@ -1,0 +1,7 @@
+GameCrate,88
+CD-Action,80
+Power Unlimited,80
+Vandal Online,80
+Softpedia,80
+Gamer.nl,65
+Twinfinite,60

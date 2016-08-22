@@ -1,0 +1,34 @@
+GamePro,100
+Maxim Online,100
+G4 TV,100
+Gaming Age,100
+Hot Games,100
+Game Informer,98
+GameZone,98
+Games Radar,95
+Media and Games Online Network,95
+XGP Gaming,94
+IGN,93
+Gamers' Temple,93
+GameSpy,92
+Game Revolution,91
+PC Gamer,91
+Cinescape,91
+Total Video Games,90
+Voodoo Extreme,90
+GameSpot,90
+Computer Games Magazine,90
+Computer Gaming World,90
+GamePen,90
+Adrenaline Vault,90
+Electric Playground,90
+Gamezilla!,90
+ActionTrip,89
+Game Over Online,88
+Gamer's Pulse,86
+netjak,83
+Yahoo!,80
+Cincinnati Enquirer,80
+All Game Guide,80
+PC Gameworld,79
+CPUGamer,70

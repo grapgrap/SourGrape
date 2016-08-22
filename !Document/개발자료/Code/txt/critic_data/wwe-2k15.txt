@@ -1,0 +1,5 @@
+GameWatcher,75
+4Players.de,72
+Multiplayer.it,70
+PC Gamer,67
+Hooked Gamers,65

@@ -1,0 +1,67 @@
+games(TM),90
+DarkZero,90
+Gaming Nexus,90
+Level7.nu,90
+Gameblog.fr,90
+Hardcore Gamer,90
+Meristation,90
+God is a Geek,90
+GameSpot,90
+Destructoid,90
+IGN Spain,88
+IGN,88
+Vandal Online,86
+SpazioGames,85
+IGN Italia,85
+COGconnected,85
+Softpedia,85
+Everyeye.it,85
+GamesVillage.it,85
+3DJuegos,85
+Game Informer,85
+Polygon,85
+Pelit (Finland),84
+Games Master UK,83
+Multiplayer.it,82
+PC Games (Germany),82
+LEVEL (Czech Republic),80
+Merlin'in Kazan©¥ (Turkey),80
+Eurogamer Italy,80
+Shacknews,80
+USgamer,80
+The Jimquisition,80
+Digital Spy,80
+GameStar,80
+Digital Chumps,78
+4Players.de,77
+Arcade Sushi,75
+InsideGamer.nl,75
+GamingTrend,75
+JeuxActu,75
+Game World Navigator Magazine,74
+CD-Action,70
+Games.cz,70
+Gameplanet,70
+ZTGD,70
+GameTrailers,70
+Gamer.nl,70
+Eurogamer Poland,70
+Attack of the Fanboy,70
+The Escapist,70
+GamesRadar+,70
+TheSixthAxis,70
+VideoGamer,70
+DarkStation,60
+CGMagazine,60
+Dealspwn,60
+Giant Bomb,60
+Gamer.no,60
+IncGamers,60
+PCGamesN,60
+PC Gamer,57
+Edge Magazine,50
+Game Revolution,50
+Gaming Age,42
+Guardian,40
+Riot Pixels,25
+Slant Magazine,20

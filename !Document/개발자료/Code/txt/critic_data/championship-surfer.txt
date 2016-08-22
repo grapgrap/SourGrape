@@ -1,0 +1,8 @@
+GameZone,85
+IGN,71
+Computer Games Magazine,60
+Adrenaline Vault,60
+GameSpot,53
+Yahoo!,50
+CNET Gamecenter,40
+Daily Radar,0

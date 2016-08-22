@@ -1,0 +1,6 @@
+GamingXP,81
+GameStar,51
+CD-Action,45
+Absolute Games,35
+GameWatcher,15
+LEVEL (Czech Republic),10

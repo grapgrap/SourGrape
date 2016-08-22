@@ -1,0 +1,6 @@
+Games Radar,91
+ActionTrip,90
+GameSpot,88
+PC Format,84
+Computer and Video Games,84
+GamerArchive,80

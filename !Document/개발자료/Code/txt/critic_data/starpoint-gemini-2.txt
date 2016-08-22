@@ -1,0 +1,19 @@
+GamingTrend,90
+COGconnected,82
+CD-Action,80
+IncGamers,80
+Multiplayer.it,80
+IGN Italia,80
+PC Gamer,80
+GameWatcher,75
+Softpedia,70
+GameStar,70
+Digital Chumps,70
+Hardcore Gamer,70
+Hooked Gamers,70
+Gamer.no,70
+PC Games (Germany),70
+Gamer.nl,60
+CalmDownTom,60
+4Players.de,59
+LEVEL (Czech Republic),40

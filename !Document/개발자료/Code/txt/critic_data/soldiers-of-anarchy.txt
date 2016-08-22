@@ -1,0 +1,9 @@
+GameSpot,81
+G4 TV,80
+IGN,80
+PC Gamer,75
+ActionTrip,74
+Game Over Online,71
+Adrenaline Vault,70
+Computer Games Magazine,60
+Computer Gaming World,50

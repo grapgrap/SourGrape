@@ -1,0 +1,10 @@
+GamingTrend,85
+Brash Games,80
+Eurogamer Italy,80
+TheSixthAxis,80
+IGN Italia,78
+Softpedia,75
+CD-Action,70
+Gamestyle,70
+Eurogamer Poland,70
+GameWatcher,55

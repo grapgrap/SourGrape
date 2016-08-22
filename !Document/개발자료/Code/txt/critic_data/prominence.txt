@@ -1,0 +1,3 @@
+Adventure Gamers,80
+Hardcore Gamer,80
+Kill Screen,57

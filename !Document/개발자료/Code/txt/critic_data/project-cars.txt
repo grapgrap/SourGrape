@@ -1,0 +1,48 @@
+LEVEL (Czech Republic),100
+Pelit (Finland),90
+SpazioGames,90
+Gamer.no,90
+CGMagazine,90
+Gameblog.fr,90
+Eurogamer Poland,90
+Attack of the Fanboy,90
+GamesVillage.it,90
+PC Games (Germany),89
+IGN,89
+4Players.de,88
+Digital Chumps,88
+GameStar,88
+Multiplayer.it,88
+Vandal Online,88
+Worth Playing,86
+Everyeye.it,86
+IGN Spain,86
+GamingTrend,85
+LevelUp,85
+COGconnected,85
+Power Unlimited,85
+IGN Italia,85
+Softpedia,85
+PC Gamer,83
+Game World Navigator Magazine,82
+Cheat Code Central,82
+Games.cz,80
+Game Revolution,80
+PCGamesN,80
+Gaming Nexus,80
+GameSpot,80
+Twinfinite,80
+Eurogamer Italy,80
+Dealspwn,80
+We Got This Covered,80
+Gamestyle,80
+Post Arcade (National Post),80
+Level7.nu,80
+Hardcore Gamer,80
+Merlin'in Kazan©¥ (Turkey),75
+PCWorld,70
+PC PowerPlay,70
+Kill Screen,69
+Ragequit.gr,68
+GameCritics,65
+Shacknews,60

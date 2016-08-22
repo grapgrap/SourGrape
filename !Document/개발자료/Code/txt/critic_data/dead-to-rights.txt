@@ -1,0 +1,11 @@
+GameZone,79
+IGN,75
+GameSpy,75
+GameSpot,72
+PC Format,72
+PC Gamer,71
+PC Gameworld,62
+Eurogamer,60
+Computer and Video Games,59
+1UP,55
+Computer Gaming World,40

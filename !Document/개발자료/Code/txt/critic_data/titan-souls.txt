@@ -1,0 +1,46 @@
+Games Master UK,90
+Game Rant,90
+Multiplayer.it,90
+PC Gamer,87
+Gaming Nexus,85
+IGN Spain,85
+ZTGD,85
+Game Informer,85
+IGN Italia,84
+games(TM),80
+LEVEL (Czech Republic),80
+COGconnected,80
+Eurogamer Italy,80
+Everyeye.it,80
+Gamestyle,80
+The Escapist,80
+Telegraph,80
+Hardcore Gamer,80
+SpazioGames,80
+3DJuegos,80
+IGN,80
+TheSixthAxis,80
+Destructoid,80
+Digital Spy,80
+ActionTrip,78
+Meristation,78
+Kill Screen,78
+4Players.de,77
+Vandal Online,76
+GameOver.gr,75
+Softpedia,75
+CD-Action,70
+Games.cz,70
+USgamer,70
+GamesVillage.it,70
+Attack of the Fanboy,70
+GameTrailers,70
+PCGamesN,70
+God is a Geek,70
+GameSpot,70
+Polygon,65
+Eurogamer Poland,60
+Riot Pixels,55
+Edge Magazine,50
+Metro GameCentral,50
+GameCritics,40

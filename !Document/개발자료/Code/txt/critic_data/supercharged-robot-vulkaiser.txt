@@ -1,0 +1,3 @@
+Destructoid,75
+Dealspwn,70
+GamingTrend,50

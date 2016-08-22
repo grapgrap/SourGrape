@@ -1,0 +1,6 @@
+Multiplayer.it,80
+Everyeye.it,80
+Destructoid,80
+CD-Action,75
+Gamer.nl,70
+GameOver.gr,65

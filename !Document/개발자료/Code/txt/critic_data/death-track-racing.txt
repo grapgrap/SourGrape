@@ -1,0 +1,7 @@
+IGN,87
+Happy Puppy,80
+All Game Guide,70
+GameSpot,70
+GameZone,70
+Adrenaline Vault,70
+CNET Gamecenter,60

@@ -1,0 +1,48 @@
+Impulsegamer,100
+USgamer,100
+PCGamesN,100
+Giant Bomb,100
+GamingTrend,95
+GamesBeat,95
+Vandal Online,93
+Multiplayer.it,92
+Pelit (Finland),90
+Hyper Magazine,90
+CD-Action,90
+PC PowerPlay,90
+Riot Pixels,90
+RPG Fan,90
+RPGamer,90
+GameWatcher,90
+Game Revolution,90
+GRYOnline.pl,90
+PC Gamer,90
+GamesRadar+,90
+IGN,90
+Meristation,88
+LevelUp,85
+3DJuegos,85
+Lazygamer,85
+Game Informer,85
+Polygon,85
+GameTrailers,83
+MMORPG.com,82
+PC Games (Germany),81
+GameStar,81
+LEVEL (Czech Republic),80
+Games.cz,80
+Level7.nu,80
+Gamer.no,80
+Gamereactor Denmark,80
+GameOver.gr,80
+Eurogamer Portugal,80
+IncGamers,80
+Eurogamer Germany,80
+The Escapist,80
+Gameblog.fr,80
+GameFront,75
+Joystiq,70
+GameSpot,70
+Gamereactor Sweden,60
+Shacknews,60
+Gaming Age,58

@@ -1,0 +1,8 @@
+Telegraph,100
+IGN,85
+PC Gamer,85
+PC Invasion,80
+GameWatcher,80
+Ragequit.gr,78
+CD-Action,60
+Rock, Paper, Shotgun,

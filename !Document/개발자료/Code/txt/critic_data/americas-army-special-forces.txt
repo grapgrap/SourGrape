@@ -1,0 +1,6 @@
+Gamezilla!,92
+Computer Gaming World,90
+GameSpy,90
+Stuff,80
+GameZone,79
+GamerFeed,70

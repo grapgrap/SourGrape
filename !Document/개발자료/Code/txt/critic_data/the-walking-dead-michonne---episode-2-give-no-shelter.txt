@@ -1,0 +1,24 @@
+GameSpew,90
+God is a Geek,90
+Brash Games,80
+We Got This Covered,80
+Arcade Sushi,80
+Ragequit.gr,78
+Everyeye.it,72
+IGN,72
+GameCritics,70
+Lazygamer,70
+WCCFtech,70
+DarkZero,70
+Hardcore Gamer,70
+RPG Fan,65
+Game Rant,60
+Game Informer,60
+Destructoid,60
+Gaming Age,58
+Gameplanet,55
+The Games Machine,55
+Games.cz,50
+Hooked Gamers,50
+PC Invasion,50
+Attack of the Fanboy,40

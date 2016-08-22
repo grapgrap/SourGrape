@@ -1,0 +1,10 @@
+ActionTrip,89
+GamePower,88
+Total Video Games,70
+Electric Playground,60
+GameZone,60
+IGN,57
+GameSpot,54
+GameSpy,53
+Yahoo!,50
+Game Revolution,33

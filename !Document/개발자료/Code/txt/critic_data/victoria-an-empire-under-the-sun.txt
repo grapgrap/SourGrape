@@ -1,0 +1,12 @@
+Gamer's Hell,75
+IGN,72
+GameZone,70
+GameSpot,63
+PC Gamer,62
+Computer Games Magazine,60
+Computer Gaming World,60
+FiringSquad,57
+Computer and Video Games,52
+Adrenaline Vault,40
+VideoGamesLife,35
+GameSpy,30

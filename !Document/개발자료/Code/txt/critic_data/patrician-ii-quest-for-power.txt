@@ -1,0 +1,12 @@
+PC Gamer,89
+Gamer's Pulse,86
+GameSpy,83
+Computer Games Magazine,80
+Adrenaline Vault,80
+IGN,79
+GameSpot,77
+Computer Gaming World,70
+Gamezilla!,67
+TotalGames.net,66
+Electric Playground,60
+Yahoo!,50

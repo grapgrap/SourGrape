@@ -1,0 +1,6 @@
+GameZone,80
+Adrenaline Vault,80
+GameSpot,79
+Game Over Online,64
+Worth Playing,40
+Computer Games Magazine,30

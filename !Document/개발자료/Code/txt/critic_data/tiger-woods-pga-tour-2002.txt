@@ -1,0 +1,9 @@
+PC Gameworld,97
+Yahoo!,90
+ActionTrip,88
+IGN,82
+GameSpot,82
+Games Radar,81
+Electric Playground,80
+PC Gamer,79
+Computer Gaming World,70

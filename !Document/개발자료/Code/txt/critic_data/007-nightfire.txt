@@ -1,0 +1,14 @@
+GameZone,89
+Maxim Online,80
+PC Gameworld,80
+Game Over Online,76
+IGN,70
+GameCritics,70
+GameSpy,66
+GameSpot,60
+PC Gamer,57
+ActionTrip,55
+FiringSquad,49
+Computer Games Magazine,40
+Eurogamer,30
+Computer Gaming World,20

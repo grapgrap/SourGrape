@@ -1,0 +1,4 @@
+Telegraph,100
+Gamers' Temple,85
+4Players.de,85
+TheSixthAxis,80

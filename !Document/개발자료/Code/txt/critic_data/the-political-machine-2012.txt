@@ -1,0 +1,8 @@
+DarkStation,70
+IGN,65
+Gamers' Temple,65
+GamesRadar+,60
+GameSpot,60
+PC Gamer,55
+PC PowerPlay,40
+GameSpy,40

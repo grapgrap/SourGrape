@@ -1,0 +1,3 @@
+IGN,75
+GameSpot,63
+GameSpy,60

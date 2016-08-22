@@ -1,0 +1,2 @@
+CalmDownTom,60
+DarkStation,40

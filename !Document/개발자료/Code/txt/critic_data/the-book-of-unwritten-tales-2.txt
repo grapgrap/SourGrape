@@ -1,0 +1,39 @@
+LEVEL (Czech Republic),100
+Ragequit.gr,95
+GameOver.gr,90
+Softpedia,90
+Hardcore Gamer,90
+IGN Italia,90
+Gameplanet,90
+TheSixthAxis,90
+GameWatcher,90
+Multiplayer.it,90
+GamesVillage.it,88
+Everyeye.it,87
+CD-Action,85
+RPG Fan,85
+Vandal Online,85
+COGconnected,85
+PC Games (Germany),85
+Meristation,82
+GameStar,81
+CalmDownTom,80
+Dealspwn,80
+Adventure Gamers,80
+Games.cz,80
+4Players.de,80
+ZTGD,80
+IGN Spain,80
+Eurogamer Poland,80
+We Got This Covered,80
+Eurogamer Italy,80
+Game Revolution,80
+God is a Geek,80
+Arcade Sushi,80
+Game Over Online,79
+Hooked Gamers,75
+Game World Navigator Magazine,73
+Attack of the Fanboy,70
+Riot Pixels,67
+The Digital Fix,50
+games(TM),40

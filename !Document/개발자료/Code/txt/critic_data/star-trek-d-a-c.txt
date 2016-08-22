@@ -1,0 +1,9 @@
+IGN,70
+Meristation,60
+GameStar,56
+LEVEL (Czech Republic),50
+PC PowerPlay,50
+GameSpot,50
+PC Gamer UK,41
+PC Format,34
+Total PC Gaming,30

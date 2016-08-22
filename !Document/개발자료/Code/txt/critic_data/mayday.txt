@@ -1,0 +1,5 @@
+GameZone,75
+IGN,49
+All Game Guide,40
+Computer Games Magazine,30
+GameSpot,25

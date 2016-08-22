@@ -1,0 +1,45 @@
+Four Fat Chicks,100
+Gaming Age,100
+GamePro,100
+Australian GamePro,95
+Game Chronicles,94
+Adrenaline Vault,90
+Gamers Depot,90
+Total Video Games,90
+Gaming Illustrated,90
+Computer Games Magazine,90
+PC Format,90
+Stuff,90
+GameZone,90
+netjak,88
+Worth Playing,86
+IGN,86
+Gamer's Hell,86
+1UP,85
+Computer and Video Games,85
+GameSpy,85
+ActionTrip,84
+VideoGamesLife,84
+Play Magazine,83
+GameSpot,83
+Play.tm,83
+RealGamer,82
+Game Over Online,82
+AtomicGamer,82
+FiringSquad,81
+Boomtown,80
+Times Online,80
+Computer Gaming World,80
+GMR Magazine,80
+G4 TV,80
+Gamer.tv,80
+eToychest,80
+Armchair Empire,80
+GamerFeed,80
+DailyGame,80
+Yahoo!,80
+WHAM! Gaming,80
+PC Gamer,74
+Game Informer,73
+Edge Magazine,70
+XGP Gaming,66

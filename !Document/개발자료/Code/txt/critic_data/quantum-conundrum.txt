@@ -1,0 +1,60 @@
+Destructoid,100
+LEVEL (Czech Republic),90
+AusGamers,90
+ZTGD,90
+GamesRadar+,90
+Wired,90
+4Players.de,88
+3DJuegos,86
+Cheat Code Central,86
+Game Over Online,85
+SpazioGames,85
+Game Informer,85
+GamesBeat,84
+Games Master UK,83
+GamingXP,83
+Computer Games Online RO,83
+Meristation,82
+GameStar,81
+Games.cz,80
+JeuxActu,80
+Game Revolution,80
+Multiplayer.it,80
+AtomicGamer,80
+Eurogamer Sweden,80
+Gamereactor Denmark,80
+The Escapist,80
+G4 TV,80
+Gameblog.fr,80
+games(TM),80
+GameWatcher,80
+Metro GameCentral,80
+Digital Spy,80
+Machinima,80
+IGN,80
+VideoGamer,80
+IncGamers,80
+PC Master (Greece),79
+GameTrailers,79
+Vandal Online,78
+Pelit (Finland),76
+CD-Action,75
+Worth Playing,75
+GRYOnline.pl,75
+GameSpot,75
+Polygon,75
+ActionTrip,74
+PC PowerPlay,70
+Eurogamer Germany,70
+Gamer.nl,70
+Gamer.no,70
+DarkStation,70
+Joystiq,70
+GameSpy,70
+PC Gamer UK,69
+Riot Pixels,60
+Edge Magazine,60
+Guardian,60
+BigPond GameArena,55
+Eurogamer,50
+Gameplanet,45

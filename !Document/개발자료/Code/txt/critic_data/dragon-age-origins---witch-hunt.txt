@@ -1,0 +1,6 @@
+IGN,65
+PC PowerPlay,60
+LEVEL (Czech Republic),60
+Multiplayer.it,55
+GameSpot,50
+Gamekult,30

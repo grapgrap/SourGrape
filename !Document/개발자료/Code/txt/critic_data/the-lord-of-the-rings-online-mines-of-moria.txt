@@ -1,0 +1,24 @@
+GamingTrend,95
+Pelit (Finland),93
+Gamers.at,91
+Eurogamer,90
+GameSpy,90
+PC PowerPlay,90
+Boomtown,90
+Game Chronicles,89
+IGN,87
+GamingXP,87
+Play.tm,86
+PC Gamer UK,86
+PC Format,86
+GamerNode,85
+PC Zone UK,85
+GameSpot,85
+1UP,83
+GameStar,83
+Multiplayer.it,82
+Gamervision,80
+D+PAD Magazine,80
+VideoGamer,80
+Cheat Code Central,76
+LEVEL (Czech Republic),70

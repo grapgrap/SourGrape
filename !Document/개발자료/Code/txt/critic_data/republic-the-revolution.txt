@@ -1,0 +1,21 @@
+Total Video Games,80
+PC Format,78
+ActionTrip,74
+Gamer's Hell,73
+IGN,72
+TotalGames.net,70
+Game Over Online,70
+Yahoo!,70
+GameSpot,69
+GameSpy,68
+GameZone,68
+netjak,63
+Game Informer,60
+Edge Magazine,60
+Eurogamer,60
+Computer Gaming World,50
+PC Gamer,50
+GMR Magazine,50
+Game Revolution,42
+G4 TV,40
+Computer Games Magazine,40

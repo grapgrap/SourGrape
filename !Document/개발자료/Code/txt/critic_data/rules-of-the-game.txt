@@ -1,0 +1,4 @@
+GamePower,75
+GameSpot,56
+IGN,46
+Adrenaline Vault,40

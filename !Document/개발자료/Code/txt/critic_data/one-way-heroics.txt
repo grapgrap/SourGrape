@@ -1,0 +1,3 @@
+RPG Fan,83
+RPGamer,70
+USgamer,60

@@ -1,0 +1,21 @@
+PLAY! Zine,75
+IGN Italia,72
+Multiplayer.it,70
+Gaming Nexus,70
+MMORPG.com,70
+Softpedia,70
+Shacknews,70
+Hardcore Gamer,70
+GameStar,70
+Destructoid,70
+IGN Spain,66
+IGN,65
+Eurogamer Italy,60
+CGMagazine,60
+COGconnected,60
+Hooked Gamers,60
+Metro GameCentral,60
+GameCritics,50
+GameWatcher,50
+games(TM),40
+GameSpot,30

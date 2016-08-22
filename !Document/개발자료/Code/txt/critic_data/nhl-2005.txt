@@ -1,0 +1,11 @@
+IGN,83
+Computer and Video Games,81
+PGNx Media,80
+AceGamez,80
+GameSpot,79
+Yahoo!,70
+PC Gamer,64
+games(TM),60
+Computer Gaming World,50
+Computer Games Magazine,40
+GameSpy,30

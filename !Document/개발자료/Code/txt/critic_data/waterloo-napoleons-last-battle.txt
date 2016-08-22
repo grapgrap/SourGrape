@@ -1,0 +1,9 @@
+GamePower,100
+GameSpy,87
+Gamer's Pulse,82
+Gamers' Temple,82
+All Game Guide,80
+IGN,78
+Da Gameboyz,75
+GameSpot,73
+Computer Games Magazine,70

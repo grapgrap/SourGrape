@@ -1,0 +1,4 @@
+GameSpy,72
+Computer Gaming World,50
+Computer Games Magazine,50
+TotalGames.net,30

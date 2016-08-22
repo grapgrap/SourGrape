@@ -1,0 +1,10 @@
+GameZone,80
+GameSpot,77
+PC Gamer,74
+Game Over Online,71
+Gamer's Pulse,68
+GameSpy,65
+Yahoo!,60
+IGN,50
+Armchair Empire,49
+Computer Gaming World,30

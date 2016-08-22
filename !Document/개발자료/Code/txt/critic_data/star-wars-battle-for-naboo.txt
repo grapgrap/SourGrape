@@ -1,0 +1,17 @@
+GameSpy,76
+GameZone,75
+IGN,74
+Happy Puppy,65
+GameSpot,64
+Armchair Empire,64
+Game Over Online,58
+Game Revolution,58
+ActionTrip,51
+Yahoo!,50
+Gamezilla!,50
+Eurogamer,50
+Daily Radar,50
+Da Gameboyz,36
+Computer Games Magazine,30
+PC Gamer,15
+Games Radar,0

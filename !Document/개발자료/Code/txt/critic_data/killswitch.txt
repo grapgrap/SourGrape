@@ -1,0 +1,14 @@
+IncGamers,85
+Worth Playing,80
+AceGamez,80
+Total Video Games,80
+IGN,78
+Computer and Video Games,74
+Computer Games Online RO,70
+PC Gamer,70
+GameSpot,60
+GameSpy,60
+PC Format,57
+VideoGamesLife,56
+Cheat Code Central,50
+Gamers Europe,25

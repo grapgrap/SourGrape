@@ -1,0 +1,26 @@
+CalmDownTom,100
+Everyeye.it,80
+Eurogamer,80
+Ragequit.gr,80
+Hardcore Gamer,80
+IncGamers,80
+3DJuegos,75
+Multiplayer.it,73
+SpazioGames,70
+GameTrailers,70
+DarkStation,70
+Eurogamer Italy,70
+Digitally Downloaded,70
+God is a Geek,70
+Destructoid,70
+Meristation,70
+Vandal Online,68
+Game World Navigator Magazine,67
+IGN,67
+Riot Pixels,63
+CD-Action,60
+PC PowerPlay,60
+USgamer,60
+Gaming Age,58
+IGN Italia,55
+PC Gamer,55

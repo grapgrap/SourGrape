@@ -1,0 +1,46 @@
+GameDaily,100
+Next Level Gaming,92
+Game Over Online,92
+PC Format,91
+eToychest,91
+Just Adventure,91
+PC Gamer UK,90
+Worth Playing,90
+Yahoo!,90
+GamesRadar+,90
+AceGamez,90
+Game Chronicles,89
+RPG Fan,89
+Jolt Online Gaming UK,89
+PC Gameworld,88
+GameZone,87
+GameSpot,86
+Games Master UK,86
+PC Zone UK,86
+IGN,85
+Computer Games Online RO,85
+Gaming Nexus,85
+GamingTrend,85
+ActionTrip,84
+PC Gamer,84
+Pelit (Finland),84
+GamerNode,84
+Digital Entertainment News,83
+Quandary,80
+Game Informer,80
+Eurogamer,80
+GameSpy,80
+Edge Magazine,80
+Sydney Morning Herald,80
+Just RPG,80
+Play Magazine,75
+GameShark,75
+Game Revolution,75
+VideoGamer,70
+Computer Games Magazine,70
+games(TM),70
+The A.V. Club,67
+PALGN,65
+1UP,60
+RewiredMind,60
+G4 TV,60

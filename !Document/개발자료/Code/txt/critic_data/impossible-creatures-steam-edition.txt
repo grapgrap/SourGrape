@@ -1,0 +1,5 @@
+COGconnected,90
+IGN Italia,75
+Brash Games,70
+Hardcore Gamer,70
+High-Def Digest,60

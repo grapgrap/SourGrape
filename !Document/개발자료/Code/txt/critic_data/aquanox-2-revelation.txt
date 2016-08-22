@@ -1,0 +1,13 @@
+PC Gamer,87
+GameZone,80
+Adrenaline Vault,70
+ActionTrip,67
+Game Chronicles,66
+GameSpy,65
+G4 TV,60
+IGN,60
+Computer Games Magazine,60
+GameSpot,56
+Yahoo!,50
+Cheat Code Central,40
+Computer Gaming World,20

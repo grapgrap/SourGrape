@@ -1,0 +1,9 @@
+Adrenaline Vault,90
+CheckOut,90
+Eurogamer,90
+IGN,88
+GameSpy,87
+Game Over Online,81
+TotalGames.net,80
+Happy Puppy,80
+CNET Gamecenter,60

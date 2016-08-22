@@ -1,0 +1,5 @@
+GameOver.gr,100
+PC PowerPlay,100
+The Escapist,90
+Attack of the Fanboy,90
+CGMagazine,80

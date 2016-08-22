@@ -1,0 +1,28 @@
+Gamer Limit,80
+Pelit (Finland),80
+GameTrailers,78
+IGN,77
+ZTGD,75
+Impulsegamer,75
+Cheat Code Central,74
+GameWatcher,74
+Gamers.at,71
+GamePro,70
+Level7.nu,70
+Boomtown,70
+AceGamez,70
+RealGamer,70
+PC Zone UK,70
+GameStar,67
+GameShark,67
+PC Format,66
+GameSpot,65
+Game Informer,65
+PC Gamer UK,65
+Worth Playing,64
+Total PC Gaming,60
+GameFocus,60
+Absolute Games,60
+LEVEL (Czech Republic),50
+The A.V. Club,42
+Metro GameCentral,40

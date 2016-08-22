@@ -1,0 +1,11 @@
+GameZone,80
+Electric Playground,70
+GameSpy,45
+PC Gamer,42
+Adrenaline Vault,40
+Gamer's Pulse,34
+IGN,30
+Armchair Empire,30
+GameSpot,26
+Computer Games Magazine,20
+netjak,12

@@ -1,0 +1,11 @@
+Gaming Age,83
+PC Gamer,82
+Quandary,80
+GameSpot,79
+Four Fat Chicks,75
+Computer and Video Games,75
+Adrenaline Vault,70
+Computer Games Magazine,60
+Just Adventure,50
+Game Revolution,50
+Adventure Gamers,40

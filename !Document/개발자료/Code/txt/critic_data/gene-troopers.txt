@@ -1,0 +1,5 @@
+Boomtown,60
+Worth Playing,60
+IncGamers,50
+PC Format,47
+PC Zone UK,30

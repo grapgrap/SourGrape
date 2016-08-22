@@ -1,0 +1,17 @@
+GameWatcher,90
+PCWorld,80
+Multiplayer.it,75
+LevelUp,75
+4Players.de,75
+Everyeye.it,75
+IGN Spain,73
+Hooked Gamers,73
+Ragequit.gr,71
+SpazioGames,70
+Eurogamer Poland,70
+Gamer.nl,70
+Riot Pixels,69
+LEVEL (Czech Republic),60
+Eurogamer Italy,60
+Games.cz,60
+GameSpot,60

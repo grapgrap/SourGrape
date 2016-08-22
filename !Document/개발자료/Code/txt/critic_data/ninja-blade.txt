@@ -1,0 +1,11 @@
+VideoGamer,80
+GamingXP,80
+GameStar,73
+GameSpot,70
+SpazioGames,68
+Absolute Games,63
+9Lives,62
+LEVEL (Czech Republic),60
+Boomtown,50
+PC Gamer UK,46
+PC Zone UK,29

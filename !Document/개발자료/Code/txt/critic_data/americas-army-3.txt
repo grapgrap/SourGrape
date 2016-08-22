@@ -1,0 +1,5 @@
+IGN,84
+GameStar,74
+Total PC Gaming,70
+PC Gamer,65
+PC PowerPlay,50

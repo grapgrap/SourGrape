@@ -1,0 +1,10 @@
+Thunderbolt,80
+IGN,74
+PC Gamer,72
+Game Chronicles,71
+Game Over Online,71
+GameSpot,70
+GameZone,65
+ActionTrip,55
+Computer Games Magazine,40
+Computer Gaming World,40

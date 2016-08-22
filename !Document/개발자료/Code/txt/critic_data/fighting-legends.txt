@@ -1,0 +1,6 @@
+Gamer's Pulse,93
+IGN,65
+GameSpy,63
+Yahoo!,50
+GameSpot,40
+PC Gamer,39

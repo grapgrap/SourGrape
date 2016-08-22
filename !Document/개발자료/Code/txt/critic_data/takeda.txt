@@ -1,0 +1,9 @@
+ActionTrip,79
+GameZone,74
+TotalGames.net,72
+IGN,65
+Computer Games Magazine,60
+Gamer's Pulse,57
+GameSpot,55
+Computer Gaming World,40
+Adrenaline Vault,30

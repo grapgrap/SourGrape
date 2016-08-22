@@ -1,0 +1,14 @@
+GameZone,88
+PGNx Media,85
+Sydney Morning Herald,80
+Times Online,80
+Jolt Online Gaming UK,79
+Next Level Gaming,78
+The New York Times,78
+GamingTrend,77
+Gaming Nexus,75
+PC Format,75
+IGN,70
+GameSpot,70
+Computer Games Magazine,60
+PC Gamer,59

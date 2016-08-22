@@ -1,0 +1,3 @@
+PC Gamer,78
+IGN,73
+GameSpot,55

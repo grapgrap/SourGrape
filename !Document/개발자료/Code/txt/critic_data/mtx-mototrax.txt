@@ -1,0 +1,7 @@
+IGN,83
+GameZone,80
+PC Gamer,75
+1UP,70
+Worth Playing,70
+PC Format,70
+Computer Games Magazine,70

@@ -1,0 +1,3 @@
+CGMagazine,80
+Riot Pixels,65
+Twinfinite,60

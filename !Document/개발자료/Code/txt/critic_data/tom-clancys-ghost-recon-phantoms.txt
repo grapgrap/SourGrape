@@ -1,0 +1,24 @@
+LEVEL (Czech Republic),80
+CD-Action,80
+Gameblog.fr,80
+GameStar,76
+Games Master UK,76
+GameSpot,75
+Vandal Online,75
+IGN,75
+Everyeye.it,72
+Edge Magazine,70
+Gamereactor Sweden,70
+3DJuegos,70
+GameSpy,70
+SpazioGames,65
+PC Gamer UK,65
+GRYOnline.pl,65
+XGN,65
+Multiplayer.it,64
+COGconnected,60
+Gamer.nl,60
+IncGamers,60
+Digital Spy,60
+Eurogamer,60
+GameWatcher,55

@@ -1,0 +1,23 @@
+Daily Radar,100
+Da Gameboyz,95
+GameZone,93
+Gaming Age,91
+IGN,91
+Antagonist,91
+CNET Gamecenter,90
+Game Over Online,90
+Adrenaline Vault,90
+Eurogamer,90
+GamerWeb PC,90
+ActionTrip,89
+Games Radar,88
+GameSpot,86
+TotalGames.net,84
+Gamers' Temple,82
+GamePro,80
+Computer Games Magazine,80
+Happy Puppy,80
+Evil Avatar,80
+Game Revolution,75
+Electric Playground,70
+PC Gamer,68

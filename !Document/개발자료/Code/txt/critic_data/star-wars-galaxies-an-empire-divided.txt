@@ -1,0 +1,33 @@
+Cinescape,100
+GamePro,100
+GameNow,100
+Game Informer,95
+GameZone,90
+VIA Gamers Arena,85
+Game Chronicles,81
+Gamer.tv,80
+CPUGamer,80
+IGN,80
+Cheat Code Central,80
+Gamer's Hell,78
+PC Gamer,77
+GameSpot,75
+GameSpy,75
+ActionTrip,73
+AtomicGamer,72
+1UP,70
+GMR Magazine,70
+Eurogamer,70
+PC Format,68
+Play Magazine,67
+Armchair Empire,65
+Gamer's Pulse,62
+GamerFeed,60
+Game Revolution,58
+Computer Games Magazine,50
+Edge Magazine,50
+Adrenaline Vault,50
+netjak,45
+G4 TV,40
+Yahoo!,40
+Computer Gaming World,30

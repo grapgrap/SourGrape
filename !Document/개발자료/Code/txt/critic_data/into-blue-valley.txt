@@ -1,0 +1,2 @@
+games(TM),30
+DarkStation,20

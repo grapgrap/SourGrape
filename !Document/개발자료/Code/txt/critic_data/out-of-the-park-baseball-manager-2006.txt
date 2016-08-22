@@ -1,0 +1,7 @@
+Operation Sports,90
+Computer Games Magazine,90
+Deeko,80
+GameZone,73
+Worth Playing,72
+GameSpy,70
+PC Gamer,46

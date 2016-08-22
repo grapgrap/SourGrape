@@ -1,0 +1,14 @@
+GameZone,59
+Game Over Online,56
+Worth Playing,55
+IGN,50
+VideoGamesLife,49
+GameSpot,40
+GameSpy,30
+Quandary,30
+GameShark,26
+Just Adventure,25
+netjak,22
+Computer Games Magazine,20
+Game Chronicles,20
+Adventure Gamers,20

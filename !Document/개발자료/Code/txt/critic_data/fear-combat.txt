@@ -1,0 +1,4 @@
+GameShark,100
+PC Gameworld,90
+GamerNode,89
+Pelit (Finland),86

@@ -1,0 +1,25 @@
+Gaming Age,100
+Play Magazine,100
+Playboy,100
+GameShark,92
+PC Gamer,90
+Adrenaline Vault,90
+GameZone,90
+Games Radar,89
+ActionTrip,85
+Just RPG,85
+GameSpy,85
+PC Format,84
+Game Over Online,84
+GameNow,83
+GameSpot,82
+Computer and Video Games,81
+Boomtown,80
+IGN,80
+GMR Magazine,80
+Game Informer,80
+G4 TV,80
+eToychest,80
+Computer Games Magazine,80
+Computer Gaming World,80
+games(TM),70

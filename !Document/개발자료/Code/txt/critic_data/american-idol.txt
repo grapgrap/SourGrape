@@ -1,0 +1,5 @@
+Computer Games Magazine,50
+GameSpot,47
+PC Gamer,37
+IGN,33
+GameSpy,25

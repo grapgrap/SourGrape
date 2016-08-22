@@ -1,0 +1,38 @@
+LEVEL (Czech Republic),100
+PCGamesN,100
+Eurogamer,100
+Ragequit.gr,92
+Gamestyle,90
+4Players.de,90
+Softpedia,90
+Destructoid,90
+Multiplayer.it,88
+Pelit (Finland),85
+Gamer.nl,85
+IGN,83
+GameStar,82
+Meristation,82
+RPGamer,80
+Game Rant,80
+Eurogamer Italy,80
+Dealspwn,80
+Games.cz,80
+Hardcore Gamer,80
+Digital Chumps,80
+Quarter to Three,80
+3DJuegos,80
+PC Gamer,80
+Metro GameCentral,80
+Gameplanet,80
+Game Informer,80
+Guardian,80
+Game World Navigator Magazine,79
+CD-Action,75
+GRYOnline.pl,75
+Level7.nu,70
+Riot Pixels,70
+The Escapist,70
+Eurogamer Poland,70
+Games Master UK,69
+GameSpot,60
+CalmDownTom,60

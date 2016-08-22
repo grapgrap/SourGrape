@@ -1,0 +1,18 @@
+GameZone,95
+Armchair Empire,87
+Gamers' Temple,84
+Game Over Online,81
+GameSpy,80
+GameSpot,80
+Computer Gaming World,80
+Game Informer,80
+Total Video Games,80
+IGN,80
+Games Radar,76
+PC Gamer,72
+Yahoo!,70
+Gaming Age,67
+G4 TV,60
+Maxim Online,60
+All Game Guide,60
+Game Revolution,50

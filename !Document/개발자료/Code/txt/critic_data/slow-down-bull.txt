@@ -1,0 +1,5 @@
+COGconnected,75
+Softpedia,75
+Digital Chumps,70
+GameSpot,60
+Game Revolution,50

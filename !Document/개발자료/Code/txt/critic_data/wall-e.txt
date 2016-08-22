@@ -1,0 +1,6 @@
+IGN,75
+LEVEL (Czech Republic),70
+Play (Poland),60
+PC Format,58
+PC Gamer UK,48
+PC Gamer,22

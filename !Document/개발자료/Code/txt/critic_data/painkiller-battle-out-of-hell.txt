@@ -1,0 +1,36 @@
+Stuff,95
+Worth Playing,93
+eToychest,90
+GameZone,90
+CPUGamer,90
+Game Chronicles,88
+Gaming Nexus,86
+Game Over Online,86
+PC Gameworld,85
+IC-Games,85
+Gamer's Hell,85
+Gamers' Temple,84
+Pelit (Finland),81
+GameShark,80
+GameSpy,80
+Game Informer,80
+VGPub,80
+Four Fat Chicks,80
+IncGamers,80
+GameSpot,76
+RealGamer,76
+IGN,75
+Play Magazine,75
+ActionTrip,73
+Next Level Gaming,73
+1UP,70
+Computer Gaming World,70
+AceGamez,70
+Armchair Empire,70
+Games Radar,68
+My Gamer,68
+Computer Games Magazine,60
+PC Format,60
+Thunderbolt,50
+Eurogamer,50
+PC Gamer,42

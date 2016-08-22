@@ -1,0 +1,32 @@
+1UP,100
+Game Informer,90
+VideoGamer,90
+LEVEL (Czech Republic),90
+PC Zone UK,88
+IGN,87
+PC Games (Germany),87
+PC Format,86
+YouGamers,85
+Gamers.at,85
+Gameplanet,85
+GameZone,85
+PC Gamer,84
+Cheat Code Central,84
+NZGamer,83
+GameShark,83
+GameStar,82
+Eurogamer,80
+3DJuegos,80
+G4 TV,80
+PALGN,80
+Meristation,80
+GameSpy,80
+GameSpot,80
+PC PowerPlay,80
+GameFocus,80
+PC Gamer UK,79
+Computer Games Online RO,75
+Worth Playing,72
+Gameplayer,70
+Total PC Gaming,70
+Play.tm,50

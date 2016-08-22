@@ -1,0 +1,10 @@
+Four Fat Chicks,100
+Yahoo!,90
+GameSpot,90
+TotalGames.net,89
+PC Gamer,84
+Adventure Gamers,80
+All Game Guide,80
+Just Adventure,75
+Quandary,60
+Hot Games,40

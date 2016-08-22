@@ -1,0 +1,12 @@
+Polygon,85
+GamingTrend,85
+LEVEL (Czech Republic),80
+Joystiq,80
+Eurogamer,80
+GameSpot,80
+Game Over Online,75
+PC Gamer,72
+PC PowerPlay,70
+CD-Action,70
+Gameblog.fr,70
+Destructoid,70

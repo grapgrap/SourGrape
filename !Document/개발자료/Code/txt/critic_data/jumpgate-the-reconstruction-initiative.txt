@@ -1,0 +1,8 @@
+TotalGames.net,89
+GameSpot,86
+Computer Games Magazine,80
+Total Video Games,80
+GameSpy,79
+IGN,78
+Computer Gaming World,70
+G4 TV,60

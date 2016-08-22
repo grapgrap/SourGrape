@@ -1,0 +1,43 @@
+Giant Bomb,100
+PC Gamer,92
+Hyper Magazine,90
+games(TM),90
+Eurogamer Germany,90
+Eurogamer,90
+Edge Magazine,90
+CD-Action,85
+ZTGD,85
+Hooked Gamers,83
+Vandal Online,82
+Eurogamer Italy,80
+PC PowerPlay,80
+Joystiq,80
+Digital Spy,80
+Digital Chumps,80
+God is a Geek,80
+Hardcore Gamer,80
+D+PAD Magazine,80
+GamesRadar+,80
+Polygon,80
+The Escapist,80
+Multiplayer.it,78
+Everyeye.it,75
+Gamers' Temple,75
+GameStar,73
+The Digital Fix,70
+Adventure Gamers,70
+DarkStation,70
+Gamer.nl,70
+PCGamesN,70
+GameSpot,70
+GamingTrend,70
+GameWatcher,70
+IGN,70
+Destructoid,70
+Game Informer,65
+GameTrailers,62
+LEVEL (Czech Republic),60
+Games.cz,60
+Gameblog.fr,50
+Metro GameCentral,50
+Riot Pixels,25

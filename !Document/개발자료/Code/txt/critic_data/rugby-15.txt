@@ -1,0 +1,3 @@
+SpazioGames,50
+IncGamers,40
+IGN,20

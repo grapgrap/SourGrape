@@ -1,0 +1,16 @@
+GameSpy,92
+Yahoo!,90
+Media and Games Online Network,85
+Gamer's Pulse,82
+All Game Guide,80
+IGN,78
+GameZone,76
+Game Over Online,75
+GameSpot,75
+Electric Playground,70
+ActionTrip,70
+Armchair Empire,70
+Gamers' Temple,70
+PC Gamer,61
+Computer Gaming World,60
+Adrenaline Vault,50

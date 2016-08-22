@@ -1,0 +1,7 @@
+GameZone,89
+IGN,43
+Yahoo!,40
+Happy Puppy,40
+GameSpot,39
+PC Gamer,32
+Game Over Online,19

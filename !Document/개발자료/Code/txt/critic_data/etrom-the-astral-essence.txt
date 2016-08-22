@@ -1,0 +1,6 @@
+GameZone,75
+PC Format,49
+PC Zone UK,46
+Worth Playing,45
+PC Gamer UK,36
+GameSpot,20

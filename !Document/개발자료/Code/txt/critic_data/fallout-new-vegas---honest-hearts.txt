@@ -1,0 +1,12 @@
+AtomicGamer,90
+PC Games (Russia),80
+IGN,75
+GameStar,72
+Absolute Games,70
+IncGamers,70
+GameSpot,70
+PC Gamer,66
+Eurogamer Italy,60
+GameWatcher,55
+GameSpy,40
+Gamekult,40

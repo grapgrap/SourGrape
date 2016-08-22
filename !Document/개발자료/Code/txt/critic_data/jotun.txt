@@ -1,0 +1,26 @@
+DarkStation,100
+Destructoid,90
+Game Revolution,90
+Attack of the Fanboy,90
+Ragequit.gr,88
+IGN Spain,83
+GameCrate,83
+Eurogamer Italy,80
+Brash Games,80
+CD-Action,80
+LEVEL (Czech Republic),80
+Games.cz,80
+GameSpot,80
+CGMagazine,80
+3DJuegos,80
+Vandal Online,80
+IGN,80
+GamingTrend,80
+GameStar,77
+Kill Screen,75
+GameOver.gr,75
+Everyeye.it,73
+SpazioGames,70
+Multiplayer.it,70
+4Players.de,63
+Hooked Gamers,60

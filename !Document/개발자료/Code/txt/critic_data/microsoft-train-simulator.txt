@@ -1,0 +1,16 @@
+GamePower,100
+Gamer's Pulse,92
+Yahoo!,90
+Hot Games,90
+GameZone,85
+Armchair Empire,85
+Cinescape,83
+Gaming Age,83
+GameSpot,82
+Gamezilla!,81
+GameSpy,81
+IGN,80
+Electric Playground,80
+Adrenaline Vault,80
+Cincinnati Enquirer,80
+Eurogamer,60

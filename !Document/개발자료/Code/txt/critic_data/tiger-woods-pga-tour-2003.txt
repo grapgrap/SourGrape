@@ -1,0 +1,14 @@
+Play Magazine,100
+Computer Games Magazine,100
+Operation Sports,95
+Gamer's Pulse,94
+GameSpy,92
+Sports Gaming Network,91
+GameSpot,91
+Computer Gaming World,90
+GameZone,90
+IGN,90
+TotalGames.net,90
+PC Gamer,89
+PC Gameworld,89
+PC Format,83

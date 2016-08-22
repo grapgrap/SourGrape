@@ -1,0 +1,29 @@
+Pregaming,100
+GamePro,100
+Game Informer,93
+Gamezilla!,93
+GameZone,91
+PC Gamer,91
+Game Revolution,91
+Entertainment Weekly,91
+Media and Games Online Network,90
+Game Over Online,90
+Yahoo!,90
+Electric Playground,90
+Gamer's Pulse,90
+All Game Guide,90
+Computer Gaming World,90
+Playboy,90
+ActionTrip,89
+GameSpy,89
+IGN,85
+Gamers' Temple,85
+GameSpot,84
+netjak,82
+G4 TV,80
+Cincinnati Enquirer,80
+GamePen,80
+Four Fat Chicks,75
+PC Gameworld,72
+Quandary,70
+Adrenaline Vault,60

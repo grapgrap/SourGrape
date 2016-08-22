@@ -1,0 +1,30 @@
+AusGamers,100
+Eurogamer,100
+Ten Ton Hammer,91
+PC PowerPlay,90
+Vandal Online,90
+The Escapist,90
+IGN,90
+Edge Magazine,90
+GameSpy,90
+PC Master (Greece),89
+Pelit (Finland),88
+PC Gamer,88
+Computer Games Online RO,87
+Games Master UK,85
+Game Informer,85
+CD-Action,85
+GRYOnline.pl,85
+Meristation,85
+3DJuegos,85
+SpazioGames,85
+GameTrailers,85
+Multiplayer.it,85
+Telegraph,80
+Destructoid,80
+IncGamers,80
+GameSpot,80
+Metro GameCentral,80
+GameStar,79
+Everyeye.it,75
+LEVEL (Czech Republic),70

@@ -1,0 +1,11 @@
+Game Informer,80
+Shacknews,70
+Worth Playing,60
+Slant Magazine,60
+LevelUp,60
+Polygon,60
+Joystiq,60
+COGconnected,55
+Destructoid,55
+GameSpot,50
+CD-Action,40

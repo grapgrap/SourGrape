@@ -1,0 +1,6 @@
+GameWatcher,80
+Everyeye.it,70
+DarkZero,70
+IGN,70
+PC Gamer,60
+CD-Action,50

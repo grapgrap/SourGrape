@@ -1,0 +1,4 @@
+GameZone,68
+GamerNode,40
+IGN,30
+PC Gamer,25

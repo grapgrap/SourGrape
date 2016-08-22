@@ -1,0 +1,5 @@
+IGN,80
+LEVEL (Czech Republic),80
+PC Gamer UK,71
+PC Games (Germany),70
+PC Zone UK,69

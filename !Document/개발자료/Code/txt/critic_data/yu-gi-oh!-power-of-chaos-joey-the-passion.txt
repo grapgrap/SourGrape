@@ -1,0 +1,3 @@
+GamingTrend,58
+GameZone,50
+PC Format,32

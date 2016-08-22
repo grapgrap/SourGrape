@@ -1,0 +1,29 @@
+Gamestyle,90
+Pelit (Finland),90
+DarkStation,90
+Game Revolution,90
+Riot Pixels,85
+XGN,85
+Softpedia,85
+Multiplayer.it,82
+Vandal Online,82
+IGN,81
+CD-Action,80
+CalmDownTom,80
+Games Master UK,80
+Games.cz,80
+4Players.de,80
+Everyeye.it,80
+IGN Italia,80
+GameOver.gr,80
+Gameblog.fr,80
+GameStar,79
+PC Gamer,77
+SpazioGames,75
+COGconnected,72
+Gamers' Temple,70
+USgamer,70
+Game World Navigator Magazine,70
+GamingTrend,70
+GameSpot,70
+Shacknews,70

@@ -1,0 +1,4 @@
+GameSpot,67
+G4 TV,60
+PC Gamer,55
+ActionTrip,55

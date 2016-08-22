@@ -1,0 +1,9 @@
+3DJuegos,70
+GameSpot,70
+Game Over Online,70
+Hooked Gamers,68
+DarkStation,60
+God is a Geek,60
+Adventure Gamers,60
+Eurogamer Italy,50
+Hardcore Gamer,30

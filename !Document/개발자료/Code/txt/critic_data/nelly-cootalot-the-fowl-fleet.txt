@@ -1,0 +1,8 @@
+GameSpew,90
+GameWatcher,85
+Ragequit.gr,83
+RPG Fan,80
+Adventure Gamers,80
+IGN Italia,77
+Eurogamer Italy,70
+Rock, Paper, Shotgun,

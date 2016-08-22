@@ -1,0 +1,20 @@
+GameZone,88
+Game Chronicles,79
+Gamezilla!,78
+RealGamer,76
+Game Over Online,75
+Electric Playground,75
+IGN,74
+PC Gamer,73
+Adrenaline Vault,70
+ActionTrip,70
+TotalGames.net,70
+GameSpy,67
+Gaming Age,67
+GameSpot,63
+PC Gameworld,60
+G4 TV,40
+Computer Games Magazine,40
+FiringSquad,39
+Computer Gaming World,30
+Thunderbolt,20

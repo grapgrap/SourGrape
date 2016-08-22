@@ -1,0 +1,4 @@
+GameCritics,85
+Ragequit.gr,70
+VideoGamer,70
+IncGamers,60

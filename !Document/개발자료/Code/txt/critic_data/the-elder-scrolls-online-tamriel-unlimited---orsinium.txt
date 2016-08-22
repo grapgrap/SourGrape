@@ -1,0 +1,2 @@
+GameStar,80
+SpazioGames,75

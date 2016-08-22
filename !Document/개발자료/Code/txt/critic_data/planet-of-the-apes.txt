@@ -1,0 +1,11 @@
+Total Video Games,70
+Yahoo!,70
+GameZone,65
+Electric Playground,60
+Game Over Online,45
+IGN,40
+All Game Guide,40
+Media and Games Online Network,40
+PC Gamer,36
+GameSpot,31
+Computer Gaming World,20

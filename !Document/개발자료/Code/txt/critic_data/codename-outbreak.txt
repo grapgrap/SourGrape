@@ -1,0 +1,10 @@
+Total Video Games,80
+GameSpy,75
+GameZone,70
+Computer Games Magazine,60
+GameSpot,54
+Computer Gaming World,50
+PC Gamer,50
+GamePen,50
+Yahoo!,40
+Game Revolution,33

@@ -1,0 +1,12 @@
+PC Gamer,70
+PC Format,70
+Total Video Games,70
+PC Zone UK,69
+Gamers' Temple,66
+Digital Entertainment News,62
+Eurogamer,60
+GamesRadar+,60
+GameSpot,54
+GamerFeed,50
+GameSpy,40
+Computer Gaming World,30

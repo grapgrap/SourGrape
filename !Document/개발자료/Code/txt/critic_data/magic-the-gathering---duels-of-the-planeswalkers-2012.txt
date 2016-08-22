@@ -1,0 +1,20 @@
+GameShark,91
+GamePro,90
+IGN,85
+Gamer Limit,85
+CD-Action,80
+Absolute Games,80
+Multiplayer.it,80
+Meristation,80
+Game Informer,80
+Joystiq,80
+Cheat Code Central,76
+NZGamer,75
+PC Gamer,70
+PALGN,70
+Vandal Online,70
+Eurogamer Sweden,70
+GameSpot,70
+Gamekult,70
+PC PowerPlay,60
+Gameblog.fr,60

@@ -1,0 +1,71 @@
+LEVEL (Czech Republic),100
+DarkStation,100
+Gameplanet,100
+Digitally Downloaded,100
+Digital Spy,100
+PCGamesN,100
+The Escapist,100
+Ragequit.gr,99
+GameOver.gr,95
+RPG Fan,95
+3DJuegos,95
+GRYOnline.pl,95
+IGN Italia,94
+LevelUp,93
+Hobby Consolas,93
+Game Informer,93
+ActionTrip,93
+Meristation,93
+Everyeye.it,93
+Multiplayer.it,92
+GameStar,92
+PC Gamer,92
+PC Games (Germany),91
+Level7.nu,90
+GameTrailers,90
+PC PowerPlay,90
+games(TM),90
+CD-Action,90
+The Digital Fix,90
+Shacknews,90
+Lazygamer,90
+NZGamer,90
+IncGamers,90
+Gamestyle,90
+Merlin'in Kazan©¥ (Turkey),90
+Games.cz,90
+USgamer,90
+Gamer.nl,90
+GamingTrend,90
+GamesVillage.it,90
+4Players.de,90
+Softpedia,90
+Game Rant,90
+Gameblog.fr,90
+Vandal Online,90
+IGN,90
+Game Revolution,90
+Eurogamer Poland,90
+Dealspwn,90
+MMORPG.com,90
+GameWatcher,90
+Impulsegamer,86
+Gaming Nexus,85
+Post Arcade (National Post),85
+SpazioGames,85
+AusGamers,85
+IGN Spain,85
+Kill Screen,85
+Game Over Online,85
+Destructoid,85
+Hooked Gamers,84
+Riot Pixels,83
+Games Master UK,82
+Edge Magazine,80
+Game World Navigator Magazine,80
+CGMagazine,80
+GameSpot,80
+Metro GameCentral,80
+Eurogamer Italy,80
+Gamer.no,80
+RPGamer,70

@@ -1,0 +1,26 @@
+PC Gameworld,91
+GameZone,90
+Hot Games,90
+Eurogamer,90
+TotalGames.net,88
+Gamer's Pulse,83
+Computer Games Magazine,80
+Happy Puppy,80
+CheckOut,80
+FiringSquad,78
+Spank!,78
+Game Over Online,76
+Electric Playground,75
+Games Radar,75
+GameSpy,70
+IGN,70
+PC Gamer,70
+All Game Guide,70
+GameSpot,66
+Adrenaline Vault,60
+CNET Gamecenter,60
+GamePro,60
+ActionTrip,59
+Game Revolution,50
+Gaming Age,50
+Daily Radar,50

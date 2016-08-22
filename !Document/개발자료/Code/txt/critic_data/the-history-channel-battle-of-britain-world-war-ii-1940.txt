@@ -1,0 +1,6 @@
+GameZone,90
+IGN,83
+eToychest,80
+GameSpy,75
+GameSpot,73
+PC Gamer,43

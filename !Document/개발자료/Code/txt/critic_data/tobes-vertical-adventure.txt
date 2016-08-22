@@ -1,0 +1,4 @@
+IGN,80
+GamePro,80
+PC Gamer,73
+Da Gameboyz,65

@@ -1,0 +1,4 @@
+Just Adventure,42
+Quandary,40
+GameSpot,25
+Adventure Gamers,20

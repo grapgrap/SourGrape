@@ -1,0 +1,36 @@
+DarkStation,90
+IGN,90
+Hooked Gamers,90
+RPG Fan,88
+IGN Italia,85
+Pelit (Finland),84
+Digital Chumps,82
+LEVEL (Czech Republic),80
+Games.cz,80
+GameOver.gr,80
+The Digital Fix,80
+God is a Geek,80
+Joystiq,80
+Adventure Gamers,80
+Multiplayer.it,79
+CD-Action,75
+Everyeye.it,75
+4Players.de,75
+GameFront,75
+ZTGD,75
+GameStar,72
+GamingTrend,71
+games(TM),70
+Gameblog.fr,70
+Game Informer,70
+Edge Magazine,70
+PC Games (Germany),70
+IncGamers,70
+NowGamer,70
+Vandal Online,69
+Riot Pixels,66
+Gaming Nexus,65
+GameWatcher,65
+GameCritics,60
+Digital Spy,60
+GameSpot,50

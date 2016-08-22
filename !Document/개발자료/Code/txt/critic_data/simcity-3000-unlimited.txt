@@ -1,0 +1,9 @@
+Gamezilla!,92
+IGN,91
+Daily Radar,88
+CNET Gamecenter,80
+GameSpot,75
+Happy Puppy,70
+Electric Playground,70
+Adrenaline Vault,70
+GamePro,40

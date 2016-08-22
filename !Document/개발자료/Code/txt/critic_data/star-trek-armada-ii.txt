@@ -1,0 +1,13 @@
+Gamezilla!,83
+GameSpy,80
+GameZone,80
+Electric Playground,77
+IGN,74
+GameSpot,71
+PC Gamer,69
+Yahoo!,60
+Games Radar,60
+Computer Games Magazine,50
+Computer Gaming World,50
+TotalGames.net,46
+Gaming Age,42

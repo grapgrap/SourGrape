@@ -1,0 +1,10 @@
+PC Format,80
+Computer and Video Games,74
+Edge Magazine,70
+Cheat Code Central,70
+GameSpot,62
+Sydney Morning Herald,60
+IGN,60
+GameSpy,60
+PC Gamer,49
+Computer Games Magazine,40

@@ -1,0 +1,27 @@
+CPUGamer,95
+Gaming Target,89
+PC Format,88
+Pelit (Finland),88
+PC Zone UK,84
+GameShark,83
+Eurogamer,80
+AceGamez,80
+GameWatcher,78
+PC Gamer,78
+GamingTrend,77
+GameZone,74
+GamingExcellence,74
+IGN,73
+AtomicGamer,72
+Game Chronicles,71
+PC Gameworld,71
+PC Gamer UK,70
+GameDaily,70
+GamesRadar+,70
+GameSpot,70
+Gamers' Temple,70
+Computer Games Online RO,65
+GameSpy,60
+Worth Playing,60
+1UP,60
+Edge Magazine,50

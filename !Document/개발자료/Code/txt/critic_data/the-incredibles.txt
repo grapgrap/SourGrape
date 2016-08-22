@@ -1,0 +1,9 @@
+GameZone,70
+IGN,65
+Total Video Games,60
+AceGamez,60
+PC Format,60
+Computer and Video Games,59
+PC Gamer,49
+G4 TV,40
+Computer Games Magazine,30

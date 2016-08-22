@@ -1,0 +1,32 @@
+Gamers' Temple,90
+The Digital Fix,90
+GameCritics,90
+Eurogamer Poland,90
+Multiplayer.it,90
+Games.cz,90
+IGN Italia,90
+The Escapist,90
+Everyeye.it,89
+Gaming Nexus,88
+COGconnected,88
+IGN,88
+Lazygamer,85
+4Players.de,85
+Vandal Online,85
+Game Informer,83
+CD-Action,80
+Edge Magazine,80
+Brash Games,80
+God is a Geek,80
+ActionTrip,80
+SpazioGames,80
+IGN Spain,80
+3DJuegos,80
+TheSixthAxis,80
+Gameblog.fr,80
+Ragequit.gr,79
+PC Gamer,78
+Riot Pixels,75
+GamingTrend,75
+Hardcore Gamer,70
+VideoGamer,70

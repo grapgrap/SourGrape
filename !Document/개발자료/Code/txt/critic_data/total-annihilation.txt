@@ -1,0 +1,10 @@
+Adrenaline Vault,100
+Gaming Age,100
+TotalGames.net,93
+GameSpot,93
+Yahoo!,90
+All Game Guide,90
+Computer Games Magazine,90
+Gamezilla!,88
+PC Gamer,85
+Hot Games,60

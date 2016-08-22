@@ -1,0 +1,26 @@
+PC Master (Greece),80
+PC Gamer,78
+Pelit (Finland),78
+Game Informer,75
+GRYOnline.pl,70
+Gaming Nexus,70
+Machinima,70
+GameStar,66
+GameWatcher,65
+GamingTrend,62
+Multiplayer.it,62
+CD-Action,60
+LEVEL (Czech Republic),60
+XGN,60
+DarkStation,60
+Gamer.no,60
+IncGamers,60
+GameSpot,60
+Gameblog.fr,60
+The Digital Fix,60
+Destructoid,55
+4Players.de,50
+Game Revolution,50
+GamesRadar+,50
+IGN,45
+Polygon,40

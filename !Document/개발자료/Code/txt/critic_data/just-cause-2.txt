@@ -1,0 +1,33 @@
+DarkStation,100
+My Gamer,94
+GameShark,91
+Computer Games Online RO,91
+Game Informer,90
+DarkZero,90
+AtomicGamer,90
+Boomtown,90
+Cynamite,90
+PC Format,90
+IGN,88
+PC Gamer,88
+Gamers.at,86
+GameWatcher,85
+GameSpot,85
+Gamervision,85
+PALGN,85
+GamerNode,85
+PC Zone UK,84
+3DJuegos,83
+PC Games (Germany),83
+GameDaily,80
+VideoGamer,80
+GameZone,80
+Total Video Games,80
+InsideGamer.nl,80
+GameStar,80
+LEVEL (Czech Republic),80
+PC PowerPlay,80
+GamingExcellence,79
+Cheat Code Central,78
+Edge Magazine,70
+Absolute Games,70

@@ -1,0 +1,44 @@
+GamingXP,88
+PC Zone UK,83
+G4 TV,80
+Impulsegamer,75
+Jolt Online Gaming UK,73
+Pelit (Finland),72
+GameFocus,72
+Boomtown,70
+WonderwallWeb,70
+Total PC Gaming,70
+Games Master UK,69
+Gamers.at,68
+GameStar,67
+Gaming Nexus,67
+3DJuegos,65
+PC Format,65
+PTGamers,65
+IGN,64
+Cheat Code Central,60
+Giant Bomb,60
+games(TM),60
+Thunderbolt,60
+Computer Games Online RO,60
+LEVEL (Czech Republic),60
+Game Informer,60
+Armchair Empire,60
+Play (Poland),60
+PC Gamer UK,59
+PC Gamer,58
+ActionTrip,58
+Worth Playing,55
+1UP,50
+GameSpy,50
+Eurogamer,50
+GameSpot,50
+Gamer.nl,50
+VideoGamer,50
+AceGamez,50
+PC PowerPlay,50
+Play.tm,46
+GamePro,45
+Edge Magazine,40
+DarkZero,30
+GameShark,0

@@ -1,0 +1,38 @@
+LEVEL (Czech Republic),100
+Telegraph,100
+GamingTrend,100
+Level7.nu,100
+Ragequit.gr,100
+MMORPG.com,96
+PLAY! Zine,95
+GRYOnline.pl,95
+XGN,95
+PC Invasion,90
+CD-Action,90
+Gamer.no,90
+Riot Pixels,90
+Games.cz,90
+Twinfinite,90
+LevelUp,90
+The Escapist,90
+3DJuegos,90
+Everyeye.it,90
+GameTrailers,90
+Eurogamer Poland,90
+IGN,90
+Meristation,90
+GameSpot,90
+GamesBeat,88
+PC Games (Germany),88
+GameStar,87
+GameWatcher,85
+SpazioGames,85
+Merlin'in Kazan©¥ (Turkey),85
+Gamer.nl,85
+Multiplayer.it,85
+PC Gamer,82
+GameOver.gr,80
+DarkZero,80
+Shacknews,80
+Gameblog.fr,70
+Rock, Paper, Shotgun,

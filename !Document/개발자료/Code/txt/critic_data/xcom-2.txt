@@ -1,0 +1,107 @@
+IBTimes UK,100
+LEVEL (Czech Republic),100
+AusGamers,100
+New York Daily News,100
+Telegraph,100
+Twinfinite,100
+Digital Spy,100
+Guardian,100
+GameGrin,100
+Metro GameCentral,100
+The Daily Dot,100
+Cheat Code Central,96
+Worth Playing,96
+Games Master UK,95
+The Games Machine,95
+Softpedia,95
+LevelUp,95
+IGN Italia,95
+Game Informer,95
+PC Gamer,94
+Merlin'in Kazan©¥ (Turkey),93
+InsideGamer.nl,93
+PC Games (Germany),93
+GameTrailers,93
+IGN,93
+Pelit (Finland),92
+COGconnected,92
+Gaming Age,91
+Multiplayer.it,91
+High-Def Digest,90
+IGN Denmark,90
+RPG Site,90
+DarkStation,90
+Atomix,90
+Edge Magazine,90
+Games.cz,90
+Post Arcade (National Post),90
+games(TM),90
+God is a Geek,90
+The Digital Fix,90
+Brash Games,90
+Arcade Sushi,90
+We Got This Covered,90
+Game Rant,90
+Game Over Online,90
+ZTGD,90
+GamingTrend,90
+GamesRadar+,90
+Everyeye.it,90
+USgamer,90
+SpazioGames,90
+NZGamer,90
+Game Revolution,90
+IGN Spain,90
+Eurogamer Italy,90
+Power Unlimited,90
+3DJuegos,90
+Meristation,90
+Eurogamer Poland,90
+XGN,90
+Gamer.nl,90
+Gameplanet,90
+PCGamesN,90
+Attack of the Fanboy,90
+GameCrate,90
+The Escapist,90
+GameWatcher,90
+GameSpot,90
+ActionTrip,89
+Lazygamer,89
+Ragequit.gr,88
+GameStar,88
+Vandal Online,88
+Game World Navigator Magazine,87
+4Players.de,87
+Impulsegamer,86
+Game Debate,85
+Hooked Gamers,85
+JeuxActu,85
+GRYOnline.pl,85
+PLAY! Zine,85
+Kill Screen,83
+WCCFtech,80
+PC PowerPlay,80
+M3,80
+Riot Pixels,80
+Digitally Downloaded,80
+CGMagazine,80
+Gameblog.fr,80
+PC Invasion,80
+TheSixthAxis,80
+Gaming Nexus,80
+Yahoo!,80
+Polygon,80
+Shacknews,80
+CD-Action,75
+EGM,75
+GameSpew,70
+GameOver.gr,70
+Forbes,70
+Hardcore Gamer,70
+Destructoid,70
+Giant Bomb,60
+GameCritics,45
+Ars Technica,
+Rock, Paper, Shotgun,
+The A.V. Club,

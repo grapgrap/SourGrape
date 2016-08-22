@@ -1,0 +1,9 @@
+GameZone,80
+Adventure Gamers,70
+PC Gameworld,70
+Quandary,60
+Adrenaline Vault,60
+Game Over Online,59
+GameSpot,51
+Four Fat Chicks,50
+Gamer's Pulse,20

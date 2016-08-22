@@ -1,0 +1,5 @@
+GameOver.gr,90
+Pelit (Finland),85
+Eurogamer Italy,80
+Gaming Nexus,80
+Lazygamer,75

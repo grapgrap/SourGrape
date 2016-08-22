@@ -1,0 +1,7 @@
+Game Revolution,90
+GameWatcher,85
+Gamer.nl,80
+Hardcore Gamer,80
+PC Gamer,77
+CD-Action,70
+IGN,70

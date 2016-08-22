@@ -1,0 +1,3 @@
+GameSpew,90
+PC Gamer,84
+GamingTrend,80

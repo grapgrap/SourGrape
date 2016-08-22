@@ -1,0 +1,21 @@
+Times Online,100
+PC Gamer,93
+PC Gamer UK,85
+PGNx Media,85
+PC Zone UK,82
+PC Format,82
+AtomicGamer,80
+PC Gameworld,80
+Cheat Code Central,80
+Pelit (Finland),80
+Gaming Age,75
+Game Almighty,73
+Game Informer,73
+GameSpot,72
+Game Chronicles,70
+eToychest,70
+IGN,68
+ActionTrip,65
+GamesRadar+,60
+Sydney Morning Herald,60
+Computer Games Magazine,50

@@ -1,0 +1,4 @@
+PC Format,73
+IGN,70
+Total Video Games,70
+GameSpot,50

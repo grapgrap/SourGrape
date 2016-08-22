@@ -1,0 +1,27 @@
+CPUGamer,100
+Play Magazine,100
+Game Informer,95
+GameZone,93
+PC Format,92
+GameNow,91
+netjak,91
+Gaming Age,91
+Total Video Games,90
+Gamers' Temple,90
+IGN,90
+Game Over Online,90
+GamePro,90
+ActionTrip,89
+PC Gamer,88
+GameSpot,88
+Gamer's Pulse,84
+GameSpy,83
+Adrenaline Vault,80
+Computer Gaming World,80
+G4 TV,80
+Entertainment Weekly,75
+FiringSquad,72
+PC Gameworld,72
+Yahoo!,70
+Armchair Empire,70
+Cheat Code Central,70

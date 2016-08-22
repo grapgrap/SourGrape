@@ -1,0 +1,7 @@
+GameStar,80
+LEVEL (Czech Republic),70
+PC Gamer UK,69
+IGN,65
+Games.cz,50
+Absolute Games,48
+GRYOnline.pl,35

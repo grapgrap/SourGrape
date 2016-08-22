@@ -1,0 +1,24 @@
+Thunderbolt,100
+Da Gameboyz,95
+Vandal Online,94
+Everyeye.it,90
+IGN,90
+GamesRadar+,90
+Multiplayer.it,88
+RPG Fan,84
+The A.V. Club,83
+Game Over Online,82
+PC Gamer UK,81
+PC PowerPlay,80
+games(TM),80
+Wired,80
+SpazioGames,80
+NZGamer,80
+Eurogamer,80
+Adventure Gamers,80
+GameStar,79
+CD-Action,75
+GameWatcher,75
+GameSpot,70
+Gamer.no,70
+LEVEL (Czech Republic),70

@@ -1,0 +1,16 @@
+CD-Action,95
+GameFront,90
+Games.cz,80
+Multiplayer.it,75
+PC PowerPlay,70
+IGN,62
+Everyeye.it,55
+GameWatcher,55
+Eurogamer Italy,50
+Game Informer,50
+ZTGD,48
+Riot Pixels,45
+XGN,45
+LEVEL (Czech Republic),40
+GameSpot,40
+GameCritics,30

@@ -1,0 +1,5 @@
+PC Gamer,90
+CPUGamer,90
+GameSpot,85
+All Game Guide,80
+Computer Games Magazine,70

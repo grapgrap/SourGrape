@@ -1,0 +1,8 @@
+PC Zone UK,80
+PC Gamer UK,77
+PC Format,76
+Boomtown,70
+PTGamers,65
+NZGamer,61
+GameSpot,60
+PC Gamer,35

@@ -1,0 +1,15 @@
+Times Online,100
+netjak,90
+Yahoo!,90
+GameZone,86
+GameSpy,85
+IGN,85
+IncGamers,85
+Computer Games Magazine,80
+IC-Games,80
+PC Gamer,79
+Game Revolution,75
+GameSpot,75
+PC Format,71
+Computer Gaming World,70
+AceGamez,70

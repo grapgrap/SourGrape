@@ -1,0 +1,14 @@
+Twinfinite,100
+Shacknews,80
+GameSpot,80
+Ragequit.gr,78
+Kill Screen,77
+Multiplayer.it,70
+3DJuegos,70
+IGN,70
+Hardcore Gamer,70
+Softpedia,65
+CD-Action,60
+GameOver.gr,50
+IGN Spain,50
+ZTGD,30

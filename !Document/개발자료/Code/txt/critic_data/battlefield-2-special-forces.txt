@@ -1,0 +1,25 @@
+Times Online,100
+PGNx Media,93
+Games Radar,91
+GameZone,90
+Game Informer,90
+BonusStage,84
+Pelit (Finland),84
+Cheat Code Central,82
+GameSpot,81
+Yahoo!,80
+IGN,80
+AceGamez,80
+IncGamers,80
+Boomtown,80
+Computer Games Magazine,80
+PC Gamer,79
+Gaming Age,75
+Worth Playing,73
+Jolt Online Gaming UK,71
+Eurogamer,70
+Next Level Gaming,70
+Game Revolution,67
+GameSpy,60
+GamesRadar+,60
+Computer Gaming World,40

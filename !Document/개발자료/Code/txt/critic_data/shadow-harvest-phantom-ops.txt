@@ -1,0 +1,12 @@
+GameStar,65
+GameWatcher,50
+PC Games (Germany),49
+IGN,45
+Gaming Nexus,42
+Game Over Online,40
+PC Gamer,25
+PC Games (Russia),25
+GameSpot,25
+Absolute Games,20
+GamesRadar+,20
+PC PowerPlay,10

@@ -1,0 +1,4 @@
+IGN,82
+PC PowerPlay,80
+PC Gamer,80
+CD-Action,70

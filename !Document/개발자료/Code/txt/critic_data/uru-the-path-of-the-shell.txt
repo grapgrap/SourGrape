@@ -1,0 +1,9 @@
+IGN,88
+Game Informer,83
+Cheat Code Central,80
+GameSpot,76
+Adrenaline Vault,70
+Just Adventure,67
+PC Gamer,60
+GameSpy,60
+Computer Games Magazine,40

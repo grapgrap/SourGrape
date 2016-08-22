@@ -1,0 +1,6 @@
+GameBiz,68
+IGN,64
+Computer Games Magazine,60
+PC Gamer,58
+GameSpot,48
+Computer and Video Games,39

@@ -1,0 +1,11 @@
+Yahoo!,100
+IGN,90
+Adrenaline Vault,90
+Computer Gaming World,90
+GameSpy,90
+PC Gamer,88
+GameSpot,85
+Gamer's Pulse,83
+GameZone,83
+Computer Games Magazine,80
+Gamezilla!,79

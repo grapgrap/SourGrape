@@ -1,0 +1,13 @@
+Electric Playground,90
+CheckOut,90
+IGN,87
+Sports Gaming Network,86
+PC Gamer,83
+All Game Guide,80
+GamePro,80
+Game Over Online,76
+Daily Radar,75
+Happy Puppy,70
+Computer Games Magazine,70
+CNET Gamecenter,70
+GameSpot,70

@@ -1,0 +1,37 @@
+GameGrin,70
+Brash Games,70
+IGN,69
+IGN Spain,65
+Meristation,60
+The Games Machine,58
+MMORPG.com,58
+Vandal Online,55
+Softpedia,55
+Riot Pixels,50
+Worth Playing,50
+Eurogamer Italy,50
+4Players.de,50
+3DJuegos,50
+PC Games (Germany),49
+Gameplanet,45
+GameWatcher,45
+Games Master UK,43
+CD-Action,40
+PLAY! Zine,40
+Hardcore Gamer,40
+WCCFtech,38
+COGconnected,35
+GameStar,35
+Game World Navigator Magazine,32
+We Got This Covered,30
+GameTrailers,30
+PC Gamer,30
+PCWorld,30
+GameCrate,28
+Destructoid,25
+EGM,25
+CGMagazine,20
+GameSpot,20
+GameCritics,15
+Ars Technica,
+Rock, Paper, Shotgun,

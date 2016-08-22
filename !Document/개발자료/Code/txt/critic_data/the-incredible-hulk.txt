@@ -1,0 +1,11 @@
+GameWatcher,62
+Cynamite,60
+Gamers.at,52
+PC Gamer,43
+GameSpot,35
+Play (Poland),30
+Total PC Gaming,30
+PTGamers,25
+PC Format,22
+PC Gamer UK,20
+PC Zone UK,18

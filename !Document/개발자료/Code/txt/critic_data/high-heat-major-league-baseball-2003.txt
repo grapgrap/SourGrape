@@ -1,0 +1,8 @@
+Operation Sports,81
+GameSpy,75
+IGN,70
+PC Gamer,70
+Armchair Empire,70
+GameSpot,62
+Computer Gaming World,60
+Yahoo!,50

@@ -1,0 +1,2 @@
+DarkStation,90
+DarkZero,80

@@ -1,0 +1,36 @@
+GameGrin,90
+CGMagazine,90
+PLAY! Zine,90
+Everyeye.it,88
+Hobby Consolas,88
+CD-Action,85
+GameWatcher,85
+Game Debate,85
+Lazygamer,85
+GameStar,83
+Pelit (Finland),81
+LEVEL (Czech Republic),80
+Gaming Nexus,80
+Ragequit.gr,80
+Eurogamer Poland,80
+DarkZero,80
+Gameplanet,80
+3DJuegos,80
+The Games Machine,80
+PC Gamer,80
+IGN Spain,77
+GameOver.gr,75
+IGN Denmark,75
+PC Games (Germany),74
+Game World Navigator Magazine,73
+WCCFtech,72
+IGN,71
+games(TM),70
+Games.cz,70
+PC PowerPlay,70
+God is a Geek,70
+Eurogamer Italy,70
+4Players.de,69
+Gamer.no,60
+Hooked Gamers,60
+Rock, Paper, Shotgun,

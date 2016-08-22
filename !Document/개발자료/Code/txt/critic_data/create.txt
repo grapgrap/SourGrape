@@ -1,0 +1,7 @@
+GameStar,64
+PC Gamer UK,60
+GameSpot,60
+IGN,60
+Video Game Talk,50
+PC Format,48
+LEVEL (Czech Republic),30

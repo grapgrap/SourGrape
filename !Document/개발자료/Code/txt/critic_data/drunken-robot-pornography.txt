@@ -1,0 +1,6 @@
+Eurogamer Italy,80
+Destructoid,75
+GamingTrend,75
+CD-Action,70
+USgamer,70
+IGN,40

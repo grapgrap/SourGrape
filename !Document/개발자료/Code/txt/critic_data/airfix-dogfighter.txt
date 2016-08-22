@@ -1,0 +1,7 @@
+GameZone,95
+IGN,80
+Hot Games,80
+GamePower,75
+GameSpot,73
+Adrenaline Vault,70
+Computer Games Magazine,50

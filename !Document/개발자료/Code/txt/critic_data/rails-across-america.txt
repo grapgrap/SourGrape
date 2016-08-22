@@ -1,0 +1,10 @@
+Computer Games Magazine,100
+Yahoo!,90
+Computer Gaming World,90
+Gamezilla!,86
+GameSpy,84
+GameZone,80
+GameSpot,76
+IGN,75
+Adrenaline Vault,70
+Electric Playground,67

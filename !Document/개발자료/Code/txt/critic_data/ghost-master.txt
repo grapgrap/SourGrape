@@ -1,0 +1,28 @@
+G4 TV,100
+GameZone,90
+Adrenaline Vault,90
+PC Gamer,90
+ActionTrip,90
+Gamer's Hell,88
+GameSpot,88
+Deeko,85
+GameSpy,85
+FiringSquad,84
+Armchair Empire,84
+Gamers' Temple,83
+Play Magazine,83
+Game Over Online,83
+Yahoo!,80
+Gamenikki,80
+GamePro,80
+Four Fat Chicks,80
+Cheat Code Central,80
+Game Chronicles,79
+RealGamer,78
+Game Informer,73
+Eurogamer,70
+Frictionless Insight,70
+IGN,70
+Computer Games Magazine,70
+Computer Gaming World,70
+PC Format,66

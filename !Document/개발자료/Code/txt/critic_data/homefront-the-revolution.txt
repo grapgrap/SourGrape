@@ -1,0 +1,50 @@
+Quarter to Three,80
+Eurogamer Italy,80
+GameStar,73
+Multiplayer.it,72
+Pelit (Finland),70
+The Games Machine,70
+M3,70
+Ragequit.gr,68
+IGN Italia,68
+Hooked Gamers,68
+CD-Action,65
+JeuxActu,65
+3DJuegos,65
+GRYOnline.pl,65
+Everyeye.it,65
+GameWatcher,65
+Impulsegamer,62
+PC PowerPlay,60
+Games.cz,60
+Game Over Online,60
+Worth Playing,60
+IGN Denmark,60
+Eurogamer Poland,60
+GamesRadar+,60
+VideoGamer,60
+Polygon,60
+PC Gamer,59
+WCCFtech,56
+Areajugones,55
+ActionTrip,55
+LevelUp,55
+Riot Pixels,53
+Game World Navigator Magazine,50
+Game Debate,50
+GameSpot,50
+IGN,50
+4Players.de,48
+LEVEL (Czech Republic),40
+GameGrin,40
+Giant Bomb,40
+Guardian,40
+Meristation,40
+PCWorld,40
+Game Rant,40
+We Got This Covered,40
+Hardcore Gamer,40
+Kill Screen,20
+The Jimquisition,10
+Ars Technica,
+Rock, Paper, Shotgun,

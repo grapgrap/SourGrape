@@ -1,0 +1,44 @@
+GamesBeat,91
+Gameplanet,90
+EGM,90
+XGN,80
+4Players.de,80
+GameTrailers,80
+GameWatcher,80
+GamingTrend,80
+Digital Chumps,80
+Digital Spy,80
+VideoGamer,80
+Giant Bomb,80
+Destructoid,80
+Multiplayer.it,79
+IGN,78
+Gamer.nl,75
+InsideGamer.nl,75
+Gamereactor Sweden,70
+CD-Action,70
+Games.cz,70
+Eurogamer Spain,70
+Gamer.no,70
+God is a Geek,70
+3DJuegos,70
+Eurogamer Germany,70
+DarkStation,70
+Eurogamer,70
+Vandal Online,70
+Thunderbolt,70
+PC Games (Germany),70
+Hardcore Gamer,70
+Polygon,70
+GamesRadar+,70
+NowGamer,65
+LEVEL (Czech Republic),60
+GameSpot,60
+The Escapist,60
+Joystiq,60
+Game Informer,58
+Everyeye.it,55
+Metro GameCentral,50
+Edge Magazine,50
+PC Gamer,45
+Games Master UK,40

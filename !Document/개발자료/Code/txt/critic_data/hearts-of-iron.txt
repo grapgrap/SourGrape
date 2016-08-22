@@ -1,0 +1,13 @@
+PC Gamer,90
+netjak,86
+IGN,85
+Adrenaline Vault,80
+Game Over Online,80
+PC Format,76
+GameZone,75
+GameSpot,70
+Computer Gaming World,70
+Eurogamer,60
+Gamers' Temple,60
+Computer Games Magazine,40
+Yahoo!,40

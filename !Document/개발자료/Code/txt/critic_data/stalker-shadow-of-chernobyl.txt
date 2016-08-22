@@ -1,0 +1,44 @@
+PC Format,93
+Boomtown,90
+Yahoo!,90
+games(TM),90
+ActionTrip,90
+AceGamez,90
+Game Over Online,90
+GameCritics,90
+Games Master UK,89
+Jolt Online Gaming UK,88
+GameZone,88
+PC Gamer UK,87
+GamerNode,87
+PC Zone UK,85
+GamePro,85
+GameSpot,85
+Computer Games Online RO,85
+Gaming Target,85
+GamingTrend,85
+PC Gamer,85
+IC-Games,84
+Game Informer,83
+IGN,82
+Play.tm,82
+AtomicGamer,81
+Eurogamer,80
+Computer and Video Games,80
+1UP,80
+VideoGamer,80
+Pelit (Finland),80
+Edge Magazine,80
+PALGN,80
+NTSC-uk,80
+G4 TV,80
+GameTrailers,79
+GameWatcher,77
+CPUGamer,76
+Game Almighty,70
+GameDaily,70
+Sydney Morning Herald,70
+Worth Playing,70
+GameSpy,70
+Total Video Games,60
+Cheat Code Central,58

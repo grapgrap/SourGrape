@@ -1,0 +1,3 @@
+Electric Playground,60
+Computer Games Magazine,40
+GameSpot,31

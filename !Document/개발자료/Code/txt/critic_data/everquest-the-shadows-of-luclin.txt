@@ -1,0 +1,11 @@
+Game Over Online,93
+Game Informer,93
+GameZone,90
+GameSpy,87
+IGN,85
+GameSpot,84
+FHM,80
+Computer Games Magazine,80
+Computer Gaming World,80
+PC Gamer,72
+Yahoo!,70

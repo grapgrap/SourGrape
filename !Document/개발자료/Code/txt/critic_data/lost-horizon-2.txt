@@ -1,0 +1,5 @@
+GameStar,62
+GameOver.gr,60
+IGN Spain,60
+Ragequit.gr,55
+Adventure Gamers,50

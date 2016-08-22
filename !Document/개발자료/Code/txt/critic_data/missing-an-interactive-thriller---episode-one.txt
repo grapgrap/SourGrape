@@ -1,0 +1,11 @@
+COGconnected,80
+GameCrate,78
+Post Arcade (National Post),75
+CGMagazine,75
+Worth Playing,70
+IGN Spain,70
+DarkStation,60
+Hardcore Gamer,60
+DarkZero,50
+PC PowerPlay,50
+GameCritics,40

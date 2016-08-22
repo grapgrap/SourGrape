@@ -1,0 +1,5 @@
+Play Magazine,67
+GameZone,67
+IGN,60
+1UP,40
+PC Gamer,15

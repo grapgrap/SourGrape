@@ -1,0 +1,15 @@
+1UP,83
+IGN,83
+IGN AU,82
+GameZone,82
+G4 TV,80
+Games Master UK,78
+Game Informer,75
+Jolt Online Gaming UK,71
+PC Gamer UK,71
+LEVEL (Czech Republic),70
+PC PowerPlay,70
+Pelit (Finland),65
+GameSpot,60
+Absolute Games,60
+GameSpy,50

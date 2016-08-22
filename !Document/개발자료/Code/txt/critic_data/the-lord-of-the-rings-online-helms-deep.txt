@@ -1,0 +1,2 @@
+XGN,70
+GameFront,64

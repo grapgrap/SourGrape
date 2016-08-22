@@ -1,0 +1,42 @@
+Detroit Free Press,100
+Worth Playing,95
+DailyGame,93
+GamePro,90
+GMR Magazine,90
+Pelit (Finland),90
+RealGamer,88
+Computer Games Online RO,88
+Inside Gamer Online,86
+Gamers' Temple,86
+PC Gamer,86
+Warcry,85
+Game Informer,85
+3DAvenue,85
+GameBiz,85
+Jolt Online Gaming UK,85
+GameSpot,84
+IGN,83
+Armchair Empire,82
+Next Level Gaming,80
+Sydney Morning Herald,80
+GameSpy,80
+Times Online,80
+Eurogamer,80
+Total Video Games,80
+1UP,80
+Yahoo!,80
+Computer Gaming World,80
+games(TM),80
+AceGamez,80
+G4 TV,80
+GamerFeed,80
+PC Format,79
+Play.tm,77
+ActionTrip,76
+My Gamer,76
+Game Revolution,75
+Games Radar,73
+Boomtown,70
+eToychest,70
+Gamer.tv,60
+Computer Games Magazine,60

@@ -1,0 +1,30 @@
+Gaming Age,91
+DarkZero,90
+Meristation,90
+Eurogamer Germany,90
+Multiplayer.it,90
+SpazioGames,90
+IGN,90
+YouGamers,89
+GamingXP,87
+Pelit (Finland),87
+PC Master (Greece),87
+PC Gamer,86
+PC Games (Germany),86
+CPUGamer,85
+GameSpot,85
+Gaming Nexus,83
+Computer Games Online RO,82
+ActionTrip,82
+GameStar,82
+Ten Ton Hammer,81
+PC PowerPlay,80
+LEVEL (Czech Republic),80
+CD-Action,80
+Games.cz,80
+4Players.de,80
+Eurogamer Italy,80
+GamesRadar+,80
+Gamer.nl,70
+GameWatcher,70
+GameSpy,60

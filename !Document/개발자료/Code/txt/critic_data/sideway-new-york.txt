@@ -1,0 +1,4 @@
+IGN,80
+LEVEL (Czech Republic),70
+XGN,70
+SpazioGames,50

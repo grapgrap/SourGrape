@@ -1,0 +1,4 @@
+CalmDownTom,80
+SpazioGames,70
+Gamers' Temple,66
+Hooked Gamers,65

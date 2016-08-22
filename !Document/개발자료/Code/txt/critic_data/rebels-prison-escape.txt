@@ -1,0 +1,8 @@
+GameZone,70
+Adrenaline Vault,60
+GameSpy,60
+PC Gamer,58
+IGN,55
+GameSpot,32
+Cheat Code Central,30
+Computer Gaming World,30

@@ -1,0 +1,6 @@
+GamingTrend,91
+Eurogamer Spain,90
+4Players.de,82
+PC Gamer,80
+CD-Action,80
+Gameblog.fr,80

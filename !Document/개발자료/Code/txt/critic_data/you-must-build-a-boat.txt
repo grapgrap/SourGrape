@@ -1,0 +1,6 @@
+PCWorld,80
+PC Gamer,75
+Destructoid,70
+Gamer.nl,70
+Twinfinite,60
+Rock, Paper, Shotgun,

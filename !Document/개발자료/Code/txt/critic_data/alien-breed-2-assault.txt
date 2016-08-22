@@ -1,0 +1,5 @@
+IGN,80
+GamingXP,70
+GameZone,60
+PC Gamer,60
+LEVEL (Czech Republic),40

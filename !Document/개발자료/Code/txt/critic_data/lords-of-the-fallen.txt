@@ -1,0 +1,36 @@
+CD-Action,90
+Game World Navigator Magazine,87
+Game Informer,85
+Pelit (Finland),83
+LEVEL (Czech Republic),80
+GameStar,79
+Multiplayer.it,78
+IGN Italia,77
+SpazioGames,75
+Riot Pixels,75
+PC Games (Germany),75
+GameFront,75
+GRYOnline.pl,75
+Polygon,75
+MMORPG.com,74
+IGN,74
+GameTrailers,73
+Games.cz,70
+PC PowerPlay,70
+Ragequit.gr,70
+Everyeye.it,70
+DarkZero,70
+GamingTrend,70
+Gamer.nl,70
+Cheat Code Central,70
+Softpedia,70
+The Escapist,70
+GameWatcher,70
+Eurogamer Italy,70
+Eurogamer,70
+IncGamers,70
+JeuxActu,65
+RPG Fan,65
+Game Revolution,60
+GamesRadar+,60
+PC Gamer,58

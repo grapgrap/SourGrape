@@ -1,0 +1,4 @@
+CGMagazine,90
+GameGrin,80
+Hardcore Gamer,80
+GameCritics,20

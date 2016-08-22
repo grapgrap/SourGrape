@@ -1,0 +1,8 @@
+GameZone,79
+Happy Puppy,70
+ActionTrip,65
+GamePower,62
+Computer Games Magazine,60
+IGN,60
+All Game Guide,50
+Yahoo!,40

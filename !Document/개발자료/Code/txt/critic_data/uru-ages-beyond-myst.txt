@@ -1,0 +1,22 @@
+Four Fat Chicks,100
+Just Adventure,100
+GameZone,93
+PC Gamer,91
+Cheat Code Central,90
+CPUGamer,90
+IGN,90
+Game Chronicles,89
+Computer Games Online RO,86
+Game Informer,83
+Computer Games Magazine,80
+Gamer's Hell,80
+GameSpot,78
+GameSpy,75
+Quandary,70
+Adrenaline Vault,70
+Game Over Online,60
+GMR Magazine,60
+G4 TV,60
+Computer Gaming World,60
+Yahoo!,50
+Adventure Gamers,50

@@ -1,0 +1,6 @@
+PC Gamer,81
+IGN,81
+GameSpot,73
+GameZone,72
+G4 TV,60
+GamerFeed,50

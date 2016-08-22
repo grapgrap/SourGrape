@@ -1,0 +1,42 @@
+GameFocus,93
+The A.V. Club,91
+Impulsegamer,91
+RPG Fan,90
+Gameplanet,90
+GamingXP,90
+Gamer.nl,90
+GamesNation,89
+NZGamer,88
+SpazioGames,85
+Gamer Limit,85
+IGN,85
+Multiplayer.it,85
+Everyeye.it,85
+Gamers.at,83
+GameStar,83
+Gamervision,83
+9Lives,82
+Vandal Online,82
+Meristation,80
+Boomtown,80
+Cynamite,80
+PC Zone UK,80
+GameZone,80
+InsideGamer.nl,80
+Level7.nu,80
+RPGamer,80
+Pelit (Finland),78
+GameWatcher,75
+Cheat Code Central,74
+Eurogamer,70
+AceGamez,70
+LEVEL (Czech Republic),70
+Eurogamer Italy,70
+GameSpy,70
+PC Gamer,70
+GameSpot,65
+PC Gamer UK,60
+PC PowerPlay,60
+GameShark,58
+1UP,50
+Game Revolution,42

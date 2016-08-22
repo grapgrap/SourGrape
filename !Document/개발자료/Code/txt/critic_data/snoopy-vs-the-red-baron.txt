@@ -1,0 +1,5 @@
+PGNx Media,80
+GameSpot,73
+PC Gamer,72
+Worth Playing,67
+Computer Games Magazine,50

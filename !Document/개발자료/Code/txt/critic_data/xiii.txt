@@ -1,0 +1,27 @@
+GameNow,100
+PC Gamer,85
+Maxim Online,80
+eToychest,80
+Cincinnati Enquirer,80
+GamerFeed,80
+IGN,80
+Game Chronicles,76
+GameSpy,75
+1UP,75
+Entertainment Weekly,75
+ActionTrip,74
+PC Arena,70
+Worth Playing,70
+CPUGamer,70
+Yahoo!,70
+Edge Magazine,70
+Game Over Online,70
+IncGamers,65
+GameSpot,64
+GameShark,62
+Computer Games Magazine,60
+Computer Gaming World,60
+netjak,60
+GMR Magazine,60
+Four Fat Chicks,60
+games(TM),60

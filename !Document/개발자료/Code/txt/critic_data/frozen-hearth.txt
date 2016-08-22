@@ -1,0 +1,5 @@
+AusGamers,61
+NZGamer,55
+PC PowerPlay,50
+Gamer.no,40
+GameSpot,30

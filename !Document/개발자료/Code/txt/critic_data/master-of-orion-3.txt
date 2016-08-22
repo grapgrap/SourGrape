@@ -1,0 +1,24 @@
+Cincinnati Enquirer,100
+IGN,92
+GameZone,87
+netjak,81
+Game Informer,80
+GameCritics,80
+Gamezilla!,79
+GameSpy,76
+PC Gameworld,74
+GamePro,70
+ActionTrip,69
+GameSpot,67
+Adrenaline Vault,60
+Game Chronicles,60
+Computer Gaming World,60
+Game Over Online,60
+Game Revolution,58
+PC Gamer,57
+All Game Guide,50
+Yahoo!,50
+Computer Games Magazine,40
+Eurogamer,30
+G4 TV,20
+GMR Magazine,10

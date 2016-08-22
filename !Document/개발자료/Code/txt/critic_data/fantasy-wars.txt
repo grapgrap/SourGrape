@@ -1,0 +1,22 @@
+Pelit (Finland),88
+GamingTrend,80
+Armchair Empire,80
+Gaming Nexus,79
+IGN,78
+GamingExcellence,76
+GameSpot,75
+GameZone,75
+PTGamers,75
+Game Chronicles,75
+GameWatcher,72
+PC Gamer UK,71
+AceGamez,70
+CPUGamer,70
+GamerNode,65
+Worth Playing,65
+PC Format,64
+Eurogamer,60
+PC Gamer,54
+Jolt Online Gaming UK,53
+PC Gameworld,35
+PC Zone UK,35

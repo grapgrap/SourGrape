@@ -1,0 +1,3 @@
+DarkStation,70
+GameSpot,50
+Gameblog.fr,50

@@ -1,0 +1,6 @@
+Computer Gaming World,90
+GameSpy,80
+Computer Games Magazine,80
+Gamers' Temple,66
+PALGN,55
+Worth Playing,55

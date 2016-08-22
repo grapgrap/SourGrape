@@ -1,0 +1,5 @@
+PC Gamer,71
+GameSpy,65
+GameSpot,62
+Computer Gaming World,60
+IGN,53

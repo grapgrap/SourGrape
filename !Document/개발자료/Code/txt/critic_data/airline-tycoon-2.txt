@@ -1,0 +1,4 @@
+GamingXP,74
+GameWatcher,70
+GameStar,64
+PC Gamer UK,35

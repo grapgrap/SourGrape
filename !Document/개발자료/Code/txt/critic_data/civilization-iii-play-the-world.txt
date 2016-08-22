@@ -1,0 +1,11 @@
+IGN,84
+PC Format,79
+PC Gameworld,75
+Yahoo!,70
+PC Gamer,68
+Computer Games Magazine,60
+GameSpy,54
+GameSpot,50
+netjak,45
+G4 TV,40
+Computer Gaming World,20

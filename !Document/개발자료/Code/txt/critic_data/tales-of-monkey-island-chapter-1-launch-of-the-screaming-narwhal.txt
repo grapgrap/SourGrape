@@ -1,0 +1,54 @@
+1UP,100
+Just Adventure,100
+Game Over Online,95
+YouGamers,92
+The A.V. Club,91
+Gaming Age,91
+DarkZero,90
+Destructoid,90
+ZTGD,90
+Armchair Empire,90
+Cheat Code Central,90
+Gamervision,88
+Computer Games Online RO,88
+Gamers.at,87
+My Gamer,86
+Gamer Limit,85
+PC Gamer UK,85
+Worth Playing,85
+Vandal Online,83
+PC Format,83
+Absolute Games,82
+Multiplayer.it,81
+PALGN,80
+Giant Bomb,80
+Metro GameCentral,80
+GamePro,80
+Gameplayer Sweden,80
+GameSpy,80
+Everyeye.it,80
+Eurogamer Italy,80
+Boomtown,80
+Telegraph,80
+AtomicGamer,80
+games(TM),80
+Total PC Gaming,80
+Pelit (Finland),80
+IGN,79
+GameZone,79
+PC Games (Germany),78
+GamingXP,77
+GameCritics,75
+Gamers' Temple,74
+3DJuegos,73
+GameStar,73
+Adventure Gamers,70
+Thunderbolt,70
+Eurogamer,70
+Eurogamer Spain,70
+PC PowerPlay,70
+Gamer.nl,70
+PC Zone UK,68
+VideoGamer,60
+LEVEL (Czech Republic),60
+Edge Magazine,60

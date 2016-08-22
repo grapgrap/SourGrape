@@ -1,0 +1,4 @@
+ZTGD,80
+IGN,75
+GameSpot,70
+Eurogamer,60

@@ -1,0 +1,6 @@
+ActionTrip,52
+GameSpot,45
+GameSpy,30
+Computer Games Magazine,30
+Computer Gaming World,30
+PC Gamer,24

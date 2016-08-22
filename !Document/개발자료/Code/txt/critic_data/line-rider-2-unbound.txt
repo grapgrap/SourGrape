@@ -1,0 +1,6 @@
+IGN,80
+My Gamer,80
+GameSpot,70
+GamesRadar+,70
+Gamers.at,70
+1UP,58

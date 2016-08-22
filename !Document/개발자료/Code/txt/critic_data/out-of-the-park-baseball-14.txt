@@ -1,0 +1,8 @@
+DarkStation,100
+Gaming Nexus,95
+GamingTrend,92
+Armchair Empire,90
+Gamers' Temple,89
+XGN,80
+GameCritics,75
+Impulsegamer,70

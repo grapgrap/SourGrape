@@ -1,0 +1,27 @@
+Just Adventure,100
+CPUGamer,91
+Adventure Gamers,90
+Computer Games Magazine,90
+Computer Games Online RO,90
+Pelit (Finland),88
+Gamer's Hell,86
+PGNx Media,85
+Game Over Online,84
+PC Gamer,83
+IC-Games,83
+Pelaaja (Finland),80
+eToychest,80
+Quandary,80
+Worth Playing,80
+GameZone,76
+IGN,74
+Cheat Code Central,70
+Xequted,70
+GameSpot,67
+The New York Times,65
+Jolt Online Gaming UK,64
+G4 TV,60
+GameSpy,60
+Eurogamer,50
+GameCritics,45
+PC Format,38

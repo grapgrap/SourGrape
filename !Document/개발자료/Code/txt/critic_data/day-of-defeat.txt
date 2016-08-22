@@ -1,0 +1,22 @@
+CPUGamer,90
+GameZone,90
+Game Informer,85
+PC Gamer,84
+Gaming Age,83
+GameNow,83
+ActionTrip,82
+Gamezilla!,82
+GameSpot,81
+TotalGames.net,80
+Computer Games Magazine,80
+IGN,80
+Adrenaline Vault,80
+GMR Magazine,80
+Computer Gaming World,80
+Play Magazine,80
+Armchair Empire,77
+GameSpy,75
+Yahoo!,70
+PC Format,70
+Cheat Code Central,70
+G4 TV,40

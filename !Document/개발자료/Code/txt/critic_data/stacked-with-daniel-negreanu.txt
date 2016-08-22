@@ -1,0 +1,17 @@
+GamerFeed,80
+WHAM! Gaming,80
+GameSpot,77
+GamerNode,69
+GamesRadar+,60
+Worth Playing,60
+GamingExcellence,60
+Next Level Gaming,53
+1UP,50
+GameSpy,50
+The A.V. Club,50
+PC Gamer,50
+IGN,48
+PC Gamer UK,47
+Cheat Code Central,40
+PC Format,36
+PC Zone UK,25

@@ -1,0 +1,17 @@
+ActionTrip,81
+GameSpot,80
+Pelit (Finland),79
+GameZone,69
+Computer and Video Games,67
+IGN,65
+Game Over Online,60
+Gamer 2.0,58
+GameShark,58
+Digital Entertainment News,57
+PC Gamer,45
+PC Format,44
+Yahoo!,40
+1UP,40
+GameSpy,40
+GamerFeed,40
+Computer Games Magazine,40

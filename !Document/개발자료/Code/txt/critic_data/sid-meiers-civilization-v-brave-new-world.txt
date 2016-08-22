@@ -1,0 +1,55 @@
+DarkStation,100
+GameSpot,95
+IGN,94
+Game Informer,93
+Game Over Online,92
+Vandal Online,92
+Level7.nu,90
+Eurogamer Sweden,90
+CD-Action,90
+PC PowerPlay,90
+Everyeye.it,90
+NowGamer,90
+Gamereactor Sweden,90
+Machinima,90
+Hardcore Gamer,90
+GameFront,90
+Game Revolution,90
+LevelUp,90
+Destructoid,90
+EGM,90
+3DJuegos,90
+InsideGamer.nl,90
+Eurogamer Germany,90
+PC Games (Germany),90
+Eurogamer Italy,90
+GRYOnline.pl,90
+The Escapist,90
+Cheat Code Central,88
+PC Gamer,88
+Meristation,87
+4Players.de,86
+Riot Pixels,85
+GameWatcher,85
+Post Arcade (National Post),85
+JeuxActu,85
+XGN,85
+Polygon,85
+IGN Italia,85
+Multiplayer.it,84
+GameStar,84
+Pelit (Finland),83
+Eurogamer Portugal,80
+The Digital Fix,80
+Thunderbolt,80
+Giant Bomb,80
+Eurogamer,80
+Gamer.no,80
+Gameblog.fr,80
+Metro GameCentral,80
+GamesRadar+,80
+GameTrailers,75
+Lazygamer,75
+Games.cz,60
+GamesBeat,50
+Quarter to Three,40

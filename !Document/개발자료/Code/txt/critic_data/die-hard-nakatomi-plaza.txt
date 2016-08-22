@@ -1,0 +1,19 @@
+Game Over Online,81
+Game Informer,80
+Armchair Empire,70
+GameSpy,69
+Cincinnati Enquirer,60
+Gamers' Temple,60
+Electric Playground,60
+PC Gamer,58
+GameSpot,57
+IGN,55
+Gamer's Pulse,51
+Computer Games Magazine,50
+GamePen,50
+Adrenaline Vault,50
+All Game Guide,50
+ActionTrip,45
+Yahoo!,40
+Computer Gaming World,30
+Game Revolution,25

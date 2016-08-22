@@ -1,0 +1,2 @@
+GameZone,65
+GameSpot,45

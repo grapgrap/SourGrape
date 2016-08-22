@@ -1,0 +1,4 @@
+BonusStage,78
+Computer Games Magazine,40
+PC Gamer,40
+GameSpot,21

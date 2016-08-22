@@ -1,0 +1,11 @@
+Eurogamer,90
+IGN,83
+PC Gamer,80
+God is a Geek,80
+The Escapist,80
+Edge Magazine,80
+GameSpot,80
+Destructoid,80
+3DJuegos,75
+Polygon,65
+Riot Pixels,60

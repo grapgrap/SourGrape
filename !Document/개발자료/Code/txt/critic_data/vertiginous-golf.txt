@@ -1,0 +1,4 @@
+PC PowerPlay,70
+GameSpot,70
+Eurogamer Italy,60
+Destructoid,45

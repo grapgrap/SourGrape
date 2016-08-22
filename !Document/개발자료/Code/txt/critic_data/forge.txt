@@ -1,0 +1,16 @@
+GameSpy,80
+GameSpot,75
+GamingTrend,75
+Gaming Nexus,70
+LEVEL (Czech Republic),70
+Multiplayer.it,70
+IGN,70
+Gameblog.fr,70
+MMORPG.com,68
+CD-Action,65
+Meristation,65
+DarkStation,60
+Destructoid,60
+GamesRadar+,60
+Riot Pixels,35
+The Escapist,30

@@ -1,0 +1,4 @@
+Brash Games,70
+GameWatcher,70
+Hardcore Gamer,60
+GameSpot,40

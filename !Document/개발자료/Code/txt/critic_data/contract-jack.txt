@@ -1,0 +1,20 @@
+ActionTrip,80
+GameSpy,75
+Next Level Gaming,65
+PC Gamer,63
+GameZone,63
+Game Chronicles,62
+IGN,61
+Game Over Online,60
+GameSpot,59
+Game Informer,55
+Worth Playing,55
+GMR Magazine,50
+Gamers' Temple,50
+Armchair Empire,50
+1UP,45
+GameShark,44
+Yahoo!,40
+Computer Gaming World,40
+Computer Games Magazine,40
+GamerFeed,30

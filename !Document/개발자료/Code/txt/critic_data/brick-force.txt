@@ -1,0 +1,3 @@
+CD-Action,65
+GameStar,53
+PC PowerPlay,40

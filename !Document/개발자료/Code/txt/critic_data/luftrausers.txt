@@ -1,0 +1,45 @@
+Gaming Nexus,95
+CD-Action,90
+DarkStation,90
+God is a Geek,90
+Digital Chumps,90
+GamesBeat,90
+Eurogamer,90
+Joystiq,90
+GameWatcher,90
+IGN Italia,87
+Worth Playing,85
+SpazioGames,85
+Game Informer,85
+Destructoid,85
+Gamer.nl,85
+Meristation,85
+Hooked Gamers,84
+LEVEL (Czech Republic),80
+Hyper Magazine,80
+games(TM),80
+Games.cz,80
+PC Gamer,80
+Polygon,80
+The Digital Fix,80
+Hardcore Gamer,80
+Eurogamer Italy,80
+Eurogamer Spain,80
+Giant Bomb,80
+GameTrailers,80
+USgamer,80
+PCGamesN,80
+Edge Magazine,80
+GamesRadar+,80
+ZTGD,75
+GameFront,75
+IncGamers,70
+COGconnected,70
+Gameblog.fr,70
+NowGamer,70
+GameSpot,70
+GameCritics,65
+Riot Pixels,65
+4Players.de,61
+GamingTrend,60
+Level7.nu,50

@@ -1,0 +1,8 @@
+Armchair Empire,94
+IGN,92
+PC Gamer,90
+GameSpot,86
+CNET Gamecenter,80
+Computer Games Magazine,80
+Adrenaline Vault,70
+Daily Radar,0

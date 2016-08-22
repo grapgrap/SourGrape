@@ -1,0 +1,5 @@
+DarkStation,70
+RPG Fan,62
+COGconnected,51
+Game Revolution,30
+GameCritics,25

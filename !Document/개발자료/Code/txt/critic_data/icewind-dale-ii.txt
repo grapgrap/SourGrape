@@ -1,0 +1,22 @@
+Gaming Age,100
+Game Informer,95
+Yahoo!,90
+IGN,90
+Computer Gaming World,90
+GameZone,90
+PC Gamer,87
+PC Gameworld,87
+Gamers' Temple,86
+GameSpot,83
+GameSpy,82
+Computer Games Magazine,80
+Quandary,80
+Adrenaline Vault,80
+G4 TV,80
+ActionTrip,79
+FiringSquad,78
+Game Over Online,76
+Armchair Empire,70
+Gamer's Pulse,70
+PC Format,65
+eToychest,60

@@ -1,0 +1,4 @@
+GameSpew,90
+Ragequit.gr,80
+We Got This Covered,60
+ICXM,50

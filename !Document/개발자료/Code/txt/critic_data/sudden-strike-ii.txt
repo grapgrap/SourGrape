@@ -1,0 +1,10 @@
+ActionTrip,84
+IGN,80
+Computer Games Magazine,80
+PC Gamer,70
+Total Video Games,70
+Yahoo!,70
+Gamers' Temple,64
+GameSpy,60
+GameSpot,52
+Computer Gaming World,50

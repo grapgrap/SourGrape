@@ -1,0 +1,17 @@
+PC Gameworld,95
+Daily Radar,88
+IGN,88
+GameZone,85
+PC Gamer,82
+GameSpy,81
+Computer Games Magazine,80
+Hot Games,80
+GamePro,80
+Game Over Online,74
+Gamer's Pulse,73
+GameSpot,72
+Spank!,60
+Happy Puppy,60
+Game Revolution,50
+GamePower,50
+ActionTrip,49

@@ -1,0 +1,2 @@
+DarkZero,70
+GameWatcher,70

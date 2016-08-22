@@ -1,0 +1,5 @@
+Gaming Nexus,100
+GameShark,91
+PC Gamer,86
+GamingTrend,83
+GameSpot,75

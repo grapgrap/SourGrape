@@ -1,0 +1,25 @@
+GameShark,80
+VideoGamesLife,73
+AceGamez,70
+GamerFeed,70
+Game Chronicles,67
+GameZone,65
+IGN,65
+Game Over Online,64
+Computer Games Online RO,63
+GameSpot,62
+GameSpy,60
+Gamers' Temple,60
+Game Informer,60
+Worth Playing,60
+Computer and Video Games,58
+Play Magazine,58
+Armchair Empire,51
+Gamer's Hell,50
+Adrenaline Vault,50
+DailyGame,45
+Gamer's Pulse,40
+PC Gamer,40
+Computer Gaming World,40
+Warcry,35
+Computer Games Magazine,30

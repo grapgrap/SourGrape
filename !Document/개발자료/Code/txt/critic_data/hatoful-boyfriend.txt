@@ -1,0 +1,35 @@
+Multiplayer.it,85
+Gamer.nl,80
+Eurogamer Germany,80
+Guardian,80
+IGN,80
+The Escapist,80
+Digital Spy,80
+Polygon,80
+God is a Geek,80
+Pelit (Finland),76
+IGN Italia,76
+XGN,75
+InsideGamer.nl,75
+Gaming Nexus,74
+CD-Action,70
+CalmDownTom,70
+GameSpot,70
+Kill Screen,70
+Softpedia,70
+IncGamers,70
+Joystiq,70
+PCGamesN,70
+Shacknews,70
+PC Gamer,70
+Games Master UK,69
+Destructoid,65
+games(TM),60
+USgamer,60
+Eurogamer Spain,50
+Game Revolution,50
+Gameblog.fr,50
+4Players.de,44
+Gaming Age,42
+Vandal Online,40
+Hardcore Gamer,30

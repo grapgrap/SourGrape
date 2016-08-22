@@ -1,0 +1,4 @@
+Operation Sports,95
+GameSpot,85
+Computer Games Magazine,80
+netjak,78

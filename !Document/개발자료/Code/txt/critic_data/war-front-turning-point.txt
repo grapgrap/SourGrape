@@ -1,0 +1,29 @@
+GamingTrend,84
+Jolt Online Gaming UK,82
+Yahoo!,80
+Worth Playing,80
+ActionTrip,80
+G4 TV,80
+AceGamez,80
+PC Format,79
+IGN,78
+Gamer 2.0,77
+PC Gamer,77
+Computer Games Online RO,76
+GameZone,75
+GameSpot,75
+Armchair Empire,75
+Gamers' Temple,75
+Next Level Gaming,73
+PC Gamer UK,72
+GamingExcellence,72
+Gaming Nexus,71
+GamesRadar+,70
+GamePro,70
+PALGN,70
+Eurogamer,70
+Gamer's Hell,70
+GameShark,67
+PC Zone UK,65
+GameSpy,60
+1UP,50

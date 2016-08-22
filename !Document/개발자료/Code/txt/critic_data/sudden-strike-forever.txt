@@ -1,0 +1,5 @@
+GameSpy,85
+IGN,74
+TotalGames.net,70
+Yahoo!,70
+GameSpot,58

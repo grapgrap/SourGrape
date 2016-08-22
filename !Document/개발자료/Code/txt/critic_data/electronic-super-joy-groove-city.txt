@@ -1,0 +1,2 @@
+GameOver.gr,70
+CalmDownTom,60

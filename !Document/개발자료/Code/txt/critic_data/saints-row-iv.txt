@@ -1,0 +1,45 @@
+Quarter to Three,100
+Armchair Empire,100
+The Escapist,100
+DarkStation,100
+Joystiq,100
+Impulsegamer,98
+CD-Action,95
+Destructoid,95
+GameFront,93
+Gaming Age,91
+PC PowerPlay,90
+Pelit (Finland),90
+Gamer.no,90
+USgamer,90
+IncGamers,90
+DarkZero,90
+Gamer Limit,90
+AtomicGamer,90
+Post Arcade (National Post),90
+Hardcore Gamer,90
+PC Gamer,90
+NZGamer,89
+Hooked Gamers,88
+GamingTrend,86
+ZTGD,85
+SpazioGames,85
+GameStar,85
+IGN Italia,85
+Level7.nu,80
+LEVEL (Czech Republic),80
+GRYOnline.pl,80
+Eurogamer Sweden,80
+Gamereactor Sweden,80
+Everyeye.it,80
+Digital Chumps,80
+GamesRadar+,80
+Thunderbolt,80
+Giant Bomb,80
+Edge Magazine,80
+Multiplayer.it,78
+Lazygamer,77
+GameSpot,75
+IGN,73
+Games.cz,70
+Eurogamer Italy,70

@@ -1,0 +1,15 @@
+GameZone,85
+GamePower,75
+Gamezilla!,58
+Electric Playground,55
+Yahoo!,50
+Game Over Online,50
+Computer Games Magazine,50
+ActionTrip,50
+Daily Radar,50
+GameSpot,48
+PC Gamer,48
+Da Gameboyz,45
+IGN,45
+Happy Puppy,40
+Adrenaline Vault,40

@@ -1,0 +1,6 @@
+GameGrin,90
+Brash Games,80
+The Escapist,80
+Hardcore Gamer,80
+We Got This Covered,70
+RPGamer,60

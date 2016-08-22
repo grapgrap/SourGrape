@@ -1,0 +1,9 @@
+PC Gamer,70
+Cincinnati Enquirer,70
+IGN,65
+GameZone,65
+ActionTrip,57
+GameSpot,57
+GameSpy,40
+netjak,33
+Computer Gaming World,30

@@ -1,0 +1,26 @@
+GameZone,95
+1UP,90
+GameSpy,90
+VGPub,90
+Computer Games Magazine,90
+Game Informer,88
+GamingExcellence,88
+GamePro,85
+GamingTrend,85
+ActionTrip,85
+Gaming Nexus,85
+Pelit (Finland),83
+IGN,82
+Yahoo!,80
+GamesRadar+,80
+Gaming Horizon,80
+Digital Entertainment News,80
+DailyGame,79
+GameSpot,78
+PC Zone UK,72
+PC Gamer,70
+Game Chronicles,70
+PC Gamer UK,69
+PC Format,68
+GameShark,67
+Eurogamer,60

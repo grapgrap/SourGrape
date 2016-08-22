@@ -1,0 +1,26 @@
+Stuff,95
+PGNx Media,89
+Next Level Gaming,88
+Cincinnati Enquirer,88
+Game Chronicles,86
+IGN,84
+VGPub,84
+PC Gamer,81
+Gaming Illustrated,80
+Gaming Target,79
+GameZone,78
+GamingTrend,77
+WHAM! Gaming,75
+Jolt Online Gaming UK,75
+ActionTrip,74
+The New York Times,73
+Gamers' Temple,72
+Cheat Code Central,70
+GameSpot,70
+BonusStage,70
+GameSpy,70
+GamerFeed,70
+Worth Playing,70
+PC Format,63
+Edge Magazine,50
+Computer Games Magazine,50

@@ -1,0 +1,4 @@
+BonusStage,70
+Cheat Code Central,46
+IGN,29
+Computer Games Magazine,20

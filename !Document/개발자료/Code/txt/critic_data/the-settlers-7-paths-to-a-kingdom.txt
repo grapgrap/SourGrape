@@ -1,0 +1,33 @@
+BigPond GameArena,90
+Gamers.at,88
+InsideGamer.nl,88
+GameStar,88
+Pelit (Finland),86
+CPUGamer,86
+Game Informer,85
+3DJuegos,85
+Computer Games Online RO,84
+PC Games (Germany),84
+Metro GameCentral,80
+VideoGamer,80
+Eurogamer Italy,80
+Multiplayer.it,80
+Vandal Online,80
+Eurogamer,80
+LEVEL (Czech Republic),80
+GameWatcher,80
+Level7.nu,80
+PC PowerPlay,80
+Gamer.nl,80
+Everyeye.it,78
+PC Format,78
+Play.tm,77
+GameZone,75
+GameSpot,75
+Gameplanet,75
+Absolute Games,75
+PC Zone UK,74
+PC Gamer,70
+Gamer.no,70
+IGN,60
+Gamereactor Sweden,50

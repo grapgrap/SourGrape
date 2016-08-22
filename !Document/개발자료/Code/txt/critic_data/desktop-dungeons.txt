@@ -1,0 +1,12 @@
+Quarter to Three,100
+GamingTrend,90
+Eurogamer Germany,90
+USgamer,90
+RPG Fan,88
+Games Master UK,87
+PC Gamer UK,81
+Destructoid,80
+Lazygamer,75
+CD-Action,70
+Gamer.nl,70
+4Players.de,70

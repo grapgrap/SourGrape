@@ -1,0 +1,20 @@
+GameNow,100
+Computer Games Magazine,90
+Armchair Empire,88
+GameSpy,87
+Gamers' Temple,87
+PC Gameworld,85
+GameZone,84
+RealGamer,84
+IGN,83
+Game Informer,80
+G4 TV,80
+Cheat Code Central,80
+GameSpot,80
+Computer Gaming World,80
+ActionTrip,77
+Gamer's Pulse,76
+PC Gamer,67
+GMR Magazine,60
+Game Revolution,58
+Eurogamer,50

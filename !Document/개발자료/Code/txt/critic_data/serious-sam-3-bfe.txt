@@ -1,0 +1,53 @@
+GamingTrend,92
+Gaming Nexus,91
+1UP,91
+PC PowerPlay,90
+Machinima,90
+ZTGD,87
+PC Master (Greece),85
+Game Over Online,85
+Multiplayer.it,85
+Destructoid,85
+Pelit (Finland),82
+Game Chronicles,80
+Games.cz,80
+The Escapist,80
+DarkStation,80
+GameWatcher,80
+AtomicGamer,80
+Joystiq,80
+IncGamers,80
+GamingXP,79
+AusGamers,78
+Game Informer,78
+XGN,75
+Absolute Games,75
+CPUGamer,75
+SpazioGames,75
+Everyeye.it,75
+Worth Playing,70
+LEVEL (Czech Republic),70
+Gamer.no,70
+PC Gamer,70
+Eurogamer Spain,70
+CD-Action,70
+Gamereactor Sweden,70
+IGN,70
+GameSpy,70
+Cheat Code Central,70
+Eurogamer,70
+PC Games (Germany),68
+Games Master UK,68
+GameStar,67
+Meristation,65
+Bit-Gamer,65
+DarkZero,60
+Eurogamer Italy,60
+GameSpot,60
+Gameblog.fr,60
+GamesRadar+,60
+Metro GameCentral,60
+GameCritics,55
+3DJuegos,55
+games(TM),50
+Gamekult,50

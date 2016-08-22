@@ -1,0 +1,58 @@
+PCWorld,80
+The Escapist,80
+Guardian,80
+Arcade Sushi,80
+Digital Chumps,80
+Post Arcade (National Post),80
+IGN Spain,80
+Softpedia,80
+Twinfinite,80
+Pelit (Finland),76
+CD-Action,75
+Vandal Online,74
+Hobby Consolas,74
+Games Master UK,73
+PC Games (Germany),72
+Ragequit.gr,70
+3DJuegos,70
+Metro GameCentral,70
+Lazygamer,70
+Eurogamer Italy,70
+Game Informer,70
+Game Revolution,70
+Eurogamer Poland,70
+Meristation,70
+Shacknews,70
+PCGamesN,70
+IGN Italia,69
+Multiplayer.it,69
+Cheat Code Central,68
+GamesVillage.it,66
+Gaming Nexus,65
+JeuxActu,65
+GamingTrend,65
+Everyeye.it,65
+Gamer.nl,65
+GameStar,65
+IGN,65
+Gamers' Temple,62
+LEVEL (Czech Republic),60
+XGN,60
+Gameblog.fr,60
+CGMagazine,60
+Game World Navigator Magazine,55
+Game Over Online,55
+PC Gamer,54
+games(TM),50
+We Got This Covered,50
+Level7.nu,50
+Hooked Gamers,50
+COGconnected,50
+IncGamers,50
+4Players.de,48
+DarkStation,40
+Games.cz,40
+Kill Screen,40
+GameSpot,40
+Impulsegamer,40
+Riot Pixels,25

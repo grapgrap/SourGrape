@@ -1,0 +1,3 @@
+LEVEL (Czech Republic),70
+CD-Action,50
+Games.cz,40

@@ -1,0 +1,4 @@
+Hardcore Gamer,80
+USgamer,70
+COGconnected,70
+GameCritics,55

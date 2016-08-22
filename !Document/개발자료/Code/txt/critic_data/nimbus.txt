@@ -1,0 +1,5 @@
+Destructoid,90
+Gamer.no,90
+Eurogamer,80
+IGN,80
+LEVEL (Czech Republic),70

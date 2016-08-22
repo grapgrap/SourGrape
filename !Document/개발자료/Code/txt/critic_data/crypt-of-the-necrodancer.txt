@@ -1,0 +1,46 @@
+Guardian,100
+Gaming Age,100
+GamingTrend,100
+Arcade Sushi,100
+Gaming Nexus,95
+Destructoid,95
+RPG Fan,92
+Games Master UK,92
+CD-Action,90
+Edge Magazine,90
+Riot Pixels,90
+PC PowerPlay,90
+DarkStation,90
+Hooked Gamers,90
+Gamer.nl,90
+God is a Geek,90
+CGMagazine,90
+Hardcore Gamer,90
+GamesBeat,90
+Game Rant,90
+Game Revolution,90
+IGN Italia,89
+IGN Spain,89
+Gamers' Temple,88
+IGN,88
+PC Gamer,87
+Digital Chumps,86
+Vandal Online,86
+3DJuegos,85
+GameOver.gr,85
+Multiplayer.it,85
+Softpedia,85
+4Players.de,85
+games(TM),80
+SpazioGames,80
+Everyeye.it,80
+ZTGD,80
+GameSpot,80
+Shacknews,80
+Meristation,80
+Digital Spy,80
+Attack of the Fanboy,80
+Game Informer,80
+GameCritics,70
+Games.cz,70
+The A.V. Club,

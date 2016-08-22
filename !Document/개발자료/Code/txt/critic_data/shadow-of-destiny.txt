@@ -1,0 +1,11 @@
+Game Over Online,90
+IGN,87
+Just Adventure,83
+Quandary,80
+GameSpot,77
+PC Gamer,70
+Adventure Gamers,70
+Electric Playground,65
+Computer Games Magazine,50
+Thunderbolt,50
+Computer Gaming World,40

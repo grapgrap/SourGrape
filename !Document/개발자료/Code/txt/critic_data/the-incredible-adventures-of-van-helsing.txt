@@ -1,0 +1,52 @@
+GamingTrend,91
+Hooked Gamers,90
+NZGamer,86
+Gaming Nexus,85
+Everyeye.it,85
+ZTGD,85
+IGN Italia,85
+GameOver.gr,85
+COGconnected,84
+Gamers' Temple,80
+Hyper Magazine,80
+SpazioGames,80
+DarkStation,80
+Impulsegamer,80
+GameStar,80
+RPGamer,80
+Hardcore Gamer,80
+Eurogamer Sweden,80
+XGN,80
+GameWatcher,80
+RPG Fan,79
+PC Games (Germany),79
+Vandal Online,78
+Multiplayer.it,78
+4Players.de,76
+3DJuegos,76
+GRYOnline.pl,75
+GameSpot,75
+Cheat Code Central,74
+Riot Pixels,70
+Games.cz,70
+Armchair Empire,70
+CD-Action,70
+Eurogamer Italy,70
+ActionTrip,70
+GameCritics,70
+Gamer.no,70
+IGN,70
+GamesBeat,70
+IncGamers,70
+Gamereactor Denmark,70
+The Digital Fix,70
+PC Gamer,68
+Gaming Age,67
+Level7.nu,60
+LEVEL (Czech Republic),60
+Eurogamer,60
+DarkZero,60
+Polygon,60
+Destructoid,55
+Gameblog.fr,50
+Quarter to Three,40

@@ -1,0 +1,14 @@
+G4 TV,100
+Eurogamer,90
+ActionTrip,82
+PC Gamer,81
+Armchair Empire,80
+Game Informer,75
+IGN,73
+GameZone,73
+GameSpy,72
+Yahoo!,70
+Computer Games Magazine,70
+GameSpot,70
+Computer Gaming World,60
+Games Radar,58

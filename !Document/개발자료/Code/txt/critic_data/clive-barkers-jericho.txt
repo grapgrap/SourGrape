@@ -1,0 +1,25 @@
+Play Magazine,80
+GameTap,80
+GameDaily,80
+GamerNode,75
+GameStar,72
+Jolt Online Gaming UK,72
+ActionTrip,71
+Destructoid,70
+PC Format,69
+YouGamers,69
+PC Zone UK,68
+GameSpot,65
+PC Gamer UK,64
+Game Informer,60
+Cheat Code Central,60
+VideoGamer,60
+Game Almighty,60
+GameSpy,60
+PC Gamer,57
+IGN,56
+Gamer 2.0,53
+Edge Magazine,50
+GameShark,50
+Game Revolution,42
+G4 TV,40
