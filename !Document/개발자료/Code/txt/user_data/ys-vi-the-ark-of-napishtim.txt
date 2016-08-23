@@ -1,0 +1,2 @@
+StaticSpine,8
+SanctumRevel,7

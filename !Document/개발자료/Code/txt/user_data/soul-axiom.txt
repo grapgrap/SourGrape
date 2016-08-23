@@ -1,0 +1,2 @@
+mosaic_school,10
+livinghero,0

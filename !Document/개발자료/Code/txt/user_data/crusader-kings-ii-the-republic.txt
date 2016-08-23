@@ -1,0 +1,4 @@
+SumoScott,9
+BubbsTubbs,8
+Waclaw,7
+Tytos,2

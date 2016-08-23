@@ -1,0 +1,5 @@
+Ruthgar,9
+HeadlessChicken,8
+pfirsig,9
+Andrewni,9
+Tagirix,8

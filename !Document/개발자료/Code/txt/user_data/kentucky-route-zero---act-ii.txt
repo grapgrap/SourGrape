@@ -1,0 +1,4 @@
+RealQi,10
+skogsgurka,5
+rodericrinehart,8
+stuffisgoodin,10

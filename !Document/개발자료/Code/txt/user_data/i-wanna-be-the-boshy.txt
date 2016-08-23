@@ -1,0 +1,4 @@
+VidyaBum,5
+Cantavanda,10
+ProtectorLD,10
+Hatross,7

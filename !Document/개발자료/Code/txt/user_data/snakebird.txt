@@ -1,0 +1,3 @@
+EttGlasVatten,10
+tempmail3000,10
+DanySK,3

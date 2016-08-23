@@ -1,0 +1,1 @@
+macro_zorki,6

@@ -1,0 +1,2 @@
+StringAnime,10
+pdxl,9

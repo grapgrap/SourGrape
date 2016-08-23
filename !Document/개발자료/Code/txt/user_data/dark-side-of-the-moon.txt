@@ -1,0 +1,3 @@
+GoFindaGolux,6
+GolovA,9
+Reeeth,10

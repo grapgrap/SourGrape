@@ -1,0 +1,6 @@
+LD9000,3
+Rothidern,10
+WarcraftAwesome,10
+Erazor,0
+DeusXCom,7
+whave,7

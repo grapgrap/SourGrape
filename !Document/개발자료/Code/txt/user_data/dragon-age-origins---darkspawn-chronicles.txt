@@ -1,0 +1,4 @@
+Stub,7
+Orctownorc,5
+faceless-1,1
+LordRaijin,2

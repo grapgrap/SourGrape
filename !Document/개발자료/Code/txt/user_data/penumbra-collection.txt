@@ -1,0 +1,2 @@
+Dukenukem,10
+GolovA,8

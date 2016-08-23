@@ -1,0 +1,3 @@
+NemoZon,10
+Amigian,8
+Rem,7

@@ -1,0 +1,13 @@
+JamesE,1
+AnomA.,1
+PeterW.,10
+JoshJ.,10
+MatthewG.,10
+Badinfo,9
+VincentM,10
+MacS,8
+JohnA,10
+VivianC,10
+BardolphS,9
+cmoorecmoore,10
+Octomort,0

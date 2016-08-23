@@ -1,0 +1,2 @@
+Dune_Jumper,10
+EtherBot,7

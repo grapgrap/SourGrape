@@ -1,0 +1,9 @@
+DavidD,3
+AgentK,3
+BadGame,0
+JustinR,3
+TrevorB,9
+JaredT,10
+DanielC,9
+SallyG,9
+Mehve,6

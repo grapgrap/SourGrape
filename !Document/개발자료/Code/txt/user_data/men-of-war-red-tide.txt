@@ -1,0 +1,5 @@
+defcola,10
+GoldFinger,10
+Igor,10
+apaeth,7
+Mihao,10

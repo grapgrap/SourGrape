@@ -1,0 +1,2 @@
+Kaochi,10
+FogCityRoller,8

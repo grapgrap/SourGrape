@@ -1,0 +1,16 @@
+JohnG.,10
+JohnS.,6
+M.D.,9
+SteveP.,4
+DouglasB.,10
+liammccloskey,10
+SamM.,9
+ChrisP.,5
+BrettD.,10
+RyanC.,10
+RobertoP.,6
+PatrickW.,1
+AlanO.,5
+SteveD.,2
+GE,0
+agentKmurph,5

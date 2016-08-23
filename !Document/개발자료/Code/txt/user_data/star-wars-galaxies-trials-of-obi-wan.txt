@@ -1,0 +1,8 @@
+CJHooker,10
+MaxS.,10
+ChrisW.,6
+JesseM.,0
+Joseph,1
+GregoryS.,8
+DavidC.,1
+AndyS.,1

@@ -1,0 +1,12 @@
+Bugsy,5
+WilliamW.,10
+AndresM.,0
+RichardN.,6
+PaulM.,0
+AliasMewD.,10
+TerryM.,9
+BengtS.,8
+DevavratC.,9
+ToddB.,10
+GingerL.,1
+GarryB.,3

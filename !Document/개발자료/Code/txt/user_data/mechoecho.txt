@@ -1,0 +1,2 @@
+Puzz,10
+BeanWarden,10

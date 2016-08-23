@@ -1,0 +1,5 @@
+Paulmall,10
+Banskel,10
+ilyushin,9
+Iadnah,9
+pidgin,10

@@ -1,0 +1,3 @@
+Luxus,10
+JohnW.,9
+John,9

@@ -1,0 +1,4 @@
+blackite,10
+IcePider,10
+Alvare,10
+ValyaVinogrado,6

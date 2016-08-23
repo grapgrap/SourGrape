@@ -1,0 +1,5 @@
+Iracundus,0
+martolives,10
+RageOfStars,10
+CCPCritic,1
+ShodanSpectre,9

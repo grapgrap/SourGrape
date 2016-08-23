@@ -1,0 +1,8 @@
+DavidM.,0
+Failout5,1
+PaulA.,10
+RichardS.,9
+ChrisP.,8
+F?bioMachado,9
+KurtL.,9
+NateS.,9

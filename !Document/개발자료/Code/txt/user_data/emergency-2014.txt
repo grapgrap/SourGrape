@@ -1,0 +1,2 @@
+petsto,3
+vomov,2

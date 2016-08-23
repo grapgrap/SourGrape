@@ -1,0 +1,3 @@
+NexusTsunami,8
+BunnyTuttle,6
+Crakien,6

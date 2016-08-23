@@ -1,0 +1,7 @@
+yeled,5
+Haba,10
+Skitnik,10
+Mortmal,10
+Lerk,10
+Pattington,10
+Yosa,1

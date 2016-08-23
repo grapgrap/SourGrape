@@ -1,0 +1,5 @@
+pRedAcToR,10
+CoreOfDeath,8
+Helmore,10
+Brad,10
+AlexU.,9

@@ -1,0 +1,3 @@
+Astaerus,10
+SkySlam,7
+krokodile,10

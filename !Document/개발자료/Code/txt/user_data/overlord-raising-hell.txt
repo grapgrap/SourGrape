@@ -1,0 +1,4 @@
+VirarNeeda,0
+LA_DOTTORE,9
+CannibalBob,8
+Lord0Dark,10

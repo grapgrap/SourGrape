@@ -1,0 +1,13 @@
+Steve,3
+JohnP.,10
+SoM3GuN,10
+BlakeB.,4
+Critic,1
+SF,1
+LisacT.,7
+[Anonymous],9
+RickeyC.,0
+Mike,8
+ScottPeterson,7
+ChrisS.,5
+Skizzzo63,4

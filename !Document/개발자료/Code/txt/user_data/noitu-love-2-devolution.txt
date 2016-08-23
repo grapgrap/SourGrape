@@ -1,0 +1,4 @@
+HaruRuben,10
+suneater,5
+TitaniumDragon,0
+AWG,4

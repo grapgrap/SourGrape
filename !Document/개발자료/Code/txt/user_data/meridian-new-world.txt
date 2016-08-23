@@ -1,0 +1,3 @@
+Smrajdl,10
+blade01,5
+Pangtience,2

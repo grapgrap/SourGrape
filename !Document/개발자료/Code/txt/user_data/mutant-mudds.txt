@@ -1,0 +1,4 @@
+ActRaiser,3
+HowlPendragon,1
+Goodnightmoon,8
+TitaniumDragon,5

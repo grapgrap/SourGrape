@@ -1,0 +1,2 @@
+jtlats,10
+Talismandan,10

@@ -1,0 +1,4 @@
+Gdolf,10
+UserHuuser,8
+DumbWhiteGuy,10
+ChiefJustice,8

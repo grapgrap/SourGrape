@@ -1,0 +1,6 @@
+bsonov,10
+Archaeoteryx,10
+morfil,10
+blackhatch,10
+sinadoom,7
+RedDuck,9

@@ -1,0 +1,2 @@
+KampfSpeck,8
+ScienceAdvisor,1

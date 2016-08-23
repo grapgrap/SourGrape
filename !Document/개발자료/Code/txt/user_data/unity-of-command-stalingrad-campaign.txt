@@ -1,0 +1,3 @@
+nickjack,0
+Tweedledumb,10
+stranglehold,7

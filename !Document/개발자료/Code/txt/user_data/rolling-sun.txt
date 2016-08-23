@@ -1,0 +1,4 @@
+Mykwon,0
+SanctumRevel,4
+Merhunes,10
+Ciela,10

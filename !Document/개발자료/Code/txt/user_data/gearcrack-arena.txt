@@ -1,0 +1,4 @@
+TitaniumDragon,0
+Sandweech,0
+FrostOrb,10
+MonkeyBalls,8

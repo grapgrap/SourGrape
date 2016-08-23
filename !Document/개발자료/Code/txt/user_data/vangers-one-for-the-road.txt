@@ -1,0 +1,4 @@
+lamantin,10
+kvark,10
+kranky,10
+PlagueRus,10

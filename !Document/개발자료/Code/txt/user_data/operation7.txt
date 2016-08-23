@@ -1,0 +1,3 @@
+Lautarorx,8
+criminal,10
+magicin,0

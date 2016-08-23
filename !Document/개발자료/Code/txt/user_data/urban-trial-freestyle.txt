@@ -1,0 +1,6 @@
+old_steve,10
+Kempol,7
+Barsu,9
+SenshudoTV,5
+DRiVER_helsinki,4
+Captain_Chaos,3

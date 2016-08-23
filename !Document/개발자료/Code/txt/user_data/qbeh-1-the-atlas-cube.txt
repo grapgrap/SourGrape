@@ -1,0 +1,3 @@
+CardDeath,7
+marto,8
+cratecruncher,9

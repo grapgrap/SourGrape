@@ -1,0 +1,15 @@
+RK,8
+BrendanH.,8
+BeyondT.,3
+Mike,7
+Chris,10
+JohnnyBGoode,3
+YoteS.,10
+Azmicool,8
+MattC.,8
+PeterM.,9
+BrianD.,0
+GaryF.,3
+DimaD.,8
+DavidG,3
+Neocrak,10

@@ -1,0 +1,9 @@
+StaticSpine,8
+cratecruncher,8
+ARSOSA16,10
+andytimber,10
+Kaimen,10
+Breikzer,6
+sh4dow,5
+Amphotericin,6
+Tgc,9

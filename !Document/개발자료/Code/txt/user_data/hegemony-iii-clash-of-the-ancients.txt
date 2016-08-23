@@ -1,0 +1,3 @@
+Neravarine,6
+pacman,8
+Yosa,0

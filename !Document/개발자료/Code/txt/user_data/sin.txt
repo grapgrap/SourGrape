@@ -1,0 +1,3 @@
+Xerox,8
+Portal2Mapper,1
+Camper,10

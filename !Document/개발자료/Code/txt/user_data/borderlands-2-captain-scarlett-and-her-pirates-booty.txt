@@ -1,0 +1,9 @@
+Mutini,10
+blueTeam,3
+Havocs,5
+Ghoster,9
+Brumbek,8
+xZippy,7
+GolovA,7
+MrZellian,7
+Captain_Chaos,8

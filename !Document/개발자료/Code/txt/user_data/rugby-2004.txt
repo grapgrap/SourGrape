@@ -1,0 +1,10 @@
+IrishSurfer,2
+ConorP.,7
+RhysC.,5
+MarkP.,3
+PeterD.,10
+TimB.,10
+TomS.,10
+Andrew,1
+wReK,9
+RobW.,2

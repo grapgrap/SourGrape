@@ -1,0 +1,6 @@
+Freez,10
+Jinx,9
+Galen,7
+GolovA,6
+CannibalBob,7
+AWG,7

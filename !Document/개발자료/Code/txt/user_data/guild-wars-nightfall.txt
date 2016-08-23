@@ -1,0 +1,14 @@
+CowardlyDog,10
+[Anonymous],6
+anonymousanonymous,10
+RichS.,1
+Benjy,5
+PeterM.,9
+PoldoG.,10
+anticitizen,2
+PhilipL.,10
+YingT.,10
+RossA.,9
+C4K3,0
+JimCorbett,9
+aatassi,7

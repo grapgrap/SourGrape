@@ -1,0 +1,4 @@
+gruia,10
+krushak,10
+urisvesk,5
+ManiGoldo,10

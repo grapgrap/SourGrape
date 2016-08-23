@@ -1,0 +1,2 @@
+tekris,10
+Thazari,6

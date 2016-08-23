@@ -1,0 +1,5 @@
+StrikerFIN,9
+gas,8
+Sjalka,5
+bigsilverhotdog,4
+honestabe,10

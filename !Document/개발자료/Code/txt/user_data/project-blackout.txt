@@ -1,0 +1,5 @@
+WEAPONX,10
+ePxOscuraNiebla,10
+Dezuuu,3
+Bilbobusau,0
+caezero,0

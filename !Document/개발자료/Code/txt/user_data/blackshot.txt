@@ -1,0 +1,2 @@
+iron_nosepicker,1
+OctimusW,0

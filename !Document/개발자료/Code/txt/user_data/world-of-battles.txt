@@ -1,0 +1,3 @@
+mimdrs,8
+Ordish,8
+Estus,6

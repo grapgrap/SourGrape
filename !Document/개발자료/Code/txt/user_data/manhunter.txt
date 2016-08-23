@@ -1,0 +1,2 @@
+drakenseng,5
+duckhost,0

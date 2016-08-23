@@ -1,0 +1,3 @@
+ss3bferocks,10
+OneVoice,7
+Esperantisto,7

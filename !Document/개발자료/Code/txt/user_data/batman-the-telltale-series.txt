@@ -1,0 +1,2 @@
+MC2411,7
+fair_game_rater,7

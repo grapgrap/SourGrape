@@ -1,0 +1,3 @@
+Onyx,6
+Xandor,10
+AWG,5

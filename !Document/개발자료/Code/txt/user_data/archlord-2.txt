@@ -1,0 +1,2 @@
+Crackfarmer,0
+AgentOSX,3

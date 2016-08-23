@@ -1,0 +1,10 @@
+RobertH.,7
+Stecc,10
+MikeJ.,9
+JohnR,3
+JeffG.,4
+FredM.,5
+SamF.,5
+MikeM.,5
+PeterF.,6
+Chimp,5

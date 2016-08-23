@@ -1,0 +1,3 @@
+fhouse,4
+Longshots,10
+TitaniumDragon,7

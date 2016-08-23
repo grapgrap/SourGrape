@@ -1,0 +1,3 @@
+Mork02,10
+SwitSwat,8
+HedgemonyHogg,10

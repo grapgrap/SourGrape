@@ -1,0 +1,3 @@
+Jacob01,0
+Gene01,1
+Goodbot16,0

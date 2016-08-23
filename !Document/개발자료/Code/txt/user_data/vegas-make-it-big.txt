@@ -1,0 +1,3 @@
+CardCutter420,10
+Lasuac,9
+MangoMantango,0

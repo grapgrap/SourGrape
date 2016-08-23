@@ -1,0 +1,4 @@
+Damage,10
+guslira,9
+Grandao,10
+Anana,10

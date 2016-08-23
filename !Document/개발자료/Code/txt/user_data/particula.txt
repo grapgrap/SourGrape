@@ -1,0 +1,2 @@
+FrostOrb,10
+cserii,10

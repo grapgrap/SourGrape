@@ -1,0 +1,7 @@
+RobertR.,10
+RogerI.,10
+JackL.,3
+JosephR.,7
+MarkW.,0
+JohnF.,6
+MarkC.,10

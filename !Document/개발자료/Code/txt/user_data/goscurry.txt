@@ -1,0 +1,3 @@
+raya2,8
+Tanibus,10
+ThunderGemios10,10

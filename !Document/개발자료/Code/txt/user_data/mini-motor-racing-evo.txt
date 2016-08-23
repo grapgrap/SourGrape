@@ -1,0 +1,10 @@
+fw190a8,3
+AWG,6
+Herbis,3
+TheBestPlayer,9
+paulke,9
+rasLivity,0
+ericcoutinho,6
+Laser_Bones,9
+Lyra,5
+RockStarGamers,6

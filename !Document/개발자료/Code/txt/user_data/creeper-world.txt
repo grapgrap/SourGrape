@@ -1,0 +1,2 @@
+fartheststar,7
+faix,10

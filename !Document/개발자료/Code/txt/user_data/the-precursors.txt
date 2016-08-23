@@ -1,0 +1,4 @@
+spartanlemur,10
+Wesp5,9
+Riva,1
+Amigian,7

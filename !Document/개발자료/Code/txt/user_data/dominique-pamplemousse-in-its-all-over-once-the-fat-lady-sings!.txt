@@ -1,0 +1,2 @@
+DEADdrew,0
+Trigonometric,1

@@ -1,0 +1,4 @@
+BustedFlush,1
+LD9000,6
+Czarny,0
+redkingfox,7

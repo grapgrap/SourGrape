@@ -1,0 +1,12 @@
+Justin,10
+?,1
+MarkusL.,2
+VinnyL.,3
+ChristopherD.,6
+BradG.,4
+IgorT.,10
+Meestyk,4
+SamL.,1
+KajetanP.,2
+HetNet,2
+ugura,0

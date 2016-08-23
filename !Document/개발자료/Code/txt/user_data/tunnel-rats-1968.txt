@@ -1,0 +1,5 @@
+MagNum,0
+YRFN,2
+Mcfellan,10
+MegaDamnAge,0
+stranglehold,8

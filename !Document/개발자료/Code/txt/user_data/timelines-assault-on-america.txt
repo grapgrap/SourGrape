@@ -1,0 +1,4 @@
+mohilaka,10
+jcakes,5
+scorpion2,10
+Coyote1,4

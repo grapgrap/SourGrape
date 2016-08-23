@@ -1,0 +1,3 @@
+wxenomorph,5
+axehero,8
+Shaide,7

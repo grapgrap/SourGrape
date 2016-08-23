@@ -1,0 +1,6 @@
+saffers,8
+Alpha_fish,10
+Exogenesis,0
+Abolla,9
+Jakim,9
+Tohkai,1

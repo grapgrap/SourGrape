@@ -1,0 +1,2 @@
+StellarStoneA,10
+StellarStoneX,10

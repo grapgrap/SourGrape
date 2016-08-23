@@ -1,0 +1,4 @@
+Jotsito,10
+Del-Vey,10
+fix0,10
+FlaseBeliever,0

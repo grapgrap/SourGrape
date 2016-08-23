@@ -1,0 +1,2 @@
+Seryin,8
+MaxHazard,10

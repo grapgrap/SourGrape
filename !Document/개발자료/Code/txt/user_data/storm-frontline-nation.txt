@@ -1,0 +1,2 @@
+NoCoverSaves,8
+iseeall,8

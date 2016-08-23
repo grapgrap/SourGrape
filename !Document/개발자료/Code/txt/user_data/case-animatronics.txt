@@ -1,0 +1,6 @@
+Annucho,10
+Chromephones,9
+RespectedBeggar,10
+WickedSpecialst,9
+HotLawyer,0
+SexyBunnyBoy,10

@@ -1,0 +1,3 @@
+StellarStoneX,10
+StellarStoneA,10
+Giggino,10

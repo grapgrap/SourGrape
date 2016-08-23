@@ -1,0 +1,3 @@
+GolovA,7
+MagicSnake,0
+KreagonPL,6

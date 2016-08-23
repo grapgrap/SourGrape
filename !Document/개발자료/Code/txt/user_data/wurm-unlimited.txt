@@ -1,0 +1,2 @@
+xorith,10
+mithraldragon,0

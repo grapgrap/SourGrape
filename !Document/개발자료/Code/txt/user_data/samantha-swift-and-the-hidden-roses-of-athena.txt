@@ -1,0 +1,3 @@
+LS,10
+NesaD,10
+amayan,6

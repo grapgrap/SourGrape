@@ -1,0 +1,5 @@
+Cuke,6
+hexacetat,1
+Iracundus,0
+Fallenstars,8
+tompytel,6

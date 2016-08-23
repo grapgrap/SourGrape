@@ -1,0 +1,3 @@
+LD9000,6
+SpiderFighter,2
+catateface,2

@@ -1,0 +1,3 @@
+FuzzBallNN,2
+Cynelle,8
+Lazerius,0

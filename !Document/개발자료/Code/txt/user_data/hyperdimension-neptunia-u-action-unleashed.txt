@@ -1,0 +1,2 @@
+Ornetuis,10
+minix2poo,5

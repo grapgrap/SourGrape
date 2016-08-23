@@ -1,0 +1,6 @@
+Finster,8
+Grobi,7
+CroWise,6
+TXing,9
+Pokiki,0
+Athener,7

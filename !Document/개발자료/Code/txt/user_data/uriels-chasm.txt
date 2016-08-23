@@ -1,0 +1,4 @@
+SpiderFighter,8
+AlienElvis,3
+ricardori,0
+sevifc,1

@@ -1,0 +1,4 @@
+Rubicon,10
+FootyDirector,9
+Spiralking,10
+logikstate,10

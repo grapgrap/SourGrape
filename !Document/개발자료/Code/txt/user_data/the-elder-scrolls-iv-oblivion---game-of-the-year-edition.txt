@@ -1,0 +1,4 @@
+DrCola,10
+AlienSpaceBats,8
+BillyBobBeavis,8
+MisterNoodles,8

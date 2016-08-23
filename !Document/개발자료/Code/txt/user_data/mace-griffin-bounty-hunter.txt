@@ -1,0 +1,2 @@
+Vik,8
+NoDraw,4

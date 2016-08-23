@@ -1,0 +1,4 @@
+Evilangel,1
+Guns,10
+Lossy,10
+MultiKiller,10

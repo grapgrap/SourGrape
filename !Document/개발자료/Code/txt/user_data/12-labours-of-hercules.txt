@@ -1,0 +1,4 @@
+pentacle,9
+Ciconia,10
+metam08,10
+funkymayor,10

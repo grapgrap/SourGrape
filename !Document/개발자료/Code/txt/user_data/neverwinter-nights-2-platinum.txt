@@ -1,0 +1,3 @@
+BlueBangkok,10
+EffinCraig,8
+GolovA,7

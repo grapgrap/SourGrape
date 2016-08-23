@@ -1,0 +1,4 @@
+Qourth,8
+TitaniumDragon,0
+Trashware,7
+azeitona,7

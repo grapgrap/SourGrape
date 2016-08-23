@@ -1,0 +1,3 @@
+Papperonni,3
+PoisonHeadcrab,9
+Overrwatcher,4

@@ -1,0 +1,5 @@
+I_Am_Turok,6
+ZombieSlayer200,10
+GodMod99,10
+rqr,0
+runner,7
