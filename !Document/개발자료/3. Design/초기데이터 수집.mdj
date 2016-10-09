@@ -8523,7 +8523,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "GameRateManager",
+													"text": "GameManager",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -9417,9 +9417,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 464,
+											"left": 467,
 											"top": 176,
-											"width": 227.59521484375,
+											"width": 220.365234375,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -9429,7 +9429,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "3 : getGameRateListByUserId(game.id)",
+											"text": "3 : getGameRateListByUserId(user.id)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -10151,7 +10151,7 @@
 							},
 							"visibility": "public",
 							"messageSort": "createMessage",
-							"arguments": "game.id",
+							"arguments": "user.id",
 							"isConcurrentIteration": false
 						},
 						{
@@ -10211,7 +10211,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFXpC2W1j3fmuM="
 							},
-							"name": "GameRateManager",
+							"name": "GameManager",
 							"stereotype": "Controll",
 							"visibility": "public",
 							"represent": {
@@ -10308,11 +10308,11 @@
 											"containerExtending": false,
 											"left": 70.97900390625,
 											"top": 10,
-											"width": 66,
+											"width": 86.2236328125,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "당신의취향",
+											"text": "게임 상세 정보",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -10453,7 +10453,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Interaction4)",
+													"text": "(from Interaction5)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -10652,7 +10652,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Interaction4)",
+													"text": "(from Interaction5)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -10851,7 +10851,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Interaction4)",
+													"text": "(from Interaction5)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -11050,7 +11050,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Interaction4)",
+													"text": "(from Interaction5)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -11919,7 +11919,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Interaction4)",
+													"text": "(from Interaction5)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -12787,6 +12787,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
@@ -12804,6 +12805,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
@@ -12821,6 +12823,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
@@ -12876,6 +12879,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
